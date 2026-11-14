@@ -69,7 +69,7 @@ Works without a preview image are in a table under the pictures of their section
 
 ## Community
 
-The community channels of Terrarium are not open yet. This section will link to each channel when it opens. Until then, open an issue in this repository for questions and suggestions.
+Terrarium is a non-commercial open-source community. Its channels are not open yet, and this section will link to each channel when it opens. Until then, open an issue in this repository for questions and suggestions.
 
 <p>
 <img src="https://img.shields.io/badge/Discord-coming%20soon-6e7681?labelColor=30363d&amp;logo=discord&amp;logoColor=white" height="22" alt="Discord: coming soon">

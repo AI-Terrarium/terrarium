@@ -69,7 +69,7 @@ Terrarium 列出主要用代码生成的 3D 作品：游戏、场景、工具、
 
 ## 社区
 
-Terrarium 的社区渠道还没有开放。渠道开放以后，这一节给出链接。在此之前，问题和建议请在这个仓库提交 issue。
+Terrarium 是非商业的开源社区。社区渠道还没有开放，开放以后这一节给出链接。在此之前，问题和建议请在这个仓库提交 issue。
 
 <p>
 <img src="https://img.shields.io/badge/Discord-%E5%8D%B3%E5%B0%86%E5%BC%80%E6%94%BE-6e7681?labelColor=30363d&amp;logo=discord&amp;logoColor=white" height="22" alt="Discord：即将开放">
