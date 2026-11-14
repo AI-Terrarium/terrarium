@@ -1,6 +1,6 @@
 # Tools
 
-<a href="../README.md">Awesome 3D Made with Code</a> · English · <a href="README.zh-CN.md">简体中文</a>
+<a href="../README.md">Terrarium</a> · English · <a href="README.zh-CN.md">简体中文</a>
 
 53 entries. Small apps that do one task in 3D.
 
@@ -89,4 +89,4 @@ Works without a preview image:
 <tr><td><a href="https://github.com/harukaappscreate/Voxel-Lab">Voxel-Lab 🧊✨</a></td><td><a href="https://github.com/harukaappscreate">haruka_apps</a></td><td>MIT</td><td><a href="https://github.com/harukaappscreate/Voxel-Lab">Code</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/tools/voxel-lab">Files</a></td></tr>
 </table>
 
-<a href="../README.md">Awesome 3D Made with Code</a> · [Back to the top](#tools)
+<a href="../README.md">Terrarium</a> · [Back to the top](#tools)

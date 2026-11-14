@@ -1,6 +1,6 @@
 # 可视化
 
-<a href="../README.zh-CN.md">Awesome 3D Made with Code</a> · <a href="README.md">English</a> · 简体中文
+<a href="../README.zh-CN.md">Terrarium</a> · <a href="README.md">English</a> · 简体中文
 
 33 个条目。用 3D 画面展示数据、科学知识或一个过程的作品。
 
@@ -61,4 +61,4 @@
 <tr><td><a href="https://huggingface.co/spaces/nc8304/voxel-stitch">voxel_stitch — Chizimi fold simulator</a></td><td><a href="https://huggingface.co/nc8304">Nicole</a></td><td>MIT</td><td><a href="https://huggingface.co/spaces/nc8304/voxel-stitch">代码</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/visualizations/voxel-stitch-chizimi-fold-simulator">文件</a></td></tr>
 </table>
 
-<a href="../README.zh-CN.md">Awesome 3D Made with Code</a> · [回到页首](#可视化)
+<a href="../README.zh-CN.md">Terrarium</a> · [回到页首](#可视化)

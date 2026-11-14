@@ -1,6 +1,6 @@
 # 游戏
 
-<a href="../README.zh-CN.md">Awesome 3D Made with Code</a> · <a href="README.md">English</a> · 简体中文
+<a href="../README.zh-CN.md">Terrarium</a> · <a href="README.md">English</a> · 简体中文
 
 228 个条目。玩家可以玩的作品，有目标、规则或分数。
 
@@ -506,4 +506,4 @@
 <tr><td><a href="https://github.com/cucarol/moyu">moyu</a> · 合集，3 个作品</td><td><a href="https://github.com/cucarol">cuca</a></td><td>MIT</td><td><a href="https://github.com/cucarol/moyu">代码</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/moyu">文件</a></td></tr>
 </table>
 
-<a href="../README.zh-CN.md">Awesome 3D Made with Code</a> · [回到页首](#游戏)
+<a href="../README.zh-CN.md">Terrarium</a> · [回到页首](#游戏)

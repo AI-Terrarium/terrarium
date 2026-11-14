@@ -1,6 +1,6 @@
 # Games
 
-<a href="../README.md">Awesome 3D Made with Code</a> · English · <a href="README.zh-CN.md">简体中文</a>
+<a href="../README.md">Terrarium</a> · English · <a href="README.zh-CN.md">简体中文</a>
 
 228 entries. Works that a player plays, with a goal, rules or a score.
 
@@ -506,4 +506,4 @@ Works without a preview image:
 <tr><td><a href="https://github.com/cucarol/moyu">moyu</a> · Collection of 3 works</td><td><a href="https://github.com/cucarol">cuca</a></td><td>MIT</td><td><a href="https://github.com/cucarol/moyu">Code</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/moyu">Files</a></td></tr>
 </table>
 
-<a href="../README.md">Awesome 3D Made with Code</a> · [Back to the top](#games)
+<a href="../README.md">Terrarium</a> · [Back to the top](#games)

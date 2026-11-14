@@ -1,8 +1,10 @@
-<p align="center"><img src="assets/banner.webp" width="100%" alt="Screenshots of nine works of the list"></p>
+<p align="center"><img src="assets/banner.webp" width="100%" alt="Screenshots of nine works of Terrarium"></p>
 
-<h1 align="center">Awesome 3D Made with Code</h1>
+<h1 align="center">Terrarium</h1>
 
-<p align="center">3D games, scenes, tools and videos that are made mainly with code.<br>The list of <b>Terrarium: Open 3D Worlds Made with Code</b>.</p>
+<p align="center"><b>Open 3D Worlds Made with Code</b></p>
+
+<p align="center">Terrarium is a non-commercial open-source community that collects 3D works generated mainly by code: interactive scenes, games and videos.<br>This repository lists every work with its source, its creator, its license and its files.</p>
 
 <p align="center">English · <a href="README.zh-CN.md">简体中文</a></p>
 
@@ -58,4 +60,4 @@ To add a work or to correct an entry, open an issue in this repository. Give the
 
 ## License
 
-The works belong to their creators, and each work keeps its own license. The pictures are screenshots of the works. The text of this list is released under CC0 1.0. Data of 2026-11-14.
+The works belong to their creators, and each work keeps its own license. The pictures are screenshots of the works. The text of these pages is released under CC0 1.0. Data of 2026-11-14.

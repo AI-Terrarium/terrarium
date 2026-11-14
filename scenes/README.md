@@ -1,6 +1,6 @@
 # Scenes
 
-<a href="../README.md">Awesome 3D Made with Code</a> · English · <a href="README.zh-CN.md">简体中文</a>
+<a href="../README.md">Terrarium</a> · English · <a href="README.zh-CN.md">简体中文</a>
 
 109 entries. 3D places and objects to look at or move through.
 
@@ -169,4 +169,4 @@ Works without a preview image:
 <tr><td><a href="https://github.com/NineTigers/quiet-forge-codex-astra">불과 쇠 — The quiet forge</a></td><td><a href="https://github.com/NineTigers">Yin-Goo Yim</a></td><td>MIT</td><td><a href="https://github.com/NineTigers/quiet-forge-codex-astra">Code</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/scenes/the-quiet-forge">Files</a></td></tr>
 </table>
 
-<a href="../README.md">Awesome 3D Made with Code</a> · [Back to the top](#scenes)
+<a href="../README.md">Terrarium</a> · [Back to the top](#scenes)

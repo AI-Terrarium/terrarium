@@ -1,8 +1,10 @@
-<p align="center"><img src="assets/banner.webp" width="100%" alt="列表中九个作品的截图"></p>
+<p align="center"><img src="assets/banner.webp" width="100%" alt="Terrarium 九个作品的截图"></p>
 
-<h1 align="center">Awesome 3D Made with Code</h1>
+<h1 align="center">Terrarium</h1>
 
-<p align="center">主要用代码制作的 3D 游戏、场景、工具和视频。<br><b>Terrarium: Open 3D Worlds Made with Code</b> 的作品列表。</p>
+<p align="center"><b>Open 3D Worlds Made with Code</b></p>
+
+<p align="center">Terrarium 是非商业的开源社区，收录主要用代码生成的 3D 作品，包括交互场景、游戏和视频。<br>本仓库列出每个作品的来源、作者、许可证和文件。</p>
 
 <p align="center"><a href="README.md">English</a> · 简体中文</p>
 
@@ -58,4 +60,4 @@
 
 ## 许可证
 
-作品属于各自的作者，每个作品使用自己的许可证。图片是作品的截图。本列表的文字按 CC0 1.0 发布。 数据日期：2026-11-14。
+作品属于各自的作者，每个作品使用自己的许可证。图片是作品的截图。这些页面的文字按 CC0 1.0 发布。 数据日期：2026-11-14。

@@ -1,6 +1,6 @@
 # 场景
 
-<a href="../README.zh-CN.md">Awesome 3D Made with Code</a> · <a href="README.md">English</a> · 简体中文
+<a href="../README.zh-CN.md">Terrarium</a> · <a href="README.md">English</a> · 简体中文
 
 109 个条目。可以观看或在其中移动的 3D 场所和物体。
 
@@ -169,4 +169,4 @@
 <tr><td><a href="https://github.com/NineTigers/quiet-forge-codex-astra">불과 쇠 — The quiet forge</a></td><td><a href="https://github.com/NineTigers">Yin-Goo Yim</a></td><td>MIT</td><td><a href="https://github.com/NineTigers/quiet-forge-codex-astra">代码</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/scenes/the-quiet-forge">文件</a></td></tr>
 </table>
 
-<a href="../README.zh-CN.md">Awesome 3D Made with Code</a> · [回到页首](#场景)
+<a href="../README.zh-CN.md">Terrarium</a> · [回到页首](#场景)

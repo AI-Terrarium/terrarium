@@ -1,6 +1,6 @@
 # Videos
 
-<a href="../README.md">Awesome 3D Made with Code</a> · English · <a href="README.zh-CN.md">简体中文</a>
+<a href="../README.md">Terrarium</a> · English · <a href="README.zh-CN.md">简体中文</a>
 
 17 entries. Works whose main content is one video, including videos rendered by code.
 
@@ -41,4 +41,4 @@ Works without a preview image:
 <tr><td><a href="https://github.com/pj4533/pnn">PNN: Pre News Network</a></td><td><a href="https://github.com/pj4533">PJ Gray</a></td><td>MIT</td><td><a href="https://github.com/pj4533/pnn">Code</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/videos/pnn-pre-news-network">Files</a></td></tr>
 </table>
 
-<a href="../README.md">Awesome 3D Made with Code</a> · [Back to the top](#videos)
+<a href="../README.md">Terrarium</a> · [Back to the top](#videos)

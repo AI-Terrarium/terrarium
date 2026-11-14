@@ -1,6 +1,6 @@
 # Wallpapers
 
-<a href="../README.md">Awesome 3D Made with Code</a> · English · <a href="README.zh-CN.md">简体中文</a>
+<a href="../README.md">Terrarium</a> · English · <a href="README.zh-CN.md">简体中文</a>
 
 3 entries. Moving backgrounds for a screen.
 
@@ -20,4 +20,4 @@ Works without a preview image:
 <tr><td><a href="https://biswajitdasb4-oss.github.io/prompt-paws/">Prompt Paws</a></td><td><a href="https://github.com/biswajitdasb4-oss">biswajitdasb4-oss</a></td><td>MIT</td><td><a href="https://github.com/biswajitdasb4-oss/prompt-paws">Code</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/wallpapers/prompt-paws">Files</a></td></tr>
 </table>
 
-<a href="../README.md">Awesome 3D Made with Code</a> · [Back to the top](#wallpapers)
+<a href="../README.md">Terrarium</a> · [Back to the top](#wallpapers)

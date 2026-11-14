@@ -1,6 +1,6 @@
 # Visualizations
 
-<a href="../README.md">Awesome 3D Made with Code</a> · English · <a href="README.zh-CN.md">简体中文</a>
+<a href="../README.md">Terrarium</a> · English · <a href="README.zh-CN.md">简体中文</a>
 
 33 entries. Works that show data, science or a process in 3D.
 
@@ -61,4 +61,4 @@ Works without a preview image:
 <tr><td><a href="https://huggingface.co/spaces/nc8304/voxel-stitch">voxel_stitch — Chizimi fold simulator</a></td><td><a href="https://huggingface.co/nc8304">Nicole</a></td><td>MIT</td><td><a href="https://huggingface.co/spaces/nc8304/voxel-stitch">Code</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/visualizations/voxel-stitch-chizimi-fold-simulator">Files</a></td></tr>
 </table>
 
-<a href="../README.md">Awesome 3D Made with Code</a> · [Back to the top](#visualizations)
+<a href="../README.md">Terrarium</a> · [Back to the top](#visualizations)

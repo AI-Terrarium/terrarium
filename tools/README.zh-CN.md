@@ -1,6 +1,6 @@
 # 工具
 
-<a href="../README.zh-CN.md">Awesome 3D Made with Code</a> · <a href="README.md">English</a> · 简体中文
+<a href="../README.zh-CN.md">Terrarium</a> · <a href="README.md">English</a> · 简体中文
 
 53 个条目。用 3D 画面完成一项任务的小应用。
 
@@ -89,4 +89,4 @@
 <tr><td><a href="https://github.com/harukaappscreate/Voxel-Lab">Voxel-Lab 🧊✨</a></td><td><a href="https://github.com/harukaappscreate">haruka_apps</a></td><td>MIT</td><td><a href="https://github.com/harukaappscreate/Voxel-Lab">代码</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/tools/voxel-lab">文件</a></td></tr>
 </table>
 
-<a href="../README.zh-CN.md">Awesome 3D Made with Code</a> · [回到页首](#工具)
+<a href="../README.zh-CN.md">Terrarium</a> · [回到页首](#工具)

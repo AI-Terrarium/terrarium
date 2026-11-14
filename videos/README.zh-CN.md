@@ -1,6 +1,6 @@
 # 视频
 
-<a href="../README.zh-CN.md">Awesome 3D Made with Code</a> · <a href="README.md">English</a> · 简体中文
+<a href="../README.zh-CN.md">Terrarium</a> · <a href="README.md">English</a> · 简体中文
 
 17 个条目。主要内容是一段视频的作品，包括用代码渲染的视频。
 
@@ -41,4 +41,4 @@
 <tr><td><a href="https://github.com/pj4533/pnn">PNN: Pre News Network</a></td><td><a href="https://github.com/pj4533">PJ Gray</a></td><td>MIT</td><td><a href="https://github.com/pj4533/pnn">代码</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/videos/pnn-pre-news-network">文件</a></td></tr>
 </table>
 
-<a href="../README.zh-CN.md">Awesome 3D Made with Code</a> · [回到页首](#视频)
+<a href="../README.zh-CN.md">Terrarium</a> · [回到页首](#视频)
