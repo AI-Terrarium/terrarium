@@ -56,7 +56,7 @@ A link can stop working when a creator moves or removes a work.
 
 ## Add or correct a work
 
-To add a work or to correct an entry, open an issue in this repository. Give the link to the work and the link to its code. The pages are generated from the data of Terrarium, so changes are made in that data and not in these files.
+To add a work, to correct an entry or to have an entry removed, open an issue in this repository. Give the link to the work and the link to its code. The pages are generated from the data of Terrarium, so changes are made in that data and not in these files.
 
 ## License
 
