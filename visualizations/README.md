@@ -13,7 +13,7 @@
 
 <h1 align="center">Visualizations</h1>
 
-<p align="center">33 entries. Works that show data, science or a process in 3D.</p>
+<p align="center">33 entries. Works that show data, science or a process in 3D, such as the solar system, sorting algorithms and earthquake records.</p>
 
 <table>
 <tr>

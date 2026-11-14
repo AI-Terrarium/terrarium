@@ -13,7 +13,7 @@
 
 <h1 align="center">Scenes</h1>
 
-<p align="center">109 entries. 3D places and objects to look at or move through.</p>
+<p align="center">109 entries. 3D places and objects to look at or walk through, such as a castle, a highway, a planet and an aquarium.</p>
 
 <table>
 <tr>

@@ -13,7 +13,7 @@
 
 <h1 align="center">Wallpapers</h1>
 
-<p align="center">3 entries. Moving backgrounds for a screen.</p>
+<p align="center">3 entries. Moving 3D pictures for the desktop, such as screensavers and desktop pets.</p>
 
 <table>
 <tr>

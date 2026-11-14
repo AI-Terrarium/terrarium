@@ -13,7 +13,7 @@
 
 <h1 align="center">壁纸</h1>
 
-<p align="center">3 个条目。用作屏幕背景的动态画面。</p>
+<p align="center">3 个条目。放在桌面上的动态 3D 画面，例如屏幕保护程序和桌面宠物。</p>
 
 <table>
 <tr>

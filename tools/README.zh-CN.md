@@ -13,7 +13,7 @@
 
 <h1 align="center">工具</h1>
 
-<p align="center">53 个条目。用 3D 画面完成一项任务的小应用。</p>
+<p align="center">53 个条目。用 3D 画面做一件具体事情的小应用，例如查看户型、求解魔方和计时。</p>
 
 <table>
 <tr>

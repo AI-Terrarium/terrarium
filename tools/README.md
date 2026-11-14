@@ -13,7 +13,7 @@
 
 <h1 align="center">Tools</h1>
 
-<p align="center">53 entries. Small apps that do one task in 3D.</p>
+<p align="center">53 entries. Small apps that do one job in 3D, such as viewing a floor plan, solving a Rubik&#x27;s cube or keeping time.</p>
 
 <table>
 <tr>

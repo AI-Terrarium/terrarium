@@ -13,7 +13,7 @@
 
 <h1 align="center">Games</h1>
 
-<p align="center">228 entries. Works that a player plays, with a goal, rules or a score.</p>
+<p align="center">228 entries. 3D games with a goal, rules or a score, grouped by gameplay: shooters, racing, flight, puzzles and more.</p>
 
 <p align="center"><a href="#shooter">Shooter</a> 46 · <a href="#action-and-combat">Action and combat</a> 20 · <a href="#platformer-and-runner">Platformer and runner</a> 9 · <a href="#racing-and-driving">Racing and driving</a> 35 · <a href="#flight">Flight</a> 14 · <a href="#sports">Sports</a> 11 · <a href="#adventure-and-exploration">Adventure and exploration</a> 27 · <a href="#puzzle">Puzzle</a> 10 · <a href="#strategy-and-management">Strategy and management</a> 20 · <a href="#sandbox">Sandbox</a> 6 · <a href="#casual-and-arcade">Casual and arcade</a> 19 · <a href="#interactive-story">Interactive story</a> 2 · <a href="#simulation-and-visualization">Simulation and visualization</a> 1 · <a href="#other-games">Other games</a> 8</p>
 

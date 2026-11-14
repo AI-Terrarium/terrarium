@@ -13,7 +13,7 @@
 
 <h1 align="center">Videos</h1>
 
-<p align="center">17 entries. Works whose main content is one video, including videos rendered by code.</p>
+<p align="center">17 entries. Works whose main content is one video, such as a short film rendered by code.</p>
 
 <table>
 <tr>

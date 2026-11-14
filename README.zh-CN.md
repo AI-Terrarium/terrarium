@@ -13,22 +13,22 @@
 
 <p align="center"><img src="assets/banner.webp" width="100%" alt="Terrarium 九个作品的截图"></p>
 
-<p align="center">Terrarium 是非商业的开源社区，收录主要用代码生成的 3D 作品，包括交互场景、游戏和视频。<br>本仓库列出每个作品的来源、作者、许可证和文件。</p>
+Terrarium 列出主要用代码生成的 3D 作品：游戏、场景、工具、可视化、视频和壁纸。413 个作品里有 346 个用 Three.js 写成。点图片打开作者发布作品的页面，多数页面是直接在浏览器里运行的作品。每个条目写明作者、许可证和代码的位置。
 
-<p align="center">条目 <b>443</b> · 代码公开 <b>389</b> · 有开源许可证 <b>321</b></p>
+共 <b>443</b> 个条目：<b>413</b> 个作品和 <b>30</b> 个合集，出自 <b>324</b> 位作者。<b>389</b> 个条目代码公开，<b>321</b> 个条目有开源许可证。
 
 ## 类别
 
 <table>
 <tr>
-<td width="33.33%" valign="top"><a href="games/README.zh-CN.md"><img src="assets/thumbs/orb-shooter-fps-demo-vibe-coded.webp" width="100%" alt="游戏"></a><br><b><a href="games/README.zh-CN.md">游戏</a></b> · 228 个条目<br><sub>玩家可以玩的作品，有目标、规则或分数。</sub></td>
-<td width="33.33%" valign="top"><a href="videos/README.zh-CN.md"><img src="assets/thumbs/path-traced-voxel-creature.webp" width="100%" alt="视频"></a><br><b><a href="videos/README.zh-CN.md">视频</a></b> · 17 个条目<br><sub>主要内容是一段视频的作品，包括用代码渲染的视频。</sub></td>
-<td width="33.33%" valign="top"><a href="scenes/README.zh-CN.md"><img src="assets/thumbs/emberfall-forge.webp" width="100%" alt="场景"></a><br><b><a href="scenes/README.zh-CN.md">场景</a></b> · 109 个条目<br><sub>可以观看或在其中移动的 3D 场所和物体。</sub></td>
+<td width="33.33%" valign="top"><a href="games/README.zh-CN.md"><img src="assets/thumbs/orb-shooter-fps-demo-vibe-coded.webp" width="100%" alt="游戏"></a><br><b><a href="games/README.zh-CN.md">游戏</a></b> · 228 个条目<br><sub>有目标、规则或分数的 3D 游戏，按玩法分小节：射击、竞速、飞行、解谜等。</sub></td>
+<td width="33.33%" valign="top"><a href="videos/README.zh-CN.md"><img src="assets/thumbs/path-traced-voxel-creature.webp" width="100%" alt="视频"></a><br><b><a href="videos/README.zh-CN.md">视频</a></b> · 17 个条目<br><sub>主要内容是一段视频的作品，例如用代码渲染的短片。</sub></td>
+<td width="33.33%" valign="top"><a href="scenes/README.zh-CN.md"><img src="assets/thumbs/emberfall-forge.webp" width="100%" alt="场景"></a><br><b><a href="scenes/README.zh-CN.md">场景</a></b> · 109 个条目<br><sub>可以观看或在里面走动的 3D 场所和物体，例如城堡、公路、星球和水族箱。</sub></td>
 </tr>
 <tr>
-<td width="33.33%" valign="top"><a href="wallpapers/README.zh-CN.md"><img src="assets/thumbs/claude-pet.webp" width="100%" alt="壁纸"></a><br><b><a href="wallpapers/README.zh-CN.md">壁纸</a></b> · 3 个条目<br><sub>用作屏幕背景的动态画面。</sub></td>
-<td width="33.33%" valign="top"><a href="tools/README.zh-CN.md"><img src="assets/thumbs/mgco2-v6-compression-engine-interactive-3d-viewer.webp" width="100%" alt="工具"></a><br><b><a href="tools/README.zh-CN.md">工具</a></b> · 53 个条目<br><sub>用 3D 画面完成一项任务的小应用。</sub></td>
-<td width="33.33%" valign="top"><a href="visualizations/README.zh-CN.md"><img src="assets/thumbs/entomia-3d-micro-morphology.webp" width="100%" alt="可视化"></a><br><b><a href="visualizations/README.zh-CN.md">可视化</a></b> · 33 个条目<br><sub>用 3D 画面展示数据、科学知识或一个过程的作品。</sub></td>
+<td width="33.33%" valign="top"><a href="wallpapers/README.zh-CN.md"><img src="assets/thumbs/claude-pet.webp" width="100%" alt="壁纸"></a><br><b><a href="wallpapers/README.zh-CN.md">壁纸</a></b> · 3 个条目<br><sub>放在桌面上的动态 3D 画面，例如屏幕保护程序和桌面宠物。</sub></td>
+<td width="33.33%" valign="top"><a href="tools/README.zh-CN.md"><img src="assets/thumbs/mgco2-v6-compression-engine-interactive-3d-viewer.webp" width="100%" alt="工具"></a><br><b><a href="tools/README.zh-CN.md">工具</a></b> · 53 个条目<br><sub>用 3D 画面做一件具体事情的小应用，例如查看户型、求解魔方和计时。</sub></td>
+<td width="33.33%" valign="top"><a href="visualizations/README.zh-CN.md"><img src="assets/thumbs/entomia-3d-micro-morphology.webp" width="100%" alt="可视化"></a><br><b><a href="visualizations/README.zh-CN.md">可视化</a></b> · 33 个条目<br><sub>用 3D 画面展示数据、科学知识或一个过程的作品，例如太阳系、排序算法和地震记录。</sub></td>
 </tr>
 </table>
 
@@ -49,21 +49,27 @@
 </tr>
 </table>
 
-## 条目里的信息
+## 每个条目有什么
 
-- 图片和名称的链接打开作者发布作品的页面。
-- 名称下面的名字链接到作者的一个账号。名字没有链接时，账号未知。
-- 最后一行的开头是作者给作品的许可证。「许可证未知」表示没有找到许可证，复用代码之前需要先问作者。
-- <b>代码</b>打开公开的源代码。条目没有这个链接时，代码未公开。
-- <b>文件</b>打开作品在 Hugging Face 数据集 <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works">awesome-fable-5-2/terrarium-open-works</a> 里的文件夹。数据集保存有开源许可证的作品的文件。
-- 「合集」表示同一位作者的一个仓库或页面，里面有多个作品。
-- 没有预览图的作品列在所属小节图片下面的表格里，链接相同。
+- <b>图片和名称</b>打开作者发布作品的页面。
+- <b>作者</b>的名字链接到作者的账号。没有找到账号时，名字不带链接。
+- <b>许可证</b>是作者给作品的许可证。没有找到许可证时，条目写「许可证未知」，复用代码之前需要先问作者。
+- <b>代码</b>打开公开的源代码。没有这个链接的条目，代码没有公开。
+- <b>文件</b>打开这个作品在 Hugging Face 数据集 <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works">awesome-fable-5-2/terrarium-open-works</a> 里的文件夹。有开源许可证的作品才有这个链接。
+- <b>合集</b>是同一位作者放在一个仓库或一个页面里的一组作品，条目写明作品的数量。
 
-作者移动或删除作品以后，链接可能失效。
+没有预览图的作品列在各小节图片下面的表格里。作者移动或删除作品以后，链接可能失效。
+
+## 列表怎样做成
+
+- <b>来源。</b>作品来自 GitHub、Hugging Face Spaces、itch.io、X、Bilibili 等处，出自 324 位作者。
+- <b>检查。</b>每个作品在收录前经过检查：能不能运行，主要内容是不是 3D 画面，代码和许可证在哪里，文件里有没有恶意程序。
+- <b>副本。</b>有开源许可证的 321 个条目，文件另存在 Hugging Face 数据集 <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works">awesome-fable-5-2/terrarium-open-works</a> 里。每个作品一个文件夹，文件夹里有作者的许可证文件。
+- <b>更新。</b>这些页面由程序从 Terrarium 的数据生成，数据日期写在页脚。
 
 ## 社区
 
-Terrarium 的社区渠道还没有开放。渠道开放以后，这一节给出链接。
+Terrarium 的社区渠道还没有开放。渠道开放以后，这一节给出链接。在此之前，问题和建议请在这个仓库提交 issue。
 
 <p>
 <img src="https://img.shields.io/badge/Discord-%E5%8D%B3%E5%B0%86%E5%BC%80%E6%94%BE-6e7681?labelColor=30363d&amp;logo=discord&amp;logoColor=white" height="22" alt="Discord：即将开放">
@@ -72,13 +78,13 @@ Terrarium 的社区渠道还没有开放。渠道开放以后，这一节给出�
 <img src="https://img.shields.io/badge/Bilibili-%E5%8D%B3%E5%B0%86%E5%BC%80%E6%94%BE-6e7681?labelColor=30363d&amp;logo=bilibili&amp;logoColor=white" height="22" alt="Bilibili：即将开放">
 </p>
 
-## 增加或更正作品
+## 增加、更正或删除条目
 
-要增加作品、更正条目或删除条目，请在这个仓库里提交 issue，并写明作品链接和代码链接。这些页面由 Terrarium 的数据生成，所以修改在数据里进行，不在这些文件里进行。
+要增加作品、更正条目或删除条目，请在这个仓库提交 issue，写明作品的链接；增加作品时再写明代码的链接。这些页面由程序生成，直接修改这些文件的内容会在下一次生成时被覆盖。
 
 ## 许可证
 
-作品属于各自的作者，每个作品使用自己的许可证。图片是作品的截图。这些页面的文字按 CC0 1.0 发布。
+作品属于各自的作者。每个作品使用自己的许可证，许可证写在条目里。图片是作品的截图。这些页面的文字按 CC0 1.0 发布。
 
 ---
 
