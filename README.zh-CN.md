@@ -6,7 +6,7 @@
 
 Terrarium 是非商业的开源社区，收录主要用代码生成的 3D 作品，包括交互场景、游戏和视频。本列表给出每个作品的来源、作者、许可证和文件。
 
-**条目：443** · **代码公开：389** · **有开源许可证：320** · 数据日期：2026-11-14
+**条目：443** · **代码公开：389** · **有开源许可证：321** · 数据日期：2026-11-14
 
 [游戏](#游戏) · [视频](#视频) · [场景](#场景) · [壁纸](#壁纸) · [工具](#工具) · [可视化](#可视化) · [怎样读这个列表](#怎样读这个列表)
 
@@ -405,7 +405,7 @@ Terrarium 是非商业的开源社区，收录主要用代码生成的 3D 作品
 | [Interactive 3D Fireworks & Festive Light Engine](https://github.com/AnonymousUser1331/Fireworks) · 合集，3 个作品 | [AnonymousUser1331](https://github.com/AnonymousUser1331) | MIT | [代码](https://github.com/AnonymousUser1331/Fireworks) | [文件](https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/scenes/interactive-3d-fireworks-festive-light-engine) |
 | [Jerusalem at Passover](https://fable-jerusalem.vercel.app/) | Katie Parrott | 未知 | [代码](https://fable-jerusalem.vercel.app/) | — |
 | [Karakoram Highway](https://karakoram-highway.vercel.app/) | Umair | 未知 | [代码](https://karakoram-highway.vercel.app/) | — |
-| [KIN — Living Worlds, Crossing Screens](https://mutaafaziz.com/kin/) | [Mutaaf Aziz](https://github.com/mutaaf) | MIT | [代码](https://github.com/mutaaf/kin) | — |
+| [KIN — Living Worlds, Crossing Screens](https://mutaafaziz.com/kin/) | [Mutaaf Aziz](https://github.com/mutaaf) | MIT | [代码](https://github.com/mutaaf/kin) | [文件](https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/scenes/kin-living-worlds-crossing-screens) |
 | [Lever Escapement — 3D Mechanical Clock Simulation](https://kelaiem.github.io/timesim/) | [kelaiem](https://github.com/kelaiem) | Apache-2.0 | [代码](https://github.com/kelaiem/timesim) | [文件](https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/scenes/lever-escapement-3d-mechanical-clock-simulation) |
 | [Matrix](https://matrix-vibe.whoopscope.workers.dev/) | [Tornike Gomareli](https://github.com/tornikegomareli) | 未知 | [代码](https://github.com/tornikegomareli/Matrix) | — |
 | [Minecraft-style floating islands](https://x.com/PorisRora/status/2120017467812778053) | [PorisRora](https://x.com/PorisRora) | 未知 | — | — |
@@ -422,7 +422,7 @@ Terrarium 是非商业的开源社区，收录主要用代码生成的 3D 作品
 | [Par Avion: The Journey of One Letter](https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/064-par-avion.txt) | [MiaAI-Lab collection; individual creator unknown](https://github.com/MiaAI-Lab) | 未知 | [代码](https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/064-par-avion.html) | — |
 | [Pelecanus](https://github.com/niaonao/pelecanus) · 合集，21 个作品 | [niaonao](https://github.com/niaonao) | Apache-2.0 | [代码](https://github.com/niaonao/pelecanus) | [文件](https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/scenes/pelecanus) |
 | [Pinscreen](https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/051-pinscreen.txt) | [MiaAI-Lab collection; individual creator unknown](https://github.com/MiaAI-Lab) | 未知 | [代码](https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/051-pinscreen.html) | — |
-| [Portals](https://portals-endless-worlds.netlify.app/) | [Ethan Mollick](https://github.com/emollick) | CC BY-NC-SA 4.0 | [代码](https://github.com/emollick/ai-portals) | — |
+| [Portals](https://portals-endless-worlds.netlify.app/) | [Ethan Mollick](https://github.com/emollick) | CC BY-NC-SA 4.0 | [代码](https://github.com/emollick/ai-portals) | [文件](https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/scenes/portals) |
 | [Qingming: Rainbow Bridge](https://www.aivi.fyi/games/qingming.html) | AI超元域 | 未知 | [代码](https://www.aivi.fyi/games/qingming.html) | — |
 | [Rainy Dock Materials](https://wquguru.github.io/fable52-fps-repro/demos/02-materials/) | [wquguru](https://github.com/wquguru) | MIT | [代码](https://github.com/wquguru/fable52-fps-repro/blob/main/demos/02-materials/index.html) | [文件](https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/scenes/rainy-dock-materials) |
 | [ROADSTER · The Flight Experience](https://yinchao-jack.github.io/roadster-flight-experience/) | [YC Jack](https://github.com/yinchao-jack) | MIT | [代码](https://github.com/yinchao-jack/roadster-flight-experience) | [文件](https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/scenes/roadster-the-flight-experience) |

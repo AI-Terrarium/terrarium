@@ -6,7 +6,7 @@ The works of **Terrarium: Open 3D Worlds Made with Code**.
 
 Terrarium is a non-commercial open-source community that collects 3D works generated mainly by code: interactive scenes, games and videos. This list gives the source, the creator, the license and the files of every work.
 
-**443 entries** · **389 with public code** · **320 with an open-source license** · data of 2026-11-14
+**443 entries** · **389 with public code** · **321 with an open-source license** · data of 2026-11-14
 
 [Games](#games) · [Videos](#videos) · [Scenes](#scenes) · [Wallpapers](#wallpapers) · [Tools](#tools) · [Visualizations](#visualizations) · [How to read the list](#how-to-read-the-list)
 
@@ -405,7 +405,7 @@ A link can stop working when a creator moves or removes a work.
 | [Interactive 3D Fireworks & Festive Light Engine](https://github.com/AnonymousUser1331/Fireworks) · collection, 3 works | [AnonymousUser1331](https://github.com/AnonymousUser1331) | MIT | [code](https://github.com/AnonymousUser1331/Fireworks) | [files](https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/scenes/interactive-3d-fireworks-festive-light-engine) |
 | [Jerusalem at Passover](https://fable-jerusalem.vercel.app/) | Katie Parrott | Unknown | [code](https://fable-jerusalem.vercel.app/) | — |
 | [Karakoram Highway](https://karakoram-highway.vercel.app/) | Umair | Unknown | [code](https://karakoram-highway.vercel.app/) | — |
-| [KIN — Living Worlds, Crossing Screens](https://mutaafaziz.com/kin/) | [Mutaaf Aziz](https://github.com/mutaaf) | MIT | [code](https://github.com/mutaaf/kin) | — |
+| [KIN — Living Worlds, Crossing Screens](https://mutaafaziz.com/kin/) | [Mutaaf Aziz](https://github.com/mutaaf) | MIT | [code](https://github.com/mutaaf/kin) | [files](https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/scenes/kin-living-worlds-crossing-screens) |
 | [Lever Escapement — 3D Mechanical Clock Simulation](https://kelaiem.github.io/timesim/) | [kelaiem](https://github.com/kelaiem) | Apache-2.0 | [code](https://github.com/kelaiem/timesim) | [files](https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/scenes/lever-escapement-3d-mechanical-clock-simulation) |
 | [Matrix](https://matrix-vibe.whoopscope.workers.dev/) | [Tornike Gomareli](https://github.com/tornikegomareli) | Unknown | [code](https://github.com/tornikegomareli/Matrix) | — |
 | [Minecraft-style floating islands](https://x.com/PorisRora/status/2120017467812778053) | [PorisRora](https://x.com/PorisRora) | Unknown | — | — |
@@ -422,7 +422,7 @@ A link can stop working when a creator moves or removes a work.
 | [Par Avion: The Journey of One Letter](https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/064-par-avion.txt) | [MiaAI-Lab collection; individual creator unknown](https://github.com/MiaAI-Lab) | Unknown | [code](https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/064-par-avion.html) | — |
 | [Pelecanus](https://github.com/niaonao/pelecanus) · collection, 21 works | [niaonao](https://github.com/niaonao) | Apache-2.0 | [code](https://github.com/niaonao/pelecanus) | [files](https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/scenes/pelecanus) |
 | [Pinscreen](https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/051-pinscreen.txt) | [MiaAI-Lab collection; individual creator unknown](https://github.com/MiaAI-Lab) | Unknown | [code](https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files/blob/369dae7fe4102988676f07f147c4bbaefee3ff3a/051-pinscreen.html) | — |
-| [Portals](https://portals-endless-worlds.netlify.app/) | [Ethan Mollick](https://github.com/emollick) | CC BY-NC-SA 4.0 | [code](https://github.com/emollick/ai-portals) | — |
+| [Portals](https://portals-endless-worlds.netlify.app/) | [Ethan Mollick](https://github.com/emollick) | CC BY-NC-SA 4.0 | [code](https://github.com/emollick/ai-portals) | [files](https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/scenes/portals) |
 | [Qingming: Rainbow Bridge](https://www.aivi.fyi/games/qingming.html) | AI超元域 | Unknown | [code](https://www.aivi.fyi/games/qingming.html) | — |
 | [Rainy Dock Materials](https://wquguru.github.io/fable52-fps-repro/demos/02-materials/) | [wquguru](https://github.com/wquguru) | MIT | [code](https://github.com/wquguru/fable52-fps-repro/blob/main/demos/02-materials/index.html) | [files](https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/scenes/rainy-dock-materials) |
 | [ROADSTER · The Flight Experience](https://yinchao-jack.github.io/roadster-flight-experience/) | [YC Jack](https://github.com/yinchao-jack) | MIT | [code](https://github.com/yinchao-jack/roadster-flight-experience) | [files](https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/scenes/roadster-the-flight-experience) |
