@@ -1,12 +1,19 @@
-<p align="center"><img src="assets/banner.webp" width="100%" alt="Terrarium 九个作品的截图"></p>
-
-<h1 align="center">Terrarium</h1>
+<p align="center"><a href="README.zh-CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg"><img src="assets/logo-light.svg" height="56" alt="Terrarium"></picture></a></p>
 
 <p align="center"><b>Open 3D Worlds Made with Code</b></p>
 
-<p align="center">Terrarium 是非商业的开源社区，收录主要用代码生成的 3D 作品，包括交互场景、游戏和视频。<br>本仓库列出每个作品的来源、作者、许可证和文件。</p>
+<p align="center">
+<img src="https://img.shields.io/badge/%E7%BD%91%E7%AB%99-%E5%8D%B3%E5%B0%86%E5%BC%80%E6%94%BE-6e7681?labelColor=30363d&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjkgMTIgNDYgNDAiPjxwYXRoIGQ9Ik0xNyA0NVYyOC41YTE1IDE1IDAgMCAxIDMwIDBWNDUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2VlZjBmMyIgc3Ryb2tlLXdpZHRoPSIzLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxwYXRoIGQ9Ik0yMCA0NWw4LjUtMTUuNSA5LjUgMTUuNXpNMzQuNSA0NWw1LTkuNSA1IDkuNXoiIGZpbGw9IiNjNmYyNWEiLz48cmVjdCB4PSIxMS41IiB5PSI0NSIgd2lkdGg9IjQxIiBoZWlnaHQ9IjUiIHJ4PSIyLjUiIGZpbGw9IiNlZWYwZjMiLz48L3N2Zz4%3D" height="22" alt="网站：即将开放">
+<a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/%E6%95%B0%E6%8D%AE%E9%9B%86-Hugging%20Face-c6f25a?labelColor=30363d&amp;logo=huggingface&amp;logoColor=ffd21e" height="22" alt="数据集：Hugging Face"></a>
+<a href="https://huggingface.co/spaces/awesome-fable-5-2/game-platform"><img src="https://img.shields.io/badge/Space-Hugging%20Face-c6f25a?labelColor=30363d&amp;logo=huggingface&amp;logoColor=ffd21e" height="22" alt="Space：Hugging Face"></a>
+<a href="https://huggingface.co/collections/awesome-fable-5-2/terrarium-open-works-6af83d6003be12bf9aaf3d21"><img src="https://img.shields.io/badge/Collection-Hugging%20Face-c6f25a?labelColor=30363d&amp;logo=huggingface&amp;logoColor=ffd21e" height="22" alt="Collection：Hugging Face"></a>
+</p>
 
-<p align="center"><a href="README.md">English</a> · 简体中文</p>
+<p align="center"><b>首页</b> · <a href="games/README.zh-CN.md">游戏</a> · <a href="videos/README.zh-CN.md">视频</a> · <a href="scenes/README.zh-CN.md">场景</a> · <a href="wallpapers/README.zh-CN.md">壁纸</a> · <a href="tools/README.zh-CN.md">工具</a> · <a href="visualizations/README.zh-CN.md">可视化</a><br><a href="README.md">English</a> · <b>简体中文</b></p>
+
+<p align="center"><img src="assets/banner.webp" width="100%" alt="Terrarium 九个作品的截图"></p>
+
+<p align="center">Terrarium 是非商业的开源社区，收录主要用代码生成的 3D 作品，包括交互场景、游戏和视频。<br>本仓库列出每个作品的来源、作者、许可证和文件。</p>
 
 <p align="center">条目 <b>443</b> · 代码公开 <b>389</b> · 有开源许可证 <b>321</b></p>
 
@@ -54,10 +61,27 @@
 
 作者移动或删除作品以后，链接可能失效。
 
+## 社区
+
+Terrarium 的社区渠道还没有开放。渠道开放以后，这一节给出链接。
+
+<p>
+<img src="https://img.shields.io/badge/Discord-%E5%8D%B3%E5%B0%86%E5%BC%80%E6%94%BE-6e7681?labelColor=30363d&amp;logo=discord&amp;logoColor=white" height="22" alt="Discord：即将开放">
+<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E5%8D%B3%E5%B0%86%E5%BC%80%E6%94%BE-6e7681?labelColor=30363d&amp;logo=wechat&amp;logoColor=white" height="22" alt="微信：即将开放">
+<img src="https://img.shields.io/badge/X-%E5%8D%B3%E5%B0%86%E5%BC%80%E6%94%BE-6e7681?labelColor=30363d&amp;logo=x&amp;logoColor=white" height="22" alt="X：即将开放">
+<img src="https://img.shields.io/badge/Bilibili-%E5%8D%B3%E5%B0%86%E5%BC%80%E6%94%BE-6e7681?labelColor=30363d&amp;logo=bilibili&amp;logoColor=white" height="22" alt="Bilibili：即将开放">
+</p>
+
 ## 增加或更正作品
 
 要增加作品、更正条目或删除条目，请在这个仓库里提交 issue，并写明作品链接和代码链接。这些页面由 Terrarium 的数据生成，所以修改在数据里进行，不在这些文件里进行。
 
 ## 许可证
 
-作品属于各自的作者，每个作品使用自己的许可证。图片是作品的截图。这些页面的文字按 CC0 1.0 发布。 数据日期：2026-11-14。
+作品属于各自的作者，每个作品使用自己的许可证。图片是作品的截图。这些页面的文字按 CC0 1.0 发布。
+
+---
+
+<p align="center"><a href="README.zh-CN.md"><img src="assets/mark.svg" height="32" alt="Terrarium"></a></p>
+
+<p align="center"><sub><a href="README.zh-CN.md">首页</a> · <a href="games/README.zh-CN.md">游戏</a> · <a href="videos/README.zh-CN.md">视频</a> · <a href="scenes/README.zh-CN.md">场景</a> · <a href="wallpapers/README.zh-CN.md">壁纸</a> · <a href="tools/README.zh-CN.md">工具</a> · <a href="visualizations/README.zh-CN.md">可视化</a> · <a href="#top">回到页首</a><br>Terrarium: Open 3D Worlds Made with Code · 数据日期：2026-11-14</sub></p>

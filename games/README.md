@@ -1,10 +1,21 @@
-# Games
+<p align="center"><a href="../README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/logo-dark.svg"><img src="../assets/logo-light.svg" height="56" alt="Terrarium"></picture></a></p>
 
-<a href="../README.md">Terrarium</a> · English · <a href="README.zh-CN.md">简体中文</a>
+<p align="center"><b>Open 3D Worlds Made with Code</b></p>
 
-228 entries. Works that a player plays, with a goal, rules or a score.
+<p align="center">
+<img src="https://img.shields.io/badge/Website-coming%20soon-6e7681?labelColor=30363d&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjkgMTIgNDYgNDAiPjxwYXRoIGQ9Ik0xNyA0NVYyOC41YTE1IDE1IDAgMCAxIDMwIDBWNDUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2VlZjBmMyIgc3Ryb2tlLXdpZHRoPSIzLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxwYXRoIGQ9Ik0yMCA0NWw4LjUtMTUuNSA5LjUgMTUuNXpNMzQuNSA0NWw1LTkuNSA1IDkuNXoiIGZpbGw9IiNjNmYyNWEiLz48cmVjdCB4PSIxMS41IiB5PSI0NSIgd2lkdGg9IjQxIiBoZWlnaHQ9IjUiIHJ4PSIyLjUiIGZpbGw9IiNlZWYwZjMiLz48L3N2Zz4%3D" height="22" alt="Website: coming soon">
+<a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/Dataset-Hugging%20Face-c6f25a?labelColor=30363d&amp;logo=huggingface&amp;logoColor=ffd21e" height="22" alt="Dataset: Hugging Face"></a>
+<a href="https://huggingface.co/spaces/awesome-fable-5-2/game-platform"><img src="https://img.shields.io/badge/Space-Hugging%20Face-c6f25a?labelColor=30363d&amp;logo=huggingface&amp;logoColor=ffd21e" height="22" alt="Space: Hugging Face"></a>
+<a href="https://huggingface.co/collections/awesome-fable-5-2/terrarium-open-works-6af83d6003be12bf9aaf3d21"><img src="https://img.shields.io/badge/Collection-Hugging%20Face-c6f25a?labelColor=30363d&amp;logo=huggingface&amp;logoColor=ffd21e" height="22" alt="Collection: Hugging Face"></a>
+</p>
 
-[Shooter](#shooter) 46 · [Action and combat](#action-and-combat) 20 · [Platformer and runner](#platformer-and-runner) 9 · [Racing and driving](#racing-and-driving) 35 · [Flight](#flight) 14 · [Sports](#sports) 11 · [Adventure and exploration](#adventure-and-exploration) 27 · [Puzzle](#puzzle) 10 · [Strategy and management](#strategy-and-management) 20 · [Sandbox](#sandbox) 6 · [Casual and arcade](#casual-and-arcade) 19 · [Interactive story](#interactive-story) 2 · [Simulation and visualization](#simulation-and-visualization) 1 · [Other games](#other-games) 8
+<p align="center"><a href="../README.md">Home</a> · <b>Games</b> · <a href="../videos/README.md">Videos</a> · <a href="../scenes/README.md">Scenes</a> · <a href="../wallpapers/README.md">Wallpapers</a> · <a href="../tools/README.md">Tools</a> · <a href="../visualizations/README.md">Visualizations</a><br><b>English</b> · <a href="README.zh-CN.md">简体中文</a></p>
+
+<h1 align="center">Games</h1>
+
+<p align="center">228 entries. Works that a player plays, with a goal, rules or a score.</p>
+
+<p align="center"><a href="#shooter">Shooter</a> 46 · <a href="#action-and-combat">Action and combat</a> 20 · <a href="#platformer-and-runner">Platformer and runner</a> 9 · <a href="#racing-and-driving">Racing and driving</a> 35 · <a href="#flight">Flight</a> 14 · <a href="#sports">Sports</a> 11 · <a href="#adventure-and-exploration">Adventure and exploration</a> 27 · <a href="#puzzle">Puzzle</a> 10 · <a href="#strategy-and-management">Strategy and management</a> 20 · <a href="#sandbox">Sandbox</a> 6 · <a href="#casual-and-arcade">Casual and arcade</a> 19 · <a href="#interactive-story">Interactive story</a> 2 · <a href="#simulation-and-visualization">Simulation and visualization</a> 1 · <a href="#other-games">Other games</a> 8</p>
 
 ## Shooter
 
@@ -506,4 +517,8 @@ Works without a preview image:
 <tr><td><a href="https://github.com/cucarol/moyu">moyu</a> · Collection of 3 works</td><td><a href="https://github.com/cucarol">cuca</a></td><td>MIT</td><td><a href="https://github.com/cucarol/moyu">Code</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/moyu">Files</a></td></tr>
 </table>
 
-<a href="../README.md">Terrarium</a> · [Back to the top](#games)
+---
+
+<p align="center"><a href="../README.md"><img src="../assets/mark.svg" height="32" alt="Terrarium"></a></p>
+
+<p align="center"><sub><a href="../README.md">Home</a> · <a href="../games/README.md">Games</a> · <a href="../videos/README.md">Videos</a> · <a href="../scenes/README.md">Scenes</a> · <a href="../wallpapers/README.md">Wallpapers</a> · <a href="../tools/README.md">Tools</a> · <a href="../visualizations/README.md">Visualizations</a> · <a href="#top">Back to the top</a><br>Terrarium: Open 3D Worlds Made with Code · Data of 2026-11-14</sub></p>
