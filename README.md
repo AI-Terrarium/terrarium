@@ -13,7 +13,7 @@
 
 <p align="center"><img src="assets/banner.webp" width="100%" alt="Screenshots of nine works of Terrarium"></p>
 
-Terrarium lists 3D works that are generated mainly by code: games, scenes, tools, visualizations, videos and wallpapers. 346 of the 413 works are written with Three.js. A picture opens the page where the creator published the work, and most of these pages run the work in the browser. Every entry names the creator, the license and the location of the code.
+Terrarium lists 3D works that are generated mainly by code: games, scenes, tools, visualizations, videos and wallpapers. 346 of the 413 works are written with Three.js. A picture opens the page where the creator published the work. For 227 works, that page runs the work in the browser. Every entry names the creator and the license. Entries with public code also link to the code, for developers who want to read or reuse it.
 
 <b>443</b> entries: <b>413</b> works and <b>30</b> collections by <b>324</b> creators. <b>389</b> entries have public code, and <b>321</b> have an open-source license.
 
@@ -49,7 +49,7 @@ Terrarium lists 3D works that are generated mainly by code: games, scenes, tools
 </tr>
 </table>
 
-## What every entry gives
+## What each entry shows
 
 - <b>The picture and the title</b> open the page where the creator published the work.
 - <b>The creator's name</b> opens the creator's account. A name without a link means that no account was found.
@@ -58,13 +58,12 @@ Terrarium lists 3D works that are generated mainly by code: games, scenes, tools
 - <b>Files</b> opens the folder of the work in the Hugging Face dataset <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works">awesome-fable-5-2/terrarium-open-works</a>. Only works with an open-source license have this link.
 - <b>A collection</b> is a group of works that one creator keeps in one repository or on one page. The entry gives the number of works.
 
-Works without a preview image are in a table under the pictures of their section. A link can stop working when a creator moves or removes a work.
+On the category pages, works without a preview image are in a table below the pictures. A link can stop working when a creator moves or removes a work.
 
 ## How the list is made
 
-- <b>Sources.</b> The works come from GitHub, Hugging Face Spaces, itch.io, X, Bilibili and other places, and from 324 creators.
-- <b>Checks.</b> Each work is checked before it is listed: whether it runs, whether its main content is 3D, where its code and license are, and whether its files contain malicious programs.
-- <b>Copies.</b> The files of the 321 entries with an open-source license are also kept in the Hugging Face dataset <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works">awesome-fable-5-2/terrarium-open-works</a>. Each work has one folder, and the folder contains the creator's license file.
+- <b>Sources.</b> The works come from GitHub, Hugging Face Spaces, itch.io, X, Bilibili and other places.
+- <b>Copies.</b> The Hugging Face dataset <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works">awesome-fable-5-2/terrarium-open-works</a> also keeps the files of the 321 entries with an open-source license. Each entry has one folder, which keeps the license file of the original repository when there is one.
 - <b>Updates.</b> A script generates these pages from the data of Terrarium. The footer gives the date of the data.
 
 ## Community
@@ -80,7 +79,7 @@ Terrarium is a non-commercial open-source community. Its channels are not open y
 
 ## Add, correct or remove an entry
 
-To add a work, to correct an entry or to have an entry removed, open an issue in this repository with the link to the work. For a new work, add the link to its code. A script generates these pages, so a direct edit to these files is overwritten at the next run.
+To add a work, to correct an entry or to have an entry removed, open an issue in this repository with the link to the work. For a new work, add the link to its code. A script generates these pages, and the next run overwrites any direct edit to these files.
 
 ## License
 
@@ -90,4 +89,4 @@ The works belong to their creators. Each work keeps its own license, and the ent
 
 <p align="center"><a href="README.md"><img src="assets/mark.svg" height="32" alt="Terrarium"></a></p>
 
-<p align="center"><sub><a href="README.md">Home</a> · <a href="games/README.md">Games</a> · <a href="videos/README.md">Videos</a> · <a href="scenes/README.md">Scenes</a> · <a href="wallpapers/README.md">Wallpapers</a> · <a href="tools/README.md">Tools</a> · <a href="visualizations/README.md">Visualizations</a> · <a href="#top">Back to the top</a><br>Terrarium: Open 3D Worlds Made with Code · Data of 2026-11-14</sub></p>
+<p align="center"><sub><a href="README.md">Home</a> · <a href="games/README.md">Games</a> · <a href="videos/README.md">Videos</a> · <a href="scenes/README.md">Scenes</a> · <a href="wallpapers/README.md">Wallpapers</a> · <a href="tools/README.md">Tools</a> · <a href="visualizations/README.md">Visualizations</a> · <a href="#top">Back to top</a><br>Terrarium: Open 3D Worlds Made with Code · Data as of 2026-11-14</sub></p>
