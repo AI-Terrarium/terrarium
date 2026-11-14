@@ -13,22 +13,22 @@
 
 <p align="center"><img src="assets/banner.webp" width="100%" alt="Screenshots of nine works of Terrarium"></p>
 
-<p align="center">Terrarium is a non-commercial open-source community that collects 3D works generated mainly by code: interactive scenes, games and videos.<br>This repository lists every work with its source, its creator, its license and its files.</p>
+Terrarium lists 3D works that are generated mainly by code: games, scenes, tools, visualizations, videos and wallpapers. 346 of the 413 works are written with Three.js. A picture opens the page where the creator published the work. For 227 works, that page runs the work in the browser. Every entry names the creator and the license. Entries with public code also link to the code, for developers who want to read or reuse it.
 
-<p align="center"><b>443</b> entries · <b>389</b> with public code · <b>321</b> with an open-source license</p>
+<b>443</b> entries: <b>413</b> works and <b>30</b> collections by <b>324</b> creators. <b>389</b> entries have public code, and <b>321</b> have an open-source license.
 
 ## Categories
 
 <table>
 <tr>
-<td width="33.33%" valign="top"><a href="games/README.md"><img src="assets/thumbs/orb-shooter-fps-demo-vibe-coded.webp" width="100%" alt="Games"></a><br><b><a href="games/README.md">Games</a></b> · 228 entries<br><sub>Works that a player plays, with a goal, rules or a score.</sub></td>
-<td width="33.33%" valign="top"><a href="videos/README.md"><img src="assets/thumbs/path-traced-voxel-creature.webp" width="100%" alt="Videos"></a><br><b><a href="videos/README.md">Videos</a></b> · 17 entries<br><sub>Works whose main content is one video, including videos rendered by code.</sub></td>
-<td width="33.33%" valign="top"><a href="scenes/README.md"><img src="assets/thumbs/emberfall-forge.webp" width="100%" alt="Scenes"></a><br><b><a href="scenes/README.md">Scenes</a></b> · 109 entries<br><sub>3D places and objects to look at or move through.</sub></td>
+<td width="33.33%" valign="top"><a href="games/README.md"><img src="assets/thumbs/orb-shooter-fps-demo-vibe-coded.webp" width="100%" alt="Games"></a><br><b><a href="games/README.md">Games</a></b> · 228 entries<br><sub>3D games with a goal, rules or a score, grouped by gameplay: shooters, racing, flight, puzzles and more.</sub></td>
+<td width="33.33%" valign="top"><a href="videos/README.md"><img src="assets/thumbs/path-traced-voxel-creature.webp" width="100%" alt="Videos"></a><br><b><a href="videos/README.md">Videos</a></b> · 17 entries<br><sub>Works whose main content is one video, such as a short film rendered by code.</sub></td>
+<td width="33.33%" valign="top"><a href="scenes/README.md"><img src="assets/thumbs/emberfall-forge.webp" width="100%" alt="Scenes"></a><br><b><a href="scenes/README.md">Scenes</a></b> · 109 entries<br><sub>3D places and objects to look at or walk through, such as a castle, a highway, a planet and an aquarium.</sub></td>
 </tr>
 <tr>
-<td width="33.33%" valign="top"><a href="wallpapers/README.md"><img src="assets/thumbs/claude-pet.webp" width="100%" alt="Wallpapers"></a><br><b><a href="wallpapers/README.md">Wallpapers</a></b> · 3 entries<br><sub>Moving backgrounds for a screen.</sub></td>
-<td width="33.33%" valign="top"><a href="tools/README.md"><img src="assets/thumbs/mgco2-v6-compression-engine-interactive-3d-viewer.webp" width="100%" alt="Tools"></a><br><b><a href="tools/README.md">Tools</a></b> · 53 entries<br><sub>Small apps that do one task in 3D.</sub></td>
-<td width="33.33%" valign="top"><a href="visualizations/README.md"><img src="assets/thumbs/entomia-3d-micro-morphology.webp" width="100%" alt="Visualizations"></a><br><b><a href="visualizations/README.md">Visualizations</a></b> · 33 entries<br><sub>Works that show data, science or a process in 3D.</sub></td>
+<td width="33.33%" valign="top"><a href="wallpapers/README.md"><img src="assets/thumbs/claude-pet.webp" width="100%" alt="Wallpapers"></a><br><b><a href="wallpapers/README.md">Wallpapers</a></b> · 3 entries<br><sub>Moving 3D pictures for the desktop, such as screensavers and desktop pets.</sub></td>
+<td width="33.33%" valign="top"><a href="tools/README.md"><img src="assets/thumbs/mgco2-v6-compression-engine-interactive-3d-viewer.webp" width="100%" alt="Tools"></a><br><b><a href="tools/README.md">Tools</a></b> · 53 entries<br><sub>Small apps that do one job in 3D, such as viewing a floor plan, solving a Rubik&#x27;s cube or keeping time.</sub></td>
+<td width="33.33%" valign="top"><a href="visualizations/README.md"><img src="assets/thumbs/entomia-3d-micro-morphology.webp" width="100%" alt="Visualizations"></a><br><b><a href="visualizations/README.md">Visualizations</a></b> · 33 entries<br><sub>Works that show data, science or a process in 3D, such as the solar system, sorting algorithms and earthquake records.</sub></td>
 </tr>
 </table>
 
@@ -49,21 +49,26 @@
 </tr>
 </table>
 
-## What an entry shows
+## What each entry shows
 
-- The picture and the title open the page where the creator published the work.
-- The name under the title opens one account of the creator. A name without a link means that the account is unknown.
-- The last line starts with the license that the creator gave the work. "License unknown" means that no license was found, so the creator must be asked before the code is reused.
+- <b>The picture and the title</b> open the page where the creator published the work.
+- <b>The creator's name</b> opens the creator's account. A name without a link means that no account was found.
+- <b>The license</b> is the one that the creator gave the work. "License unknown" means that no license was found; ask the creator before reusing the code.
 - <b>Code</b> opens the public source code. An entry without this link has no public code.
-- <b>Files</b> opens the folder of the work in the Hugging Face dataset <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works">awesome-fable-5-2/terrarium-open-works</a>. The dataset keeps the files of the works with an open-source license.
-- "Collection" marks one repository or page by one creator that holds several works.
-- A work without a preview image is in the table under the pictures of its section, with the same links.
+- <b>Files</b> opens the folder of the work in the Hugging Face dataset <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works">awesome-fable-5-2/terrarium-open-works</a>. Only works with an open-source license have this link.
+- <b>A collection</b> is a group of works that one creator keeps in one repository or on one page. The entry gives the number of works.
 
-A link can stop working when a creator moves or removes a work.
+On the category pages, works without a preview image are in a table below the pictures. A link can stop working when a creator moves or removes a work.
+
+## How the list is made
+
+- <b>Sources.</b> The works come from GitHub, Hugging Face Spaces, itch.io, X, Bilibili and other places.
+- <b>Copies.</b> The Hugging Face dataset <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works">awesome-fable-5-2/terrarium-open-works</a> also keeps the files of the 321 entries with an open-source license. Each entry has one folder, which keeps the license file of the original repository when there is one.
+- <b>Updates.</b> A script generates these pages from the data of Terrarium. The footer gives the date of the data.
 
 ## Community
 
-The community channels of Terrarium are not open yet. This section will link to each channel when it opens.
+Terrarium is a non-commercial open-source community. Its channels are not open yet, and this section will link to each channel when it opens. Until then, open an issue in this repository for questions and suggestions.
 
 <p>
 <img src="https://img.shields.io/badge/Discord-coming%20soon-6e7681?labelColor=30363d&amp;logo=discord&amp;logoColor=white" height="22" alt="Discord: coming soon">
@@ -72,16 +77,16 @@ The community channels of Terrarium are not open yet. This section will link to 
 <img src="https://img.shields.io/badge/Bilibili-coming%20soon-6e7681?labelColor=30363d&amp;logo=bilibili&amp;logoColor=white" height="22" alt="Bilibili: coming soon">
 </p>
 
-## Add or correct a work
+## Add, correct or remove an entry
 
-To add a work, to correct an entry or to have an entry removed, open an issue in this repository. Give the link to the work and the link to its code. The pages are generated from the data of Terrarium, so changes are made in that data and not in these files.
+To add a work, to correct an entry or to have an entry removed, open an issue in this repository with the link to the work. For a new work, add the link to its code. A script generates these pages, and the next run overwrites any direct edit to these files.
 
 ## License
 
-The works belong to their creators, and each work keeps its own license. The pictures are screenshots of the works. The text of these pages is released under CC0 1.0.
+The works belong to their creators. Each work keeps its own license, and the entry names it. The pictures are screenshots of the works. The text of these pages is released under CC0 1.0.
 
 ---
 
 <p align="center"><a href="README.md"><img src="assets/mark.svg" height="32" alt="Terrarium"></a></p>
 
-<p align="center"><sub><a href="README.md">Home</a> · <a href="games/README.md">Games</a> · <a href="videos/README.md">Videos</a> · <a href="scenes/README.md">Scenes</a> · <a href="wallpapers/README.md">Wallpapers</a> · <a href="tools/README.md">Tools</a> · <a href="visualizations/README.md">Visualizations</a> · <a href="#top">Back to the top</a><br>Terrarium: Open 3D Worlds Made with Code · Data of 2026-11-14</sub></p>
+<p align="center"><sub><a href="README.md">Home</a> · <a href="games/README.md">Games</a> · <a href="videos/README.md">Videos</a> · <a href="scenes/README.md">Scenes</a> · <a href="wallpapers/README.md">Wallpapers</a> · <a href="tools/README.md">Tools</a> · <a href="visualizations/README.md">Visualizations</a> · <a href="#top">Back to top</a><br>Terrarium: Open 3D Worlds Made with Code · Data as of 2026-11-14</sub></p>

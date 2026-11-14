@@ -13,7 +13,7 @@
 
 <h1 align="center">Tools</h1>
 
-<p align="center">53 entries. Small apps that do one task in 3D.</p>
+<p align="center">53 entries. Small apps that do one job in 3D, such as viewing a floor plan, solving a Rubik&#x27;s cube or keeping time.</p>
 
 <table>
 <tr>
@@ -104,4 +104,4 @@ Works without a preview image:
 
 <p align="center"><a href="../README.md"><img src="../assets/mark.svg" height="32" alt="Terrarium"></a></p>
 
-<p align="center"><sub><a href="../README.md">Home</a> · <a href="../games/README.md">Games</a> · <a href="../videos/README.md">Videos</a> · <a href="../scenes/README.md">Scenes</a> · <a href="../wallpapers/README.md">Wallpapers</a> · <a href="../tools/README.md">Tools</a> · <a href="../visualizations/README.md">Visualizations</a> · <a href="#top">Back to the top</a><br>Terrarium: Open 3D Worlds Made with Code · Data of 2026-11-14</sub></p>
+<p align="center"><sub><a href="../README.md">Home</a> · <a href="../games/README.md">Games</a> · <a href="../videos/README.md">Videos</a> · <a href="../scenes/README.md">Scenes</a> · <a href="../wallpapers/README.md">Wallpapers</a> · <a href="../tools/README.md">Tools</a> · <a href="../visualizations/README.md">Visualizations</a> · <a href="#top">Back to top</a><br>Terrarium: Open 3D Worlds Made with Code · Data as of 2026-11-14</sub></p>

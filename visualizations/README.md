@@ -13,7 +13,7 @@
 
 <h1 align="center">Visualizations</h1>
 
-<p align="center">33 entries. Works that show data, science or a process in 3D.</p>
+<p align="center">33 entries. Works that show data, science or a process in 3D, such as the solar system, sorting algorithms and earthquake records.</p>
 
 <table>
 <tr>
@@ -76,4 +76,4 @@ Works without a preview image:
 
 <p align="center"><a href="../README.md"><img src="../assets/mark.svg" height="32" alt="Terrarium"></a></p>
 
-<p align="center"><sub><a href="../README.md">Home</a> · <a href="../games/README.md">Games</a> · <a href="../videos/README.md">Videos</a> · <a href="../scenes/README.md">Scenes</a> · <a href="../wallpapers/README.md">Wallpapers</a> · <a href="../tools/README.md">Tools</a> · <a href="../visualizations/README.md">Visualizations</a> · <a href="#top">Back to the top</a><br>Terrarium: Open 3D Worlds Made with Code · Data of 2026-11-14</sub></p>
+<p align="center"><sub><a href="../README.md">Home</a> · <a href="../games/README.md">Games</a> · <a href="../videos/README.md">Videos</a> · <a href="../scenes/README.md">Scenes</a> · <a href="../wallpapers/README.md">Wallpapers</a> · <a href="../tools/README.md">Tools</a> · <a href="../visualizations/README.md">Visualizations</a> · <a href="#top">Back to top</a><br>Terrarium: Open 3D Worlds Made with Code · Data as of 2026-11-14</sub></p>

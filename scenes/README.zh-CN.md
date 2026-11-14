@@ -13,7 +13,7 @@
 
 <h1 align="center">场景</h1>
 
-<p align="center">109 个条目。可以观看或在其中移动的 3D 场所和物体。</p>
+<p align="center">109 个条目。可以观看或在里面走动的 3D 场所和物体，例如城堡、公路、星球和水族箱。</p>
 
 <table>
 <tr>
@@ -184,4 +184,4 @@
 
 <p align="center"><a href="../README.zh-CN.md"><img src="../assets/mark.svg" height="32" alt="Terrarium"></a></p>
 
-<p align="center"><sub><a href="../README.zh-CN.md">首页</a> · <a href="../games/README.zh-CN.md">游戏</a> · <a href="../videos/README.zh-CN.md">视频</a> · <a href="../scenes/README.zh-CN.md">场景</a> · <a href="../wallpapers/README.zh-CN.md">壁纸</a> · <a href="../tools/README.zh-CN.md">工具</a> · <a href="../visualizations/README.zh-CN.md">可视化</a> · <a href="#top">回到页首</a><br>Terrarium: Open 3D Worlds Made with Code · 数据日期：2026-11-14</sub></p>
+<p align="center"><sub><a href="../README.zh-CN.md">首页</a> · <a href="../games/README.zh-CN.md">游戏</a> · <a href="../videos/README.zh-CN.md">视频</a> · <a href="../scenes/README.zh-CN.md">场景</a> · <a href="../wallpapers/README.zh-CN.md">壁纸</a> · <a href="../tools/README.zh-CN.md">工具</a> · <a href="../visualizations/README.zh-CN.md">可视化</a> · <a href="#top">返回顶部</a><br>Terrarium: Open 3D Worlds Made with Code · 数据日期：2026-11-14</sub></p>

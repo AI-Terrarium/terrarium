@@ -13,7 +13,7 @@
 
 <h1 align="center">游戏</h1>
 
-<p align="center">228 个条目。玩家可以玩的作品，有目标、规则或分数。</p>
+<p align="center">228 个条目。有目标、规则或分数的 3D 游戏，按玩法分小节：射击、竞速、飞行、解谜等。</p>
 
 <p align="center"><a href="#射击">射击</a> 46 · <a href="#动作与战斗">动作与战斗</a> 20 · <a href="#平台跳跃与跑酷">平台跳跃与跑酷</a> 9 · <a href="#竞速与驾驶">竞速与驾驶</a> 35 · <a href="#飞行">飞行</a> 14 · <a href="#体育">体育</a> 11 · <a href="#冒险与探索">冒险与探索</a> 27 · <a href="#解谜">解谜</a> 10 · <a href="#策略与经营">策略与经营</a> 20 · <a href="#沙盒">沙盒</a> 6 · <a href="#休闲与街机">休闲与街机</a> 19 · <a href="#互动叙事">互动叙事</a> 2 · <a href="#模拟与可视化">模拟与可视化</a> 1 · <a href="#其他游戏">其他游戏</a> 8</p>
 
@@ -521,4 +521,4 @@
 
 <p align="center"><a href="../README.zh-CN.md"><img src="../assets/mark.svg" height="32" alt="Terrarium"></a></p>
 
-<p align="center"><sub><a href="../README.zh-CN.md">首页</a> · <a href="../games/README.zh-CN.md">游戏</a> · <a href="../videos/README.zh-CN.md">视频</a> · <a href="../scenes/README.zh-CN.md">场景</a> · <a href="../wallpapers/README.zh-CN.md">壁纸</a> · <a href="../tools/README.zh-CN.md">工具</a> · <a href="../visualizations/README.zh-CN.md">可视化</a> · <a href="#top">回到页首</a><br>Terrarium: Open 3D Worlds Made with Code · 数据日期：2026-11-14</sub></p>
+<p align="center"><sub><a href="../README.zh-CN.md">首页</a> · <a href="../games/README.zh-CN.md">游戏</a> · <a href="../videos/README.zh-CN.md">视频</a> · <a href="../scenes/README.zh-CN.md">场景</a> · <a href="../wallpapers/README.zh-CN.md">壁纸</a> · <a href="../tools/README.zh-CN.md">工具</a> · <a href="../visualizations/README.zh-CN.md">可视化</a> · <a href="#top">返回顶部</a><br>Terrarium: Open 3D Worlds Made with Code · 数据日期：2026-11-14</sub></p>
