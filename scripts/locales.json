@@ -1,0 +1,1012 @@
+{
+  "en": {
+    "name": "English",
+    "filename": "README.md",
+    "tagline": "A comprehensive showcase of the latest 3D games, interactive worlds and videos, with complete open-source code collected for you to explore, learn from and build on.",
+    "nav": [
+      "Trending",
+      "Latest",
+      "Contents"
+    ],
+    "stats": [
+      "curated entries",
+      "creative categories",
+      "with public code",
+      "source archives"
+    ],
+    "ui": {
+      "website": "Website",
+      "archive": "Source archive",
+      "code": "Code",
+      "files": "Files",
+      "unknown": "License unknown",
+      "no_preview": "Works without a preview image:",
+      "home": "Home",
+      "back_top": "Back to top",
+      "browse_all": "Browse all {count} →",
+      "entry_count": "{count} entries.",
+      "contribute": "Submit a work, correction or removal request →",
+      "about_summary": "Source code, curation & contributions",
+      "open_website": "Explore the full website →",
+      "get_code": "Get the source archives →",
+      "catalog_date": "Catalog data: {date}",
+      "synced": "Updated: {stamp}",
+      "cadence": "Refresh scheduled every 6 hours",
+      "pending": "First sync pending; showing recent releases",
+      "stale": "Snapshot over 12 hours old",
+      "no_support": "No measured support; showing recent releases",
+      "sources_summary": "Sources & ordering",
+      "view_data": "View data",
+      "methodology": "Methodology",
+      "coverage": "{sources} sources · {platforms} platforms · {unavailable} unmeasured",
+      "contents_intro": "Explore selected works, jump to a genre, or open the full collection.",
+      "collection": "Collection of {count} works"
+    },
+    "categories": {
+      "games": "Games",
+      "scenes": "Worlds & Scenes",
+      "videos": "Videos",
+      "tools": "Tools",
+      "visualizations": "Visualizations",
+      "wallpapers": "Wallpapers"
+    },
+    "descriptions": {
+      "games": "Shooters, driving, flight, puzzles and everything in between.",
+      "scenes": "Walk through imagined places, explore nature and inspect intricate objects.",
+      "videos": "Films, animations and visual experiments rendered with code.",
+      "tools": "Useful 3D apps for creating, inspecting and getting things done.",
+      "visualizations": "Explore science, data and ideas through interactive 3D.",
+      "wallpapers": "Screensavers, desktop companions and ambient 3D experiences."
+    },
+    "genres": [
+      "Shooter",
+      "Action & combat",
+      "Platformer & runner",
+      "Racing & driving",
+      "Flight",
+      "Sports",
+      "Adventure & exploration",
+      "Puzzle",
+      "Strategy & management",
+      "Sandbox",
+      "Casual & arcade",
+      "Interactive story",
+      "Simulation & visualization",
+      "Other games"
+    ],
+    "about": [
+      "Works come from GitHub, Hugging Face Spaces, itch.io, X, Bilibili and more, spanning 324 creators. Previews open the original publication; Code links to public source; Files opens the HF archive. 227 works run in the browser, and 346 use Three.js.",
+      "Source for 321 openly licensed entries is archived by category and work, with original license files where available. Download the collection:",
+      "Large files require Git LFS. Works retain their own licenses; page text is CC0 1.0. Catalog and popularity timestamps are separate."
+    ],
+    "method": "Ordered by public likes, stars and other support. Comments and shares break ties; views are shown separately. The strongest post per platform contributes, and shared sources appear once.",
+    "metrics": {
+      "views": "Views",
+      "likes": "Likes",
+      "stars": "Stars",
+      "net_votes": "Net votes",
+      "comments": "Comments",
+      "shares": "Shares",
+      "favorites": "Favorites",
+      "coins": "Coins",
+      "forks": "Forks"
+    },
+    "separator": ",",
+    "metric_prefix": true,
+    "headers": [
+      "Work",
+      "Creator",
+      "License",
+      "Links"
+    ]
+  },
+  "zh-CN": {
+    "name": "简体中文",
+    "filename": "README.zh-CN.md",
+    "tagline": "全面收集并展示最新的 3D 游戏、交互世界与视频，完整开源代码集中归档，供你体验、学习与再创作。",
+    "nav": [
+      "最热",
+      "最新",
+      "目录"
+    ],
+    "stats": [
+      "收录条目",
+      "创作类别",
+      "公开代码",
+      "源码归档"
+    ],
+    "ui": {
+      "website": "官网",
+      "archive": "源码归档",
+      "code": "代码",
+      "files": "文件",
+      "unknown": "许可证未知",
+      "no_preview": "暂无预览图的作品：",
+      "home": "首页",
+      "back_top": "返回顶部",
+      "browse_all": "浏览全部 {count} 个条目 →",
+      "entry_count": "{count} 个条目。",
+      "contribute": "提交作品、建议更正或移除条目 →",
+      "about_summary": "源码、收录与贡献",
+      "open_website": "前往官网，完整浏览作品 →",
+      "get_code": "获取开源代码 →",
+      "catalog_date": "目录数据：{date}",
+      "synced": "热度同步：{stamp}",
+      "cadence": "计划每 6 小时刷新",
+      "pending": "待首次同步，当前展示最近发布的作品",
+      "stale": "快照已超过 12 小时",
+      "no_support": "暂无有效支持数据，当前展示最近发布的作品",
+      "sources_summary": "榜单来源与排序",
+      "view_data": "查看数据",
+      "methodology": "计算说明",
+      "coverage": "{sources} 个来源 · {platforms} 个平台 · {unavailable} 个来源未获取",
+      "contents_intro": "先看代表作品，也可以按玩法跳转，或进入完整作品库。",
+      "collection": "合集，{count} 个作品"
+    },
+    "categories": {
+      "games": "游戏",
+      "scenes": "世界与场景",
+      "videos": "视频",
+      "tools": "工具",
+      "visualizations": "可视化",
+      "wallpapers": "壁纸"
+    },
+    "descriptions": {
+      "games": "从射击、竞速与飞行，到冒险、解谜和沙盒。",
+      "scenes": "漫游虚构世界、探索自然场景，或细看精巧的 3D 物件。",
+      "videos": "用代码渲染的短片、动画与视觉实验。",
+      "tools": "用于创作、查看、模拟和日常任务的 3D 小应用。",
+      "visualizations": "用交互式 3D 探索科学、数据与抽象概念。",
+      "wallpapers": "屏幕保护程序、桌面伙伴与氛围感 3D 画面。"
+    },
+    "genres": [
+      "射击",
+      "动作与战斗",
+      "平台跳跃与跑酷",
+      "竞速与驾驶",
+      "飞行",
+      "体育",
+      "冒险与探索",
+      "解谜",
+      "策略与经营",
+      "沙盒",
+      "休闲与街机",
+      "互动叙事",
+      "模拟与可视化",
+      "其他游戏"
+    ],
+    "about": [
+      "作品来自 GitHub、Hugging Face Spaces、itch.io、X、Bilibili 等平台，覆盖 324 位作者。图片链接原始发布页；「代码」链接公开源码；「文件」打开 HF 归档。227 个作品可在浏览器运行，346 个使用 Three.js。",
+      "321 个有开源许可证的条目已按类别与作品集中归档，保留原仓库许可证文件（如有）。批量获取：",
+      "大文件需要 Git LFS。作品遵循各自许可证；页面文字采用 CC0 1.0。目录和热度分别标注更新时间。"
+    ],
+    "method": "按公开点赞、Star 等支持数排序；评论、转发等仅用于同分排序，播放量单独展示。同一平台取支持数最高的帖子，同一来源不重复展示。",
+    "metrics": {
+      "views": "播放",
+      "likes": "赞",
+      "stars": "Star",
+      "net_votes": "净票",
+      "comments": "评论",
+      "shares": "分享",
+      "favorites": "收藏",
+      "coins": "投币",
+      "forks": "Fork"
+    },
+    "separator": ",",
+    "metric_prefix": false,
+    "headers": [
+      "作品",
+      "作者",
+      "许可证",
+      "链接"
+    ]
+  },
+  "zh-TW": {
+    "name": "繁體中文",
+    "filename": "README.zh-TW.md",
+    "tagline": "全面收集並展示最新的 3D 遊戲、互動世界與影片，完整開源原始碼集中封存，供你體驗、學習與再創作。",
+    "nav": [
+      "熱門",
+      "最新",
+      "目錄"
+    ],
+    "stats": [
+      "收錄項目",
+      "創作類別",
+      "公開原始碼",
+      "原始碼封存"
+    ],
+    "ui": {
+      "website": "官網",
+      "archive": "原始碼封存",
+      "code": "原始碼",
+      "files": "檔案",
+      "unknown": "授權條款不明",
+      "no_preview": "尚無預覽圖的作品：",
+      "home": "首頁",
+      "back_top": "返回頂端",
+      "browse_all": "瀏覽全部 {count} 個項目 →",
+      "entry_count": "{count} 個項目。",
+      "contribute": "提交作品、更正或移除建議 →",
+      "about_summary": "原始碼、收錄與貢獻",
+      "open_website": "前往官網瀏覽完整作品 →",
+      "get_code": "取得開源原始碼 →",
+      "catalog_date": "目錄資料：{date}",
+      "synced": "熱門資料同步：{stamp}",
+      "cadence": "預計每 6 小時更新",
+      "pending": "等待首次同步，目前展示最新作品",
+      "stale": "快照已超過 12 小時",
+      "no_support": "暫無有效支持資料，目前展示最新作品",
+      "sources_summary": "榜單來源與排序",
+      "view_data": "查看資料",
+      "methodology": "計算方式",
+      "coverage": "{sources} 個來源 · {platforms} 個平台 · {unavailable} 個來源未取得",
+      "contents_intro": "先看代表作品，也可依玩法跳轉，或進入完整作品庫。",
+      "collection": "合集，{count} 個作品"
+    },
+    "categories": {
+      "games": "遊戲",
+      "scenes": "世界與場景",
+      "videos": "影片",
+      "tools": "工具",
+      "visualizations": "視覺化",
+      "wallpapers": "桌布"
+    },
+    "descriptions": {
+      "games": "從射擊、競速與飛行，到冒險、解謎和沙盒。",
+      "scenes": "漫遊想像世界、探索自然場景，或細看精巧的 3D 物件。",
+      "videos": "以程式碼算繪的短片、動畫與視覺實驗。",
+      "tools": "用於創作、檢視、模擬與日常工作的 3D 應用。",
+      "visualizations": "透過互動式 3D 探索科學、資料與抽象概念。",
+      "wallpapers": "螢幕保護程式、桌面夥伴與充滿氛圍的 3D 畫面。"
+    },
+    "genres": [
+      "射擊",
+      "動作與戰鬥",
+      "平台跳躍與跑酷",
+      "競速與駕駛",
+      "飛行",
+      "運動",
+      "冒險與探索",
+      "解謎",
+      "策略與經營",
+      "沙盒",
+      "休閒與街機",
+      "互動敘事",
+      "模擬與視覺化",
+      "其他遊戲"
+    ],
+    "about": [
+      "作品來自 GitHub、Hugging Face Spaces、itch.io、X、Bilibili 等平台，涵蓋 324 位創作者。預覽圖連至原始發布頁；原始碼連至公開程式碼；檔案開啟 HF 封存。227 個作品可在瀏覽器執行，346 個使用 Three.js。",
+      "321 個具開源授權的項目已按類別與作品集中封存，並保留原始授權檔案（如有）。批次下載：",
+      "大型檔案需要 Git LFS。作品保留各自的授權條款；頁面文字採 CC0 1.0。目錄與熱門資料分別標示更新時間。"
+    ],
+    "method": "依公開按讚、Star 等支持數排序；留言與分享只用於同分排序，觀看次數另外顯示。每個平台採支持數最高的貼文，相同來源不重複展示。",
+    "metrics": {
+      "views": "觀看",
+      "likes": "讚",
+      "stars": "Star",
+      "net_votes": "淨票",
+      "comments": "留言",
+      "shares": "分享",
+      "favorites": "收藏",
+      "coins": "投幣",
+      "forks": "Fork"
+    },
+    "separator": ",",
+    "metric_prefix": false,
+    "headers": [
+      "作品",
+      "作者",
+      "授權",
+      "連結"
+    ]
+  },
+  "ja": {
+    "name": "日本語",
+    "filename": "README.ja.md",
+    "tagline": "最新の 3D ゲーム、インタラクティブなワールド、動画を幅広く収集・紹介し、完全なオープンソースコードを体験・学習・再創作のためにまとめています。",
+    "nav": [
+      "人気",
+      "新着",
+      "目次"
+    ],
+    "stats": [
+      "収録項目",
+      "カテゴリー",
+      "ソース公開",
+      "ソースアーカイブ"
+    ],
+    "ui": {
+      "website": "公式サイト",
+      "archive": "ソースアーカイブ",
+      "code": "ソース",
+      "files": "ファイル",
+      "unknown": "ライセンス不明",
+      "no_preview": "プレビュー画像のない作品：",
+      "home": "ホーム",
+      "back_top": "トップへ",
+      "browse_all": "全 {count} 件を見る →",
+      "entry_count": "{count} 件。",
+      "contribute": "作品の追加・修正・削除を提案 →",
+      "about_summary": "ソースコード・収集方針・参加方法",
+      "open_website": "公式サイトですべて見る →",
+      "get_code": "ソースコードを入手 →",
+      "catalog_date": "カタログのデータ：{date}",
+      "synced": "人気データ更新：{stamp}",
+      "cadence": "6 時間ごとに更新予定",
+      "pending": "初回更新待ちのため、新着作品を表示中",
+      "stale": "12 時間以上前のスナップショット",
+      "no_support": "有効な支持データがないため、新着作品を表示中",
+      "sources_summary": "データの出典と並び順",
+      "view_data": "データを見る",
+      "methodology": "集計方法",
+      "coverage": "{sources} 件の出典 · {platforms} プラットフォーム · {unavailable} 件は未取得",
+      "contents_intro": "代表作品を見たり、ジャンルから選んだり、全作品の一覧へ進めます。",
+      "collection": "コレクション・{count} 作品"
+    },
+    "categories": {
+      "games": "ゲーム",
+      "scenes": "ワールドとシーン",
+      "videos": "動画",
+      "tools": "ツール",
+      "visualizations": "可視化",
+      "wallpapers": "壁紙"
+    },
+    "descriptions": {
+      "games": "シューティング、レース、フライト、パズルなど多彩なゲーム。",
+      "scenes": "架空の世界や自然の風景を歩き、精巧な 3D オブジェクトを探索。",
+      "videos": "コードで描かれた短編映像、アニメーション、ビジュアル実験。",
+      "tools": "制作、閲覧、シミュレーションや日常の作業に役立つ 3D アプリ。",
+      "visualizations": "インタラクティブな 3D で科学、データ、アイデアを理解。",
+      "wallpapers": "スクリーンセーバー、デスクトップの仲間、環境演出の 3D。"
+    },
+    "genres": [
+      "シューティング",
+      "アクション・戦闘",
+      "プラットフォーマー・ランナー",
+      "レース・ドライブ",
+      "フライト",
+      "スポーツ",
+      "アドベンチャー・探索",
+      "パズル",
+      "戦略・経営",
+      "サンドボックス",
+      "カジュアル・アーケード",
+      "インタラクティブストーリー",
+      "シミュレーション・可視化",
+      "その他"
+    ],
+    "about": [
+      "GitHub、Hugging Face Spaces、itch.io、X、Bilibili などから、324 人のクリエイターの作品を収録。画像は元の公開ページ、ソースは公開コード、ファイルは HF のアーカイブにリンクします。227 作品はブラウザーで動作し、346 作品は Three.js を使用しています。",
+      "オープンソースライセンスのある 321 項目をカテゴリーと作品ごとに保存し、元のライセンスファイルがあれば同梱しています。一括取得：",
+      "大きなファイルには Git LFS が必要です。各作品のライセンスに従ってください。ページ本文は CC0 1.0 です。カタログと人気データの更新日時は別々に表示します。"
+    ],
+    "method": "公開の「いいね」や Star などの支持数で並べ、同数の場合のみコメントや共有数を使います。再生数は別に表示。各プラットフォームで最も支持された投稿を採用し、同じ出典は重複表示しません。",
+    "metrics": {
+      "views": "再生",
+      "likes": "いいね",
+      "stars": "Star",
+      "net_votes": "純得票",
+      "comments": "コメント",
+      "shares": "共有",
+      "favorites": "お気に入り",
+      "coins": "コイン",
+      "forks": "Fork"
+    },
+    "separator": ",",
+    "metric_prefix": false,
+    "headers": [
+      "作品",
+      "作者",
+      "ライセンス",
+      "リンク"
+    ]
+  },
+  "ko": {
+    "name": "한국어",
+    "filename": "README.ko.md",
+    "tagline": "최신 3D 게임, 인터랙티브 월드와 영상을 폭넓게 수집·소개하고, 완전한 오픈 소스 코드를 모아 체험·학습·재창작으로 이어 줍니다.",
+    "nav": [
+      "인기",
+      "최신",
+      "목차"
+    ],
+    "stats": [
+      "수록 항목",
+      "카테고리",
+      "공개 코드",
+      "소스 아카이브"
+    ],
+    "ui": {
+      "website": "웹사이트",
+      "archive": "소스 아카이브",
+      "code": "코드",
+      "files": "파일",
+      "unknown": "라이선스 미확인",
+      "no_preview": "미리보기 이미지가 없는 작품:",
+      "home": "홈",
+      "back_top": "맨 위로",
+      "browse_all": "전체 {count}개 보기 →",
+      "entry_count": "{count}개 항목.",
+      "contribute": "작품 추가·수정·삭제 제안 →",
+      "about_summary": "소스 코드·수집·기여 안내",
+      "open_website": "웹사이트에서 전체 보기 →",
+      "get_code": "소스 코드 받기 →",
+      "catalog_date": "목록 데이터: {date}",
+      "synced": "인기 데이터 갱신: {stamp}",
+      "cadence": "6시간마다 갱신 예정",
+      "pending": "첫 갱신 대기 중으로 최신 작품을 표시합니다",
+      "stale": "12시간이 지난 스냅샷",
+      "no_support": "유효한 지지 데이터가 없어 최신 작품을 표시합니다",
+      "sources_summary": "출처와 정렬 기준",
+      "view_data": "데이터 보기",
+      "methodology": "집계 방식",
+      "coverage": "출처 {sources}개 · 플랫폼 {platforms}개 · 미수집 {unavailable}개",
+      "contents_intro": "대표 작품을 살펴보고, 장르로 이동하거나 전체 목록을 열어 보세요.",
+      "collection": "모음집 · 작품 {count}개"
+    },
+    "categories": {
+      "games": "게임",
+      "scenes": "월드와 장면",
+      "videos": "영상",
+      "tools": "도구",
+      "visualizations": "시각화",
+      "wallpapers": "배경화면"
+    },
+    "descriptions": {
+      "games": "슈팅, 레이싱, 비행, 퍼즐 등 다양한 게임.",
+      "scenes": "상상 속 세계와 자연 풍경을 걷고 정교한 3D 사물을 탐색합니다.",
+      "videos": "코드로 렌더링한 단편 영상, 애니메이션과 시각 실험.",
+      "tools": "제작, 감상, 시뮬레이션과 일상 작업에 유용한 3D 앱.",
+      "visualizations": "인터랙티브 3D로 과학, 데이터와 아이디어를 탐구합니다.",
+      "wallpapers": "화면 보호기, 데스크톱 친구와 분위기 있는 3D 화면."
+    },
+    "genres": [
+      "슈팅",
+      "액션·전투",
+      "플랫포머·러너",
+      "레이싱·운전",
+      "비행",
+      "스포츠",
+      "모험·탐험",
+      "퍼즐",
+      "전략·경영",
+      "샌드박스",
+      "캐주얼·아케이드",
+      "인터랙티브 스토리",
+      "시뮬레이션·시각화",
+      "기타 게임"
+    ],
+    "about": [
+      "GitHub, Hugging Face Spaces, itch.io, X, Bilibili 등에서 324명의 창작자가 만든 작품을 모았습니다. 이미지는 원본 게시물, 코드는 공개 소스, 파일은 HF 아카이브로 연결됩니다. 227개 작품은 브라우저에서 실행되며 346개는 Three.js를 사용합니다.",
+      "오픈 소스 라이선스가 있는 321개 항목을 카테고리와 작품별로 보관하며, 원본 라이선스 파일이 있으면 함께 제공합니다. 일괄 다운로드:",
+      "대용량 파일에는 Git LFS가 필요합니다. 각 작품의 라이선스를 따르세요. 페이지 본문은 CC0 1.0입니다. 목록과 인기 데이터의 갱신 시간은 별도로 표시합니다."
+    ],
+    "method": "공개 좋아요와 Star 등 지지 수로 정렬하고, 동점일 때만 댓글과 공유 수를 사용합니다. 조회 수는 별도로 표시합니다. 플랫폼별 최고 지지 게시물을 사용하며 같은 출처는 한 번만 표시합니다.",
+    "metrics": {
+      "views": "조회",
+      "likes": "좋아요",
+      "stars": "Star",
+      "net_votes": "순투표",
+      "comments": "댓글",
+      "shares": "공유",
+      "favorites": "즐겨찾기",
+      "coins": "코인",
+      "forks": "Fork"
+    },
+    "separator": ",",
+    "metric_prefix": false,
+    "headers": [
+      "작품",
+      "창작자",
+      "라이선스",
+      "링크"
+    ]
+  },
+  "es": {
+    "name": "Español",
+    "filename": "README.es.md",
+    "tagline": "Una amplia colección de los últimos juegos 3D, mundos interactivos y vídeos, con código abierto completo reunido para explorar, aprender y crear tus propias versiones.",
+    "nav": [
+      "Popular",
+      "Novedades",
+      "Contenido"
+    ],
+    "stats": [
+      "entradas",
+      "categorías",
+      "con código público",
+      "archivos de código"
+    ],
+    "ui": {
+      "website": "Web",
+      "archive": "Archivo de código",
+      "code": "Código",
+      "files": "Archivos",
+      "unknown": "Licencia desconocida",
+      "no_preview": "Obras sin imagen de vista previa:",
+      "home": "Inicio",
+      "back_top": "Volver arriba",
+      "browse_all": "Ver las {count} entradas →",
+      "entry_count": "{count} entradas.",
+      "contribute": "Proponer una obra, corrección o retirada →",
+      "about_summary": "Código, selección y contribuciones",
+      "open_website": "Explorar la web completa →",
+      "get_code": "Obtener los archivos de código →",
+      "catalog_date": "Datos del catálogo: {date}",
+      "synced": "Actualizado: {stamp}",
+      "cadence": "Actualización programada cada 6 horas",
+      "pending": "Primera sincronización pendiente; se muestran novedades",
+      "stale": "Instantánea de hace más de 12 horas",
+      "no_support": "Sin datos de apoyo; se muestran novedades",
+      "sources_summary": "Fuentes y ordenación",
+      "view_data": "Ver datos",
+      "methodology": "Metodología",
+      "coverage": "{sources} fuentes · {platforms} plataformas · {unavailable} sin medir",
+      "contents_intro": "Explora las obras destacadas, elige un género o consulta la colección completa.",
+      "collection": "Colección de {count} obras"
+    },
+    "categories": {
+      "games": "Juegos",
+      "scenes": "Mundos y escenas",
+      "videos": "Vídeos",
+      "tools": "Herramientas",
+      "visualizations": "Visualizaciones",
+      "wallpapers": "Fondos de pantalla"
+    },
+    "descriptions": {
+      "games": "Disparos, conducción, vuelo, puzles y mucho más.",
+      "scenes": "Recorre lugares imaginarios, explora paisajes y examina objetos 3D.",
+      "videos": "Cortos, animaciones y experimentos visuales renderizados con código.",
+      "tools": "Aplicaciones 3D para crear, explorar, simular y realizar tareas.",
+      "visualizations": "Explora ciencia, datos e ideas mediante 3D interactivo.",
+      "wallpapers": "Salvapantallas, compañeros de escritorio y ambientes en 3D."
+    },
+    "genres": [
+      "Disparos",
+      "Acción y combate",
+      "Plataformas y carreras sin fin",
+      "Carreras y conducción",
+      "Vuelo",
+      "Deportes",
+      "Aventura y exploración",
+      "Puzles",
+      "Estrategia y gestión",
+      "Sandbox",
+      "Casuales y arcade",
+      "Historia interactiva",
+      "Simulación y visualización",
+      "Otros juegos"
+    ],
+    "about": [
+      "Obras de 324 creadores, procedentes de GitHub, Hugging Face Spaces, itch.io, X, Bilibili y más. Las imágenes abren la publicación original; Código enlaza al código público y Archivos al archivo de HF. 227 obras funcionan en el navegador y 346 usan Three.js.",
+      "Se conservan 321 entradas con licencia de código abierto, organizadas por categoría y obra, con las licencias originales cuando están disponibles. Descarga conjunta:",
+      "Los archivos grandes requieren Git LFS. Cada obra conserva su licencia; el texto de estas páginas es CC0 1.0. Las fechas del catálogo y de popularidad se muestran por separado."
+    ],
+    "method": "Ordenadas por apoyos públicos, como Me gusta y estrellas. Los comentarios y las veces compartidas desempatan; las visualizaciones se muestran aparte. Se usa la publicación con más apoyo por plataforma y cada fuente aparece una sola vez.",
+    "metrics": {
+      "views": "Visualizaciones",
+      "likes": "Me gusta",
+      "stars": "Estrellas",
+      "net_votes": "Votos netos",
+      "comments": "Comentarios",
+      "shares": "Compartidos",
+      "favorites": "Favoritos",
+      "coins": "Monedas",
+      "forks": "Forks"
+    },
+    "separator": ".",
+    "metric_prefix": true,
+    "headers": [
+      "Obra",
+      "Creador",
+      "Licencia",
+      "Enlaces"
+    ]
+  },
+  "pt-BR": {
+    "name": "Português",
+    "filename": "README.pt-BR.md",
+    "tagline": "Uma coleção abrangente dos mais recentes jogos 3D, mundos interativos e vídeos, com código aberto completo reunido para explorar, aprender e criar suas próprias versões.",
+    "nav": [
+      "Em alta",
+      "Novidades",
+      "Índice"
+    ],
+    "stats": [
+      "itens",
+      "categorias",
+      "com código público",
+      "arquivos de código"
+    ],
+    "ui": {
+      "website": "Site",
+      "archive": "Arquivo de código",
+      "code": "Código",
+      "files": "Arquivos",
+      "unknown": "Licença desconhecida",
+      "no_preview": "Obras sem imagem de prévia:",
+      "home": "Início",
+      "back_top": "Voltar ao topo",
+      "browse_all": "Ver todos os {count} itens →",
+      "entry_count": "{count} itens.",
+      "contribute": "Sugerir uma obra, correção ou remoção →",
+      "about_summary": "Código, curadoria e contribuições",
+      "open_website": "Explorar o site completo →",
+      "get_code": "Obter os arquivos de código →",
+      "catalog_date": "Dados do catálogo: {date}",
+      "synced": "Atualizado: {stamp}",
+      "cadence": "Atualização programada a cada 6 horas",
+      "pending": "Primeira sincronização pendente; exibindo novidades",
+      "stale": "Registro com mais de 12 horas",
+      "no_support": "Sem dados de apoio; exibindo novidades",
+      "sources_summary": "Fontes e ordenação",
+      "view_data": "Ver dados",
+      "methodology": "Metodologia",
+      "coverage": "{sources} fontes · {platforms} plataformas · {unavailable} sem medição",
+      "contents_intro": "Explore os destaques, escolha um gênero ou abra a coleção completa.",
+      "collection": "Coleção de {count} obras"
+    },
+    "categories": {
+      "games": "Jogos",
+      "scenes": "Mundos e cenas",
+      "videos": "Vídeos",
+      "tools": "Ferramentas",
+      "visualizations": "Visualizações",
+      "wallpapers": "Papéis de parede"
+    },
+    "descriptions": {
+      "games": "Tiro, corrida, voo, quebra-cabeças e muito mais.",
+      "scenes": "Passeie por lugares imaginários, explore paisagens e examine objetos 3D.",
+      "videos": "Curtas, animações e experimentos visuais renderizados com código.",
+      "tools": "Aplicativos 3D para criar, explorar, simular e realizar tarefas.",
+      "visualizations": "Explore ciência, dados e ideias por meio de 3D interativo.",
+      "wallpapers": "Protetores de tela, companheiros de desktop e ambientes 3D."
+    },
+    "genres": [
+      "Tiro",
+      "Ação e combate",
+      "Plataforma e corrida infinita",
+      "Corrida e direção",
+      "Voo",
+      "Esportes",
+      "Aventura e exploração",
+      "Quebra-cabeças",
+      "Estratégia e gestão",
+      "Sandbox",
+      "Casual e arcade",
+      "História interativa",
+      "Simulação e visualização",
+      "Outros jogos"
+    ],
+    "about": [
+      "Obras de 324 criadores, vindas de GitHub, Hugging Face Spaces, itch.io, X, Bilibili e outras plataformas. As imagens abrem a publicação original; Código leva ao código público e Arquivos ao arquivo no HF. 227 obras funcionam no navegador e 346 usam Three.js.",
+      "Há 321 itens com licença de código aberto arquivados por categoria e obra, com as licenças originais quando disponíveis. Download em lote:",
+      "Arquivos grandes exigem Git LFS. Cada obra mantém sua própria licença; o texto destas páginas é CC0 1.0. As datas do catálogo e da popularidade são exibidas separadamente."
+    ],
+    "method": "Ordenação por apoios públicos, como curtidas e estrelas. Comentários e compartilhamentos desempatam; visualizações aparecem à parte. Usa-se a publicação mais apoiada de cada plataforma, sem repetir fontes.",
+    "metrics": {
+      "views": "Visualizações",
+      "likes": "Curtidas",
+      "stars": "Estrelas",
+      "net_votes": "Votos líquidos",
+      "comments": "Comentários",
+      "shares": "Compartilhamentos",
+      "favorites": "Favoritos",
+      "coins": "Moedas",
+      "forks": "Forks"
+    },
+    "separator": ".",
+    "metric_prefix": true,
+    "headers": [
+      "Obra",
+      "Criador",
+      "Licença",
+      "Links"
+    ]
+  },
+  "fr": {
+    "name": "Français",
+    "filename": "README.fr.md",
+    "tagline": "Une vaste collection des derniers jeux 3D, mondes interactifs et vidéos, avec leur code open source complet réuni pour explorer, apprendre et créer à votre tour.",
+    "nav": [
+      "Populaires",
+      "Nouveautés",
+      "Sommaire"
+    ],
+    "stats": [
+      "entrées",
+      "catégories",
+      "avec code public",
+      "archives de code"
+    ],
+    "ui": {
+      "website": "Site web",
+      "archive": "Archives du code",
+      "code": "Code",
+      "files": "Fichiers",
+      "unknown": "Licence inconnue",
+      "no_preview": "Œuvres sans image d’aperçu :",
+      "home": "Accueil",
+      "back_top": "Retour en haut",
+      "browse_all": "Voir les {count} entrées →",
+      "entry_count": "{count} entrées.",
+      "contribute": "Proposer une œuvre, une correction ou un retrait →",
+      "about_summary": "Code, sélection et contributions",
+      "open_website": "Explorer le site complet →",
+      "get_code": "Obtenir les archives du code →",
+      "catalog_date": "Données du catalogue : {date}",
+      "synced": "Mise à jour : {stamp}",
+      "cadence": "Actualisation prévue toutes les 6 heures",
+      "pending": "Première synchronisation en attente ; nouveautés affichées",
+      "stale": "Instantané de plus de 12 heures",
+      "no_support": "Aucun soutien mesuré ; nouveautés affichées",
+      "sources_summary": "Sources et classement",
+      "view_data": "Voir les données",
+      "methodology": "Méthode",
+      "coverage": "{sources} sources · {platforms} plateformes · {unavailable} non mesurées",
+      "contents_intro": "Découvrez une sélection, choisissez un genre ou parcourez la collection complète.",
+      "collection": "Collection de {count} œuvres"
+    },
+    "categories": {
+      "games": "Jeux",
+      "scenes": "Mondes et scènes",
+      "videos": "Vidéos",
+      "tools": "Outils",
+      "visualizations": "Visualisations",
+      "wallpapers": "Fonds d’écran"
+    },
+    "descriptions": {
+      "games": "Tir, course, vol, énigmes et bien d’autres jeux.",
+      "scenes": "Parcourez des lieux imaginaires, explorez la nature et observez des objets 3D.",
+      "videos": "Courts métrages, animations et expériences visuelles rendus par du code.",
+      "tools": "Applications 3D pour créer, explorer, simuler et accomplir des tâches.",
+      "visualizations": "Explorez les sciences, les données et les idées en 3D interactive.",
+      "wallpapers": "Économiseurs d’écran, compagnons de bureau et ambiances 3D."
+    },
+    "genres": [
+      "Tir",
+      "Action et combat",
+      "Plateforme et course sans fin",
+      "Course et conduite",
+      "Vol",
+      "Sports",
+      "Aventure et exploration",
+      "Énigmes",
+      "Stratégie et gestion",
+      "Bac à sable",
+      "Casual et arcade",
+      "Récit interactif",
+      "Simulation et visualisation",
+      "Autres jeux"
+    ],
+    "about": [
+      "Des œuvres de 324 créateurs provenant de GitHub, Hugging Face Spaces, itch.io, X, Bilibili et d’autres plateformes. Les aperçus ouvrent la publication d’origine ; Code mène au code public et Fichiers à l’archive HF. 227 œuvres fonctionnent dans le navigateur et 346 utilisent Three.js.",
+      "Les sources de 321 entrées sous licence open source sont archivées par catégorie et par œuvre, avec les licences d’origine lorsqu’elles sont disponibles. Téléchargement groupé :",
+      "Les gros fichiers nécessitent Git LFS. Chaque œuvre conserve sa licence ; le texte de ces pages est sous CC0 1.0. Les dates du catalogue et de popularité sont indiquées séparément."
+    ],
+    "method": "Classement par soutiens publics, comme les mentions J’aime et les étoiles. Commentaires et partages départagent les égalités ; les vues sont affichées séparément. La publication la plus soutenue de chaque plateforme est retenue, sans répéter les sources.",
+    "metrics": {
+      "views": "Vues",
+      "likes": "J’aime",
+      "stars": "Étoiles",
+      "net_votes": "Votes nets",
+      "comments": "Commentaires",
+      "shares": "Partages",
+      "favorites": "Favoris",
+      "coins": "Pièces",
+      "forks": "Forks"
+    },
+    "separator": " ",
+    "metric_prefix": true,
+    "headers": [
+      "Œuvre",
+      "Créateur",
+      "Licence",
+      "Liens"
+    ]
+  },
+  "de": {
+    "name": "Deutsch",
+    "filename": "README.de.md",
+    "tagline": "Eine umfassende Sammlung der neuesten 3D-Spiele, interaktiven Welten und Videos mit vollständigem Open-Source-Code zum Entdecken, Lernen und Weiterentwickeln.",
+    "nav": [
+      "Beliebt",
+      "Neu",
+      "Inhalt"
+    ],
+    "stats": [
+      "Einträge",
+      "Kategorien",
+      "mit öffentlichem Code",
+      "Codearchive"
+    ],
+    "ui": {
+      "website": "Website",
+      "archive": "Codearchiv",
+      "code": "Code",
+      "files": "Dateien",
+      "unknown": "Lizenz unbekannt",
+      "no_preview": "Werke ohne Vorschaubild:",
+      "home": "Startseite",
+      "back_top": "Nach oben",
+      "browse_all": "Alle {count} Einträge ansehen →",
+      "entry_count": "{count} Einträge.",
+      "contribute": "Werk, Korrektur oder Entfernung vorschlagen →",
+      "about_summary": "Quellcode, Auswahl und Beiträge",
+      "open_website": "Die vollständige Website entdecken →",
+      "get_code": "Quellcodearchive herunterladen →",
+      "catalog_date": "Katalogdaten: {date}",
+      "synced": "Aktualisiert: {stamp}",
+      "cadence": "Aktualisierung alle 6 Stunden geplant",
+      "pending": "Erste Synchronisierung ausstehend; neue Werke werden angezeigt",
+      "stale": "Momentaufnahme älter als 12 Stunden",
+      "no_support": "Keine gemessene Zustimmung; neue Werke werden angezeigt",
+      "sources_summary": "Quellen und Sortierung",
+      "view_data": "Daten ansehen",
+      "methodology": "Methode",
+      "coverage": "{sources} Quellen · {platforms} Plattformen · {unavailable} nicht erfasst",
+      "contents_intro": "Entdecke ausgewählte Werke, wähle ein Genre oder öffne die gesamte Sammlung.",
+      "collection": "Sammlung mit {count} Werken"
+    },
+    "categories": {
+      "games": "Spiele",
+      "scenes": "Welten und Szenen",
+      "videos": "Videos",
+      "tools": "Werkzeuge",
+      "visualizations": "Visualisierungen",
+      "wallpapers": "Hintergrundbilder"
+    },
+    "descriptions": {
+      "games": "Shooter, Rennen, Flugsimulationen, Rätsel und vieles mehr.",
+      "scenes": "Erkunde erdachte Orte, Naturlandschaften und detailreiche 3D-Objekte.",
+      "videos": "Kurzfilme, Animationen und visuelle Experimente, mit Code gerendert.",
+      "tools": "3D-Anwendungen zum Gestalten, Erkunden, Simulieren und Arbeiten.",
+      "visualizations": "Erkunde Wissenschaft, Daten und Ideen mit interaktivem 3D.",
+      "wallpapers": "Bildschirmschoner, Desktop-Begleiter und stimmungsvolle 3D-Ansichten."
+    },
+    "genres": [
+      "Shooter",
+      "Action und Kampf",
+      "Plattform und Runner",
+      "Rennen und Fahren",
+      "Flug",
+      "Sport",
+      "Abenteuer und Erkundung",
+      "Rätsel",
+      "Strategie und Aufbau",
+      "Sandbox",
+      "Casual und Arcade",
+      "Interaktive Geschichten",
+      "Simulation und Visualisierung",
+      "Weitere Spiele"
+    ],
+    "about": [
+      "Werke von 324 Kreativen aus GitHub, Hugging Face Spaces, itch.io, X, Bilibili und weiteren Plattformen. Vorschaubilder öffnen die Originalveröffentlichung; Code führt zum öffentlichen Quellcode und Dateien zum HF-Archiv. 227 Werke laufen im Browser und 346 verwenden Three.js.",
+      "Der Quellcode von 321 offen lizenzierten Einträgen ist nach Kategorie und Werk archiviert, einschließlich der ursprünglichen Lizenzdateien, soweit vorhanden. Gesamtdownload:",
+      "Große Dateien erfordern Git LFS. Jedes Werk behält seine eigene Lizenz; die Seitentexte stehen unter CC0 1.0. Katalog- und Beliebtheitsdaten haben getrennte Zeitstempel."
+    ],
+    "method": "Sortiert nach öffentlichen Likes, Sternen und ähnlicher Zustimmung. Kommentare und geteilte Beiträge entscheiden bei Gleichstand; Aufrufe werden getrennt angezeigt. Pro Plattform zählt der meistunterstützte Beitrag, jede Quelle erscheint nur einmal.",
+    "metrics": {
+      "views": "Aufrufe",
+      "likes": "Likes",
+      "stars": "Sterne",
+      "net_votes": "Nettostimmen",
+      "comments": "Kommentare",
+      "shares": "Geteilt",
+      "favorites": "Favoriten",
+      "coins": "Münzen",
+      "forks": "Forks"
+    },
+    "separator": ".",
+    "metric_prefix": true,
+    "headers": [
+      "Werk",
+      "Urheber",
+      "Lizenz",
+      "Links"
+    ]
+  },
+  "ru": {
+    "name": "Русский",
+    "filename": "README.ru.md",
+    "tagline": "Обширная коллекция новых 3D-игр, интерактивных миров и видео с полным открытым исходным кодом для знакомства, обучения и создания собственных версий.",
+    "nav": [
+      "Популярное",
+      "Новое",
+      "Содержание"
+    ],
+    "stats": [
+      "записей",
+      "категорий",
+      "с открытым кодом",
+      "архивов кода"
+    ],
+    "ui": {
+      "website": "Сайт",
+      "archive": "Архив кода",
+      "code": "Код",
+      "files": "Файлы",
+      "unknown": "Лицензия неизвестна",
+      "no_preview": "Работы без изображения предпросмотра:",
+      "home": "Главная",
+      "back_top": "Наверх",
+      "browse_all": "Все записи: {count} →",
+      "entry_count": "Записей: {count}.",
+      "contribute": "Предложить работу, исправление или удаление →",
+      "about_summary": "Код, отбор и участие",
+      "open_website": "Перейти на полный сайт →",
+      "get_code": "Скачать архивы исходного кода →",
+      "catalog_date": "Данные каталога: {date}",
+      "synced": "Обновлено: {stamp}",
+      "cadence": "Обновление запланировано каждые 6 часов",
+      "pending": "Ожидается первая синхронизация; показаны новые работы",
+      "stale": "Снимку данных больше 12 часов",
+      "no_support": "Нет измеренных откликов; показаны новые работы",
+      "sources_summary": "Источники и порядок",
+      "view_data": "Посмотреть данные",
+      "methodology": "Методика",
+      "coverage": "Источники: {sources} · платформы: {platforms} · без данных: {unavailable}",
+      "contents_intro": "Посмотрите избранные работы, выберите жанр или откройте полную коллекцию.",
+      "collection": "Коллекция: {count} работ"
+    },
+    "categories": {
+      "games": "Игры",
+      "scenes": "Миры и сцены",
+      "videos": "Видео",
+      "tools": "Инструменты",
+      "visualizations": "Визуализации",
+      "wallpapers": "Обои"
+    },
+    "descriptions": {
+      "games": "Шутеры, гонки, полёты, головоломки и многое другое.",
+      "scenes": "Исследуйте вымышленные места, природные пейзажи и подробные 3D-объекты.",
+      "videos": "Короткие фильмы, анимация и визуальные эксперименты, созданные кодом.",
+      "tools": "3D-приложения для творчества, просмотра, моделирования и повседневных задач.",
+      "visualizations": "Изучайте науку, данные и идеи с помощью интерактивного 3D.",
+      "wallpapers": "Заставки, настольные помощники и атмосферные 3D-сцены."
+    },
+    "genres": [
+      "Шутеры",
+      "Экшен и сражения",
+      "Платформеры и раннеры",
+      "Гонки и вождение",
+      "Полёты",
+      "Спорт",
+      "Приключения и исследование",
+      "Головоломки",
+      "Стратегии и управление",
+      "Песочницы",
+      "Казуальные и аркадные игры",
+      "Интерактивные истории",
+      "Моделирование и визуализация",
+      "Другие игры"
+    ],
+    "about": [
+      "Работы 324 авторов из GitHub, Hugging Face Spaces, itch.io, X, Bilibili и других платформ. Изображения ведут к оригинальной публикации, Код — к общедоступным исходникам, Файлы — к архиву HF. 227 работ запускаются в браузере, 346 используют Three.js.",
+      "Исходники 321 записи с открытой лицензией сохранены по категориям и работам вместе с оригинальными файлами лицензий, если они есть. Скачать всё:",
+      "Для больших файлов нужен Git LFS. У каждой работы своя лицензия; тексты страниц доступны по CC0 1.0. Даты каталога и данных популярности указаны отдельно."
+    ],
+    "method": "Сортировка по открытым отметкам «Нравится», звёздам и другим откликам поддержки. Комментарии и репосты используются при равенстве, просмотры показаны отдельно. Учитывается самая поддержанная публикация с каждой платформы; источники не дублируются.",
+    "metrics": {
+      "views": "Просмотры",
+      "likes": "Нравится",
+      "stars": "Звёзды",
+      "net_votes": "Чистые голоса",
+      "comments": "Комментарии",
+      "shares": "Репосты",
+      "favorites": "Избранное",
+      "coins": "Монеты",
+      "forks": "Форки"
+    },
+    "separator": " ",
+    "metric_prefix": true,
+    "headers": [
+      "Работа",
+      "Автор",
+      "Лицензия",
+      "Ссылки"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+<a name="top"></a>
+
+<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="../assets/logo.svg" width="64" height="64" alt="Terrarium"></a></p>
+
+<p align="center"><b>Terrarium</b></p>
+
+<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="https://img.shields.io/badge/Site%20web-Terrarium-c6f25a?labelColor=30363d" height="22" alt="Site web"></a>
+<a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/Archives%20du%20code-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="Archives du code"></a></p>
+
+<p align="center"><sub><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a><br><a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português</a> · <b>Français</b> · <a href="README.de.md">Deutsch</a> · <a href="README.ru.md">Русский</a></sub></p>
+
+<p align="center"><a href="../README.fr.md#trending">Populaires</a> · <a href="../README.fr.md#latest">Nouveautés</a> · <a href="../README.fr.md#contents">Sommaire</a></p>
+
+<h1 align="center">Fonds d’écran</h1>
+
+<p align="center">3 entrées. Économiseurs d’écran, compagnons de bureau et ambiances 3D.</p>
+
+
+
+<!-- CATALOG:START -->
+
+<table>
+<tr>
+<td width="25%" valign="top"><a href="https://github.com/Sabrina-creater/claude-pet"><img src="../assets/thumbs/claude-pet.webp" width="100%" alt="Claude Pet 🐾" title="The app is a desktop pet app with an animated 3D pet."></a><br><b><a href="https://github.com/Sabrina-creater/claude-pet">Claude Pet 🐾</a></b><br><sub><a href="https://github.com/Sabrina-creater">Sabrina-creater</a><br>MIT · <a href="https://github.com/Sabrina-creater/claude-pet">Code</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/wallpapers/claude-pet">Fichiers</a></sub></td>
+<td width="25%" valign="top"><a href="https://github.com/yohhoy/vibe-screensaver"><img src="../assets/thumbs/c-vibe-screensaver.webp" width="100%" alt="vibe-screensaver — Web スクリーンセーバ集" title="This is a collection of browser screensavers."></a><br><b><a href="https://github.com/yohhoy/vibe-screensaver">vibe-screensaver — Web スクリーンセーバ集</a></b><br><sub><a href="https://github.com/yohhoy">yoh</a><br>Collection de 14 œuvres<br>MIT · <a href="https://github.com/yohhoy/vibe-screensaver">Code</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/wallpapers/vibe-screensaver">Fichiers</a></sub></td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+Œuvres sans image d’aperçu :
+
+<table>
+<tr><th align="left">Œuvre</th><th align="left">Créateur</th><th align="left">Licence</th><th align="left">Liens</th></tr>
+<tr><td><a href="https://biswajitdasb4-oss.github.io/prompt-paws/">Prompt Paws</a></td><td><a href="https://github.com/biswajitdasb4-oss">biswajitdasb4-oss</a></td><td>MIT</td><td><a href="https://github.com/biswajitdasb4-oss/prompt-paws">Code</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/wallpapers/prompt-paws">Fichiers</a></td></tr>
+</table>
+
+<!-- CATALOG:END -->
+
+---
+
+<p align="center"><a href="../README.fr.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../README.fr.md">Accueil</a> · <a href="../games/README.fr.md">Jeux</a> · <a href="../scenes/README.fr.md">Mondes et scènes</a> · <a href="../videos/README.fr.md">Vidéos</a> · <a href="../tools/README.fr.md">Outils</a> · <a href="../visualizations/README.fr.md">Visualisations</a> · <a href="../wallpapers/README.fr.md">Fonds d’écran</a> · <a href="#top">Retour en haut</a><br>Données du catalogue : 2026-11-14</sub></p>

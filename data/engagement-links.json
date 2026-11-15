@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "provenance": {
+    "url": "https://github.com/fengyiqicoder/awesome-fable-5.2/blob/6594d5b9084c61b8675f9c5586cb14e710fb73c3/data/works.json",
+    "license": "CC0-1.0",
+    "retrieved_at": "2026-11-15T19:05:54+00:00",
+    "matching": "Exact original publication/code/post URL, ignoring scheme and trailing slash. Engagement counts are fetched from original platforms, not copied."
+  },
+  "entries": [
+    {
+      "work_title": "Arena FPS with Portals",
+      "work_url": "https://x.com/_sholtodouglas/status/2119935331499925557",
+      "posts": [
+        "https://x.com/_sholtodouglas/status/2119935331499925557"
+      ]
+    },
+    {
+      "work_title": "BLACKOUT · 停電",
+      "work_url": "https://github.com/anstapnever/blackout",
+      "posts": [
+        "https://x.com/anstapnever/status/2119915123070644263"
+      ]
+    },
+    {
+      "work_title": "Desert-town FPS",
+      "work_url": "https://www.spawn.co/@robot/frontline-warfare-deathmatch",
+      "posts": [
+        "https://x.com/alightinastorm/status/2120020469487440210"
+      ]
+    },
+    {
+      "work_title": "Dino Run: Locked In",
+      "work_url": "https://noclipepe.pages.dev/dino/",
+      "posts": [
+        "https://x.com/noclipepe/status/2119927838321328577"
+      ]
+    },
+    {
+      "work_title": "Dread & District",
+      "work_url": "https://dread-and-district.netlify.app/",
+      "posts": [
+        "https://x.com/emollick/status/2120248525254742318"
+      ]
+    },
+    {
+      "work_title": "Evensong",
+      "work_url": "https://evensong-phi.vercel.app/",
+      "posts": [
+        "https://x.com/kevin_t_ngo/status/2120238844754923874"
+      ]
+    },
+    {
+      "work_title": "Fable 5.2 FPS Reproduction",
+      "work_url": "https://wquguru.github.io/fable52-fps-repro/",
+      "posts": [
+        "https://x.com/wquguru/status/2120383332722905400"
+      ]
+    },
+    {
+      "work_title": "FEED",
+      "work_url": "https://feed-backrooms.vercel.app/",
+      "posts": [
+        "https://x.com/LexnLin/status/2119966127149429093"
+      ]
+    },
+    {
+      "work_title": "Gilt & Gutter",
+      "work_url": "https://gilt-and-gutter.vercel.app/",
+      "posts": [
+        "https://x.com/kevin_t_ngo/status/2119900487688622171"
+      ]
+    },
+    {
+      "work_title": "HITOFUDE 一筆",
+      "work_url": "https://shubhu121.github.io/hitdude/play/",
+      "posts": [
+        "https://x.com/positronx_/status/2120374208043876422"
+      ]
+    },
+    {
+      "work_title": "Hogwarts Royale",
+      "work_url": "https://www.spawn.co/@mattshumer/hogwarts-royale",
+      "posts": [
+        "https://x.com/mattshumer_/status/2119872098306810226"
+      ]
+    },
+    {
+      "work_title": "I Would Have Gotten Away With It",
+      "work_url": "https://i-would-have-gotten-away-with-it.netlify.app/",
+      "posts": [
+        "https://x.com/emollick/status/2119876449494540554"
+      ]
+    },
+    {
+      "work_title": "IRONDUSK — Yard 7",
+      "work_url": "https://qiaomu.t5t6.com/irondusk-yard-7/",
+      "posts": [
+        "https://x.com/vista8/status/2120383046239285264"
+      ]
+    },
+    {
+      "work_title": "Jerusalem at Passover",
+      "work_url": "https://fable-jerusalem.vercel.app/",
+      "posts": [
+        "https://x.com/kplikethebird/status/2119900775727902732"
+      ]
+    },
+    {
+      "work_title": "LANTERNFALL",
+      "work_url": "https://loktar00.github.io/lanternfall/",
+      "posts": [
+        "https://x.com/loktar00/status/2120192761542615271"
+      ]
+    },
+    {
+      "work_title": "Miami-style crime game",
+      "work_url": "https://x.com/ericmaskfr/status/2119910195325481026",
+      "posts": [
+        "https://x.com/ericmaskfr/status/2119910195325481026"
+      ]
+    },
+    {
+      "work_title": "Mirror Earth",
+      "work_url": "https://www.spawn.co/@mattshumer/earth?room=local",
+      "posts": [
+        "https://x.com/mattshumer_/status/2119877065701036047"
+      ]
+    },
+    {
+      "work_title": "Oil paint",
+      "work_url": "https://patch.gg/blendi/oil-paint",
+      "posts": [
+        "https://x.com/BlendiByl/status/2120341251178594532"
+      ]
+    },
+    {
+      "work_title": "ONE SWEEP · 一掃",
+      "work_url": "https://github.com/anstapnever/one-sweep",
+      "posts": [
+        "https://x.com/anstapnever/status/2119772039037014524"
+      ]
+    },
+    {
+      "work_title": "Portals",
+      "work_url": "https://portals-endless-worlds.netlify.app/",
+      "posts": [
+        "https://x.com/emollick/status/2119918307457577163"
+      ]
+    },
+    {
+      "work_title": "Rome, AD 320",
+      "work_url": "https://fable-rome.surge.sh/",
+      "posts": [
+        "https://x.com/petergostev/status/2120167560700383572"
+      ]
+    },
+    {
+      "work_title": "Rooftop Rally",
+      "work_url": "https://wavedash.com/games/rooftop-rally",
+      "posts": [
+        "https://x.com/chongdashu/status/2120154573356793883"
+      ]
+    },
+    {
+      "work_title": "Rug Racers",
+      "work_url": "https://noclipepe.pages.dev/rug/",
+      "posts": [
+        "https://x.com/noclipepe/status/2119728047754547326"
+      ]
+    },
+    {
+      "work_title": "Saltline",
+      "work_url": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
+      "posts": [
+        "https://x.com/felixrieseberg/status/2119925633564463609"
+      ]
+    },
+    {
+      "work_title": "Siege Wing",
+      "work_url": "https://bannerfall.itch.io/siege-wing",
+      "posts": [
+        "https://x.com/builderjaydub/status/2120223731520040966"
+      ]
+    },
+    {
+      "work_title": "Skywake",
+      "work_url": "https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057",
+      "posts": [
+        "https://x.com/aniketjart/status/2120378493729222700"
+      ]
+    },
+    {
+      "work_title": "Starry Nightrider",
+      "work_url": "https://starrynightrider.com/",
+      "posts": [
+        "https://x.com/ebbyamir/status/2120284261089673376"
+      ]
+    },
+    {
+      "work_title": "The Edge",
+      "work_url": "https://x.com/rileybrown/status/2119902109709537708",
+      "posts": [
+        "https://x.com/rileybrown/status/2119902109709537708"
+      ]
+    },
+    {
+      "work_title": "Turbo Tails",
+      "work_url": "https://turbo-tails.vercel.app/",
+      "posts": [
+        "https://x.com/petergyang/status/2119901658394358005"
+      ]
+    },
+    {
+      "work_title": "Untitled open-world driving game",
+      "work_url": "https://x.com/mattshumer_/status/2120282133503820150",
+      "posts": [
+        "https://x.com/mattshumer_/status/2120282133503820150"
+      ]
+    },
+    {
+      "work_title": "Vibes vs Luddites",
+      "work_url": "https://x.com/alightinastorm/status/2120010936584945922",
+      "posts": [
+        "https://x.com/alightinastorm/status/2120010936584945922"
+      ]
+    },
+    {
+      "work_title": "Voxel Engine",
+      "work_url": "https://www.spawn.co/@mattshumer/voxel-engine",
+      "posts": [
+        "https://x.com/mattshumer_/status/2119870965106483384"
+      ]
+    },
+    {
+      "work_title": "What the Water Keeps",
+      "work_url": "https://what-the-water-keeps.vercel.app/",
+      "posts": [
+        "https://x.com/kevin_t_ngo/status/2119868968307695818"
+      ]
+    },
+    {
+      "work_title": "Worm Rider",
+      "work_url": "https://x.com/AmirMushich/status/2119937977426338283",
+      "posts": [
+        "https://x.com/AmirMushich/status/2119937977426338283"
+      ]
+    }
+  ]
+}

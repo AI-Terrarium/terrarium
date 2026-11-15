@@ -1,0 +1,1922 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-11-15T19:08:25Z",
+  "method": "public-support-v1",
+  "sources": {
+    "bilibili:BV1ByWM6mE1D": {
+      "platform": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1ByWM6mE1D/",
+      "published_at": "2026-11-10T03:22:17+00:00",
+      "metrics": {
+        "views": 361,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "favorites": 0,
+        "coins": 0
+      },
+      "preview_url": "https://i0.hdslb.com/bfs/archive/92861dfd46a1dd8468754e366d630191efc3be4e.jpg"
+    },
+    "bilibili:BV1yJW168ENZ": {
+      "platform": "bilibili",
+      "url": "https://www.bilibili.com/video/BV1yJW168ENZ/",
+      "published_at": "2026-11-11T07:37:09+00:00",
+      "metrics": {
+        "views": 180,
+        "likes": 4,
+        "comments": 1,
+        "shares": 0,
+        "favorites": 0,
+        "coins": 2
+      },
+      "preview_url": "https://i1.hdslb.com/bfs/archive/bf91b447c932d1d140a5acc32ff5601f29f26a1e.jpg"
+    },
+    "huggingface:JohnVeds15/arcade-3d-games": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/JohnVeds15/arcade-3d-games",
+      "published_at": "2026-11-13T06:06:42.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:JohnVeds15/browser-3d-mini-games": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/JohnVeds15/browser-3d-mini-games",
+      "published_at": "2026-11-13T06:03:16.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:arad1367/Dreamy-THreeJS-SpaceMusic": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/arad1367/Dreamy-THreeJS-SpaceMusic",
+      "published_at": "2025-05-18T23:13:21.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:awacke1/Galaga-88-3D-Game": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/awacke1/Galaga-88-3D-Game",
+      "published_at": "2025-06-20T01:49:34.000Z",
+      "metrics": {
+        "likes": 1
+      }
+    },
+    "huggingface:axonis22/auto-si-webgl2": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/axonis22/auto-si-webgl2",
+      "published_at": "2026-10-04T02:00:52.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:ginipick/3D-GAME": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/ginipick/3D-GAME",
+      "published_at": "2025-03-07T05:16:50.000Z",
+      "metrics": {
+        "likes": 1
+      }
+    },
+    "huggingface:kimhyunwoo/3D-GAME": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/kimhyunwoo/3D-GAME",
+      "published_at": "2025-03-07T13:06:44.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:mrshu/claude-fable-5-bratislava-castle-oneshot": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/mrshu/claude-fable-5-bratislava-castle-oneshot",
+      "published_at": "2026-06-12T08:57:27.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:nc8304/voxel-stitch": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/nc8304/voxel-stitch",
+      "published_at": "2026-06-03T14:47:28.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:victor/fable-5-vs-5-1-boeing-747": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/victor/fable-5-vs-5-1-boeing-747",
+      "published_at": "2026-09-01T20:43:28.000Z",
+      "metrics": {
+        "likes": 4
+      }
+    },
+    "x:2119728047754547326": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119728047754547326",
+      "published_at": "2026-11-09T09:45:23.000Z",
+      "metrics": {
+        "likes": 425,
+        "comments": 41
+      }
+    },
+    "x:2119772039037014524": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119772039037014524",
+      "published_at": "2026-11-09T12:40:12.000Z",
+      "metrics": {
+        "likes": 251,
+        "comments": 15
+      }
+    },
+    "x:2119868629491789992": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119868629491789992",
+      "published_at": "2026-11-09T19:04:01.000Z",
+      "metrics": {
+        "likes": 134,
+        "comments": 4
+      }
+    },
+    "x:2119868968307695818": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119868968307695818",
+      "published_at": "2026-11-09T19:05:21.000Z",
+      "metrics": {
+        "likes": 4268,
+        "comments": 174
+      }
+    },
+    "x:2119870965106483384": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119870965106483384",
+      "published_at": "2026-11-09T19:13:18.000Z",
+      "metrics": {
+        "likes": 743,
+        "comments": 52
+      }
+    },
+    "x:2119872098306810226": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119872098306810226",
+      "published_at": "2026-11-09T19:17:48.000Z",
+      "metrics": {
+        "likes": 312,
+        "comments": 15
+      }
+    },
+    "x:2119876449494540554": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119876449494540554",
+      "published_at": "2026-11-09T19:35:05.000Z",
+      "metrics": {
+        "likes": 512,
+        "comments": 55
+      }
+    },
+    "x:2119877065701036047": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119877065701036047",
+      "published_at": "2026-11-09T19:37:32.000Z",
+      "metrics": {
+        "likes": 2413,
+        "comments": 93
+      }
+    },
+    "x:2119887623070077213": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119887623070077213",
+      "published_at": "2026-11-09T20:19:29.000Z",
+      "metrics": {
+        "likes": 3,
+        "comments": 0
+      }
+    },
+    "x:2119894656221958575": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119894656221958575",
+      "published_at": "2026-11-09T20:47:26.000Z",
+      "metrics": {
+        "likes": 4,
+        "comments": 2
+      }
+    },
+    "x:2119897113534529605": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119897113534529605",
+      "published_at": "2026-11-09T20:57:12.000Z",
+      "metrics": {
+        "likes": 593,
+        "comments": 24
+      }
+    },
+    "x:2119900487688622171": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119900487688622171",
+      "published_at": "2026-11-09T21:10:36.000Z",
+      "metrics": {
+        "likes": 330,
+        "comments": 36
+      }
+    },
+    "x:2119900775727902732": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119900775727902732",
+      "published_at": "2026-11-09T21:11:45.000Z",
+      "metrics": {
+        "likes": 43,
+        "comments": 5
+      }
+    },
+    "x:2119901658394358005": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119901658394358005",
+      "published_at": "2026-11-09T21:15:15.000Z",
+      "metrics": {
+        "likes": 141,
+        "comments": 25
+      }
+    },
+    "x:2119902109709537708": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119902109709537708",
+      "published_at": "2026-11-09T21:17:03.000Z",
+      "metrics": {
+        "likes": 7053,
+        "comments": 270
+      }
+    },
+    "x:2119904269235277978": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119904269235277978",
+      "published_at": "2026-11-09T21:25:38.000Z",
+      "metrics": {
+        "likes": 55,
+        "comments": 6
+      }
+    },
+    "x:2119905141822484595": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119905141822484595",
+      "published_at": "2026-11-09T21:29:06.000Z",
+      "metrics": {
+        "likes": 68,
+        "comments": 11
+      }
+    },
+    "x:2119906202330988961": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119906202330988961",
+      "published_at": "2026-11-09T21:33:19.000Z",
+      "metrics": {
+        "likes": 3,
+        "comments": 3
+      }
+    },
+    "x:2119906486017307074": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119906486017307074",
+      "published_at": "2026-11-09T21:34:26.000Z",
+      "metrics": {
+        "likes": 0,
+        "comments": 0
+      }
+    },
+    "x:2119907841599496421": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119907841599496421",
+      "published_at": "2026-11-09T21:39:50.000Z",
+      "metrics": {
+        "likes": 103,
+        "comments": 3
+      }
+    },
+    "x:2119908486880342326": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119908486880342326",
+      "published_at": "2026-11-09T21:42:23.000Z",
+      "metrics": {
+        "likes": 75,
+        "comments": 6
+      }
+    },
+    "x:2119909017216491720": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119909017216491720",
+      "published_at": "2026-11-09T21:44:30.000Z",
+      "metrics": {
+        "likes": 6,
+        "comments": 0
+      }
+    },
+    "x:2119909780269785332": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119909780269785332",
+      "published_at": "2026-11-09T21:47:32.000Z",
+      "metrics": {
+        "likes": 14,
+        "comments": 6
+      }
+    },
+    "x:2119910055990505730": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119910055990505730",
+      "published_at": "2026-11-09T21:48:38.000Z",
+      "metrics": {
+        "likes": 9,
+        "comments": 0
+      }
+    },
+    "x:2119910195325481026": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119910195325481026",
+      "published_at": "2026-11-09T21:49:11.000Z",
+      "metrics": {
+        "likes": 1036,
+        "comments": 140
+      }
+    },
+    "x:2119915123070644263": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119915123070644263",
+      "published_at": "2026-11-09T22:08:46.000Z",
+      "metrics": {
+        "likes": 118,
+        "comments": 5
+      }
+    },
+    "x:2119918307457577163": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119918307457577163",
+      "published_at": "2026-11-09T22:21:25.000Z",
+      "metrics": {
+        "likes": 1933,
+        "comments": 225
+      }
+    },
+    "x:2119925633564463609": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119925633564463609",
+      "published_at": "2026-11-09T22:50:32.000Z",
+      "metrics": {
+        "likes": 14809,
+        "comments": 846
+      }
+    },
+    "x:2119927838321328577": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119927838321328577",
+      "published_at": "2026-11-09T22:59:17.000Z",
+      "metrics": {
+        "likes": 172,
+        "comments": 20
+      }
+    },
+    "x:2119935331499925557": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119935331499925557",
+      "published_at": "2026-11-09T23:29:04.000Z",
+      "metrics": {
+        "likes": 1983,
+        "comments": 136
+      }
+    },
+    "x:2119937977426338283": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119937977426338283",
+      "published_at": "2026-11-09T23:39:35.000Z",
+      "metrics": {
+        "likes": 251,
+        "comments": 38
+      }
+    },
+    "x:2119966127149429093": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2119966127149429093",
+      "published_at": "2026-11-10T01:31:26.000Z",
+      "metrics": {
+        "likes": 95,
+        "comments": 10
+      }
+    },
+    "x:2120007830065614926": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2120007830065614926",
+      "published_at": "2026-11-10T04:17:09.000Z",
+      "metrics": {
+        "likes": 246,
+        "comments": 47
+      }
+    },
+    "x:2120010028073771323": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2120010028073771323",
+      "published_at": "2026-11-10T04:25:53.000Z",
+      "metrics": {
+        "likes": 212,
+        "comments": 11
+      }
+    },
+    "x:2120010936584945922": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2120010936584945922",
+      "published_at": "2026-11-10T04:29:29.000Z",
+      "metrics": {
+        "likes": 697,
+        "comments": 65
+      }
+    },
+    "x:2120017467812778053": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2120017467812778053",
+      "published_at": "2026-11-10T04:55:27.000Z",
+      "metrics": {
+        "likes": 5,
+        "comments": 2
+      }
+    },
+    "x:2120020469487440210": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2120020469487440210",
+      "published_at": "2026-11-10T05:07:22.000Z",
+      "metrics": {
+        "likes": 164,
+        "comments": 23
+      }
+    },
+    "x:2120025125076844785": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2120025125076844785",
+      "published_at": "2026-11-10T05:25:52.000Z",
+      "metrics": {
+        "likes": 19,
+        "comments": 10
+      }
+    },
+    "x:2120030097004777937": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2120030097004777937",
+      "published_at": "2026-11-10T05:45:38.000Z",
+      "metrics": {
+        "likes": 156,
+        "comments": 24
+      }
+    },
+    "x:2120154573356793883": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2120154573356793883",
+      "published_at": "2026-11-10T14:00:15.000Z",
+      "metrics": {
+        "likes": 1092,
+        "comments": 80
+      }
+    },
+    "x:2120167560700383572": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2120167560700383572",
+      "published_at": "2026-11-10T14:51:51.000Z",
+      "metrics": {
+        "likes": 967,
+        "comments": 43
+      }
+    },
+    "x:2120184709732823356": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2120184709732823356",
+      "published_at": "2026-11-10T16:00:00.000Z",
+      "metrics": {
+        "likes": 7,
+        "comments": 4
+      }
+    },
+    "x:2120192761542615271": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2120192761542615271",
+      "published_at": "2026-11-10T16:32:00.000Z",
+      "metrics": {
+        "likes": 1421,
+        "comments": 117
+      }
+    },
+    "x:2120223731520040966": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2120223731520040966",
+      "published_at": "2026-11-10T18:35:04.000Z",
+      "metrics": {
+        "likes": 564,
+        "comments": 36
+      }
+    },
+    "x:2120238844754923874": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2120238844754923874",
+      "published_at": "2026-11-10T19:35:07.000Z",
+      "metrics": {
+        "likes": 1764,
+        "comments": 133
+      }
+    },
+    "x:2120248525254742318": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2120248525254742318",
+      "published_at": "2026-11-10T20:13:35.000Z",
+      "metrics": {
+        "likes": 304,
+        "comments": 104
+      }
+    },
+    "x:2120282133503820150": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2120282133503820150",
+      "published_at": "2026-11-10T22:27:08.000Z",
+      "metrics": {
+        "likes": 7515,
+        "comments": 678
+      }
+    },
+    "x:2120284261089673376": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2120284261089673376",
+      "published_at": "2026-11-10T22:35:35.000Z",
+      "metrics": {
+        "likes": 17887,
+        "comments": 499
+      }
+    },
+    "x:2120341251178594532": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2120341251178594532",
+      "published_at": "2026-11-11T02:22:02.000Z",
+      "metrics": {
+        "likes": 7967,
+        "comments": 386
+      }
+    },
+    "x:2120374208043876422": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2120374208043876422",
+      "published_at": "2026-11-11T04:33:00.000Z",
+      "metrics": {
+        "likes": 52,
+        "comments": 12
+      }
+    },
+    "x:2120378493729222700": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2120378493729222700",
+      "published_at": "2026-11-11T04:50:02.000Z",
+      "metrics": {
+        "likes": 80,
+        "comments": 14
+      }
+    },
+    "x:2120383046239285264": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2120383046239285264",
+      "published_at": "2026-11-11T05:08:07.000Z",
+      "metrics": {
+        "likes": 20,
+        "comments": 34
+      }
+    },
+    "x:2120383332722905400": {
+      "platform": "x",
+      "url": "https://x.com/i/status/2120383332722905400",
+      "published_at": "2026-11-11T05:09:15.000Z",
+      "metrics": {
+        "likes": 160,
+        "comments": 16
+      }
+    }
+  },
+  "unavailable": [
+    {
+      "source": "github:0marm0/apartmentscout",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:1441662404/ai-arcade",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:8gsean/brick-heroes",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:abhinavbolla/3d-maker",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:abhinavv9/gemini-3d-model-viewer",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:adam-orsin/floss-and-hoop",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:aditazzz/suno-youtube-aditazzz-music",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:akashmakesdesigns/fable-sites",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:akotch/kekenon-cotonou",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:akshatgg/buddy",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:alan890104/eldor",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:albertoit-23/meridian-line",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:alebrito124356/threejs-hero-collection",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:amgainprabesh/nan-lian-garden-voxel",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:amirmushichge/worm-rider",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:amoreo140/cinderbelt",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:andrianopolino/drone_simulator",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:anois/tarot",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:anonymoususer1331/fireworks",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:anshujain1/escape_room",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:anstapnever/blackout",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:anstapnever/colossus",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:anstapnever/one-sweep",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:anujyadav-dev/solar-system-3d",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:aralimnga/claude-3d-landingpage-evolution",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:aralimnga/cube-physics-simulation",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:aravindh99/necromaniac",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:arjunemirchandani/skyward-flight-simulator",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:arjunreddy91100/bumblebee-echo-garden",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:arnavgupta00/orion",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:arnicas/bee-garden-game",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:arpitpatel25/earth-whole-story",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:ashalinux/block-shooter",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:atlassian-labs/roving-office",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:atoomnetmarc/3d-sorting-algorithm-visualizer",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:atostudios/universal-a.t.o",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:aurumdev952/claude-hackathon",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:az9713/fable-5.2-typewriter-demos",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:az9713/opus-5.5-open-world-game",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:baileypillon/overhang",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:baselashraf81/aero-kinetix",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:basemazab/tuktuk",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:bhanu2006-24/racing-game",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:bigerbigernerd/fiat-ludus",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:biswajitdasb4-oss/prompt-paws",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:bpbenpatterson/blockbound",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:bridge-mind/apex-formula",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:bridge-mind/claude-opus-5.5-zombies-game",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:bridge-mind/sonnet-5-5-zombies-game",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:bridge-mind/turbo-kart-rally",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:bridge-mind/turbo-kart-rush",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:bridge-mind/voxelcraft",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:calebschalesky-ops/ascent",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:chapeee/gridcity",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:cheng-1023-web/vibe-coding",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:ciskje/isosnake",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:coder36/trainset",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:codestz/guildhall",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:codewithbehnam/iss-edu",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:codewithmuh/fable5-websites",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:codexparadise/insects",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:codingfreeze/fable_gta",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:codingfreeze/spacefield",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:cucarol/moyu",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:cyancity/yolo-mini-fps",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:cypherpoet/three-js-apod-air-and-space-museum",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:cyraxblogs/ai-mafia",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:damijjj/status-1",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:dantecomedia/null-horizon",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:datoway/theterminal",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:davidgartenberg/openhorizon",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:ddown325/voxelcraft",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:demartinogiuseppe/animapage",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:dhananjay09892/jarvis",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:dingxiaopi/3d-pages",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:diw35688-sketch/time-simulator",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:djfumberger/agent-atoll",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:dososo/little-rain-cloud",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:drcollect/demolition-derby",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:drcollect/ocean-drive",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:e-nicko/focal-plane",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:edgegap/netcode-sample-threejs-thin-ice-tussle",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:edgegap/netcode-sample-threejs-vibe-coded",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:emollick/ai-portals",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:emollick/fable-refinery",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:eriknomitch/workmelt",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:ethanplusai/zombies",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:evangel2022/urban-fpv-drone-simulator",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:extremeai-labs/rocky-grid",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:fablestar/bayhaven",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:falshaw/ai-command-center",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:fedifianto/shuttlestrike",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:felixgollnhuber/t3-office",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:fmhc/coverwatch",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:fokrulanthro16-eng/spatial-mindstudio-ai",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:furkiozknn/bogaz-vapuru",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:furkiozknn/carsi-kacisi",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:furkiozknn/cini-ustasi",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:furkiozknn/dolmus",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:furkiozknn/ebru",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:furkiozknn/hamsi",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:furkiozknn/kale-savunmasi",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:furkiozknn/kapadokya-balonu",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:furkiozknn/karagoz",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:furkiozknn/kervan",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:furkiozknn/kirkpinar",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:furkiozknn/lale-bahcesi",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:furkiozknn/marti",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:furkiozknn/mehter",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:furkiozknn/mimar-sinan",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:furkiozknn/pamukkale",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:furkiozknn/peri-golf",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:furkiozknn/simit-firini",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:furkiozknn/topkapi-gecesi",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:garfieldhuang/sakura-river",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:gavilanbe/ceba",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:gavinlorio/fable-5.2-random-game",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:ghostoman/coin-jackpot",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:github30/fable52-gta6",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:growthwithmiao/the-rulers-chair",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:grp06/fable-5-sphere-test",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:hahaliu1029/fable5.2demo",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:hahaliu1029/house-3d",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:harleycoops/math-to-manim",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:harshitkhandelwal208/3d-engine-visualiser",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:haruka8846/dive-game",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:harukaappscreate/voxel-lab",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:hirosichen/ai-f1-racing-game",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:hirosichen/ai-harbor-master-game",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:hirosichen/ai-sky-rings-game",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:homie-wu/hideaway",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:hrithin-30/thing-game",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:hubshashwat/flowers",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:humayun-07/-haunted-manor",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:igorjohn/rotten-souls",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:infatoshi/ai-video",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:ishaaqdev/oceanos",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:ishraq21/skyborne",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:ivolivares/vaquitas-de-bloque",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:jakozaur/sf_bay_area_transit_fable_5_2_game",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:jarvis-llm-codec/gridx",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:jason-c-dev/backroad-rally",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:jasperntc/claude-constellation",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:jaydemks/imadragon_onepromptcode_game",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:jediconcepts/j1-racing",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:jeffhuber/rubiks-solver",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:jeiel85/nimbus-ring",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:jesusgalindez/threejs-ocean-simulator-skills",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:jjcm/petalwake",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:jungkunkim-glitch/cbti-3d-game",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:kai-kou/hato-no-me-kyoto",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:kanaworksai-hue/book-page-flip-generator",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:kashafs98/sangeet-nights",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:kelaiem/timesim",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:khalidabdi1/factory",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:khanh020905/my-office",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:khanmjk/fable51_hourglass",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:khanmjk/hourglass_fable5",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:kiranmohan-92/warsaw-downtown-game",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:kooemmanuel/custom-suit-studio",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:kostikoneuro/gemini-carbon-vs-fable-5-2",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:koumpas/hundred-ghosts",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:krasimirkralev/harvest-hollow",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:krowawui/3d-rubik-s-cube-game",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:kuehn-lars/couchcourt",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:kyle-itprojectmgmt/solar-system-explorer",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:learnprompt/fowl-fortress",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:leereilly/rubiks-rubrics",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:lelelilo-studios/gamedev-showcase",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:leonxlnx/golden-temple",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:loktar00/lanternfall",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:lompendans/blacksite-download",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:lukasbialozor/warszawa-na-sieci-demo",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:makerjackie/yarn-planet",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:manuelportugalreis/agent-office",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:maoawa/earth-moon",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:marcelomiyake/geotoon",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:markleary/highway-traffic-simulator",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:maximilianfeix/repoville",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:meltthemanual/stonehenge-solstice",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:mf4633/eclipse-predictor",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:miaai-lab/claude-fable-5.2-html-files",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:michaelcrosato/robot-warrior",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:mindplottech/growing-reach",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:mkasberg/astropilot-vr",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:mrnetwork0001/spatialis",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:mrpawelcz/planwalk",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:mtbba8-afk/engine-map",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:muhammadalims/glassbook",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:muhammet842/orbital-congestion-simulator-premium",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:musamisto/claudecraft",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:mutaaf/cold-gas",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:mutaaf/kin",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:mutaaf/outatime-88",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:mylesdebastion/ascii-visualizer",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:nelsen0717/agent-360",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:neon-ninja/pythagoras",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:nervouna/fable-chess",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:netanelyan/outbound",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:nevasini1/willowbrook-threejs",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:niaonao/pelecanus",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:nightlybuildhq/slash-motion",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:ninetigers/emberfall-forge-claude-fable-5.2",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:ninetigers/quiet-forge-codex-astra",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:nisake/anima",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:nizomiddindev/gemini-of-duty",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:nnnnnnnnnke/neon-surge",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:nunoamorim99/beagle-chomp",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:oh-agent-ai/oh-agent",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:ohylli/indys-adventure-3d",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:olagon/holua",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:ooropuloo/skill-tank",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:orodmorais/trip-map-3d",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:pablitofernandez/coinkeep",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:para-fr/claude-fable-5.2-flight-sim",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:pengqianhan/open-sky-mirage-world",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:petyok/blameless",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:petyok/life3d",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:piabrota/room",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:pieperstefan/maschinenraum",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:pj4533/election_night",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:pj4533/pnn",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:platinum04/vibe-coded-xr-biology-lab",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:poligle/ascsat",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:porcherm/planta-casa",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:preetanshmgohil-sketch/open-world-3d",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:puzzlegamesbyvk/vpegsolitaire",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:qialet/kolo",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:raphy78626/bridge-walker",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:retrocodes12/ultracraft",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:rezaulhreza/before-the-divine-wind",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:richardtheuws/cosmos-2026",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:richi2293/palm-royal",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:ripa1993/vibe-interiors",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:royfactory/claude-office",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:sabrina-creater/claude-pet",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:saftacatalinmihai/lcars",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:sam1983aing/senna-800kg",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:samvit-govindani/kinegen-prosthetic-designer-",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:sanjuhs/tiny-toybox-fireboy-minicpm",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:sarowarsuman/edumind_3d_platform_for_child",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:satsuki-c6s/ai-3d-amusement-park",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:satsuki-c6s/ai-3d-explainers",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:scotho/luminal",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:seawolf0/spectra",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:serejaris/rpg",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:sharma-prawal/gemini-tic-tac-toe-3d",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:shaunprice/soccer-3d",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:shayaniqbal2008-svg/token-skyline",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:shdra06/shieldai-industrial-safety-intelligence",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:siddqamar/cricket-doodle-inspired",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:siddqamar/midnight-shuto",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:sidoyu/gaze-cathedral-claude-fable-5.2",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:sidoyu/gaze-cathedral-codex-astra",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:sigco3111/gemini_experience",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:silexened-create/iastronaut",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:soheyltaheri/modern-house-3d",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:squall01337/abyssal-ocean",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:stanlee7/robot-arm-3d-lab",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:starknightt/tiny-planet",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:sy059922/bone-typing",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/astra-potato-farm",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/autumn-castle",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/bunbetsu-beat",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/citygrow",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/clawd-7-8",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/clawd-city-pop-lounge",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/clawd-flow-desk",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/dystopia-meshi",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/earthquake-monitor-3d",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/fossil-horihori",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/futari-no-ie",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/hakobi-algorithm",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/ice-morimori",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/ink-arcade",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/kaiju-dokan",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/lantern-night",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/last-courier",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/madobe-no-umi",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/nova-lancer",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/out-of-the-box",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/ponpoko-kart",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/sawagani-aquaterrarium",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/signal-dilemma",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/sofa-ga-aru",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/tanuki-rush",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/trailscape",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/wasuremono-station",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tanuu5/water-game",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:techgendm/dead-air",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:thefolahan/sombrero-galaxy",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:theicd/astrafarm",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:themizeguy/fable-5.2-potatobench",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:theredstapler/orb-shooter",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tky-27/xo-beta",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tmoody1973/hopper",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tonydowney/periplus",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:toontalk/ant-playground",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:topway-ai/harbor-blackout-gemini",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tornikegomareli/matrix",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tpetedb/vibe-map",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:tpoxa/tinyarena",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:trankhanh040147/game-board",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:usama-shiranai90/claude-of-iron",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:vladi21k/3dscenerenderer",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:wag-me/vibeship",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:wayneeffect/gemini-3d-car-racing-game",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:webking021/dustfall",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:william89971/road-to-el-salvador",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:winchxyz/crunch-time",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:winchxyz/tria-prima",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:workdd/context-brain",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:wquguru/fable52-fps-repro",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:xiaozhenliu/boeing-fable-5-2",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:xiobio/pelican-ride",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:xucroyuri/dinosaur-ocean-paradise",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:xxcool/smart-warehouse",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:y-migita/villa-savoye-fable",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:yinchao-jack/roadster-flight-experience",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:yiwili/3a-games",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:yohhoy/vibe-screensaver",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:yojoxsn/vault-3d",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:yusen-dev/living-ascii",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:zaafirrizwan/k8s-skyrealm",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:zhangyu-gif/particle-planet",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:zilk102/spherio",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "github:zohaibmahar234/matchgrid-stadium-ops",
+      "reason": "GITHUB_TOKEN not configured"
+    },
+    {
+      "source": "reddit:1xs8rut",
+      "reason": "HTTPError"
+    },
+    {
+      "source": "reddit:1xsuqwm",
+      "reason": "HTTPError"
+    },
+    {
+      "source": "reddit:1xt2kax",
+      "reason": "HTTPError"
+    },
+    {
+      "source": "youtube:0vNyVMDFdkg",
+      "reason": "YOUTUBE_API_KEY not configured"
+    },
+    {
+      "source": "youtube:2TM8W66NI_8",
+      "reason": "YOUTUBE_API_KEY not configured"
+    }
+  ]
+}

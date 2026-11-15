@@ -1,21 +1,25 @@
-<p align="center"><a href="../README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/logo-dark.svg"><img src="../assets/logo-light.svg" height="56" alt="Terrarium"></picture></a></p>
+<a name="top"></a>
 
-<p align="center"><b>Open 3D Worlds Made with Code</b></p>
+<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="../assets/logo.svg" width="64" height="64" alt="Terrarium"></a></p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Website-coming%20soon-6e7681?labelColor=30363d&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjkgMTIgNDYgNDAiPjxwYXRoIGQ9Ik0xNyA0NVYyOC41YTE1IDE1IDAgMCAxIDMwIDBWNDUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2VlZjBmMyIgc3Ryb2tlLXdpZHRoPSIzLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxwYXRoIGQ9Ik0yMCA0NWw4LjUtMTUuNSA5LjUgMTUuNXpNMzQuNSA0NWw1LTkuNSA1IDkuNXoiIGZpbGw9IiNjNmYyNWEiLz48cmVjdCB4PSIxMS41IiB5PSI0NSIgd2lkdGg9IjQxIiBoZWlnaHQ9IjUiIHJ4PSIyLjUiIGZpbGw9IiNlZWYwZjMiLz48L3N2Zz4%3D" height="22" alt="Website: coming soon">
-<a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/Dataset-Hugging%20Face-c6f25a?labelColor=30363d&amp;logo=huggingface&amp;logoColor=ffd21e" height="22" alt="Dataset: Hugging Face"></a>
-<a href="https://huggingface.co/spaces/awesome-fable-5-2/game-platform"><img src="https://img.shields.io/badge/Space-Hugging%20Face-c6f25a?labelColor=30363d&amp;logo=huggingface&amp;logoColor=ffd21e" height="22" alt="Space: Hugging Face"></a>
-<a href="https://huggingface.co/collections/awesome-fable-5-2/terrarium-open-works-6af83d6003be12bf9aaf3d21"><img src="https://img.shields.io/badge/Collection-Hugging%20Face-c6f25a?labelColor=30363d&amp;logo=huggingface&amp;logoColor=ffd21e" height="22" alt="Collection: Hugging Face"></a>
-</p>
+<p align="center"><b>Terrarium</b></p>
 
-<p align="center"><a href="../README.md">Home</a> · <b>Games</b> · <a href="../videos/README.md">Videos</a> · <a href="../scenes/README.md">Scenes</a> · <a href="../wallpapers/README.md">Wallpapers</a> · <a href="../tools/README.md">Tools</a> · <a href="../visualizations/README.md">Visualizations</a><br><b>English</b> · <a href="README.zh-CN.md">简体中文</a></p>
+<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="https://img.shields.io/badge/Website-Terrarium-c6f25a?labelColor=30363d" height="22" alt="Website"></a>
+<a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/Source%20archive-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="Source archive"></a></p>
+
+<p align="center"><sub><b>English</b> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a><br><a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ru.md">Русский</a></sub></p>
+
+<p align="center"><a href="../README.md#trending">Trending</a> · <a href="../README.md#latest">Latest</a> · <a href="../README.md#contents">Contents</a></p>
 
 <h1 align="center">Games</h1>
 
-<p align="center">228 entries. 3D games with a goal, rules or a score, grouped by gameplay: shooters, racing, flight, puzzles and more.</p>
+<p align="center">228 entries. Shooters, driving, flight, puzzles and everything in between.</p>
 
-<p align="center"><a href="#shooter">Shooter</a> 46 · <a href="#action-and-combat">Action and combat</a> 20 · <a href="#platformer-and-runner">Platformer and runner</a> 9 · <a href="#racing-and-driving">Racing and driving</a> 35 · <a href="#flight">Flight</a> 14 · <a href="#sports">Sports</a> 11 · <a href="#adventure-and-exploration">Adventure and exploration</a> 27 · <a href="#puzzle">Puzzle</a> 10 · <a href="#strategy-and-management">Strategy and management</a> 20 · <a href="#sandbox">Sandbox</a> 6 · <a href="#casual-and-arcade">Casual and arcade</a> 19 · <a href="#interactive-story">Interactive story</a> 2 · <a href="#simulation-and-visualization">Simulation and visualization</a> 1 · <a href="#other-games">Other games</a> 8</p>
+<p><a href="#genre-shooter">Shooter</a> <b>46</b> · <a href="#genre-action-and-combat">Action &amp; combat</a> <b>20</b> · <a href="#genre-platformer-and-runner">Platformer &amp; runner</a> <b>9</b> · <a href="#genre-racing-and-driving">Racing &amp; driving</a> <b>35</b> · <a href="#genre-flight">Flight</a> <b>14</b> · <a href="#genre-sports">Sports</a> <b>11</b> · <a href="#genre-adventure-and-exploration">Adventure &amp; exploration</a> <b>27</b> · <a href="#genre-puzzle">Puzzle</a> <b>10</b> · <a href="#genre-strategy-and-management">Strategy &amp; management</a> <b>20</b> · <a href="#genre-sandbox">Sandbox</a> <b>6</b> · <a href="#genre-casual-and-arcade">Casual &amp; arcade</a> <b>19</b> · <a href="#genre-interactive-story">Interactive story</a> <b>2</b> · <a href="#genre-simulation-and-visualization">Simulation &amp; visualization</a> <b>1</b> · <a href="#genre-other-games">Other games</a> <b>8</b></p>
+
+<!-- CATALOG:START -->
+
+<a name="genre-shooter"></a>
 
 ## Shooter
 
@@ -99,7 +103,9 @@ Works without a preview image:
 <tr><td><a href="https://workmelt.com">Workmelt</a></td><td><a href="https://github.com/eriknomitch">Erik Nomitch</a></td><td>MIT</td><td><a href="https://github.com/eriknomitch/workmelt">Code</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/workmelt">Files</a></td></tr>
 </table>
 
-## Action and combat
+<a name="genre-action-and-combat"></a>
+
+## Action & combat
 
 <table>
 <tr>
@@ -143,7 +149,9 @@ Works without a preview image:
 <tr><td><a href="https://www.youtube.com/watch?v=2TM8W66NI_8&amp;t=566s">Shard Storm</a></td><td>Matt Wolfe</td><td>License unknown</td><td>—</td></tr>
 </table>
 
-## Platformer and runner
+<a name="genre-platformer-and-runner"></a>
+
+## Platformer & runner
 
 <table>
 <tr>
@@ -168,7 +176,9 @@ Works without a preview image:
 <tr><td><a href="https://www.youtube.com/watch?v=0vNyVMDFdkg&amp;t=364s">Tumble Beans</a></td><td>Matthew Berman</td><td>License unknown</td><td>—</td></tr>
 </table>
 
-## Racing and driving
+<a name="genre-racing-and-driving"></a>
+
+## Racing & driving
 
 <table>
 <tr>
@@ -235,6 +245,8 @@ Works without a preview image:
 <tr><td><a href="https://luminal-game.web.app">Luminal</a></td><td><a href="https://github.com/Scotho">Craig Smith</a></td><td>MIT</td><td><a href="https://github.com/Scotho/luminal">Code</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/luminal">Files</a></td></tr>
 </table>
 
+<a name="genre-flight"></a>
+
 ## Flight
 
 <table>
@@ -271,6 +283,8 @@ Works without a preview image:
 <tr><td><a href="https://github.com/DavidGartenberg/openhorizon">OpenHorizon</a></td><td><a href="https://github.com/DavidGartenberg">DavidGartenberg</a></td><td>MIT</td><td><a href="https://github.com/DavidGartenberg/openhorizon">Code</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/openhorizon">Files</a></td></tr>
 </table>
 
+<a name="genre-sports"></a>
+
 ## Sports
 
 <table>
@@ -301,7 +315,9 @@ Works without a preview image:
 <tr><td><a href="https://github.com/kuehn-lars/CouchCourt">CouchCourt</a></td><td><a href="https://github.com/kuehn-lars">Lars Kühn</a></td><td>MIT</td><td><a href="https://github.com/kuehn-lars/CouchCourt">Code</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/couchcourt">Files</a></td></tr>
 </table>
 
-## Adventure and exploration
+<a name="genre-adventure-and-exploration"></a>
+
+## Adventure & exploration
 
 <table>
 <tr>
@@ -353,6 +369,8 @@ Works without a preview image:
 <tr><td><a href="https://higgsfield.ai/@higgsfield.studio/blogs/one-drawing-fable-5-2-turned-it-into-a-horror-game">Tin Knight: After Dark</a></td><td>Higgsfield</td><td>License unknown</td><td>—</td></tr>
 </table>
 
+<a name="genre-puzzle"></a>
+
 ## Puzzle
 
 <table>
@@ -376,7 +394,9 @@ Works without a preview image:
 </tr>
 </table>
 
-## Strategy and management
+<a name="genre-strategy-and-management"></a>
+
+## Strategy & management
 
 <table>
 <tr>
@@ -415,6 +435,8 @@ Works without a preview image:
 <tr><td><a href="https://claude.ai/artifact/D8t6NHbpDJXtCovZU6KADP">Larkhollow</a></td><td>@<span></span>lucian__03 (credited in Reddit write-up)</td><td>License unknown</td><td>—</td></tr>
 </table>
 
+<a name="genre-sandbox"></a>
+
 ## Sandbox
 
 <table>
@@ -432,7 +454,9 @@ Works without a preview image:
 </tr>
 </table>
 
-## Casual and arcade
+<a name="genre-casual-and-arcade"></a>
+
+## Casual & arcade
 
 <table>
 <tr>
@@ -471,6 +495,8 @@ Works without a preview image:
 <tr><td><a href="https://github.com/Zilk102/spherio">Sphere3D</a></td><td><a href="https://github.com/Zilk102">Ivan Moskvichev</a></td><td>MIT</td><td><a href="https://github.com/Zilk102/spherio">Code</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/sphere3d">Files</a></td></tr>
 </table>
 
+<a name="genre-interactive-story"></a>
+
 ## Interactive story
 
 <table>
@@ -482,7 +508,9 @@ Works without a preview image:
 </tr>
 </table>
 
-## Simulation and visualization
+<a name="genre-simulation-and-visualization"></a>
+
+## Simulation & visualization
 
 <table>
 <tr>
@@ -492,6 +520,8 @@ Works without a preview image:
 <td width="25%"></td>
 </tr>
 </table>
+
+<a name="genre-other-games"></a>
 
 ## Other games
 
@@ -517,8 +547,8 @@ Works without a preview image:
 <tr><td><a href="https://github.com/cucarol/moyu">moyu</a> · Collection of 3 works</td><td><a href="https://github.com/cucarol">cuca</a></td><td>MIT</td><td><a href="https://github.com/cucarol/moyu">Code</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/moyu">Files</a></td></tr>
 </table>
 
+<!-- CATALOG:END -->
+
 ---
 
-<p align="center"><a href="../README.md"><img src="../assets/mark.svg" height="32" alt="Terrarium"></a></p>
-
-<p align="center"><sub><a href="../README.md">Home</a> · <a href="../games/README.md">Games</a> · <a href="../videos/README.md">Videos</a> · <a href="../scenes/README.md">Scenes</a> · <a href="../wallpapers/README.md">Wallpapers</a> · <a href="../tools/README.md">Tools</a> · <a href="../visualizations/README.md">Visualizations</a> · <a href="#top">Back to top</a><br>Terrarium: Open 3D Worlds Made with Code · Data as of 2026-11-14</sub></p>
+<p align="center"><a href="../README.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../README.md">Home</a> · <a href="../games/README.md">Games</a> · <a href="../scenes/README.md">Worlds &amp; Scenes</a> · <a href="../videos/README.md">Videos</a> · <a href="../tools/README.md">Tools</a> · <a href="../visualizations/README.md">Visualizations</a> · <a href="../wallpapers/README.md">Wallpapers</a> · <a href="#top">Back to top</a><br>Catalog data: 2026-11-14</sub></p>

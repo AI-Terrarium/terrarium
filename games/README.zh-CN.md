@@ -1,21 +1,25 @@
-<p align="center"><a href="../README.zh-CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/logo-dark.svg"><img src="../assets/logo-light.svg" height="56" alt="Terrarium"></picture></a></p>
+<a name="top"></a>
 
-<p align="center"><b>Open 3D Worlds Made with Code</b></p>
+<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="../assets/logo.svg" width="64" height="64" alt="Terrarium"></a></p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/%E7%BD%91%E7%AB%99-%E5%8D%B3%E5%B0%86%E5%BC%80%E6%94%BE-6e7681?labelColor=30363d&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjkgMTIgNDYgNDAiPjxwYXRoIGQ9Ik0xNyA0NVYyOC41YTE1IDE1IDAgMCAxIDMwIDBWNDUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2VlZjBmMyIgc3Ryb2tlLXdpZHRoPSIzLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxwYXRoIGQ9Ik0yMCA0NWw4LjUtMTUuNSA5LjUgMTUuNXpNMzQuNSA0NWw1LTkuNSA1IDkuNXoiIGZpbGw9IiNjNmYyNWEiLz48cmVjdCB4PSIxMS41IiB5PSI0NSIgd2lkdGg9IjQxIiBoZWlnaHQ9IjUiIHJ4PSIyLjUiIGZpbGw9IiNlZWYwZjMiLz48L3N2Zz4%3D" height="22" alt="网站：即将开放">
-<a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/%E6%95%B0%E6%8D%AE%E9%9B%86-Hugging%20Face-c6f25a?labelColor=30363d&amp;logo=huggingface&amp;logoColor=ffd21e" height="22" alt="数据集：Hugging Face"></a>
-<a href="https://huggingface.co/spaces/awesome-fable-5-2/game-platform"><img src="https://img.shields.io/badge/Space-Hugging%20Face-c6f25a?labelColor=30363d&amp;logo=huggingface&amp;logoColor=ffd21e" height="22" alt="Space：Hugging Face"></a>
-<a href="https://huggingface.co/collections/awesome-fable-5-2/terrarium-open-works-6af83d6003be12bf9aaf3d21"><img src="https://img.shields.io/badge/Collection-Hugging%20Face-c6f25a?labelColor=30363d&amp;logo=huggingface&amp;logoColor=ffd21e" height="22" alt="Collection：Hugging Face"></a>
-</p>
+<p align="center"><b>Terrarium</b></p>
 
-<p align="center"><a href="../README.zh-CN.md">首页</a> · <b>游戏</b> · <a href="../videos/README.zh-CN.md">视频</a> · <a href="../scenes/README.zh-CN.md">场景</a> · <a href="../wallpapers/README.zh-CN.md">壁纸</a> · <a href="../tools/README.zh-CN.md">工具</a> · <a href="../visualizations/README.zh-CN.md">可视化</a><br><a href="README.md">English</a> · <b>简体中文</b></p>
+<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="https://img.shields.io/badge/%E5%AE%98%E7%BD%91-Terrarium-c6f25a?labelColor=30363d" height="22" alt="官网"></a>
+<a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/%E6%BA%90%E7%A0%81%E5%BD%92%E6%A1%A3-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="源码归档"></a></p>
+
+<p align="center"><sub><a href="README.md">English</a> · <b>简体中文</b> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a><br><a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ru.md">Русский</a></sub></p>
+
+<p align="center"><a href="../README.zh-CN.md#trending">最热</a> · <a href="../README.zh-CN.md#latest">最新</a> · <a href="../README.zh-CN.md#contents">目录</a></p>
 
 <h1 align="center">游戏</h1>
 
-<p align="center">228 个条目。有目标、规则或分数的 3D 游戏，按玩法分小节：射击、竞速、飞行、解谜等。</p>
+<p align="center">228 个条目。 从射击、竞速与飞行，到冒险、解谜和沙盒。</p>
 
-<p align="center"><a href="#射击">射击</a> 46 · <a href="#动作与战斗">动作与战斗</a> 20 · <a href="#平台跳跃与跑酷">平台跳跃与跑酷</a> 9 · <a href="#竞速与驾驶">竞速与驾驶</a> 35 · <a href="#飞行">飞行</a> 14 · <a href="#体育">体育</a> 11 · <a href="#冒险与探索">冒险与探索</a> 27 · <a href="#解谜">解谜</a> 10 · <a href="#策略与经营">策略与经营</a> 20 · <a href="#沙盒">沙盒</a> 6 · <a href="#休闲与街机">休闲与街机</a> 19 · <a href="#互动叙事">互动叙事</a> 2 · <a href="#模拟与可视化">模拟与可视化</a> 1 · <a href="#其他游戏">其他游戏</a> 8</p>
+<p><a href="#genre-shooter">射击</a> <b>46</b> · <a href="#genre-action-and-combat">动作与战斗</a> <b>20</b> · <a href="#genre-platformer-and-runner">平台跳跃与跑酷</a> <b>9</b> · <a href="#genre-racing-and-driving">竞速与驾驶</a> <b>35</b> · <a href="#genre-flight">飞行</a> <b>14</b> · <a href="#genre-sports">体育</a> <b>11</b> · <a href="#genre-adventure-and-exploration">冒险与探索</a> <b>27</b> · <a href="#genre-puzzle">解谜</a> <b>10</b> · <a href="#genre-strategy-and-management">策略与经营</a> <b>20</b> · <a href="#genre-sandbox">沙盒</a> <b>6</b> · <a href="#genre-casual-and-arcade">休闲与街机</a> <b>19</b> · <a href="#genre-interactive-story">互动叙事</a> <b>2</b> · <a href="#genre-simulation-and-visualization">模拟与可视化</a> <b>1</b> · <a href="#genre-other-games">其他游戏</a> <b>8</b></p>
+
+<!-- CATALOG:START -->
+
+<a name="genre-shooter"></a>
 
 ## 射击
 
@@ -99,6 +103,8 @@
 <tr><td><a href="https://workmelt.com">Workmelt</a></td><td><a href="https://github.com/eriknomitch">Erik Nomitch</a></td><td>MIT</td><td><a href="https://github.com/eriknomitch/workmelt">代码</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/workmelt">文件</a></td></tr>
 </table>
 
+<a name="genre-action-and-combat"></a>
+
 ## 动作与战斗
 
 <table>
@@ -143,6 +149,8 @@
 <tr><td><a href="https://www.youtube.com/watch?v=2TM8W66NI_8&amp;t=566s">Shard Storm</a></td><td>Matt Wolfe</td><td>许可证未知</td><td>—</td></tr>
 </table>
 
+<a name="genre-platformer-and-runner"></a>
+
 ## 平台跳跃与跑酷
 
 <table>
@@ -167,6 +175,8 @@
 <tr><td><a href="https://www.reddit.com/r/vibecoding/comments/1xsuqwm/fable_52_oneshot_a_super_nintendo_game_overnight/">Emberwake</a></td><td>u/shiny_guruw (ppu.toys)</td><td>许可证未知</td><td>—</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=0vNyVMDFdkg&amp;t=364s">Tumble Beans</a></td><td>Matthew Berman</td><td>许可证未知</td><td>—</td></tr>
 </table>
+
+<a name="genre-racing-and-driving"></a>
 
 ## 竞速与驾驶
 
@@ -235,6 +245,8 @@
 <tr><td><a href="https://luminal-game.web.app">Luminal</a></td><td><a href="https://github.com/Scotho">Craig Smith</a></td><td>MIT</td><td><a href="https://github.com/Scotho/luminal">代码</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/luminal">文件</a></td></tr>
 </table>
 
+<a name="genre-flight"></a>
+
 ## 飞行
 
 <table>
@@ -271,6 +283,8 @@
 <tr><td><a href="https://github.com/DavidGartenberg/openhorizon">OpenHorizon</a></td><td><a href="https://github.com/DavidGartenberg">DavidGartenberg</a></td><td>MIT</td><td><a href="https://github.com/DavidGartenberg/openhorizon">代码</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/openhorizon">文件</a></td></tr>
 </table>
 
+<a name="genre-sports"></a>
+
 ## 体育
 
 <table>
@@ -300,6 +314,8 @@
 <tr><th align="left">作品</th><th align="left">作者</th><th align="left">许可证</th><th align="left">链接</th></tr>
 <tr><td><a href="https://github.com/kuehn-lars/CouchCourt">CouchCourt</a></td><td><a href="https://github.com/kuehn-lars">Lars Kühn</a></td><td>MIT</td><td><a href="https://github.com/kuehn-lars/CouchCourt">代码</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/couchcourt">文件</a></td></tr>
 </table>
+
+<a name="genre-adventure-and-exploration"></a>
 
 ## 冒险与探索
 
@@ -353,6 +369,8 @@
 <tr><td><a href="https://higgsfield.ai/@higgsfield.studio/blogs/one-drawing-fable-5-2-turned-it-into-a-horror-game">Tin Knight: After Dark</a></td><td>Higgsfield</td><td>许可证未知</td><td>—</td></tr>
 </table>
 
+<a name="genre-puzzle"></a>
+
 ## 解谜
 
 <table>
@@ -375,6 +393,8 @@
 <td width="25%"></td>
 </tr>
 </table>
+
+<a name="genre-strategy-and-management"></a>
 
 ## 策略与经营
 
@@ -415,6 +435,8 @@
 <tr><td><a href="https://claude.ai/artifact/D8t6NHbpDJXtCovZU6KADP">Larkhollow</a></td><td>@<span></span>lucian__03 (credited in Reddit write-up)</td><td>许可证未知</td><td>—</td></tr>
 </table>
 
+<a name="genre-sandbox"></a>
+
 ## 沙盒
 
 <table>
@@ -431,6 +453,8 @@
 <td width="25%"></td>
 </tr>
 </table>
+
+<a name="genre-casual-and-arcade"></a>
 
 ## 休闲与街机
 
@@ -471,6 +495,8 @@
 <tr><td><a href="https://github.com/Zilk102/spherio">Sphere3D</a></td><td><a href="https://github.com/Zilk102">Ivan Moskvichev</a></td><td>MIT</td><td><a href="https://github.com/Zilk102/spherio">代码</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/sphere3d">文件</a></td></tr>
 </table>
 
+<a name="genre-interactive-story"></a>
+
 ## 互动叙事
 
 <table>
@@ -482,6 +508,8 @@
 </tr>
 </table>
 
+<a name="genre-simulation-and-visualization"></a>
+
 ## 模拟与可视化
 
 <table>
@@ -492,6 +520,8 @@
 <td width="25%"></td>
 </tr>
 </table>
+
+<a name="genre-other-games"></a>
 
 ## 其他游戏
 
@@ -517,8 +547,8 @@
 <tr><td><a href="https://github.com/cucarol/moyu">moyu</a> · 合集，3 个作品</td><td><a href="https://github.com/cucarol">cuca</a></td><td>MIT</td><td><a href="https://github.com/cucarol/moyu">代码</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/moyu">文件</a></td></tr>
 </table>
 
+<!-- CATALOG:END -->
+
 ---
 
-<p align="center"><a href="../README.zh-CN.md"><img src="../assets/mark.svg" height="32" alt="Terrarium"></a></p>
-
-<p align="center"><sub><a href="../README.zh-CN.md">首页</a> · <a href="../games/README.zh-CN.md">游戏</a> · <a href="../videos/README.zh-CN.md">视频</a> · <a href="../scenes/README.zh-CN.md">场景</a> · <a href="../wallpapers/README.zh-CN.md">壁纸</a> · <a href="../tools/README.zh-CN.md">工具</a> · <a href="../visualizations/README.zh-CN.md">可视化</a> · <a href="#top">返回顶部</a><br>Terrarium: Open 3D Worlds Made with Code · 数据日期：2026-11-14</sub></p>
+<p align="center"><a href="../README.zh-CN.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../README.zh-CN.md">首页</a> · <a href="../games/README.zh-CN.md">游戏</a> · <a href="../scenes/README.zh-CN.md">世界与场景</a> · <a href="../videos/README.zh-CN.md">视频</a> · <a href="../tools/README.zh-CN.md">工具</a> · <a href="../visualizations/README.zh-CN.md">可视化</a> · <a href="../wallpapers/README.zh-CN.md">壁纸</a> · <a href="#top">返回顶部</a><br>目录数据：2026-11-14</sub></p>

@@ -1,19 +1,23 @@
-<p align="center"><a href="../README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/logo-dark.svg"><img src="../assets/logo-light.svg" height="56" alt="Terrarium"></picture></a></p>
+<a name="top"></a>
 
-<p align="center"><b>Open 3D Worlds Made with Code</b></p>
+<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="../assets/logo.svg" width="64" height="64" alt="Terrarium"></a></p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Website-coming%20soon-6e7681?labelColor=30363d&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjkgMTIgNDYgNDAiPjxwYXRoIGQ9Ik0xNyA0NVYyOC41YTE1IDE1IDAgMCAxIDMwIDBWNDUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2VlZjBmMyIgc3Ryb2tlLXdpZHRoPSIzLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxwYXRoIGQ9Ik0yMCA0NWw4LjUtMTUuNSA5LjUgMTUuNXpNMzQuNSA0NWw1LTkuNSA1IDkuNXoiIGZpbGw9IiNjNmYyNWEiLz48cmVjdCB4PSIxMS41IiB5PSI0NSIgd2lkdGg9IjQxIiBoZWlnaHQ9IjUiIHJ4PSIyLjUiIGZpbGw9IiNlZWYwZjMiLz48L3N2Zz4%3D" height="22" alt="Website: coming soon">
-<a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/Dataset-Hugging%20Face-c6f25a?labelColor=30363d&amp;logo=huggingface&amp;logoColor=ffd21e" height="22" alt="Dataset: Hugging Face"></a>
-<a href="https://huggingface.co/spaces/awesome-fable-5-2/game-platform"><img src="https://img.shields.io/badge/Space-Hugging%20Face-c6f25a?labelColor=30363d&amp;logo=huggingface&amp;logoColor=ffd21e" height="22" alt="Space: Hugging Face"></a>
-<a href="https://huggingface.co/collections/awesome-fable-5-2/terrarium-open-works-6af83d6003be12bf9aaf3d21"><img src="https://img.shields.io/badge/Collection-Hugging%20Face-c6f25a?labelColor=30363d&amp;logo=huggingface&amp;logoColor=ffd21e" height="22" alt="Collection: Hugging Face"></a>
-</p>
+<p align="center"><b>Terrarium</b></p>
 
-<p align="center"><a href="../README.md">Home</a> · <a href="../games/README.md">Games</a> · <b>Videos</b> · <a href="../scenes/README.md">Scenes</a> · <a href="../wallpapers/README.md">Wallpapers</a> · <a href="../tools/README.md">Tools</a> · <a href="../visualizations/README.md">Visualizations</a><br><b>English</b> · <a href="README.zh-CN.md">简体中文</a></p>
+<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="https://img.shields.io/badge/Website-Terrarium-c6f25a?labelColor=30363d" height="22" alt="Website"></a>
+<a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/Source%20archive-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="Source archive"></a></p>
+
+<p align="center"><sub><b>English</b> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a><br><a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ru.md">Русский</a></sub></p>
+
+<p align="center"><a href="../README.md#trending">Trending</a> · <a href="../README.md#latest">Latest</a> · <a href="../README.md#contents">Contents</a></p>
 
 <h1 align="center">Videos</h1>
 
-<p align="center">17 entries. Works whose main content is one video, such as a short film rendered by code.</p>
+<p align="center">17 entries. Films, animations and visual experiments rendered with code.</p>
+
+
+
+<!-- CATALOG:START -->
 
 <table>
 <tr>
@@ -52,8 +56,8 @@ Works without a preview image:
 <tr><td><a href="https://github.com/pj4533/pnn">PNN: Pre News Network</a></td><td><a href="https://github.com/pj4533">PJ Gray</a></td><td>MIT</td><td><a href="https://github.com/pj4533/pnn">Code</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/videos/pnn-pre-news-network">Files</a></td></tr>
 </table>
 
+<!-- CATALOG:END -->
+
 ---
 
-<p align="center"><a href="../README.md"><img src="../assets/mark.svg" height="32" alt="Terrarium"></a></p>
-
-<p align="center"><sub><a href="../README.md">Home</a> · <a href="../games/README.md">Games</a> · <a href="../videos/README.md">Videos</a> · <a href="../scenes/README.md">Scenes</a> · <a href="../wallpapers/README.md">Wallpapers</a> · <a href="../tools/README.md">Tools</a> · <a href="../visualizations/README.md">Visualizations</a> · <a href="#top">Back to top</a><br>Terrarium: Open 3D Worlds Made with Code · Data as of 2026-11-14</sub></p>
+<p align="center"><a href="../README.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../README.md">Home</a> · <a href="../games/README.md">Games</a> · <a href="../scenes/README.md">Worlds &amp; Scenes</a> · <a href="../videos/README.md">Videos</a> · <a href="../tools/README.md">Tools</a> · <a href="../visualizations/README.md">Visualizations</a> · <a href="../wallpapers/README.md">Wallpapers</a> · <a href="#top">Back to top</a><br>Catalog data: 2026-11-14</sub></p>
