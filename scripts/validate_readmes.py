@@ -4,7 +4,7 @@ from pathlib import Path
 import re
 from urllib.parse import unquote, urlsplit
 
-from i18n import CONTENT_ORDER, LOCALES
+from i18n import CONTENT_ORDER, LOCALES, page_path, relative_link
 from refresh_showcase import ROOT, load_catalog
 
 
@@ -25,7 +25,7 @@ def validate(root=ROOT):
     documents = {}
     for code, profile in LOCALES.items():
         for folder in ('', *CONTENT_ORDER):
-            path = (root / folder / profile['filename']).resolve()
+            path = (root / page_path(code, folder or None)).resolve()
             assert path.is_file(), path
             markup = path.read_text()
             assert 'assets/logo.svg' in markup, path
@@ -38,8 +38,9 @@ def validate(root=ROOT):
                 assert markup.count('<!-- SHOWCASE:START -->') == 1, path
             else:
                 assert '<!-- CATALOG:START -->' in markup, path
-            for other in LOCALES.values():
-                assert other['filename'] in doc.links or other is profile, (path, other['filename'])
+            for other_code, other in LOCALES.items():
+                link = relative_link(page_path(code, folder or None), page_path(other_code, folder or None))
+                assert link in doc.links or other_code == code, (path, link)
     checked = 0
     for path, document in documents.items():
         for value in document.links:

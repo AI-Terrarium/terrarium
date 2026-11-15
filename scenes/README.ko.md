@@ -7,9 +7,9 @@
 <p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="https://img.shields.io/badge/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-Terrarium-c6f25a?labelColor=30363d" height="22" alt="웹사이트"></a>
 <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/%EC%86%8C%EC%8A%A4%20%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="소스 아카이브"></a></p>
 
-<p align="center"><sub><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <b>한국어</b><br><a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ru.md">Русский</a></sub></p>
+<p align="center"><sub><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <b>한국어</b> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ru.md">Русский</a></sub></p>
 
-<p align="center"><a href="../README.ko.md#trending">인기</a> · <a href="../README.ko.md#latest">최신</a> · <a href="../README.ko.md#contents">목차</a></p>
+<p align="center"><a href="../docs/i18n/README.ko.md#trending">인기</a> · <a href="../docs/i18n/README.ko.md#latest">최신</a> · <a href="../docs/i18n/README.ko.md#contents">목차</a></p>
 
 <h1 align="center">월드와 장면</h1>
 
@@ -188,4 +188,4 @@
 
 ---
 
-<p align="center"><a href="../README.ko.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../README.ko.md">홈</a> · <a href="../games/README.ko.md">게임</a> · <a href="../scenes/README.ko.md">월드와 장면</a> · <a href="../videos/README.ko.md">영상</a> · <a href="../tools/README.ko.md">도구</a> · <a href="../visualizations/README.ko.md">시각화</a> · <a href="../wallpapers/README.ko.md">배경화면</a> · <a href="#top">맨 위로</a><br>목록 데이터: 2026-11-14</sub></p>
+<p align="center"><a href="../docs/i18n/README.ko.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ko.md">홈</a> · <a href="../games/README.ko.md">게임</a> · <a href="README.ko.md">월드와 장면</a> · <a href="../videos/README.ko.md">영상</a> · <a href="../tools/README.ko.md">도구</a> · <a href="../visualizations/README.ko.md">시각화</a> · <a href="../wallpapers/README.ko.md">배경화면</a> · <a href="#top">맨 위로</a><br>목록 데이터: 2026-11-14</sub></p>

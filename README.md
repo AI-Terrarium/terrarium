@@ -9,7 +9,7 @@
 <p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="https://img.shields.io/badge/Website-Terrarium-c6f25a?labelColor=30363d" height="22" alt="Website"></a>
 <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/Source%20archive-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="Source archive"></a></p>
 
-<p align="center"><sub><b>English</b> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a><br><a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ru.md">Русский</a></sub></p>
+<p align="center"><sub><b>English</b> · <a href="docs/i18n/README.zh-CN.md">简体中文</a> · <a href="docs/i18n/README.zh-TW.md">繁體中文</a> · <a href="docs/i18n/README.ja.md">日本語</a> · <a href="docs/i18n/README.ko.md">한국어</a> · <a href="docs/i18n/README.es.md">Español</a> · <a href="docs/i18n/README.pt-BR.md">Português</a> · <a href="docs/i18n/README.fr.md">Français</a> · <a href="docs/i18n/README.de.md">Deutsch</a> · <a href="docs/i18n/README.ru.md">Русский</a></sub></p>
 
 <p align="center"><a href="#trending">Trending</a> · <a href="#latest">Latest</a> · <a href="#contents">Contents</a></p>
 
@@ -22,7 +22,7 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/showcase.webp"><img src="assets/showcase.gif" width="100%" alt="Terrarium · Trending"></picture></a></p>
 
-<p align="center"><sub>Updated: 2026-11-15 19:38 UTC · Refresh scheduled every 6 hours</sub></p>
+<p align="center"><sub>Updated: 2026-11-15 19:38 UTC · Refresh scheduled every 8 hours</sub></p>
 
 <a name="showcase-links"></a>
 

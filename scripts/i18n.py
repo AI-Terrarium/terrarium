@@ -4,6 +4,9 @@ import html
 import json
 from pathlib import Path
 import re
+import posixpath
+from pathlib import PurePosixPath
+from urllib.parse import urlsplit, urlunsplit
 
 
 LOCALES = json.loads(Path(__file__).with_name("locales.json").read_text())
@@ -18,11 +21,35 @@ def translate(code, key, **values):
     return LOCALES[code]["ui"][key].format(**values)
 
 
-def language_bar(code):
+def page_path(code, category=None):
+    filename = LOCALES[code]['filename']
+    if category:
+        return PurePosixPath(category) / filename
+    return PurePosixPath(filename) if code == 'en' else PurePosixPath('docs/i18n') / filename
+
+
+def relative_link(current, target):
+    return posixpath.relpath(str(target), str(PurePosixPath(current).parent))
+
+
+def from_root(markup, code):
+    """Rebase root-relative repository links for a translated homepage."""
+    current = page_path(code)
+    def attribute(match):
+        value = match[2]
+        parts = urlsplit(value)
+        if parts.scheme or parts.netloc or not parts.path or parts.path.startswith('/'):
+            return match[0]
+        value = urlunsplit(('', '', relative_link(current, parts.path), parts.query, parts.fragment))
+        return match[1] + value + match[3]
+    return re.sub(r'((?:href|src|srcset)=")([^"]+)(")', attribute, markup)
+
+
+def language_bar(code, category=None):
     links = [f'<b>{html.escape(profile["name"])}</b>' if key == code else
-             f'<a href="{profile["filename"]}">{html.escape(profile["name"])}</a>'
+             f'<a href="{relative_link(page_path(code, category), page_path(key, category))}">{html.escape(profile["name"])}</a>'
              for key, profile in LOCALES.items()]
-    return '<p align="center"><sub>' + " · ".join(links[:5]) + '<br>' + " · ".join(links[5:]) + '</sub></p>'
+    return '<p align="center"><sub>' + " · ".join(links) + '</sub></p>'
 
 
 def localize_markup(markup, code):

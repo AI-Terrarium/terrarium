@@ -2,12 +2,13 @@ name: Refresh README showcase
 
 on:
   schedule:
-    - cron: '23 */6 * * *'
+    - cron: '23 */8 * * *'
   workflow_dispatch:
   push:
     paths:
       - 'README*.md'
       - '*/README*.md'
+      - 'docs/i18n/**'
       - 'assets/thumbs/**'
       - 'scripts/**'
       - 'data/showcase.json'
@@ -52,7 +53,7 @@ jobs:
         run: python scripts/validate_readmes.py
       - name: Commit updated showcase
         run: |
-          git add 'README*.md' '*/README*.md' assets/showcase.gif assets/showcase.webp data/showcase.json
+          git add 'README*.md' '*/README*.md' docs/i18n assets/showcase.gif assets/showcase.webp data/showcase.json
           if [ -d assets/showcase-previews ]; then
             git add assets/showcase-previews
           fi

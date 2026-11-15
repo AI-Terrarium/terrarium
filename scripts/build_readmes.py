@@ -8,7 +8,7 @@ from pathlib import Path
 import re
 from urllib.parse import quote
 
-from i18n import CONTENT_ORDER, GENRE_SLUGS, ICONS, LOCALES, language_bar, localize_markup, translate
+from i18n import CONTENT_ORDER, GENRE_SLUGS, ICONS, LOCALES, from_root, language_bar, localize_markup, page_path, relative_link, translate
 from refresh_showcase import CARD, ROOT, load_catalog, parse_entries, recent_entries, select_entries, showcase_markup
 
 WEBSITE = "https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"
@@ -30,9 +30,10 @@ def esc(value):
 
 def header(code, category=None):
     p = LOCALES[code]
-    prefix = "../" if category else ""
+    current = page_path(code, category)
+    logo = relative_link(current, 'assets/logo.svg')
     size = 64 if category else 92
-    parts = ['<a name="top"></a>', f'<p align="center"><a href="{WEBSITE}"><img src="{prefix}assets/logo.svg" width="{size}" height="{size}" alt="Terrarium"></a></p>']
+    parts = ['<a name="top"></a>', f'<p align="center"><a href="{WEBSITE}"><img src="{logo}" width="{size}" height="{size}" alt="Terrarium"></a></p>']
     parts.append('<p align="center"><b>Terrarium</b></p>' if category else '<h1 align="center">Terrarium</h1>')
     if not category:
         parts.append(f'<p align="center"><b>{esc(p["tagline"])}</b></p>')
@@ -41,19 +42,21 @@ def header(code, category=None):
         image = f'https://img.shields.io/badge/{quote(label, safe="")}-{quote(value, safe="")}-c6f25a?labelColor=30363d'
         badges.append(f'<a href="{url}"><img src="{image}" height="22" alt="{esc(label)}"></a>')
     parts.append('<p align="center">' + "\n".join(badges) + '</p>')
-    parts.append(language_bar(code))
-    home = prefix + p["filename"] if category else ""
+    parts.append(language_bar(code, category))
+    home = relative_link(current, page_path(code)) if category else ""
     parts.append('<p align="center">' + " · ".join(f'<a href="{home}#{anchor}">{esc(label)}</a>' for anchor, label in zip(("trending", "latest", "contents"), p["nav"])) + '</p>')
     return "\n\n".join(parts)
 
 
 def footer(code, date, category=False):
-    prefix = "../" if category else ""
+    current = page_path(code, category if category else None)
     p = LOCALES[code]
-    links = [f'<a href="{prefix}{p["filename"]}">{esc(p["ui"]["home"])}</a>']
-    links.extend(f'<a href="{prefix}{cat}/{p["filename"]}">{esc(p["categories"][cat])}</a>' for cat in CONTENT_ORDER)
+    home = relative_link(current, page_path(code))
+    logo = relative_link(current, 'assets/logo.svg')
+    links = [f'<a href="{home}">{esc(p["ui"]["home"])}</a>']
+    links.extend(f'<a href="{relative_link(current, page_path(code, cat))}">{esc(p["categories"][cat])}</a>' for cat in CONTENT_ORDER)
     links.append(f'<a href="#top">{esc(p["ui"]["back_top"])}</a>')
-    return '\n\n---\n\n' + f'<p align="center"><a href="{prefix}{p["filename"]}"><img src="{prefix}assets/logo.svg" height="32" alt="Terrarium"></a><br><sub>' + " · ".join(links) + '<br>' + esc(translate(code, "catalog_date", date=date)) + '</sub></p>\n'
+    return '\n\n---\n\n' + f'<p align="center"><a href="{home}"><img src="{logo}" height="32" alt="Terrarium"></a><br><sub>' + " · ".join(links) + '<br>' + esc(translate(code, "catalog_date", date=date)) + '</sub></p>\n'
 
 
 def catalog_body(markup):
@@ -87,7 +90,7 @@ def cards_table(cards, code, columns=3):
     for start in range(0, len(cards), columns):
         result.append('<tr>')
         for card in cards[start:start + columns]:
-            card = card.replace('src="../assets/', 'src="assets/')
+            card = re.sub(r'src="(?:\.\./)*assets/', 'src="assets/', card)
             result.append(f'<td width="{width}%" valign="top">{localize_markup(card, code)}</td>')
         for _ in range(columns - len(cards[start:start + columns])):
             result.append(f'<td width="{width}%"></td>')
@@ -139,7 +142,7 @@ def build_all(root=ROOT):
     for code in ('en', 'zh-CN'):
         p = LOCALES[code]
         bodies[code] = {cat: catalog_body((root / cat / p['filename']).read_text()) for cat in CONTENT_ORDER}
-        home = (root / p['filename']).read_text()
+        home = (root / page_path(code)).read_text()
         latest_section = home.split(f'## {p["nav"][1]}\n', 1)[1].split('\n## ', 1)[0]
         latest[code] = CARD.findall(latest_section)
         if len(latest[code]) < 4:
@@ -150,15 +153,16 @@ def build_all(root=ROOT):
     for code, p in LOCALES.items():
         source = code if code in ('en', 'zh-CN') else 'en'
         about = '\n\n'.join([f'<details><summary>{esc(p["ui"]["about_summary"])}</summary>', esc(p['about'][0]), esc(p['about'][1]), f'```sh\ngit clone {ARCHIVE}\n```', esc(p['about'][2]), f'<a href="scripts/SHOWCASE.md">{esc(p["ui"]["methodology"])}</a> · <a href="https://github.com/AI-Terrarium/terrarium/issues/new">{esc(p["ui"]["contribute"])}</a>', '</details>'])
-        blocks = [header(code), showcase_markup(entries, selected, ranked, state, date, now, locale=code), '<a name="latest"></a>', f'## {p["nav"][1]}', cards_table(latest[source], code, columns=4), contents(code, entries, bodies, genre_counts), f'<p align="center"><a href="{WEBSITE}">{esc(p["ui"]["open_website"])}</a> · <a href="{ARCHIVE}">{esc(p["ui"]["get_code"])}</a></p>', about]
-        outputs[root / p['filename']] = '\n\n'.join(blocks) + footer(code, date)
+        blocks = [header(code), showcase_markup(entries, selected, ranked, state, date, now, locale=code), '<a name="latest"></a>', f'## {p["nav"][1]}', from_root(cards_table(latest[source], code, columns=4), code), from_root(contents(code, entries, bodies, genre_counts), code), f'<p align="center"><a href="{WEBSITE}">{esc(p["ui"]["open_website"])}</a> · <a href="{ARCHIVE}">{esc(p["ui"]["get_code"])}</a></p>', from_root(about, code)]
+        outputs[root / page_path(code)] = '\n\n'.join(blocks) + footer(code, date)
         for cat in CONTENT_ORDER:
             group = [e for e in entries if e.category == cat]
             introduction = translate(code, 'entry_count', count=len(group)) + ' ' + p['descriptions'][cat]
             nav = genre_nav(code, genre_counts) if cat == 'games' else ''
             body = section_body(bodies[source][cat], code, cat)
-            outputs[root / cat / p['filename']] = '\n\n'.join([header(code, cat), f'<h1 align="center">{esc(p["categories"][cat])}</h1>', f'<p align="center">{esc(introduction)}</p>', nav, CAT_START, body, CAT_END]) + footer(code, date, True)
+            outputs[root / cat / p['filename']] = '\n\n'.join([header(code, cat), f'<h1 align="center">{esc(p["categories"][cat])}</h1>', f'<p align="center">{esc(introduction)}</p>', nav, CAT_START, body, CAT_END]) + footer(code, date, cat)
     for path, value in outputs.items():
+        path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(value)
     print(f'Built {len(LOCALES)} homepages and {len(LOCALES) * len(CONTENT_ORDER)} category pages')
 

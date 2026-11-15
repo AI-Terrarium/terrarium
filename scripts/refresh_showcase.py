@@ -18,7 +18,7 @@ from urllib.request import Request, urlopen
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 
 from heat import PLATFORM_NAMES, canonical_work_url, evidence_labels, fetch_metrics, rank_entries, source_for_url
-from i18n import LOCALES, translate
+from i18n import LOCALES, from_root, page_path, translate
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -314,7 +314,7 @@ def showcase_markup(entries, selected, ranked, state, catalog_date, now, chinese
         lines.extend([f'<details><summary>{html.escape(ui["sources_summary"])}</summary>', "",
                       f'{html.escape(profile["method"])} {html.escape(coverage)} <a href="data/showcase.json">{html.escape(ui["view_data"])}</a> · <a href="scripts/SHOWCASE.md">{html.escape(ui["methodology"])}</a>', "", '</details>', ""])
     lines.append(END)
-    return "\n".join(lines)
+    return from_root("\n".join(lines), code)
 
 
 def replace_showcase(markup, block):
@@ -330,7 +330,7 @@ def build(root, state, now):
     selected, ranked = select_entries(entries, recent_entries(root, entries), state)
     outputs = {}
     for code, profile in LOCALES.items():
-        name = profile["filename"]
+        name = page_path(code)
         if not (root / name).is_file():
             continue
         block = showcase_markup(entries, selected, ranked, state, catalog_date, now, locale=code)

@@ -6,6 +6,7 @@ import unittest
 from unittest.mock import patch
 
 from PIL import Image
+from i18n import page_path
 
 from heat import Source, collect_one, fetch_metrics, rank_entries, source_for_url, source_refs
 from refresh_showcase import Entry, ROOT, attach_engagement_links, build, load_catalog, recent_entries, select_entries, showcase_markup
@@ -171,7 +172,8 @@ class ShowcaseTests(unittest.TestCase):
         for category in ("games", "videos", "scenes", "wallpapers", "tools", "visualizations"):
             (root / category).mkdir()
             (root / category / "README.md").write_text((ROOT / category / "README.md").read_text())
-        for name in ("README.md", "README.zh-CN.md"):
+        for name in (page_path("en"), page_path("zh-CN")):
+            (root / name).parent.mkdir(parents=True, exist_ok=True)
             (root / name).write_text((ROOT / name).read_text())
         (root / "assets").mkdir()
 
@@ -190,14 +192,14 @@ class ShowcaseTests(unittest.TestCase):
                 self.assertEqual(animation.info["loop"], 0)
             with Image.open(root / "assets/showcase.webp") as still:
                 self.assertEqual(still.size, (1200, 450))
-            self.assertIn(date, (root / "README.zh-CN.md").read_text())
+            self.assertIn(date, (root / page_path("zh-CN")).read_text())
 
     def test_invalid_markers_leave_existing_assets_and_readmes_untouched(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
             self.prepare_root(root)
             english = (root / "README.md").read_text()
-            (root / "README.zh-CN.md").write_text("missing markers")
+            (root / page_path("zh-CN")).write_text("missing markers")
             (root / "assets/showcase.gif").write_bytes(b"previous image")
             with self.assertRaisesRegex(ValueError, "SHOWCASE marker"):
                 build(root, snapshot(stamp=None), NOW)

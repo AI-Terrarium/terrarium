@@ -7,9 +7,9 @@
 <p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="https://img.shields.io/badge/Web-Terrarium-c6f25a?labelColor=30363d" height="22" alt="Web"></a>
 <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/Archivo%20de%20c%C3%B3digo-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="Archivo de código"></a></p>
 
-<p align="center"><sub><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a><br><b>Español</b> · <a href="README.pt-BR.md">Português</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ru.md">Русский</a></sub></p>
+<p align="center"><sub><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <b>Español</b> · <a href="README.pt-BR.md">Português</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ru.md">Русский</a></sub></p>
 
-<p align="center"><a href="../README.es.md#trending">Popular</a> · <a href="../README.es.md#latest">Novedades</a> · <a href="../README.es.md#contents">Contenido</a></p>
+<p align="center"><a href="../docs/i18n/README.es.md#trending">Popular</a> · <a href="../docs/i18n/README.es.md#latest">Novedades</a> · <a href="../docs/i18n/README.es.md#contents">Contenido</a></p>
 
 <h1 align="center">Visualizaciones</h1>
 
@@ -80,4 +80,4 @@ Obras sin imagen de vista previa:
 
 ---
 
-<p align="center"><a href="../README.es.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../README.es.md">Inicio</a> · <a href="../games/README.es.md">Juegos</a> · <a href="../scenes/README.es.md">Mundos y escenas</a> · <a href="../videos/README.es.md">Vídeos</a> · <a href="../tools/README.es.md">Herramientas</a> · <a href="../visualizations/README.es.md">Visualizaciones</a> · <a href="../wallpapers/README.es.md">Fondos de pantalla</a> · <a href="#top">Volver arriba</a><br>Datos del catálogo: 2026-11-14</sub></p>
+<p align="center"><a href="../docs/i18n/README.es.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.es.md">Inicio</a> · <a href="../games/README.es.md">Juegos</a> · <a href="../scenes/README.es.md">Mundos y escenas</a> · <a href="../videos/README.es.md">Vídeos</a> · <a href="../tools/README.es.md">Herramientas</a> · <a href="README.es.md">Visualizaciones</a> · <a href="../wallpapers/README.es.md">Fondos de pantalla</a> · <a href="#top">Volver arriba</a><br>Datos del catálogo: 2026-11-14</sub></p>

@@ -6,7 +6,7 @@
 pages. Run `python3 scripts/validate_readmes.py` to check language switches,
 Contents destinations, game-genre anchors, asset paths and source counts.
 
-Translations and the approved headline live in `scripts/locales.json`. The
+Translations and the approved headline live in `scripts/locales.json`. English stays in the root `README.md`; the nine translated homepages are in `docs/i18n/`, with relative navigation and image paths generated automatically. The
 English and Simplified Chinese category bodies inside `CATALOG` markers remain
 the reviewed source; the other eight locales translate the navigation, category
 introductions, genres and metadata labels. Work names, creator names, license
@@ -52,7 +52,7 @@ For ranked works without a catalog screenshot, available public video covers
 are cached under `assets/showcase-previews/` and attributed by their source link.
 Install Noto Sans CJK or set `SHOWCASE_FONT` to a Unicode font for CJK titles.
 
-The workflow runs at minute 23 every 6 hours (UTC), on relevant default-branch
+The workflow runs at minute 23 every 8 hours (UTC), on relevant default-branch
 changes, and through **Actions → Refresh README showcase → Run workflow**.
 It becomes active when pushed to the default branch with Actions enabled and
 permission to push updates. Protected branches may require the normal repository
