@@ -12,7 +12,7 @@ from i18n import CONTENT_ORDER, GENRE_SLUGS, ICONS, LOCALES, from_root, language
 from refresh_showcase import CARD, ROOT, load_catalog, parse_entries, recent_entries, select_entries, showcase_markup
 
 WEBSITE = "https://terraium.ai/"
-ARCHIVE = "https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works"
+ARCHIVE = "https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"
 DISCORD = "https://discord.com/invite/bJqy7ev7WD"
 CAT_START, CAT_END = "<!-- CATALOG:START -->", "<!-- CATALOG:END -->"
 FEATURED = {

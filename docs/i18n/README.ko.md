@@ -4,10 +4,10 @@
 
 <h1 align="center">Terrarium</h1>
 
-<p align="center"><b>최신 3D 게임, 인터랙티브 월드와 영상을 폭넓게 소개하고 인기 목록을 8시간마다 갱신하며, 완전한 오픈 소스 코드를 모아 체험·학습·재창작으로 이어 줍니다.</b></p>
+<p align="center"><b>코드로 만든 3D 게임, 월드와 시각화를 살펴보세요. 미리보기를 보고 원작을 방문하며, 제공되는 경우 소스 코드와 다운로드 파일을 찾을 수 있습니다.</b></p>
 
 <p align="center"><a href="https://terraium.ai/"><img src="https://img.shields.io/badge/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-Terrarium-c6f25a?labelColor=30363d" height="22" alt="웹사이트"></a>
-<a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works"><img src="https://img.shields.io/badge/%EC%86%8C%EC%8A%A4%20%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="소스 아카이브"></a>
+<a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/%EC%86%8C%EC%8A%A4%20%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="소스 아카이브"></a>
 <a href="https://discord.com/invite/bJqy7ev7WD"><img src="https://img.shields.io/badge/Discord-Join-c6f25a?labelColor=30363d" height="22" alt="Discord"></a></p>
 
 <p align="center"><sub><a href="../../README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <b>한국어</b> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ru.md">Русский</a></sub></p>
@@ -15,7 +15,7 @@
 <p align="center"><a href="#trending">인기</a> · <a href="#latest">최신</a> · <a href="#contents">목차</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>443</b> 수록 항목 · <b>6</b> 카테고리 · <b>389</b> 공개 코드 · <b>321</b> 소스 아카이브<br><sub>목록 데이터: 2026-11-14</sub></p>
+<p align="center"><b>957</b> 수록 항목 · <b>6</b> 카테고리 · <b>905</b> 공개 코드 · <b>419</b> 소스 아카이브<br><sub>목록 데이터: 2026-11-15</sub></p>
 
 <a name="trending"></a>
 
@@ -48,16 +48,16 @@
 
 <table>
 <tr>
-<td width="25%" valign="top"><a href="https://topway-ai.github.io/harbor-blackout-gemini/"><img src="../../assets/thumbs/harbor-blackout-gemini-edition.webp" width="100%" alt="HARBOR BLACKOUT (Gemini Edition)" title="HARBOR BLACKOUT (Gemini Edition) is a 3D first-person shooter."></a><br><b><a href="https://topway-ai.github.io/harbor-blackout-gemini/">HARBOR BLACKOUT (Gemini Edition)</a></b><br><sub><a href="https://github.com/topway-ai">Jack</a><br>MIT · <a href="https://github.com/topway-ai/harbor-blackout-gemini">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/harbor-blackout-gemini-edition">파일</a></sub></td>
-<td width="25%" valign="top"><a href="https://huggingface.co/spaces/JohnVeds15/browser-3d-mini-games"><img src="../../assets/thumbs/c-browser-3d-mini-games.webp" width="100%" alt="3D Mini Games: play free in your browser" title="The collection contains 25 small 3D games in 6 styles."></a><br><b><a href="https://huggingface.co/spaces/JohnVeds15/browser-3d-mini-games">3D Mini Games: play free in your browser</a></b><br><sub><a href="https://huggingface.co/JohnVeds15">John Vedovino</a><br>모음집 · 작품 25개<br>MIT · <a href="https://huggingface.co/spaces/JohnVeds15/browser-3d-mini-games">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/browser-3d-mini-games">파일</a></sub></td>
-<td width="25%" valign="top"><a href="https://vaquitas-de-bloque.vercel.app"><img src="../../assets/thumbs/vaquitas-de-bloque.webp" width="100%" alt="Vaquitas de Bloque" title="This is a first-person 3D block adventure game."></a><br><b><a href="https://vaquitas-de-bloque.vercel.app">Vaquitas de Bloque</a></b><br><sub><a href="https://github.com/ivolivares">Iván Olivares Rojas</a><br>MIT · <a href="https://github.com/ivolivares/vaquitas-de-bloque">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/vaquitas-de-bloque">파일</a></sub></td>
-<td width="25%" valign="top"><a href="https://basemazab.github.io/tuktuk/"><img src="../../assets/thumbs/tuktuk.webp" width="100%" alt="توك توك: وسّع يا باشا" title="This is a 3D street driving game."></a><br><b><a href="https://basemazab.github.io/tuktuk/">توك توك: وسّع يا باشا</a></b><br><sub><a href="https://github.com/basemazab">basemazab</a><br>MIT · <a href="https://github.com/basemazab/tuktuk">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/tuktuk">파일</a></sub></td>
+<td width="25%" valign="top"><a href="https://elpq.itch.io/zofe12367"><img src="../../assets/thumbs/zonbie-apocalypse-3d-eng-ru.webp" width="100%" alt="ZONBIE APOCALYPSE 3D | ENG \ RU" title="The HTML5 zombie shooter prototype lists WASD, FGVBN, and keys 1 to 4 as controls."></a><br><b><a href="https://elpq.itch.io/zofe12367">ZONBIE APOCALYPSE 3D | ENG \ RU</a></b><br><sub><a href="https://elpq.itch.io">elpq</a><br>라이선스 미확인 · <a href="https://elpq.itch.io/zofe12367">코드</a></sub></td>
+<td width="25%" valign="top"><a href="https://hahaha10001.itch.io/zero-diorama-wreckers"><img src="../../assets/thumbs/zero-diorama-wreckers.webp" width="100%" alt="Zero: Diorama Wreckers" title="The voxel demolition sandbox lets the player blow apart buildings piece by piece on miniature dioramas, with 33 missions and 20 handcrafted scenes. Free Blast mode includes building, with 10 block materials available to the player."></a><br><b><a href="https://hahaha10001.itch.io/zero-diorama-wreckers">Zero: Diorama Wreckers</a></b><br><sub><a href="https://hahaha10001.itch.io">hahaha10001</a><br>CC0-1.0 · <a href="https://hahaha10001.itch.io/zero-diorama-wreckers">코드</a></sub></td>
+<td width="25%" valign="top"><a href="https://abdeninho.itch.io/weather-world"><img src="../../assets/thumbs/weather-world.webp" width="100%" alt="Weather World" title="The game is a procedural voxel world generator where the player can explore, mine, and survive. The game has a piano soundtrack, and the player can build structures."></a><br><b><a href="https://abdeninho.itch.io/weather-world">Weather World</a></b><br><sub><a href="https://abdeninho.itch.io">abdeninho</a><br>라이선스 미확인 · <a href="https://abdeninho.itch.io/weather-world">코드</a></sub></td>
+<td width="25%" valign="top"><a href="https://theusefulstack.itch.io/veld"><img src="../../assets/thumbs/veld-an-ai-built-voxel-sandbox-gpt-6-1-sol.webp" width="100%" alt="Veld — an AI-built voxel sandbox (GPT-6.1 Sol)" title="The sandbox game presents a seeded world of bays, hills, trees, and beaches. The player can mine and place seven block types, manage an inventory, and watch a four-minute day turn to night."></a><br><b><a href="https://theusefulstack.itch.io/veld">Veld — an AI-built voxel sandbox (GPT-6.1 Sol)</a></b><br><sub><a href="https://theusefulstack.itch.io">theusefulstack</a><br>MIT · <a href="https://theusefulstack.itch.io/veld">코드</a></sub></td>
 </tr>
 <tr>
-<td width="25%" valign="top"><a href="https://pelicanride.vercel.app"><img src="../../assets/thumbs/pelican-ride.webp" width="100%" alt="鹈鹕骑单车 · 海岸大冒险（Pelican Ride）" title="This is a 3D endless running game."></a><br><b><a href="https://pelicanride.vercel.app">鹈鹕骑单车 · 海岸大冒险（Pelican Ride）</a></b><br><sub><a href="https://github.com/Xiobio">Xony</a><br>MIT · <a href="https://github.com/Xiobio/pelican-ride">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/pelican-ride">파일</a></sub></td>
-<td width="25%" valign="top"><a href="https://github.com/bigerbigernerd/fiat-ludus"><img src="../../assets/thumbs/fiat-ludus.webp" width="100%" alt="Fiat Ludus · 言出法随" title="Fiat Ludus is a toolchain for turning text into playable 3D browser games."></a><br><b><a href="https://github.com/bigerbigernerd/fiat-ludus">Fiat Ludus · 言出法随</a></b><br><sub><a href="https://github.com/bigerbigernerd">bigerbigernerd</a><br>MIT · <a href="https://github.com/bigerbigernerd/fiat-ludus">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/tools/fiat-ludus">파일</a></sub></td>
-<td width="25%" valign="top"><a href="https://cyancity.github.io/yolo-mini-fps/"><img src="../../assets/thumbs/dock-zero.webp" width="100%" alt="零号码头 DOCK ZERO" title="This is a first-person 3D shooter set at a dock."></a><br><b><a href="https://cyancity.github.io/yolo-mini-fps/">零号码头 DOCK ZERO</a></b><br><sub><a href="https://github.com/cyancity">YOLO</a><br>MIT · <a href="https://github.com/cyancity/yolo-mini-fps">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/dock-zero">파일</a></sub></td>
-<td width="25%" valign="top"><a href="https://arjunreddy91100.github.io/bumblebee-echo-garden/"><img src="../../assets/thumbs/bumblebee-echo-garden.webp" width="100%" alt="Bumblebee — Echo Garden" title="The work is a 3D aerial racing game."></a><br><b><a href="https://arjunreddy91100.github.io/bumblebee-echo-garden/">Bumblebee — Echo Garden</a></b><br><sub><a href="https://github.com/arjunreddy91100">Arjun</a><br>MIT · <a href="https://github.com/arjunreddy91100/bumblebee-echo-garden">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/bumblebee-echo-garden">파일</a></sub></td>
+<td width="25%" valign="top"><a href="https://thenfan.itch.io/vector-rush"><img src="../../assets/thumbs/vector-rush.webp" width="100%" alt="Vector Rush" title="The game was vibe-coded in small increments on a phone across 3 days, with all work done in a single chat with Sol 6.1 high. The work is a proof of concept that tests what AI can do."></a><br><b><a href="https://thenfan.itch.io/vector-rush">Vector Rush</a></b><br><sub><a href="https://thenfan.itch.io">thenfan</a><br>라이선스 미확인 · <a href="https://thenfan.itch.io/vector-rush">코드</a></sub></td>
+<td width="25%" valign="top"><a href="https://rafael-mogger.itch.io/ultima-ronda"><img src="../../assets/thumbs/ultima-ronda.webp" width="100%" alt="Ultima-ronda" title="This retro-style indie survival FPS takes place in an overrun facility after an alarm sounds and security fails. The player explores dangerous corridors and rooms such as the armory and infirmary, and searches for scarce resources."></a><br><b><a href="https://rafael-mogger.itch.io/ultima-ronda">Ultima-ronda</a></b><br><sub><a href="https://rafael-mogger.itch.io">rafael-mogger</a><br>라이선스 미확인 · <a href="https://rafael-mogger.itch.io/ultima-ronda">코드</a></sub></td>
+<td width="25%" valign="top"><a href="https://lek-vob.itch.io/tunnel-z"><img src="../../assets/thumbs/tunnel-z.webp" width="100%" alt="Tunnel-Z" title="The procedural 3D tunnel runner centers on flight that keeps accelerating; the player dodges mines and red obstacles, navigates narrow gaps, and manages ammunition to reach the greatest distance possible. The game uses no texture or audio files; its visuals use 24 dynamic stripes and procedural geometry, while the Web Audio API synthesizes music in real time with tempo tied to speed."></a><br><b><a href="https://lek-vob.itch.io/tunnel-z">Tunnel-Z</a></b><br><sub><a href="https://lek-vob.itch.io">lek-vob</a><br>라이선스 미확인 · <a href="https://lek-vob.itch.io/tunnel-z">코드</a></sub></td>
+<td width="25%" valign="top"><a href="https://giii3-game.itch.io/tscaveen"><img src="../../assets/thumbs/tsf-cave-bill-the-warrior-and-the-crest-curse.webp" width="100%" alt="TSF CAVE — Bill the Warrior and the Crest Curse" title="Bill enters TS (Teies) Cavern to stop the monsters pouring out, but a mysterious girl carves a red Crest into his chest, and he increasingly feels that his body, voice, and heart are no longer his own. The ending depends on how many times the player uses “Call Out” on Bibi in the final battle."></a><br><b><a href="https://giii3-game.itch.io/tscaveen">TSF CAVE — Bill the Warrior and the Crest Curse</a></b><br><sub><a href="https://giii3-game.itch.io">giii3-game</a><br>라이선스 미확인 · <a href="https://giii3-game.itch.io/tscaveen">코드</a></sub></td>
 </tr>
 </table>
 
@@ -73,19 +73,19 @@
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 게임</a> · 228</b><br><sub>191 공개 코드 · 150 소스 아카이브</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 게임</a> · 500</b><br><sub>465 공개 코드 · 184 소스 아카이브</sub></td>
 
-<td width="33.33%"><b><a href="#contents-scenes">🌍 월드와 장면</a> · 109</b><br><sub>101 공개 코드 · 74 소스 아카이브</sub></td>
+<td width="33.33%"><b><a href="#contents-scenes">🌍 월드와 장면</a> · 210</b><br><sub>202 공개 코드 · 93 소스 아카이브</sub></td>
 
-<td width="33.33%"><b><a href="#contents-videos">🎬 영상</a> · 17</b><br><sub>8 공개 코드 · 8 소스 아카이브</sub></td>
+<td width="33.33%"><b><a href="#contents-videos">🎬 영상</a> · 30</b><br><sub>21 공개 코드 · 15 소스 아카이브</sub></td>
 
 </tr>
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-tools">🛠️ 도구</a> · 53</b><br><sub>53 공개 코드 · 53 소스 아카이브</sub></td>
+<td width="33.33%"><b><a href="#contents-tools">🛠️ 도구</a> · 115</b><br><sub>115 공개 코드 · 75 소스 아카이브</sub></td>
 
-<td width="33.33%"><b><a href="#contents-visualizations">📊 시각화</a> · 33</b><br><sub>33 공개 코드 · 33 소스 아카이브</sub></td>
+<td width="33.33%"><b><a href="#contents-visualizations">📊 시각화</a> · 99</b><br><sub>99 공개 코드 · 49 소스 아카이브</sub></td>
 
 <td width="33.33%"><b><a href="#contents-wallpapers">🖥️ 배경화면</a> · 3</b><br><sub>3 공개 코드 · 3 소스 아카이브</sub></td>
 
@@ -95,41 +95,41 @@
 
 <a name="contents-games"></a>
 
-### 🎮 게임 · 228
+### 🎮 게임 · 500
 
 슈팅, 레이싱, 비행, 퍼즐 등 다양한 게임.
 
-<p><a href="../../games/README.ko.md#genre-shooter">슈팅</a> <b>46</b> · <a href="../../games/README.ko.md#genre-action-and-combat">액션·전투</a> <b>20</b> · <a href="../../games/README.ko.md#genre-platformer-and-runner">플랫포머·러너</a> <b>9</b> · <a href="../../games/README.ko.md#genre-racing-and-driving">레이싱·운전</a> <b>35</b> · <a href="../../games/README.ko.md#genre-flight">비행</a> <b>14</b> · <a href="../../games/README.ko.md#genre-sports">스포츠</a> <b>11</b> · <a href="../../games/README.ko.md#genre-adventure-and-exploration">모험·탐험</a> <b>27</b> · <a href="../../games/README.ko.md#genre-puzzle">퍼즐</a> <b>10</b> · <a href="../../games/README.ko.md#genre-strategy-and-management">전략·경영</a> <b>20</b> · <a href="../../games/README.ko.md#genre-sandbox">샌드박스</a> <b>6</b> · <a href="../../games/README.ko.md#genre-casual-and-arcade">캐주얼·아케이드</a> <b>19</b> · <a href="../../games/README.ko.md#genre-interactive-story">인터랙티브 스토리</a> <b>2</b> · <a href="../../games/README.ko.md#genre-simulation-and-visualization">시뮬레이션·시각화</a> <b>1</b> · <a href="../../games/README.ko.md#genre-other-games">기타 게임</a> <b>8</b></p>
+<p><a href="../../games/README.ko.md#genre-shooter">슈팅</a> <b>108</b> · <a href="../../games/README.ko.md#genre-action-and-combat">액션·전투</a> <b>46</b> · <a href="../../games/README.ko.md#genre-platformer-and-runner">플랫포머·러너</a> <b>36</b> · <a href="../../games/README.ko.md#genre-racing-and-driving">레이싱·운전</a> <b>66</b> · <a href="../../games/README.ko.md#genre-flight">비행</a> <b>24</b> · <a href="../../games/README.ko.md#genre-sports">스포츠</a> <b>12</b> · <a href="../../games/README.ko.md#genre-adventure-and-exploration">모험·탐험</a> <b>68</b> · <a href="../../games/README.ko.md#genre-puzzle">퍼즐</a> <b>22</b> · <a href="../../games/README.ko.md#genre-strategy-and-management">전략·경영</a> <b>44</b> · <a href="../../games/README.ko.md#genre-sandbox">샌드박스</a> <b>24</b> · <a href="../../games/README.ko.md#genre-casual-and-arcade">캐주얼·아케이드</a> <b>32</b> · <a href="../../games/README.ko.md#genre-interactive-story">인터랙티브 스토리</a> <b>3</b> · <a href="../../games/README.ko.md#genre-simulation-and-visualization">시뮬레이션·시각화</a> <b>4</b> · <a href="../../games/README.ko.md#genre-other-games">기타 게임</a> <b>11</b></p>
 
 <table>
 <tr>
-<td width="33.33%" valign="top"><a href="https://theredstapler.github.io/orb-shooter/"><img src="../../assets/thumbs/orb-shooter-fps-demo-vibe-coded.webp" width="100%" alt="Orb Shooter FPS Demo (Vibe Coded)" title="The game is a 3D first-person shooter."></a><br><b><a href="https://theredstapler.github.io/orb-shooter/">Orb Shooter FPS Demo (Vibe Coded)</a></b><br><sub><a href="https://github.com/theredstapler">Red Stapler</a><br>MIT · <a href="https://github.com/theredstapler/orb-shooter">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/orb-shooter-fps-demo-vibe-coded">파일</a></sub></td>
-<td width="33.33%" valign="top"><a href="https://arjunreddy91100.github.io/bumblebee-echo-garden/"><img src="../../assets/thumbs/bumblebee-echo-garden.webp" width="100%" alt="Bumblebee — Echo Garden" title="The work is a 3D aerial racing game."></a><br><b><a href="https://arjunreddy91100.github.io/bumblebee-echo-garden/">Bumblebee — Echo Garden</a></b><br><sub><a href="https://github.com/arjunreddy91100">Arjun</a><br>MIT · <a href="https://github.com/arjunreddy91100/bumblebee-echo-garden">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/bumblebee-echo-garden">파일</a></sub></td>
-<td width="33.33%" valign="top"><a href="https://pelicanride.vercel.app"><img src="../../assets/thumbs/pelican-ride.webp" width="100%" alt="鹈鹕骑单车 · 海岸大冒险（Pelican Ride）" title="This is a 3D endless running game."></a><br><b><a href="https://pelicanride.vercel.app">鹈鹕骑单车 · 海岸大冒险（Pelican Ride）</a></b><br><sub><a href="https://github.com/Xiobio">Xony</a><br>MIT · <a href="https://github.com/Xiobio/pelican-ride">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/pelican-ride">파일</a></sub></td>
+<td width="33.33%" valign="top"><a href="https://theredstapler.github.io/orb-shooter/"><img src="../../assets/thumbs/orb-shooter-fps-demo-vibe-coded.webp" width="100%" alt="Orb Shooter FPS Demo (Vibe Coded)" title="The game is a 3D first-person shooter. The player moves through a warehouse and fires at orb enemies and bosses."></a><br><b><a href="https://theredstapler.github.io/orb-shooter/">Orb Shooter FPS Demo (Vibe Coded)</a></b><br><sub><a href="https://github.com/theredstapler">Red Stapler</a><br>MIT · <a href="https://github.com/theredstapler/orb-shooter">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/orb-shooter-fps-demo-vibe-coded">파일</a></sub></td>
+<td width="33.33%" valign="top"><a href="https://arjunreddy91100.github.io/bumblebee-echo-garden/"><img src="../../assets/thumbs/bumblebee-echo-garden.webp" width="100%" alt="Bumblebee — Echo Garden" title="The work is a 3D aerial racing game. The player flies a bumblebee through a garden as ghosts of past runs fly beside the player, and the garden changes with the race history."></a><br><b><a href="https://arjunreddy91100.github.io/bumblebee-echo-garden/">Bumblebee — Echo Garden</a></b><br><sub><a href="https://github.com/arjunreddy91100">Arjun</a><br>MIT · <a href="https://github.com/arjunreddy91100/bumblebee-echo-garden">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/bumblebee-echo-garden">파일</a></sub></td>
+<td width="33.33%" valign="top"><a href="https://pelicanride.vercel.app"><img src="../../assets/thumbs/pelican-ride.webp" width="100%" alt="鹈鹕骑单车 · 海岸大冒险（Pelican Ride）" title="This is a 3D endless running game. The player rides a bicycle along the coast, chases fish, jumps, and performs aerial tricks."></a><br><b><a href="https://pelicanride.vercel.app">鹈鹕骑单车 · 海岸大冒险（Pelican Ride）</a></b><br><sub><a href="https://github.com/Xiobio">Xony</a><br>MIT · <a href="https://github.com/Xiobio/pelican-ride">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/games/pelican-ride">파일</a></sub></td>
 </tr>
 </table>
 
-<p><b><a href="../../games/README.ko.md">전체 228개 보기 →</a></b> · <a href="#contents">↑ 목차</a></p>
+<p><b><a href="../../games/README.ko.md">전체 500개 보기 →</a></b> · <a href="#contents">↑ 목차</a></p>
 
 <a name="contents-scenes"></a>
 
-### 🌍 월드와 장면 · 109
+### 🌍 월드와 장면 · 210
 
 상상 속 세계와 자연 풍경을 걷고 정교한 3D 사물을 탐색합니다.
 
 <table>
 <tr>
 <td width="33.33%" valign="top"><a href="https://github.com/NineTigers/emberfall-forge-claude-fable-5.2"><img src="../../assets/thumbs/emberfall-forge.webp" width="100%" alt="Emberfall Forge" title="A first-person 3D blacksmithing experience in a single HTML file."></a><br><b><a href="https://github.com/NineTigers/emberfall-forge-claude-fable-5.2">Emberfall Forge</a></b><br><sub><a href="https://github.com/NineTigers">NineTigers</a><br>MIT · <a href="https://github.com/NineTigers/emberfall-forge-claude-fable-5.2">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/scenes/emberfall-forge">파일</a></sub></td>
-<td width="33.33%" valign="top"><a href="https://patch.gg/blendi/oil-paint"><img src="../../assets/thumbs/oil-paint.webp" width="100%" alt="Oil paint" title="A walk through an autumn wood or along a snowy ridge under the aurora."></a><br><b><a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub>Blendi Byl<br>MIT · <a href="https://git.patch.gg/blendi/oil-paint.git">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/scenes/oil-paint">파일</a></sub></td>
-<td width="33.33%" valign="top"><a href="https://starknightt.github.io/tiny-planet/"><img src="../../assets/thumbs/tiny-planet.webp" width="100%" alt="Tiny Planet" title="Tiny Planet is a 3D world for exploration on foot or in flight."></a><br><b><a href="https://starknightt.github.io/tiny-planet/">Tiny Planet</a></b><br><sub><a href="https://github.com/StarKnightt">Prasenjit</a><br>MIT · <a href="https://github.com/StarKnightt/tiny-planet">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/scenes/tiny-planet">파일</a></sub></td>
+<td width="33.33%" valign="top"><a href="https://patch.gg/blendi/oil-paint"><img src="../../assets/thumbs/oil-paint.webp" width="100%" alt="Oil paint" title="A walk through an autumn wood or along a snowy ridge under the aurora. Procedural brushstrokes stay pinned to the Three.js scene as the viewer moves."></a><br><b><a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub>Blendi Byl<br>MIT · <a href="https://git.patch.gg/blendi/oil-paint.git">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/scenes/oil-paint">파일</a></sub></td>
+<td width="33.33%" valign="top"><a href="https://starknightt.github.io/tiny-planet/"><img src="../../assets/thumbs/tiny-planet.webp" width="100%" alt="Tiny Planet" title="Tiny Planet is a 3D world for exploration on foot or in flight. The player can walk around the planet and view its coast, grassy slopes, forest, village, and changes from day to night."></a><br><b><a href="https://starknightt.github.io/tiny-planet/">Tiny Planet</a></b><br><sub><a href="https://github.com/StarKnightt">Prasenjit</a><br>MIT · <a href="https://github.com/StarKnightt/tiny-planet">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/scenes/tiny-planet">파일</a></sub></td>
 </tr>
 </table>
 
-<p><b><a href="../../scenes/README.ko.md">전체 109개 보기 →</a></b> · <a href="#contents">↑ 목차</a></p>
+<p><b><a href="../../scenes/README.ko.md">전체 210개 보기 →</a></b> · <a href="#contents">↑ 목차</a></p>
 
 <a name="contents-videos"></a>
 
-### 🎬 영상 · 17
+### 🎬 영상 · 30
 
 코드로 렌더링한 단편 영상, 애니메이션과 시각 실험.
 
@@ -137,43 +137,43 @@
 <tr>
 <td width="33.33%" valign="top"><a href="https://x.com/fuoeba/status/2119906486017307074"><img src="../../assets/thumbs/path-traced-voxel-creature.webp" width="100%" alt="Path-traced voxel creature" title="A 3D animation rendered with a custom code-written path tracer, accompanied by synthesized sound."></a><br><b><a href="https://x.com/fuoeba/status/2119906486017307074">Path-traced voxel creature</a></b><br><sub><a href="https://x.com/fuoeba">fuoeba</a><br>라이선스 미확인</sub></td>
 <td width="33.33%" valign="top"><a href="https://x.com/rileybrown/status/2119902109709537708"><img src="../../assets/thumbs/the-edge.webp" width="100%" alt="The Edge" title="A Blender short in which Fable wrote and animated a room and its characters; music and sound use ElevenLabs."></a><br><b><a href="https://x.com/rileybrown/status/2119902109709537708">The Edge</a></b><br><sub><a href="https://x.com/rileybrown">Riley Brown</a><br>라이선스 미확인</sub></td>
-<td width="33.33%" valign="top"><a href="https://github.com/anstapnever/colossus"><img src="../../assets/thumbs/colossus.webp" width="100%" alt="COLOSSUS · 巨像" title="The video is a 77-second 3D animated short based on the opening of an anime."></a><br><b><a href="https://github.com/anstapnever/colossus">COLOSSUS · 巨像</a></b><br><sub><a href="https://github.com/anstapnever">anstap</a><br>MIT · <a href="https://github.com/anstapnever/colossus">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/videos/colossus">파일</a></sub></td>
+<td width="33.33%" valign="top"><a href="https://github.com/anstapnever/colossus"><img src="../../assets/thumbs/colossus.webp" width="100%" alt="COLOSSUS · 巨像" title="The video is a 77-second 3D animated short based on the opening of an anime. The video shows a 90-meter-tall bronze automaton kicking in a gate and attacking a town of animal folk."></a><br><b><a href="https://github.com/anstapnever/colossus">COLOSSUS · 巨像</a></b><br><sub><a href="https://github.com/anstapnever">anstap</a><br>MIT · <a href="https://github.com/anstapnever/colossus">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/videos/colossus">파일</a></sub></td>
 </tr>
 </table>
 
-<p><b><a href="../../videos/README.ko.md">전체 17개 보기 →</a></b> · <a href="#contents">↑ 목차</a></p>
+<p><b><a href="../../videos/README.ko.md">전체 30개 보기 →</a></b> · <a href="#contents">↑ 목차</a></p>
 
 <a name="contents-tools"></a>
 
-### 🛠️ 도구 · 53
+### 🛠️ 도구 · 115
 
 제작, 감상, 시뮬레이션과 일상 작업에 유용한 3D 앱.
 
 <table>
 <tr>
-<td width="33.33%" valign="top"><a href="https://github.com/harshitkhandelwal208/3D-engine-Visualiser"><img src="../../assets/thumbs/mgco2-v6-compression-engine-interactive-3d-viewer.webp" width="100%" alt="MgCO₂ V6 Compression Engine — Interactive 3D Viewer" title="This is a 3D viewer for a conceptual MgCO₂ V6 engine."></a><br><b><a href="https://github.com/harshitkhandelwal208/3D-engine-Visualiser">MgCO₂ V6 Compression Engine — Interactive 3D Viewer</a></b><br><sub><a href="https://github.com/harshitkhandelwal208">Harshit Khandelwal</a><br>MIT · <a href="https://github.com/harshitkhandelwal208/3D-engine-Visualiser">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/tools/mgco2-v6-compression-engine-interactive-3d-viewer">파일</a></sub></td>
-<td width="33.33%" valign="top"><a href="https://khanmjk.github.io/Fable51_Hourglass/"><img src="../../assets/thumbs/hourglass-digital-twin.webp" width="100%" alt="Hourglass · Digital Twin" title="The work is a 3D hourglass timer."></a><br><b><a href="https://khanmjk.github.io/Fable51_Hourglass/">Hourglass · Digital Twin</a></b><br><sub><a href="https://github.com/khanmjk">khanmjk</a><br>MIT · <a href="https://github.com/khanmjk/Fable51_Hourglass">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/tools/hourglass-digital-twin">파일</a></sub></td>
-<td width="33.33%" valign="top"><a href="https://github.com/bigerbigernerd/fiat-ludus"><img src="../../assets/thumbs/fiat-ludus.webp" width="100%" alt="Fiat Ludus · 言出法随" title="Fiat Ludus is a toolchain for turning text into playable 3D browser games."></a><br><b><a href="https://github.com/bigerbigernerd/fiat-ludus">Fiat Ludus · 言出法随</a></b><br><sub><a href="https://github.com/bigerbigernerd">bigerbigernerd</a><br>MIT · <a href="https://github.com/bigerbigernerd/fiat-ludus">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/tools/fiat-ludus">파일</a></sub></td>
+<td width="33.33%" valign="top"><a href="https://github.com/harshitkhandelwal208/3D-engine-Visualiser"><img src="../../assets/thumbs/mgco2-v6-compression-engine-interactive-3d-viewer.webp" width="100%" alt="MgCO₂ V6 Compression Engine — Interactive 3D Viewer" title="This is a 3D viewer for a conceptual MgCO₂ V6 engine. The player can rotate the model, view part tips, and switch between exploded and cutaway views."></a><br><b><a href="https://github.com/harshitkhandelwal208/3D-engine-Visualiser">MgCO₂ V6 Compression Engine — Interactive 3D Viewer</a></b><br><sub><a href="https://github.com/harshitkhandelwal208">Harshit Khandelwal</a><br>MIT · <a href="https://github.com/harshitkhandelwal208/3D-engine-Visualiser">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/tools/mgco2-v6-compression-engine-interactive-3d-viewer">파일</a></sub></td>
+<td width="33.33%" valign="top"><a href="https://khanmjk.github.io/Fable51_Hourglass/"><img src="../../assets/thumbs/hourglass-digital-twin.webp" width="100%" alt="Hourglass · Digital Twin" title="The work is a 3D hourglass timer. The player can choose a duration, start the sand flow, orbit the view, and flip or reset the glass."></a><br><b><a href="https://khanmjk.github.io/Fable51_Hourglass/">Hourglass · Digital Twin</a></b><br><sub><a href="https://github.com/khanmjk">khanmjk</a><br>MIT · <a href="https://github.com/khanmjk/Fable51_Hourglass">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/tools/hourglass-digital-twin">파일</a></sub></td>
+<td width="33.33%" valign="top"><a href="https://github.com/bigerbigernerd/fiat-ludus"><img src="../../assets/thumbs/fiat-ludus.webp" width="100%" alt="Fiat Ludus · 言出法随" title="Fiat Ludus is a toolchain for turning text into playable 3D browser games. The included game Lantern Meadow lets the player explore a meadow and fight enemies."></a><br><b><a href="https://github.com/bigerbigernerd/fiat-ludus">Fiat Ludus · 言出法随</a></b><br><sub><a href="https://github.com/bigerbigernerd">bigerbigernerd</a><br>MIT · <a href="https://github.com/bigerbigernerd/fiat-ludus">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/tools/fiat-ludus">파일</a></sub></td>
 </tr>
 </table>
 
-<p><b><a href="../../tools/README.ko.md">전체 53개 보기 →</a></b> · <a href="#contents">↑ 목차</a></p>
+<p><b><a href="../../tools/README.ko.md">전체 115개 보기 →</a></b> · <a href="#contents">↑ 목차</a></p>
 
 <a name="contents-visualizations"></a>
 
-### 📊 시각화 · 33
+### 📊 시각화 · 99
 
 인터랙티브 3D로 과학, 데이터와 아이디어를 탐구합니다.
 
 <table>
 <tr>
-<td width="33.33%" valign="top"><a href="https://codexparadise.github.io/insects/"><img src="../../assets/thumbs/entomia-3d-micro-morphology.webp" width="100%" alt="ENTOMIA // 3D MICRO-MORPHOLOGY" title="ENTOMIA is a 3D insect specimen viewer."></a><br><b><a href="https://codexparadise.github.io/insects/">ENTOMIA // 3D MICRO-MORPHOLOGY</a></b><br><sub><a href="https://github.com/codeXparadise">Vishal Prajapati</a><br>MIT · <a href="https://github.com/codeXparadise/insects">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/visualizations/entomia-3d-micro-morphology">파일</a></sub></td>
-<td width="33.33%" valign="top"><a href="https://atoomnetmarc.github.io/3D-Sorting-Algorithm-Visualizer/"><img src="../../assets/thumbs/3d-sorting-algorithm-visualizer.webp" width="100%" alt="3D Sorting Algorithm Visualizer" title="This is a 3D sorting algorithm visualizer."></a><br><b><a href="https://atoomnetmarc.github.io/3D-Sorting-Algorithm-Visualizer/">3D Sorting Algorithm Visualizer</a></b><br><sub><a href="https://github.com/atoomnetmarc">Marc Ketel</a><br>Apache-2.0 · <a href="https://github.com/atoomnetmarc/3D-Sorting-Algorithm-Visualizer">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/visualizations/3d-sorting-algorithm-visualizer">파일</a></sub></td>
-<td width="33.33%" valign="top"><a href="https://github.com/AralimNGA/cube-physics-simulation"><img src="../../assets/thumbs/cube-physics-simulation.webp" width="100%" alt="Cube Physics Simulation" title="This is a 3D physics sandbox."></a><br><b><a href="https://github.com/AralimNGA/cube-physics-simulation">Cube Physics Simulation</a></b><br><sub><a href="https://github.com/AralimNGA">Aralim</a><br>MIT · <a href="https://github.com/AralimNGA/cube-physics-simulation">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/visualizations/cube-physics-simulation">파일</a></sub></td>
+<td width="33.33%" valign="top"><a href="https://codexparadise.github.io/insects/"><img src="../../assets/thumbs/entomia-3d-micro-morphology.webp" width="100%" alt="ENTOMIA // 3D MICRO-MORPHOLOGY" title="ENTOMIA is a 3D insect specimen viewer. The player can rotate the Red Wood Ant, Emperor Dragonfly, and Common Housefly, switch among six anatomical views, and inspect body labels."></a><br><b><a href="https://codexparadise.github.io/insects/">ENTOMIA // 3D MICRO-MORPHOLOGY</a></b><br><sub><a href="https://github.com/codeXparadise">Vishal Prajapati</a><br>MIT · <a href="https://github.com/codeXparadise/insects">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/visualizations/entomia-3d-micro-morphology">파일</a></sub></td>
+<td width="33.33%" valign="top"><a href="https://atoomnetmarc.github.io/3D-Sorting-Algorithm-Visualizer/"><img src="../../assets/thumbs/3d-sorting-algorithm-visualizer.webp" width="100%" alt="3D Sorting Algorithm Visualizer" title="This is a 3D sorting algorithm visualizer. The player can choose from at least 25 algorithms, set the speed, and watch colored bars sort."></a><br><b><a href="https://atoomnetmarc.github.io/3D-Sorting-Algorithm-Visualizer/">3D Sorting Algorithm Visualizer</a></b><br><sub><a href="https://github.com/atoomnetmarc">Marc Ketel</a><br>Apache-2.0 · <a href="https://github.com/atoomnetmarc/3D-Sorting-Algorithm-Visualizer">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/visualizations/3d-sorting-algorithm-visualizer">파일</a></sub></td>
+<td width="33.33%" valign="top"><a href="https://github.com/AralimNGA/cube-physics-simulation"><img src="../../assets/thumbs/cube-physics-simulation.webp" width="100%" alt="Cube Physics Simulation" title="This is a 3D physics sandbox. The player moves and rotates a glass cube, causing hundreds of balls to collide inside it."></a><br><b><a href="https://github.com/AralimNGA/cube-physics-simulation">Cube Physics Simulation</a></b><br><sub><a href="https://github.com/AralimNGA">Aralim</a><br>MIT · <a href="https://github.com/AralimNGA/cube-physics-simulation">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/visualizations/cube-physics-simulation">파일</a></sub></td>
 </tr>
 </table>
 
-<p><b><a href="../../visualizations/README.ko.md">전체 33개 보기 →</a></b> · <a href="#contents">↑ 목차</a></p>
+<p><b><a href="../../visualizations/README.ko.md">전체 99개 보기 →</a></b> · <a href="#contents">↑ 목차</a></p>
 
 <a name="contents-wallpapers"></a>
 
@@ -183,14 +183,15 @@
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/Sabrina-creater/claude-pet"><img src="../../assets/thumbs/claude-pet.webp" width="100%" alt="Claude Pet 🐾" title="The app is a desktop pet app with an animated 3D pet."></a><br><b><a href="https://github.com/Sabrina-creater/claude-pet">Claude Pet 🐾</a></b><br><sub><a href="https://github.com/Sabrina-creater">Sabrina-creater</a><br>MIT · <a href="https://github.com/Sabrina-creater/claude-pet">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/wallpapers/claude-pet">파일</a></sub></td>
-<td width="50%" valign="top"><a href="https://github.com/yohhoy/vibe-screensaver"><img src="../../assets/thumbs/c-vibe-screensaver.webp" width="100%" alt="vibe-screensaver — Web スクリーンセーバ集" title="This is a collection of browser screensavers."></a><br><b><a href="https://github.com/yohhoy/vibe-screensaver">vibe-screensaver — Web スクリーンセーバ集</a></b><br><sub><a href="https://github.com/yohhoy">yoh</a><br>모음집 · 작품 14개<br>MIT · <a href="https://github.com/yohhoy/vibe-screensaver">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/wallpapers/vibe-screensaver">파일</a></sub></td>
+<td width="33.33%" valign="top"><a href="https://github.com/Sabrina-creater/claude-pet"><img src="../../assets/thumbs/claude-pet.webp" width="100%" alt="Claude Pet 🐾" title="The app is a desktop pet app with an animated 3D pet. The player can feed the pet, interact with it, and observe its response to session activity."></a><br><b><a href="https://github.com/Sabrina-creater/claude-pet">Claude Pet 🐾</a></b><br><sub><a href="https://github.com/Sabrina-creater">Sabrina-creater</a><br>MIT · <a href="https://github.com/Sabrina-creater/claude-pet">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/wallpapers/claude-pet">파일</a></sub></td>
+<td width="33.33%" valign="top"><a href="https://yohhoy.github.io/vibe-screensaver/"><img src="../../assets/thumbs/c-vibe-screensaver.webp" width="100%" alt="vibe-screensaver — Web スクリーンセーバ集" title="This is a collection of browser screensavers. The viewer can switch among animated scenes and adjust their speed or intensity."></a><br><b><a href="https://yohhoy.github.io/vibe-screensaver/">vibe-screensaver — Web スクリーンセーバ集</a></b><br><sub><a href="https://github.com/yohhoy">yoh</a><br>모음집 · 작품 14개<br>MIT · <a href="https://github.com/yohhoy/vibe-screensaver">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/wallpapers/vibe-screensaver">파일</a></sub></td>
+<td width="33.33%" valign="top"><a href="https://biswajitdasb4-oss.github.io/prompt-paws/"><img src="../../assets/thumbs/prompt-paws.webp" width="100%" alt="Prompt Paws" title="This is a 3D desktop panda app with a browser demo. The panda reacts to Claude Code session states, and the player can click it to switch to a session that needs action."></a><br><b><a href="https://biswajitdasb4-oss.github.io/prompt-paws/">Prompt Paws</a></b><br><sub><a href="https://github.com/biswajitdasb4-oss">biswajitdasb4-oss</a><br>MIT · <a href="https://github.com/biswajitdasb4-oss/prompt-paws">코드</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works/tree/main/wallpapers/prompt-paws">파일</a></sub></td>
 </tr>
 </table>
 
 <p><b><a href="../../wallpapers/README.ko.md">전체 3개 보기 →</a></b> · <a href="#contents">↑ 목차</a></p>
 
-<p align="center"><a href="https://terraium.ai/">웹사이트에서 전체 보기 →</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works">소스 코드 받기 →</a></p>
+<p align="center"><a href="https://terraium.ai/">웹사이트에서 전체 보기 →</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works">소스 코드 받기 →</a></p>
 
 <details><summary>소스 코드·수집·기여 안내</summary>
 
@@ -199,7 +200,7 @@ GitHub, Hugging Face Spaces, itch.io, X, Bilibili 등에서 324명의 창작자�
 오픈 소스 라이선스가 있는 321개 항목을 카테고리와 작품별로 보관하며, 원본 라이선스 파일이 있으면 함께 제공합니다. 일괄 다운로드:
 
 ```sh
-git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works
+git clone https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works
 ```
 
 대용량 파일에는 Git LFS가 필요합니다. 각 작품의 라이선스를 따르세요. 페이지 본문은 CC0 1.0입니다. 목록과 인기 데이터의 갱신 시간은 별도로 표시합니다.
@@ -210,4 +211,4 @@ git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works
 
 ---
 
-<p align="center"><a href="README.ko.md"><img src="../../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="README.ko.md">홈</a> · <a href="../../games/README.ko.md">게임</a> · <a href="../../scenes/README.ko.md">월드와 장면</a> · <a href="../../videos/README.ko.md">영상</a> · <a href="../../tools/README.ko.md">도구</a> · <a href="../../visualizations/README.ko.md">시각화</a> · <a href="../../wallpapers/README.ko.md">배경화면</a> · <a href="#top">맨 위로</a><br>목록 데이터: 2026-11-14</sub></p>
+<p align="center"><a href="README.ko.md"><img src="../../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="README.ko.md">홈</a> · <a href="../../games/README.ko.md">게임</a> · <a href="../../scenes/README.ko.md">월드와 장면</a> · <a href="../../videos/README.ko.md">영상</a> · <a href="../../tools/README.ko.md">도구</a> · <a href="../../visualizations/README.ko.md">시각화</a> · <a href="../../wallpapers/README.ko.md">배경화면</a> · <a href="#top">맨 위로</a><br>목록 데이터: 2026-11-15</sub></p>
