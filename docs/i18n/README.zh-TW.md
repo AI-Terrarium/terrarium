@@ -22,7 +22,7 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · 熱門"></picture></a></p>
 
-<p align="center"><sub>熱門資料同步：2026-11-15 19:38 UTC · 預計每 8 小時更新</sub></p>
+<p align="center"><sub>熱門資料同步：2026-11-15 19:45 UTC · 預計每 8 小時更新</sub></p>
 
 <a name="showcase-links"></a>
 

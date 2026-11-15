@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-15T19:38:35Z",
+  "updated_at": "2026-11-15T19:45:31Z",
   "method": "public-support-v1",
   "sources": {
     "bilibili:BV1ByWM6mE1D": {
@@ -1368,7 +1368,7 @@
       "url": "https://github.com/jjcm/petalwake",
       "published_at": "2026-11-10T05:54:32Z",
       "metrics": {
-        "stars": 72,
+        "stars": 73,
         "forks": 16
       }
     },
@@ -3455,7 +3455,7 @@
       "url": "https://x.com/i/status/2120238844754923874",
       "published_at": "2026-11-10T19:35:07.000Z",
       "metrics": {
-        "likes": 1765,
+        "likes": 1766,
         "comments": 133
       }
     },
