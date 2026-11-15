@@ -1,11 +1,12 @@
 <a name="top"></a>
 
-<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="../assets/logo.svg" width="64" height="64" alt="Terrarium"></a></p>
+<p align="center"><a href="https://terraium.ai/"><img src="../assets/logo.svg" width="64" height="64" alt="Terrarium"></a></p>
 
 <p align="center"><b>Terrarium</b></p>
 
-<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="https://img.shields.io/badge/%E5%AE%98%E7%BD%91-Terrarium-c6f25a?labelColor=30363d" height="22" alt="官网"></a>
-<a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/%E6%BA%90%E7%A0%81%E5%BD%92%E6%A1%A3-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="源码归档"></a></p>
+<p align="center"><a href="https://terraium.ai/"><img src="https://img.shields.io/badge/%E5%AE%98%E7%BD%91-Terrarium-c6f25a?labelColor=30363d" height="22" alt="官网"></a>
+<a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works"><img src="https://img.shields.io/badge/%E6%BA%90%E7%A0%81%E5%BD%92%E6%A1%A3-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="源码归档"></a>
+<a href="https://discord.com/invite/bJqy7ev7WD"><img src="https://img.shields.io/badge/Discord-Join-c6f25a?labelColor=30363d" height="22" alt="Discord"></a></p>
 
 <p align="center"><sub><a href="README.md">English</a> · <b>简体中文</b> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ru.md">Русский</a></sub></p>
 

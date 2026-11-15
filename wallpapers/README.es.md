@@ -1,11 +1,12 @@
 <a name="top"></a>
 
-<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="../assets/logo.svg" width="64" height="64" alt="Terrarium"></a></p>
+<p align="center"><a href="https://terraium.ai/"><img src="../assets/logo.svg" width="64" height="64" alt="Terrarium"></a></p>
 
 <p align="center"><b>Terrarium</b></p>
 
-<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="https://img.shields.io/badge/Web-Terrarium-c6f25a?labelColor=30363d" height="22" alt="Web"></a>
-<a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/Archivo%20de%20c%C3%B3digo-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="Archivo de código"></a></p>
+<p align="center"><a href="https://terraium.ai/"><img src="https://img.shields.io/badge/Web-Terrarium-c6f25a?labelColor=30363d" height="22" alt="Web"></a>
+<a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works"><img src="https://img.shields.io/badge/Archivo%20de%20c%C3%B3digo-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="Archivo de código"></a>
+<a href="https://discord.com/invite/bJqy7ev7WD"><img src="https://img.shields.io/badge/Discord-Join-c6f25a?labelColor=30363d" height="22" alt="Discord"></a></p>
 
 <p align="center"><sub><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <b>Español</b> · <a href="README.pt-BR.md">Português</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ru.md">Русский</a></sub></p>
 

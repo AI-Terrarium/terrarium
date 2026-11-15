@@ -1,11 +1,12 @@
 <a name="top"></a>
 
-<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="../assets/logo.svg" width="64" height="64" alt="Terrarium"></a></p>
+<p align="center"><a href="https://terraium.ai/"><img src="../assets/logo.svg" width="64" height="64" alt="Terrarium"></a></p>
 
 <p align="center"><b>Terrarium</b></p>
 
-<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="https://img.shields.io/badge/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-Terrarium-c6f25a?labelColor=30363d" height="22" alt="웹사이트"></a>
-<a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/%EC%86%8C%EC%8A%A4%20%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="소스 아카이브"></a></p>
+<p align="center"><a href="https://terraium.ai/"><img src="https://img.shields.io/badge/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-Terrarium-c6f25a?labelColor=30363d" height="22" alt="웹사이트"></a>
+<a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works"><img src="https://img.shields.io/badge/%EC%86%8C%EC%8A%A4%20%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="소스 아카이브"></a>
+<a href="https://discord.com/invite/bJqy7ev7WD"><img src="https://img.shields.io/badge/Discord-Join-c6f25a?labelColor=30363d" height="22" alt="Discord"></a></p>
 
 <p align="center"><sub><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <b>한국어</b> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ru.md">Русский</a></sub></p>
 

@@ -1,13 +1,14 @@
 <a name="top"></a>
 
-<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="../../assets/logo.svg" width="92" height="92" alt="Terrarium"></a></p>
+<p align="center"><a href="https://terraium.ai/"><img src="../../assets/logo.svg" width="92" height="92" alt="Terrarium"></a></p>
 
 <h1 align="center">Terrarium</h1>
 
 <p align="center"><b>全面收集並展示最新的 3D 遊戲、互動世界與影片，熱門榜單每 8 小時更新，完整開源原始碼集中封存，供你體驗、學習與再創作。</b></p>
 
-<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="https://img.shields.io/badge/%E5%AE%98%E7%B6%B2-Terrarium-c6f25a?labelColor=30363d" height="22" alt="官網"></a>
-<a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/%E5%8E%9F%E5%A7%8B%E7%A2%BC%E5%B0%81%E5%AD%98-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="原始碼封存"></a></p>
+<p align="center"><a href="https://terraium.ai/"><img src="https://img.shields.io/badge/%E5%AE%98%E7%B6%B2-Terrarium-c6f25a?labelColor=30363d" height="22" alt="官網"></a>
+<a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works"><img src="https://img.shields.io/badge/%E5%8E%9F%E5%A7%8B%E7%A2%BC%E5%B0%81%E5%AD%98-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="原始碼封存"></a>
+<a href="https://discord.com/invite/bJqy7ev7WD"><img src="https://img.shields.io/badge/Discord-Join-c6f25a?labelColor=30363d" height="22" alt="Discord"></a></p>
 
 <p align="center"><sub><a href="../../README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <b>繁體中文</b> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ru.md">Русский</a></sub></p>
 
@@ -189,7 +190,7 @@
 
 <p><b><a href="../../wallpapers/README.zh-TW.md">瀏覽全部 3 個項目 →</a></b> · <a href="#contents">↑ 目錄</a></p>
 
-<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes">前往官網瀏覽完整作品 →</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works">取得開源原始碼 →</a></p>
+<p align="center"><a href="https://terraium.ai/">前往官網瀏覽完整作品 →</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works">取得開源原始碼 →</a></p>
 
 <details><summary>原始碼、收錄與貢獻</summary>
 
@@ -198,7 +199,7 @@
 321 個具開源授權的項目已按類別與作品集中封存，並保留原始授權檔案（如有）。批次下載：
 
 ```sh
-git clone https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works
+git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works
 ```
 
 大型檔案需要 Git LFS。作品保留各自的授權條款；頁面文字採 CC0 1.0。目錄與熱門資料分別標示更新時間。

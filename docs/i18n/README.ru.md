@@ -1,13 +1,14 @@
 <a name="top"></a>
 
-<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="../../assets/logo.svg" width="92" height="92" alt="Terrarium"></a></p>
+<p align="center"><a href="https://terraium.ai/"><img src="../../assets/logo.svg" width="92" height="92" alt="Terrarium"></a></p>
 
 <h1 align="center">Terrarium</h1>
 
 <p align="center"><b>Обширная коллекция новых 3D-игр, интерактивных миров и видео с обновляемой каждые 8 часов подборкой популярных работ и полным открытым исходным кодом для знакомства, обучения и создания собственных версий.</b></p>
 
-<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="https://img.shields.io/badge/%D0%A1%D0%B0%D0%B9%D1%82-Terrarium-c6f25a?labelColor=30363d" height="22" alt="Сайт"></a>
-<a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/%D0%90%D1%80%D1%85%D0%B8%D0%B2%20%D0%BA%D0%BE%D0%B4%D0%B0-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="Архив кода"></a></p>
+<p align="center"><a href="https://terraium.ai/"><img src="https://img.shields.io/badge/%D0%A1%D0%B0%D0%B9%D1%82-Terrarium-c6f25a?labelColor=30363d" height="22" alt="Сайт"></a>
+<a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works"><img src="https://img.shields.io/badge/%D0%90%D1%80%D1%85%D0%B8%D0%B2%20%D0%BA%D0%BE%D0%B4%D0%B0-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="Архив кода"></a>
+<a href="https://discord.com/invite/bJqy7ev7WD"><img src="https://img.shields.io/badge/Discord-Join-c6f25a?labelColor=30363d" height="22" alt="Discord"></a></p>
 
 <p align="center"><sub><a href="../../README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <b>Русский</b></sub></p>
 
@@ -189,7 +190,7 @@
 
 <p><b><a href="../../wallpapers/README.ru.md">Все записи: 3 →</a></b> · <a href="#contents">↑ Содержание</a></p>
 
-<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes">Перейти на полный сайт →</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works">Скачать архивы исходного кода →</a></p>
+<p align="center"><a href="https://terraium.ai/">Перейти на полный сайт →</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works">Скачать архивы исходного кода →</a></p>
 
 <details><summary>Код, отбор и участие</summary>
 
@@ -198,7 +199,7 @@
 Исходники 321 записи с открытой лицензией сохранены по категориям и работам вместе с оригинальными файлами лицензий, если они есть. Скачать всё:
 
 ```sh
-git clone https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works
+git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works
 ```
 
 Для больших файлов нужен Git LFS. У каждой работы своя лицензия; тексты страниц доступны по CC0 1.0. Даты каталога и данных популярности указаны отдельно.

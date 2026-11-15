@@ -11,8 +11,9 @@ from urllib.parse import quote
 from i18n import CONTENT_ORDER, GENRE_SLUGS, ICONS, LOCALES, from_root, language_bar, localize_markup, page_path, relative_link, translate
 from refresh_showcase import CARD, ROOT, load_catalog, parse_entries, recent_entries, select_entries, showcase_markup
 
-WEBSITE = "https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"
-ARCHIVE = "https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"
+WEBSITE = "https://terraium.ai/"
+ARCHIVE = "https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works"
+DISCORD = "https://discord.com/invite/bJqy7ev7WD"
 CAT_START, CAT_END = "<!-- CATALOG:START -->", "<!-- CATALOG:END -->"
 FEATURED = {
     "games": ["orb-shooter-fps-demo-vibe-coded", "bumblebee-echo-garden", "pelican-ride"],
@@ -38,7 +39,7 @@ def header(code, category=None):
     if not category:
         parts.append(f'<p align="center"><b>{esc(p["tagline"])}</b></p>')
     badges = []
-    for label, value, url in ((p["ui"]["website"], "Terrarium", WEBSITE), (p["ui"]["archive"], "Hugging Face", ARCHIVE)):
+    for label, value, url in ((p["ui"]["website"], "Terrarium", WEBSITE), (p["ui"]["archive"], "Hugging Face", ARCHIVE), ("Discord", "Join", DISCORD)):
         image = f'https://img.shields.io/badge/{quote(label, safe="")}-{quote(value, safe="")}-c6f25a?labelColor=30363d'
         badges.append(f'<a href="{url}"><img src="{image}" height="22" alt="{esc(label)}"></a>')
     parts.append('<p align="center">' + "\n".join(badges) + '</p>')

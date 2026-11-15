@@ -1,13 +1,14 @@
 <a name="top"></a>
 
-<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="../../assets/logo.svg" width="92" height="92" alt="Terrarium"></a></p>
+<p align="center"><a href="https://terraium.ai/"><img src="../../assets/logo.svg" width="92" height="92" alt="Terrarium"></a></p>
 
 <h1 align="center">Terrarium</h1>
 
 <p align="center"><b>최신 3D 게임, 인터랙티브 월드와 영상을 폭넓게 소개하고 인기 목록을 8시간마다 갱신하며, 완전한 오픈 소스 코드를 모아 체험·학습·재창작으로 이어 줍니다.</b></p>
 
-<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="https://img.shields.io/badge/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-Terrarium-c6f25a?labelColor=30363d" height="22" alt="웹사이트"></a>
-<a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/%EC%86%8C%EC%8A%A4%20%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="소스 아카이브"></a></p>
+<p align="center"><a href="https://terraium.ai/"><img src="https://img.shields.io/badge/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-Terrarium-c6f25a?labelColor=30363d" height="22" alt="웹사이트"></a>
+<a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works"><img src="https://img.shields.io/badge/%EC%86%8C%EC%8A%A4%20%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="소스 아카이브"></a>
+<a href="https://discord.com/invite/bJqy7ev7WD"><img src="https://img.shields.io/badge/Discord-Join-c6f25a?labelColor=30363d" height="22" alt="Discord"></a></p>
 
 <p align="center"><sub><a href="../../README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <b>한국어</b> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ru.md">Русский</a></sub></p>
 
@@ -189,7 +190,7 @@
 
 <p><b><a href="../../wallpapers/README.ko.md">전체 3개 보기 →</a></b> · <a href="#contents">↑ 목차</a></p>
 
-<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes">웹사이트에서 전체 보기 →</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works">소스 코드 받기 →</a></p>
+<p align="center"><a href="https://terraium.ai/">웹사이트에서 전체 보기 →</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works">소스 코드 받기 →</a></p>
 
 <details><summary>소스 코드·수집·기여 안내</summary>
 
@@ -198,7 +199,7 @@ GitHub, Hugging Face Spaces, itch.io, X, Bilibili 등에서 324명의 창작자�
 오픈 소스 라이선스가 있는 321개 항목을 카테고리와 작품별로 보관하며, 원본 라이선스 파일이 있으면 함께 제공합니다. 일괄 다운로드:
 
 ```sh
-git clone https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works
+git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works
 ```
 
 대용량 파일에는 Git LFS가 필요합니다. 각 작품의 라이선스를 따르세요. 페이지 본문은 CC0 1.0입니다. 목록과 인기 데이터의 갱신 시간은 별도로 표시합니다.

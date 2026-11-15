@@ -1,13 +1,14 @@
 <a name="top"></a>
 
-<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="../../assets/logo.svg" width="92" height="92" alt="Terrarium"></a></p>
+<p align="center"><a href="https://terraium.ai/"><img src="../../assets/logo.svg" width="92" height="92" alt="Terrarium"></a></p>
 
 <h1 align="center">Terrarium</h1>
 
 <p align="center"><b>Une vaste collection des derniers jeux 3D, mondes interactifs et vidéos, avec une sélection populaire actualisée toutes les 8 heures et le code open source complet pour explorer, apprendre et créer à votre tour.</b></p>
 
-<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="https://img.shields.io/badge/Site%20web-Terrarium-c6f25a?labelColor=30363d" height="22" alt="Site web"></a>
-<a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/Archives%20du%20code-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="Archives du code"></a></p>
+<p align="center"><a href="https://terraium.ai/"><img src="https://img.shields.io/badge/Site%20web-Terrarium-c6f25a?labelColor=30363d" height="22" alt="Site web"></a>
+<a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works"><img src="https://img.shields.io/badge/Archives%20du%20code-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="Archives du code"></a>
+<a href="https://discord.com/invite/bJqy7ev7WD"><img src="https://img.shields.io/badge/Discord-Join-c6f25a?labelColor=30363d" height="22" alt="Discord"></a></p>
 
 <p align="center"><sub><a href="../../README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português</a> · <b>Français</b> · <a href="README.de.md">Deutsch</a> · <a href="README.ru.md">Русский</a></sub></p>
 
@@ -189,7 +190,7 @@ Explorez les sciences, les données et les idées en 3D interactive.
 
 <p><b><a href="../../wallpapers/README.fr.md">Voir les 3 entrées →</a></b> · <a href="#contents">↑ Sommaire</a></p>
 
-<p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes">Explorer le site complet →</a> · <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works">Obtenir les archives du code →</a></p>
+<p align="center"><a href="https://terraium.ai/">Explorer le site complet →</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works">Obtenir les archives du code →</a></p>
 
 <details><summary>Code, sélection et contributions</summary>
 
@@ -198,7 +199,7 @@ Des œuvres de 324 créateurs provenant de GitHub, Hugging Face Spaces, itch.io,
 Les sources de 321 entrées sous licence open source sont archivées par catégorie et par œuvre, avec les licences d’origine lorsqu’elles sont disponibles. Téléchargement groupé :
 
 ```sh
-git clone https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works
+git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works
 ```
 
 Les gros fichiers nécessitent Git LFS. Chaque œuvre conserve sa licence ; le texte de ces pages est sous CC0 1.0. Les dates du catalogue et de popularité sont indiquées séparément.
