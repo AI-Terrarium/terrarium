@@ -22,7 +22,7 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · Beliebt"></picture></a></p>
 
-<p align="center"><sub>Aktualisiert: 2026-11-15 19:45 UTC · Aktualisierung alle 8 Stunden geplant</sub></p>
+<p align="center"><sub>Aktualisiert: 2026-11-15 19:51 UTC · Aktualisierung alle 8 Stunden geplant</sub></p>
 
 <a name="showcase-links"></a>
 
