@@ -4,7 +4,7 @@
 
 <h1 align="center">Terrarium</h1>
 
-<p align="center"><b>全面收集並展示最新的 3D 遊戲、互動世界與影片，完整開源原始碼集中封存，供你體驗、學習與再創作。</b></p>
+<p align="center"><b>全面收集並展示最新的 3D 遊戲、互動世界與影片，熱門榜單每 8 小時更新，完整開源原始碼集中封存，供你體驗、學習與再創作。</b></p>
 
 <p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="https://img.shields.io/badge/%E5%AE%98%E7%B6%B2-Terrarium-c6f25a?labelColor=30363d" height="22" alt="官網"></a>
 <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/%E5%8E%9F%E5%A7%8B%E7%A2%BC%E5%B0%81%E5%AD%98-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="原始碼封存"></a></p>

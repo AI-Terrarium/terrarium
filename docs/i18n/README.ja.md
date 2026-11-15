@@ -4,7 +4,7 @@
 
 <h1 align="center">Terrarium</h1>
 
-<p align="center"><b>最新の 3D ゲーム、インタラクティブなワールド、動画を幅広く収集・紹介し、完全なオープンソースコードを体験・学習・再創作のためにまとめています。</b></p>
+<p align="center"><b>最新の 3D ゲーム、インタラクティブなワールド、動画を幅広く紹介し、人気作品を 8 時間ごとに更新、完全なオープンソースコードを体験・学習・再創作のためにまとめています。</b></p>
 
 <p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88-Terrarium-c6f25a?labelColor=30363d" height="22" alt="公式サイト"></a>
 <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="ソースアーカイブ"></a></p>

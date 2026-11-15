@@ -4,7 +4,7 @@
 
 <h1 align="center">Terrarium</h1>
 
-<p align="center"><b>최신 3D 게임, 인터랙티브 월드와 영상을 폭넓게 수집·소개하고, 완전한 오픈 소스 코드를 모아 체험·학습·재창작으로 이어 줍니다.</b></p>
+<p align="center"><b>최신 3D 게임, 인터랙티브 월드와 영상을 폭넓게 소개하고 인기 목록을 8시간마다 갱신하며, 완전한 오픈 소스 코드를 모아 체험·학습·재창작으로 이어 줍니다.</b></p>
 
 <p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="https://img.shields.io/badge/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-Terrarium-c6f25a?labelColor=30363d" height="22" alt="웹사이트"></a>
 <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/%EC%86%8C%EC%8A%A4%20%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="소스 아카이브"></a></p>

@@ -4,7 +4,7 @@
 
 <h1 align="center">Terrarium</h1>
 
-<p align="center"><b>Une vaste collection des derniers jeux 3D, mondes interactifs et vidéos, avec leur code open source complet réuni pour explorer, apprendre et créer à votre tour.</b></p>
+<p align="center"><b>Une vaste collection des derniers jeux 3D, mondes interactifs et vidéos, avec une sélection populaire actualisée toutes les 8 heures et le code open source complet pour explorer, apprendre et créer à votre tour.</b></p>
 
 <p align="center"><a href="https://dbiewzjg1b9r0.cloudfront.net/index.html?license=yes"><img src="https://img.shields.io/badge/Site%20web-Terrarium-c6f25a?labelColor=30363d" height="22" alt="Site web"></a>
 <a href="https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"><img src="https://img.shields.io/badge/Archives%20du%20code-Hugging%20Face-c6f25a?labelColor=30363d" height="22" alt="Archives du code"></a></p>
