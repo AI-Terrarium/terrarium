@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-15T19:51:56Z",
+  "updated_at": "2026-11-15T20:38:47Z",
   "method": "public-support-v1",
   "sources": {
     "bilibili:BV1ByWM6mE1D": {
@@ -810,7 +810,7 @@
       "url": "https://github.com/ethanplusai/zombies",
       "published_at": "2026-11-11T20:06:45Z",
       "metrics": {
-        "stars": 8,
+        "stars": 9,
         "forks": 3
       }
     },
@@ -3077,7 +3077,7 @@
       "url": "https://x.com/i/status/2119868629491789992",
       "published_at": "2026-11-09T19:04:01.000Z",
       "metrics": {
-        "likes": 134,
+        "likes": 133,
         "comments": 4
       }
     },
@@ -3086,7 +3086,7 @@
       "url": "https://x.com/i/status/2119868968307695818",
       "published_at": "2026-11-09T19:05:21.000Z",
       "metrics": {
-        "likes": 4266,
+        "likes": 4267,
         "comments": 174
       }
     },
@@ -3113,7 +3113,7 @@
       "url": "https://x.com/i/status/2119876449494540554",
       "published_at": "2026-11-09T19:35:05.000Z",
       "metrics": {
-        "likes": 512,
+        "likes": 513,
         "comments": 55
       }
     },
@@ -3122,7 +3122,7 @@
       "url": "https://x.com/i/status/2119877065701036047",
       "published_at": "2026-11-09T19:37:32.000Z",
       "metrics": {
-        "likes": 2413,
+        "likes": 2415,
         "comments": 93
       }
     },
@@ -3302,7 +3302,7 @@
       "url": "https://x.com/i/status/2119925633564463609",
       "published_at": "2026-11-09T22:50:32.000Z",
       "metrics": {
-        "likes": 14810,
+        "likes": 14814,
         "comments": 846
       }
     },
@@ -3482,7 +3482,7 @@
       "url": "https://x.com/i/status/2120284261089673376",
       "published_at": "2026-11-10T22:35:35.000Z",
       "metrics": {
-        "likes": 17888,
+        "likes": 17892,
         "comments": 499
       }
     },
@@ -3491,7 +3491,7 @@
       "url": "https://x.com/i/status/2120341251178594532",
       "published_at": "2026-11-11T02:22:02.000Z",
       "metrics": {
-        "likes": 7968,
+        "likes": 7970,
         "comments": 386
       }
     },
