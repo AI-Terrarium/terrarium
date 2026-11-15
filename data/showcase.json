@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-15T20:38:47Z",
+  "updated_at": "2026-11-15T21:40:59Z",
   "method": "public-support-v1",
   "sources": {
     "bilibili:BV1ByWM6mE1D": {
@@ -40,10 +40,109 @@
         "forks": 0
       }
     },
+    "github:0x6r1an0y/minecraft-head-viewer": {
+      "platform": "github",
+      "url": "https://github.com/0x6r1an0y/minecraft-head-viewer",
+      "published_at": "2025-03-30T09:22:13Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:0xcodez/leviathan": {
+      "platform": "github",
+      "url": "https://github.com/0xcodez/leviathan",
+      "published_at": "2026-11-04T14:24:44Z",
+      "metrics": {
+        "stars": 70,
+        "forks": 15
+      }
+    },
+    "github:0xcodez/sunshower": {
+      "platform": "github",
+      "url": "https://github.com/0xcodez/sunshower",
+      "published_at": "2026-11-03T16:46:31Z",
+      "metrics": {
+        "stars": 31,
+        "forks": 6
+      }
+    },
+    "github:100founts/brief-to-3d-video-pipeline": {
+      "platform": "github",
+      "url": "https://github.com/100founts/brief-to-3d-video-pipeline",
+      "published_at": "2026-10-23T09:36:20Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:100rabhsg/particles": {
+      "platform": "github",
+      "url": "https://github.com/100rabhsg/particles",
+      "published_at": "2025-12-14T16:42:43Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:112zjw/holoearth": {
+      "platform": "github",
+      "url": "https://github.com/112zjw/holoearth",
+      "published_at": "2025-12-23T06:55:31Z",
+      "metrics": {
+        "stars": 3,
+        "forks": 1
+      }
+    },
     "github:1441662404/ai-arcade": {
       "platform": "github",
       "url": "https://github.com/1441662404/ai-arcade",
       "published_at": "2026-11-11T11:39:58Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:1873575791/saltline-fable-5.2": {
+      "platform": "github",
+      "url": "https://github.com/1873575791/saltline-fable-5.2",
+      "published_at": "2026-11-12T06:50:04Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:1oth3r/3d-html-game": {
+      "platform": "github",
+      "url": "https://github.com/1oth3r/3d-html-game",
+      "published_at": "2025-04-11T01:43:18Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:2727345589/saltline-fable-5.2": {
+      "platform": "github",
+      "url": "https://github.com/2727345589/saltline-fable-5.2",
+      "published_at": "2026-11-12T01:50:38Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:721abhay/-ai-lab-partner": {
+      "platform": "github",
+      "url": "https://github.com/721abhay/-ai-lab-partner",
+      "published_at": "2025-12-14T11:44:24Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 1
+      }
+    },
+    "github:8533502-dev/image-particle-fx": {
+      "platform": "github",
+      "url": "https://github.com/8533502-dev/image-particle-fx",
+      "published_at": "2026-10-08T14:49:31Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -55,6 +154,87 @@
       "published_at": "2026-09-29T13:16:09Z",
       "metrics": {
         "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:aad-im/lantern-vale": {
+      "platform": "github",
+      "url": "https://github.com/aad-im/lantern-vale",
+      "published_at": "2026-10-22T06:03:09Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:aadil6971/paperworld": {
+      "platform": "github",
+      "url": "https://github.com/aadil6971/paperworld",
+      "published_at": "2026-09-26T10:10:50Z",
+      "metrics": {
+        "stars": 3,
+        "forks": 2
+      }
+    },
+    "github:aaronorelup/grind-grimoire": {
+      "platform": "github",
+      "url": "https://github.com/aaronorelup/grind-grimoire",
+      "published_at": "2026-08-07T23:21:59Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:aaryan-kapoor/iron-man-fable-5": {
+      "platform": "github",
+      "url": "https://github.com/aaryan-kapoor/iron-man-fable-5",
+      "published_at": "2026-06-12T00:45:14Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:aasiya-au/nova-strike": {
+      "platform": "github",
+      "url": "https://github.com/aasiya-au/nova-strike",
+      "published_at": "2026-11-09T09:31:28Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:ab30-bot/cinematic-web-lab": {
+      "platform": "github",
+      "url": "https://github.com/ab30-bot/cinematic-web-lab",
+      "published_at": "2026-07-03T14:49:04Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:abdellk-ai/3d-cad-ia": {
+      "platform": "github",
+      "url": "https://github.com/abdellk-ai/3d-cad-ia",
+      "published_at": "2026-11-02T19:35:53Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:abdullahijamilu/motion-s": {
+      "platform": "github",
+      "url": "https://github.com/abdullahijamilu/motion-s",
+      "published_at": "2026-04-23T23:27:40Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:abhinav-rm/odyssey": {
+      "platform": "github",
+      "url": "https://github.com/abhinav-rm/odyssey",
+      "published_at": "2026-03-25T11:01:23Z",
+      "metrics": {
+        "stars": 0,
         "forks": 0
       }
     },
@@ -71,6 +251,15 @@
       "platform": "github",
       "url": "https://github.com/abhinavv9/gemini-3d-model-viewer",
       "published_at": "2025-12-09T18:46:55Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:abhinavv9/interactive-3d-gemini-chatbot": {
+      "platform": "github",
+      "url": "https://github.com/abhinavv9/interactive-3d-gemini-chatbot",
+      "published_at": "2025-12-09T19:45:12Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -94,10 +283,82 @@
         "forks": 0
       }
     },
+    "github:adwaithwas/albumverse---3d-parallax-album-covers": {
+      "platform": "github",
+      "url": "https://github.com/adwaithwas/albumverse---3d-parallax-album-covers",
+      "published_at": "2026-06-02T16:27:33Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:aemtti/udder-walk-cyborg": {
+      "platform": "github",
+      "url": "https://github.com/aemtti/udder-walk-cyborg",
+      "published_at": "2026-10-09T22:57:37Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:afapoid/gpt-6-xhigh-aquarium": {
+      "platform": "github",
+      "url": "https://github.com/afapoid/gpt-6-xhigh-aquarium",
+      "published_at": "2026-10-31T20:53:32Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:affan-ahmed-ghouri/t-shirt-customizer": {
+      "platform": "github",
+      "url": "https://github.com/affan-ahmed-ghouri/t-shirt-customizer",
+      "published_at": "2026-03-09T23:01:01Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:agentculture/ship-game-v1": {
+      "platform": "github",
+      "url": "https://github.com/agentculture/ship-game-v1",
+      "published_at": "2026-08-06T04:01:26Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:ahmadsaleh22/footprint-to-ifc": {
+      "platform": "github",
+      "url": "https://github.com/ahmadsaleh22/footprint-to-ifc",
+      "published_at": "2026-10-20T22:47:27Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:aimarmndz/vibe-gambling": {
+      "platform": "github",
+      "url": "https://github.com/aimarmndz/vibe-gambling",
+      "published_at": "2026-10-12T18:44:49Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:akashmakesdesigns/fable-sites": {
       "platform": "github",
       "url": "https://github.com/akashmakesdesigns/fable-sites",
       "published_at": "2026-11-09T21:02:24Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:akbarov-labs/paper-boat-voyage": {
+      "platform": "github",
+      "url": "https://github.com/akbarov-labs/paper-boat-voyage",
+      "published_at": "2026-11-09T17:32:19Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -121,12 +382,30 @@
         "forks": 0
       }
     },
+    "github:akshatsrii/3d-tshirt-ai-designer": {
+      "platform": "github",
+      "url": "https://github.com/akshatsrii/3d-tshirt-ai-designer",
+      "published_at": "2026-01-27T08:37:54Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 1
+      }
+    },
     "github:alan890104/eldor": {
       "platform": "github",
       "url": "https://github.com/alan890104/eldor",
       "published_at": "2026-10-07T19:33:52Z",
       "metrics": {
         "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:alanmaizon/fable-butterfly": {
+      "platform": "github",
+      "url": "https://github.com/alanmaizon/fable-butterfly",
+      "published_at": "2026-06-11T11:02:42Z",
+      "metrics": {
+        "stars": 0,
         "forks": 0
       }
     },
@@ -145,6 +424,60 @@
       "published_at": "2026-08-08T08:06:36Z",
       "metrics": {
         "stars": 4,
+        "forks": 0
+      }
+    },
+    "github:alexkli/toon-prix": {
+      "platform": "github",
+      "url": "https://github.com/alexkli/toon-prix",
+      "published_at": "2026-11-12T21:47:56Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:alexmorrison12/sevenshard": {
+      "platform": "github",
+      "url": "https://github.com/alexmorrison12/sevenshard",
+      "published_at": "2026-09-29T22:38:29Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:allocsys/madmcp-orchestration-viz": {
+      "platform": "github",
+      "url": "https://github.com/allocsys/madmcp-orchestration-viz",
+      "published_at": "2026-07-29T11:31:38Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:alpha34727/world_execute_me_web": {
+      "platform": "github",
+      "url": "https://github.com/alpha34727/world_execute_me_web",
+      "published_at": "2026-10-20T09:35:59Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:alwin936/three.js-fps-game---vibe-coded-w-codex": {
+      "platform": "github",
+      "url": "https://github.com/alwin936/three.js-fps-game---vibe-coded-w-codex",
+      "published_at": "2026-02-15T22:54:53Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:amael-alt/elelhem": {
+      "platform": "github",
+      "url": "https://github.com/amael-alt/elelhem",
+      "published_at": "2026-10-05T10:52:08Z",
+      "metrics": {
+        "stars": 0,
         "forks": 0
       }
     },
@@ -175,6 +508,24 @@
         "forks": 3
       }
     },
+    "github:andrea-antal/drealabs": {
+      "platform": "github",
+      "url": "https://github.com/andrea-antal/drealabs",
+      "published_at": "2026-01-26T08:33:42Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:andrewvoirol/ais-isoglobe-weather": {
+      "platform": "github",
+      "url": "https://github.com/andrewvoirol/ais-isoglobe-weather",
+      "published_at": "2026-08-02T23:18:16Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:andrianopolino/drone_simulator": {
       "platform": "github",
       "url": "https://github.com/andrianopolino/drone_simulator",
@@ -182,6 +533,15 @@
       "metrics": {
         "stars": 0,
         "forks": 0
+      }
+    },
+    "github:andyhuo520/grandma-gta": {
+      "platform": "github",
+      "url": "https://github.com/andyhuo520/grandma-gta",
+      "published_at": "2026-10-09T03:27:00Z",
+      "metrics": {
+        "stars": 25,
+        "forks": 13
       }
     },
     "github:anois/tarot": {
@@ -197,6 +557,15 @@
       "platform": "github",
       "url": "https://github.com/anonymoususer1331/fireworks",
       "published_at": "2026-06-26T04:23:38Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:ansarbuilds/ai-digital-double": {
+      "platform": "github",
+      "url": "https://github.com/ansarbuilds/ai-digital-double",
+      "published_at": "2026-10-09T19:25:24Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -247,6 +616,15 @@
         "forks": 0
       }
     },
+    "github:anushkadas-coder/psilocybe_cubensis": {
+      "platform": "github",
+      "url": "https://github.com/anushkadas-coder/psilocybe_cubensis",
+      "published_at": "2026-05-07T17:10:41Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
     "github:aralimnga/claude-3d-landingpage-evolution": {
       "platform": "github",
       "url": "https://github.com/aralimnga/claude-3d-landingpage-evolution",
@@ -269,6 +647,15 @@
       "platform": "github",
       "url": "https://github.com/aravindh99/necromaniac",
       "published_at": "2025-12-04T05:54:45Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:arecibo-sys/voidwell-2": {
+      "platform": "github",
+      "url": "https://github.com/arecibo-sys/voidwell-2",
+      "published_at": "2026-07-12T09:15:55Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -301,10 +688,37 @@
         "forks": 0
       }
     },
+    "github:arndrosemeier/fracvibe": {
+      "platform": "github",
+      "url": "https://github.com/arndrosemeier/fracvibe",
+      "published_at": "2025-04-16T08:55:29Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:arnicas/bee-garden-game": {
       "platform": "github",
       "url": "https://github.com/arnicas/bee-garden-game",
       "published_at": "2026-09-23T12:34:54Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:arnie016/flight-simulator-fable5": {
+      "platform": "github",
+      "url": "https://github.com/arnie016/flight-simulator-fable5",
+      "published_at": "2026-07-06T16:55:46Z",
+      "metrics": {
+        "stars": 6,
+        "forks": 2
+      }
+    },
+    "github:arpit379/the-thing-that-learns": {
+      "platform": "github",
+      "url": "https://github.com/arpit379/the-thing-that-learns",
+      "published_at": "2026-08-15T19:12:43Z",
       "metrics": {
         "stars": 1,
         "forks": 0
@@ -325,6 +739,42 @@
       "published_at": "2026-10-16T13:23:46Z",
       "metrics": {
         "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:ashusriwastav07/git-world": {
+      "platform": "github",
+      "url": "https://github.com/ashusriwastav07/git-world",
+      "published_at": "2026-03-06T17:20:55Z",
+      "metrics": {
+        "stars": 2,
+        "forks": 0
+      }
+    },
+    "github:astvel/three.js-t-34-viewer": {
+      "platform": "github",
+      "url": "https://github.com/astvel/three.js-t-34-viewer",
+      "published_at": "2025-10-31T14:34:24Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:astvel/three.js-t-34-viewer-raycasting": {
+      "platform": "github",
+      "url": "https://github.com/astvel/three.js-t-34-viewer-raycasting",
+      "published_at": "2025-11-02T18:47:43Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:atifmahmoodai/web-atifs-vault-3d-museum": {
+      "platform": "github",
+      "url": "https://github.com/atifmahmoodai/web-atifs-vault-3d-museum",
+      "published_at": "2026-08-07T18:11:43Z",
+      "metrics": {
+        "stars": 1,
         "forks": 0
       }
     },
@@ -364,6 +814,42 @@
         "forks": 0
       }
     },
+    "github:ayeshh899-creator/3d-sphere-runner": {
+      "platform": "github",
+      "url": "https://github.com/ayeshh899-creator/3d-sphere-runner",
+      "published_at": "2026-09-01T13:56:48Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:ayushhl/shadow-ascent-3d": {
+      "platform": "github",
+      "url": "https://github.com/ayushhl/shadow-ascent-3d",
+      "published_at": "2026-10-05T09:50:05Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:ayyarham/neon_runner": {
+      "platform": "github",
+      "url": "https://github.com/ayyarham/neon_runner",
+      "published_at": "2026-06-10T06:28:35Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:az9713/fable-5.2-demos": {
+      "platform": "github",
+      "url": "https://github.com/az9713/fable-5.2-demos",
+      "published_at": "2026-11-09T22:18:49Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:az9713/fable-5.2-typewriter-demos": {
       "platform": "github",
       "url": "https://github.com/az9713/fable-5.2-typewriter-demos",
@@ -382,10 +868,28 @@
         "forks": 3
       }
     },
+    "github:az9713/pirate-adventure": {
+      "platform": "github",
+      "url": "https://github.com/az9713/pirate-adventure",
+      "published_at": "2026-02-15T05:15:12Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:baileypillon/overhang": {
       "platform": "github",
       "url": "https://github.com/baileypillon/overhang",
       "published_at": "2026-11-03T14:23:36Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:bankaino/timber-rush-3d-playable": {
+      "platform": "github",
+      "url": "https://github.com/bankaino/timber-rush-3d-playable",
+      "published_at": "2026-10-10T06:53:54Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -409,6 +913,33 @@
         "forks": 1
       }
     },
+    "github:bbuf/sglang-rings": {
+      "platform": "github",
+      "url": "https://github.com/bbuf/sglang-rings",
+      "published_at": "2026-11-11T09:39:25Z",
+      "metrics": {
+        "stars": 3,
+        "forks": 0
+      }
+    },
+    "github:beese54/fable-5.1-aquascape-gallery": {
+      "platform": "github",
+      "url": "https://github.com/beese54/fable-5.1-aquascape-gallery",
+      "published_at": "2026-10-01T15:40:35Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:ber254/solar-sistem-pop": {
+      "platform": "github",
+      "url": "https://github.com/ber254/solar-sistem-pop",
+      "published_at": "2026-10-16T18:47:29Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:bhanu2006-24/racing-game": {
       "platform": "github",
       "url": "https://github.com/bhanu2006-24/racing-game",
@@ -427,6 +958,24 @@
         "forks": 0
       }
     },
+    "github:biiinsb/science-lab": {
+      "platform": "github",
+      "url": "https://github.com/biiinsb/science-lab",
+      "published_at": "2026-07-24T12:33:28Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:billpwchan/halcyon": {
+      "platform": "github",
+      "url": "https://github.com/billpwchan/halcyon",
+      "published_at": "2026-10-04T03:57:14Z",
+      "metrics": {
+        "stars": 6,
+        "forks": 0
+      }
+    },
     "github:biswajitdasb4-oss/prompt-paws": {
       "platform": "github",
       "url": "https://github.com/biswajitdasb4-oss/prompt-paws",
@@ -436,10 +985,73 @@
         "forks": 0
       }
     },
+    "github:bluongov/drone-swarm-c2": {
+      "platform": "github",
+      "url": "https://github.com/bluongov/drone-swarm-c2",
+      "published_at": "2026-09-30T13:17:29Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:bmkoscak/chains-of-hera": {
+      "platform": "github",
+      "url": "https://github.com/bmkoscak/chains-of-hera",
+      "published_at": "2026-10-21T15:59:23Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:bobbyt-stack/nuke-3d": {
+      "platform": "github",
+      "url": "https://github.com/bobbyt-stack/nuke-3d",
+      "published_at": "2026-06-01T02:44:47Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:boovines/backrooms": {
+      "platform": "github",
+      "url": "https://github.com/boovines/backrooms",
+      "published_at": "2026-06-09T22:04:38Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:bpbenpatterson/blockbound": {
       "platform": "github",
       "url": "https://github.com/bpbenpatterson/blockbound",
       "published_at": "2026-08-23T01:23:53Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:br3nt/tribal-gods": {
+      "platform": "github",
+      "url": "https://github.com/br3nt/tribal-gods",
+      "published_at": "2026-06-15T12:53:57Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:bramtechs/vibe-beach": {
+      "platform": "github",
+      "url": "https://github.com/bramtechs/vibe-beach",
+      "published_at": "2025-04-28T22:44:49Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:brianciou/milky-way-galaxy": {
+      "platform": "github",
+      "url": "https://github.com/brianciou/milky-way-galaxy",
+      "published_at": "2026-06-12T14:14:24Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -499,10 +1111,46 @@
         "forks": 9
       }
     },
+    "github:bruce12-glitch/nullvoid.ai": {
+      "platform": "github",
+      "url": "https://github.com/bruce12-glitch/nullvoid.ai",
+      "published_at": "2026-07-30T10:09:59Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:bryan2517/neuralsign": {
+      "platform": "github",
+      "url": "https://github.com/bryan2517/neuralsign",
+      "published_at": "2026-01-28T12:03:31Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:caiyingjun18-ai/moon-base-site-07": {
+      "platform": "github",
+      "url": "https://github.com/caiyingjun18-ai/moon-base-site-07",
+      "published_at": "2026-11-11T06:15:47Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:calebschalesky-ops/ascent": {
       "platform": "github",
       "url": "https://github.com/calebschalesky-ops/ascent",
       "published_at": "2026-10-23T17:23:33Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:chanda-partha/astravex_0.1_ctg_": {
+      "platform": "github",
+      "url": "https://github.com/chanda-partha/astravex_0.1_ctg_",
+      "published_at": "2026-10-07T14:49:37Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -517,6 +1165,24 @@
         "forks": 0
       }
     },
+    "github:chefcontrol/floe-market": {
+      "platform": "github",
+      "url": "https://github.com/chefcontrol/floe-market",
+      "published_at": "2026-10-06T17:51:22Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:chenduanyun091216/saltline_chen": {
+      "platform": "github",
+      "url": "https://github.com/chenduanyun091216/saltline_chen",
+      "published_at": "2026-11-12T14:45:02Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:cheng-1023-web/vibe-coding": {
       "platform": "github",
       "url": "https://github.com/cheng-1023-web/vibe-coding",
@@ -526,10 +1192,64 @@
         "forks": 0
       }
     },
+    "github:chengzzz0904/solo-fm": {
+      "platform": "github",
+      "url": "https://github.com/chengzzz0904/solo-fm",
+      "published_at": "2026-08-07T10:28:34Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:chenxy1986/fable5_balloon_battle_mk3": {
+      "platform": "github",
+      "url": "https://github.com/chenxy1986/fable5_balloon_battle_mk3",
+      "published_at": "2026-06-16T03:14:18Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:choephix/threejs-lab": {
+      "platform": "github",
+      "url": "https://github.com/choephix/threejs-lab",
+      "published_at": "2026-09-06T07:05:55Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:ciskje/isosnake": {
       "platform": "github",
       "url": "https://github.com/ciskje/isosnake",
       "published_at": "2026-10-05T08:47:01Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:clashraider02-ctrl/breach-protocol": {
+      "platform": "github",
+      "url": "https://github.com/clashraider02-ctrl/breach-protocol",
+      "published_at": "2026-09-10T03:23:39Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:cocosmos72-ahn/neon-tetris": {
+      "platform": "github",
+      "url": "https://github.com/cocosmos72-ahn/neon-tetris",
+      "published_at": "2026-07-27T12:08:04Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:code-yeongyu/overwatch-omo-native-fable": {
+      "platform": "github",
+      "url": "https://github.com/code-yeongyu/overwatch-omo-native-fable",
+      "published_at": "2026-07-17T14:27:19Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -571,6 +1291,15 @@
         "forks": 0
       }
     },
+    "github:codex-lm/runes-de-commandement": {
+      "platform": "github",
+      "url": "https://github.com/codex-lm/runes-de-commandement",
+      "published_at": "2026-10-30T11:36:12Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:codexparadise/insects": {
       "platform": "github",
       "url": "https://github.com/codexparadise/insects",
@@ -598,12 +1327,57 @@
         "forks": 0
       }
     },
+    "github:conjureganja/slug-force-69": {
+      "platform": "github",
+      "url": "https://github.com/conjureganja/slug-force-69",
+      "published_at": "2026-01-15T08:16:23Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:corosolto/client": {
+      "platform": "github",
+      "url": "https://github.com/corosolto/client",
+      "published_at": "2026-07-17T16:15:28Z",
+      "metrics": {
+        "stars": 263,
+        "forks": 43
+      }
+    },
+    "github:crlsyajie/cyf-moonbase": {
+      "platform": "github",
+      "url": "https://github.com/crlsyajie/cyf-moonbase",
+      "published_at": "2026-10-10T13:42:15Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:crmfordata/gta-violetovo": {
+      "platform": "github",
+      "url": "https://github.com/crmfordata/gta-violetovo",
+      "published_at": "2026-09-13T21:28:40Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:cucarol/moyu": {
       "platform": "github",
       "url": "https://github.com/cucarol/moyu",
       "published_at": "2026-10-30T21:12:19Z",
       "metrics": {
         "stars": 3,
+        "forks": 0
+      }
+    },
+    "github:cxb2523/gsb-660-ba577a35fb6ee2e4": {
+      "platform": "github",
+      "url": "https://github.com/cxb2523/gsb-660-ba577a35fb6ee2e4",
+      "published_at": "2026-11-11T04:18:01Z",
+      "metrics": {
+        "stars": 0,
         "forks": 0
       }
     },
@@ -614,6 +1388,15 @@
       "metrics": {
         "stars": 8,
         "forks": 1
+      }
+    },
+    "github:cyb3rcricket/the-wizard": {
+      "platform": "github",
+      "url": "https://github.com/cyb3rcricket/the-wizard",
+      "published_at": "2026-09-25T03:18:22Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
       }
     },
     "github:cypherpoet/three-js-apod-air-and-space-museum": {
@@ -631,6 +1414,33 @@
       "published_at": "2026-04-14T12:14:41Z",
       "metrics": {
         "stars": 12,
+        "forks": 0
+      }
+    },
+    "github:cziter15/archvis-webgl": {
+      "platform": "github",
+      "url": "https://github.com/cziter15/archvis-webgl",
+      "published_at": "2025-10-15T21:08:13Z",
+      "metrics": {
+        "stars": 3,
+        "forks": 0
+      }
+    },
+    "github:daiyu3659/fish": {
+      "platform": "github",
+      "url": "https://github.com/daiyu3659/fish",
+      "published_at": "2026-11-13T03:07:42Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:daksh473/antigravity-particle-ai": {
+      "platform": "github",
+      "url": "https://github.com/daksh473/antigravity-particle-ai",
+      "published_at": "2026-03-28T11:07:45Z",
+      "metrics": {
+        "stars": 0,
         "forks": 0
       }
     },
@@ -670,6 +1480,24 @@
         "forks": 0
       }
     },
+    "github:davitikvaratskhelia/dji-osmo-pocket-4-3d": {
+      "platform": "github",
+      "url": "https://github.com/davitikvaratskhelia/dji-osmo-pocket-4-3d",
+      "published_at": "2026-10-08T22:18:59Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:davitikvaratskhelia/iphone-17-pro-max-3d": {
+      "platform": "github",
+      "url": "https://github.com/davitikvaratskhelia/iphone-17-pro-max-3d",
+      "published_at": "2026-10-06T20:01:50Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:ddown325/voxelcraft": {
       "platform": "github",
       "url": "https://github.com/ddown325/voxelcraft",
@@ -688,6 +1516,42 @@
         "forks": 0
       }
     },
+    "github:derprito64bit/aether-graph-prompting-design-test": {
+      "platform": "github",
+      "url": "https://github.com/derprito64bit/aether-graph-prompting-design-test",
+      "published_at": "2026-09-22T21:29:32Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:derprito64bit/aether-one-x-capability-test": {
+      "platform": "github",
+      "url": "https://github.com/derprito64bit/aether-one-x-capability-test",
+      "published_at": "2026-09-19T15:12:38Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:desertcache/starship": {
+      "platform": "github",
+      "url": "https://github.com/desertcache/starship",
+      "published_at": "2026-06-12T00:43:32Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:deuaj-dotcom/gravite": {
+      "platform": "github",
+      "url": "https://github.com/deuaj-dotcom/gravite",
+      "published_at": "2026-03-03T21:19:06Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:dhananjay09892/jarvis": {
       "platform": "github",
       "url": "https://github.com/dhananjay09892/jarvis",
@@ -697,12 +1561,57 @@
         "forks": 0
       }
     },
+    "github:dia16/nl-ludo-challenge": {
+      "platform": "github",
+      "url": "https://github.com/dia16/nl-ludo-challenge",
+      "published_at": "2025-12-16T02:28:38Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:dieci02/non-ferrous-metals": {
+      "platform": "github",
+      "url": "https://github.com/dieci02/non-ferrous-metals",
+      "published_at": "2026-08-01T14:18:50Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:dingxiaopi/3d-pages": {
       "platform": "github",
       "url": "https://github.com/dingxiaopi/3d-pages",
       "published_at": "2026-11-01T15:31:14Z",
       "metrics": {
         "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:diocal/nordheim": {
+      "platform": "github",
+      "url": "https://github.com/diocal/nordheim",
+      "published_at": "2026-07-07T04:20:43Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:diprohaque/office-jabo-bhai": {
+      "platform": "github",
+      "url": "https://github.com/diprohaque/office-jabo-bhai",
+      "published_at": "2026-10-26T08:57:14Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:disposablebydefault/claude-waterloo-game": {
+      "platform": "github",
+      "url": "https://github.com/disposablebydefault/claude-waterloo-game",
+      "published_at": "2026-07-24T17:43:28Z",
+      "metrics": {
+        "stars": 2,
         "forks": 0
       }
     },
@@ -724,12 +1633,48 @@
         "forks": 0
       }
     },
+    "github:dndnoob/emberdeep": {
+      "platform": "github",
+      "url": "https://github.com/dndnoob/emberdeep",
+      "published_at": "2026-11-12T02:18:59Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:dnouri/dinecraft": {
+      "platform": "github",
+      "url": "https://github.com/dnouri/dinecraft",
+      "published_at": "2025-04-19T13:58:23Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:don-xoce/1252": {
+      "platform": "github",
+      "url": "https://github.com/don-xoce/1252",
+      "published_at": "2026-10-10T11:39:31Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:dososo/little-rain-cloud": {
       "platform": "github",
       "url": "https://github.com/dososo/little-rain-cloud",
       "published_at": "2026-10-22T09:01:51Z",
       "metrics": {
         "stars": 3,
+        "forks": 0
+      }
+    },
+    "github:dpappo/workbench": {
+      "platform": "github",
+      "url": "https://github.com/dpappo/workbench",
+      "published_at": "2026-06-10T14:39:02Z",
+      "metrics": {
+        "stars": 0,
         "forks": 0
       }
     },
@@ -760,6 +1705,24 @@
         "forks": 0
       }
     },
+    "github:ebruuu-ozennn/cowboy-game": {
+      "platform": "github",
+      "url": "https://github.com/ebruuu-ozennn/cowboy-game",
+      "published_at": "2026-10-21T17:43:12Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:eddizege/nightshift": {
+      "platform": "github",
+      "url": "https://github.com/eddizege/nightshift",
+      "published_at": "2026-11-10T19:21:18Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:edgegap/netcode-sample-threejs-thin-ice-tussle": {
       "platform": "github",
       "url": "https://github.com/edgegap/netcode-sample-threejs-thin-ice-tussle",
@@ -773,6 +1736,42 @@
       "platform": "github",
       "url": "https://github.com/edgegap/netcode-sample-threejs-vibe-coded",
       "published_at": "2026-11-03T19:54:23Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:ekkh1300/neon-city-strike": {
+      "platform": "github",
+      "url": "https://github.com/ekkh1300/neon-city-strike",
+      "published_at": "2026-10-02T19:22:15Z",
+      "metrics": {
+        "stars": 3,
+        "forks": 0
+      }
+    },
+    "github:elberacasa/claudeage": {
+      "platform": "github",
+      "url": "https://github.com/elberacasa/claudeage",
+      "published_at": "2026-07-29T03:31:45Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 1
+      }
+    },
+    "github:elberacasa/comic-zombies": {
+      "platform": "github",
+      "url": "https://github.com/elberacasa/comic-zombies",
+      "published_at": "2026-08-10T18:01:02Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:elivoronov-ctrl/skyward-glide": {
+      "platform": "github",
+      "url": "https://github.com/elivoronov-ctrl/skyward-glide",
+      "published_at": "2026-11-03T03:28:58Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -796,6 +1795,15 @@
         "forks": 0
       }
     },
+    "github:emr-dev1/orbital": {
+      "platform": "github",
+      "url": "https://github.com/emr-dev1/orbital",
+      "published_at": "2026-05-08T18:43:54Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
     "github:eriknomitch/workmelt": {
       "platform": "github",
       "url": "https://github.com/eriknomitch/workmelt",
@@ -803,6 +1811,33 @@
       "metrics": {
         "stars": 4,
         "forks": 2
+      }
+    },
+    "github:erinrusevtheone/aion-core": {
+      "platform": "github",
+      "url": "https://github.com/erinrusevtheone/aion-core",
+      "published_at": "2026-05-27T11:53:44Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:erom/agenthot-the-game": {
+      "platform": "github",
+      "url": "https://github.com/erom/agenthot-the-game",
+      "published_at": "2026-09-29T05:13:07Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:ethanfann/reactor-sim": {
+      "platform": "github",
+      "url": "https://github.com/ethanfann/reactor-sim",
+      "published_at": "2026-01-25T17:51:36Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
       }
     },
     "github:ethanplusai/zombies": {
@@ -814,12 +1849,39 @@
         "forks": 3
       }
     },
+    "github:eval-forge/claude-battle": {
+      "platform": "github",
+      "url": "https://github.com/eval-forge/claude-battle",
+      "published_at": "2026-11-09T23:52:02Z",
+      "metrics": {
+        "stars": 2,
+        "forks": 0
+      }
+    },
     "github:evangel2022/urban-fpv-drone-simulator": {
       "platform": "github",
       "url": "https://github.com/evangel2022/urban-fpv-drone-simulator",
       "published_at": "2026-06-08T04:28:14Z",
       "metrics": {
         "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:exclusiveabhi/turbo-kart-rally-game": {
+      "platform": "github",
+      "url": "https://github.com/exclusiveabhi/turbo-kart-rally-game",
+      "published_at": "2026-10-06T05:05:09Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:expertx221/aethereye": {
+      "platform": "github",
+      "url": "https://github.com/expertx221/aethereye",
+      "published_at": "2026-10-25T05:56:26Z",
+      "metrics": {
+        "stars": 0,
         "forks": 0
       }
     },
@@ -850,6 +1912,24 @@
         "forks": 0
       }
     },
+    "github:fancellu/motion3js": {
+      "platform": "github",
+      "url": "https://github.com/fancellu/motion3js",
+      "published_at": "2026-11-06T16:28:42Z",
+      "metrics": {
+        "stars": 10,
+        "forks": 0
+      }
+    },
+    "github:farrel492/visualisasi_data_center": {
+      "platform": "github",
+      "url": "https://github.com/farrel492/visualisasi_data_center",
+      "published_at": "2026-10-31T01:21:13Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:fedifianto/shuttlestrike": {
       "platform": "github",
       "url": "https://github.com/fedifianto/shuttlestrike",
@@ -859,6 +1939,15 @@
         "forks": 1
       }
     },
+    "github:feeblefruits/sketch-chess": {
+      "platform": "github",
+      "url": "https://github.com/feeblefruits/sketch-chess",
+      "published_at": "2026-10-15T19:46:54Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:felixgollnhuber/t3-office": {
       "platform": "github",
       "url": "https://github.com/felixgollnhuber/t3-office",
@@ -866,6 +1955,33 @@
       "metrics": {
         "stars": 3,
         "forks": 1
+      }
+    },
+    "github:fiki-io/samp-ai-map-editor": {
+      "platform": "github",
+      "url": "https://github.com/fiki-io/samp-ai-map-editor",
+      "published_at": "2026-09-23T15:24:58Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:finalhope487/the-deep-end": {
+      "platform": "github",
+      "url": "https://github.com/finalhope487/the-deep-end",
+      "published_at": "2026-10-17T18:40:32Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:finewhy/agnes-tachyon-lab": {
+      "platform": "github",
+      "url": "https://github.com/finewhy/agnes-tachyon-lab",
+      "published_at": "2026-11-13T15:01:57Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
       }
     },
     "github:fmhc/coverwatch": {
@@ -881,6 +1997,60 @@
       "platform": "github",
       "url": "https://github.com/fokrulanthro16-eng/spatial-mindstudio-ai",
       "published_at": "2026-08-12T18:18:00Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:foshowithit/village-above-the-clouds": {
+      "platform": "github",
+      "url": "https://github.com/foshowithit/village-above-the-clouds",
+      "published_at": "2026-09-22T21:37:09Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:foshowithit/village-above-the-clouds-omp": {
+      "platform": "github",
+      "url": "https://github.com/foshowithit/village-above-the-clouds-omp",
+      "published_at": "2026-09-23T02:07:42Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:foxybotyy/midnight-ramen-alley": {
+      "platform": "github",
+      "url": "https://github.com/foxybotyy/midnight-ramen-alley",
+      "published_at": "2026-10-22T05:41:55Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:francoescob/permadeath-film": {
+      "platform": "github",
+      "url": "https://github.com/francoescob/permadeath-film",
+      "published_at": "2026-09-27T03:58:58Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:frankilito/dance-prism": {
+      "platform": "github",
+      "url": "https://github.com/frankilito/dance-prism",
+      "published_at": "2026-07-11T10:40:22Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:frankilito/star-dance-party": {
+      "platform": "github",
+      "url": "https://github.com/frankilito/star-dance-party",
+      "published_at": "2026-07-10T13:41:39Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -1057,12 +2227,39 @@
         "forks": 0
       }
     },
+    "github:fxrcred/surveyors-cabin": {
+      "platform": "github",
+      "url": "https://github.com/fxrcred/surveyors-cabin",
+      "published_at": "2026-10-16T15:51:55Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:gabry9110/cs-clone-fable5": {
+      "platform": "github",
+      "url": "https://github.com/gabry9110/cs-clone-fable5",
+      "published_at": "2026-06-11T08:25:24Z",
+      "metrics": {
+        "stars": 2,
+        "forks": 0
+      }
+    },
     "github:garfieldhuang/sakura-river": {
       "platform": "github",
       "url": "https://github.com/garfieldhuang/sakura-river",
       "published_at": "2026-09-28T07:22:38Z",
       "metrics": {
         "stars": 2,
+        "forks": 0
+      }
+    },
+    "github:gaspardcoche/synthcrew-mcp-game": {
+      "platform": "github",
+      "url": "https://github.com/gaspardcoche/synthcrew-mcp-game",
+      "published_at": "2026-03-07T13:02:27Z",
+      "metrics": {
+        "stars": 0,
         "forks": 0
       }
     },
@@ -1084,6 +2281,15 @@
         "forks": 1
       }
     },
+    "github:ghaisansyams/orb": {
+      "platform": "github",
+      "url": "https://github.com/ghaisansyams/orb",
+      "published_at": "2026-08-11T06:09:46Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:ghostoman/coin-jackpot": {
       "platform": "github",
       "url": "https://github.com/ghostoman/coin-jackpot",
@@ -1100,6 +2306,42 @@
       "metrics": {
         "stars": 0,
         "forks": 1
+      }
+    },
+    "github:gloriashang/gloriashang.github.io": {
+      "platform": "github",
+      "url": "https://github.com/gloriashang/gloriashang.github.io",
+      "published_at": "2026-09-17T08:16:46Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:greasyjoe91/danggui-3d-courseware": {
+      "platform": "github",
+      "url": "https://github.com/greasyjoe91/danggui-3d-courseware",
+      "published_at": "2026-07-08T02:46:16Z",
+      "metrics": {
+        "stars": 5,
+        "forks": 0
+      }
+    },
+    "github:green-workshop/black-door": {
+      "platform": "github",
+      "url": "https://github.com/green-workshop/black-door",
+      "published_at": "2026-11-10T11:53:19Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:gretchenboria/jester-deadline": {
+      "platform": "github",
+      "url": "https://github.com/gretchenboria/jester-deadline",
+      "published_at": "2026-10-16T06:10:14Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
       }
     },
     "github:growthwithmiao/the-rulers-chair": {
@@ -1120,6 +2362,33 @@
         "forks": 0
       }
     },
+    "github:guilhermeym/landingpage_circuit": {
+      "platform": "github",
+      "url": "https://github.com/guilhermeym/landingpage_circuit",
+      "published_at": "2026-09-25T18:51:54Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:guo12240131/shierwei-game": {
+      "platform": "github",
+      "url": "https://github.com/guo12240131/shierwei-game",
+      "published_at": "2026-11-04T12:11:55Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:guozl-dev/saltline-ext": {
+      "platform": "github",
+      "url": "https://github.com/guozl-dev/saltline-ext",
+      "published_at": "2026-11-13T05:45:00Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:hahaliu1029/fable5.2demo": {
       "platform": "github",
       "url": "https://github.com/hahaliu1029/fable5.2demo",
@@ -1136,6 +2405,15 @@
       "metrics": {
         "stars": 0,
         "forks": 2
+      }
+    },
+    "github:hakhyun-kim/defenehero": {
+      "platform": "github",
+      "url": "https://github.com/hakhyun-kim/defenehero",
+      "published_at": "2026-07-24T22:10:08Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
       }
     },
     "github:harleycoops/math-to-manim": {
@@ -1174,6 +2452,33 @@
         "forks": 1
       }
     },
+    "github:hehecat/gummy-bears-3d": {
+      "platform": "github",
+      "url": "https://github.com/hehecat/gummy-bears-3d",
+      "published_at": "2026-10-19T05:56:24Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:hermanvanel-ui/3d-house-poc": {
+      "platform": "github",
+      "url": "https://github.com/hermanvanel-ui/3d-house-poc",
+      "published_at": "2026-05-31T19:49:26Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:hikmetbozkurt/automind-ai": {
+      "platform": "github",
+      "url": "https://github.com/hikmetbozkurt/automind-ai",
+      "published_at": "2026-05-23T06:54:55Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:hirosichen/ai-f1-racing-game": {
       "platform": "github",
       "url": "https://github.com/hirosichen/ai-f1-racing-game",
@@ -1201,6 +2506,24 @@
         "forks": 0
       }
     },
+    "github:hisamikurita/ice-stairs": {
+      "platform": "github",
+      "url": "https://github.com/hisamikurita/ice-stairs",
+      "published_at": "2026-07-14T05:00:59Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:hisamikurita/mediapipe-hand-tracking": {
+      "platform": "github",
+      "url": "https://github.com/hisamikurita/mediapipe-hand-tracking",
+      "published_at": "2026-07-19T11:09:47Z",
+      "metrics": {
+        "stars": 2,
+        "forks": 1
+      }
+    },
     "github:homie-wu/hideaway": {
       "platform": "github",
       "url": "https://github.com/homie-wu/hideaway",
@@ -1214,6 +2537,15 @@
       "platform": "github",
       "url": "https://github.com/hrithin-30/thing-game",
       "published_at": "2026-06-28T17:35:27Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:hseinb/ecommerce-ai-recosys": {
+      "platform": "github",
+      "url": "https://github.com/hseinb/ecommerce-ai-recosys",
+      "published_at": "2026-10-19T20:50:36Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -1237,6 +2569,33 @@
         "forks": 0
       }
     },
+    "github:huntsyea/elvenwood": {
+      "platform": "github",
+      "url": "https://github.com/huntsyea/elvenwood",
+      "published_at": "2026-06-11T13:28:42Z",
+      "metrics": {
+        "stars": 2,
+        "forks": 1
+      }
+    },
+    "github:ibitlab/pub-hooks-for-pictures": {
+      "platform": "github",
+      "url": "https://github.com/ibitlab/pub-hooks-for-pictures",
+      "published_at": "2026-10-17T05:29:04Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:iebb/railfever": {
+      "platform": "github",
+      "url": "https://github.com/iebb/railfever",
+      "published_at": "2026-10-02T03:58:32Z",
+      "metrics": {
+        "stars": 2,
+        "forks": 0
+      }
+    },
     "github:igorjohn/rotten-souls": {
       "platform": "github",
       "url": "https://github.com/igorjohn/rotten-souls",
@@ -1246,12 +2605,48 @@
         "forks": 0
       }
     },
+    "github:iminabo1/janus": {
+      "platform": "github",
+      "url": "https://github.com/iminabo1/janus",
+      "published_at": "2025-12-21T12:19:37Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:iminabo1/janus_new": {
+      "platform": "github",
+      "url": "https://github.com/iminabo1/janus_new",
+      "published_at": "2026-01-05T22:13:34Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:imjungjuna/jev-face": {
+      "platform": "github",
+      "url": "https://github.com/imjungjuna/jev-face",
+      "published_at": "2026-10-11T13:38:26Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:infatoshi/ai-video": {
       "platform": "github",
       "url": "https://github.com/infatoshi/ai-video",
       "published_at": "2026-09-29T03:47:38Z",
       "metrics": {
         "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:ir272/fishbowl": {
+      "platform": "github",
+      "url": "https://github.com/ir272/fishbowl",
+      "published_at": "2026-02-27T01:28:40Z",
+      "metrics": {
+        "stars": 1,
         "forks": 0
       }
     },
@@ -1282,10 +2677,46 @@
         "forks": 0
       }
     },
+    "github:jacintodesign/3d-dioramas-fable": {
+      "platform": "github",
+      "url": "https://github.com/jacintodesign/3d-dioramas-fable",
+      "published_at": "2026-11-13T14:20:29Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:jacintodesign/fable-station": {
+      "platform": "github",
+      "url": "https://github.com/jacintodesign/fable-station",
+      "published_at": "2026-11-13T19:02:54Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:jakozaur/sf_bay_area_transit_fable_5_2_game": {
       "platform": "github",
       "url": "https://github.com/jakozaur/sf_bay_area_transit_fable_5_2_game",
       "published_at": "2026-11-10T16:00:16Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:jarlh19/flores-amarillas": {
+      "platform": "github",
+      "url": "https://github.com/jarlh19/flores-amarillas",
+      "published_at": "2026-10-02T02:13:24Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:jaronkbragg7337/fable-survival": {
+      "platform": "github",
+      "url": "https://github.com/jaronkbragg7337/fable-survival",
+      "published_at": "2026-07-02T19:54:24Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -1300,12 +2731,30 @@
         "forks": 3
       }
     },
+    "github:jashwanthsaikamatham/pratham-temple-escape": {
+      "platform": "github",
+      "url": "https://github.com/jashwanthsaikamatham/pratham-temple-escape",
+      "published_at": "2026-11-13T03:14:00Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:jason-c-dev/backroad-rally": {
       "platform": "github",
       "url": "https://github.com/jason-c-dev/backroad-rally",
       "published_at": "2026-10-15T01:37:47Z",
       "metrics": {
         "stars": 2,
+        "forks": 0
+      }
+    },
+    "github:jason8607/minecraft-clone": {
+      "platform": "github",
+      "url": "https://github.com/jason8607/minecraft-clone",
+      "published_at": "2026-02-06T08:07:02Z",
+      "metrics": {
+        "stars": 0,
         "forks": 0
       }
     },
@@ -1327,12 +2776,39 @@
         "forks": 0
       }
     },
+    "github:jbang2004/long-wind": {
+      "platform": "github",
+      "url": "https://github.com/jbang2004/long-wind",
+      "published_at": "2026-09-26T00:41:09Z",
+      "metrics": {
+        "stars": 121,
+        "forks": 44
+      }
+    },
     "github:jediconcepts/j1-racing": {
       "platform": "github",
       "url": "https://github.com/jediconcepts/j1-racing",
       "published_at": "2026-08-02T16:08:31Z",
       "metrics": {
         "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:jeeeeenkaow/d20-dice-roller": {
+      "platform": "github",
+      "url": "https://github.com/jeeeeenkaow/d20-dice-roller",
+      "published_at": "2026-03-27T21:16:49Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:jeevannar16-web/nepal-3d-portfolio": {
+      "platform": "github",
+      "url": "https://github.com/jeevannar16-web/nepal-3d-portfolio",
+      "published_at": "2026-08-01T03:07:45Z",
+      "metrics": {
+        "stars": 4,
         "forks": 0
       }
     },
@@ -1354,12 +2830,57 @@
         "forks": 0
       }
     },
+    "github:jerahmeel-design/minecraft-ai-clone": {
+      "platform": "github",
+      "url": "https://github.com/jerahmeel-design/minecraft-ai-clone",
+      "published_at": "2026-08-27T09:37:55Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:jerzysukiennik/civ-game": {
+      "platform": "github",
+      "url": "https://github.com/jerzysukiennik/civ-game",
+      "published_at": "2026-05-31T18:01:35Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:jesusemans/pcubensis": {
+      "platform": "github",
+      "url": "https://github.com/jesusemans/pcubensis",
+      "published_at": "2026-04-20T18:56:30Z",
+      "metrics": {
+        "stars": 9,
+        "forks": 0
+      }
+    },
     "github:jesusgalindez/threejs-ocean-simulator-skills": {
       "platform": "github",
       "url": "https://github.com/jesusgalindez/threejs-ocean-simulator-skills",
       "published_at": "2026-09-24T05:02:47Z",
       "metrics": {
         "stars": 2,
+        "forks": 0
+      }
+    },
+    "github:jimmcq/vibescape": {
+      "platform": "github",
+      "url": "https://github.com/jimmcq/vibescape",
+      "published_at": "2025-07-12T18:10:10Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:jimtoy/udemy_claude_code": {
+      "platform": "github",
+      "url": "https://github.com/jimtoy/udemy_claude_code",
+      "published_at": "2026-07-09T15:44:34Z",
+      "metrics": {
+        "stars": 0,
         "forks": 0
       }
     },
@@ -1372,10 +2893,91 @@
         "forks": 16
       }
     },
+    "github:jkobierczynski/hologram-interference-bench": {
+      "platform": "github",
+      "url": "https://github.com/jkobierczynski/hologram-interference-bench",
+      "published_at": "2026-09-14T15:50:29Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:jkobierczynski/solar-eclipse-browser": {
+      "platform": "github",
+      "url": "https://github.com/jkobierczynski/solar-eclipse-browser",
+      "published_at": "2026-09-14T22:33:40Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:jojoey-spec/gyrate-simulation": {
+      "platform": "github",
+      "url": "https://github.com/jojoey-spec/gyrate-simulation",
+      "published_at": "2025-09-08T16:31:14Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:joseberseker/perseverancia": {
+      "platform": "github",
+      "url": "https://github.com/joseberseker/perseverancia",
+      "published_at": "2026-11-02T20:38:51Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:jpdupree/emberwood": {
+      "platform": "github",
+      "url": "https://github.com/jpdupree/emberwood",
+      "published_at": "2026-08-07T02:10:18Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:jschuller/hoboken-santacon": {
+      "platform": "github",
+      "url": "https://github.com/jschuller/hoboken-santacon",
+      "published_at": "2026-11-01T15:26:50Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:jugpanda/paintball-fps": {
+      "platform": "github",
+      "url": "https://github.com/jugpanda/paintball-fps",
+      "published_at": "2026-03-16T16:00:59Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:jungkunkim-glitch/cbti-3d-game": {
       "platform": "github",
       "url": "https://github.com/jungkunkim-glitch/cbti-3d-game",
       "published_at": "2026-06-19T14:42:15Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:kabadisameer09-gif/kle-milky-way": {
+      "platform": "github",
+      "url": "https://github.com/kabadisameer09-gif/kle-milky-way",
+      "published_at": "2026-05-15T10:43:35Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:kabillanta/neonrunner": {
+      "platform": "github",
+      "url": "https://github.com/kabillanta/neonrunner",
+      "published_at": "2025-12-17T17:58:14Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -1390,10 +2992,37 @@
         "forks": 0
       }
     },
+    "github:kamilch1k/llmia": {
+      "platform": "github",
+      "url": "https://github.com/kamilch1k/llmia",
+      "published_at": "2026-05-09T11:03:30Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:kanaworksai-hue/book-page-flip-generator": {
       "platform": "github",
       "url": "https://github.com/kanaworksai-hue/book-page-flip-generator",
       "published_at": "2026-07-06T03:18:16Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:karthik-n-p/cineverse": {
+      "platform": "github",
+      "url": "https://github.com/karthik-n-p/cineverse",
+      "published_at": "2026-03-22T10:56:41Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:kaschtanov/tidelight": {
+      "platform": "github",
+      "url": "https://github.com/kaschtanov/tidelight",
+      "published_at": "2026-11-05T20:14:39Z",
       "metrics": {
         "stars": 1,
         "forks": 0
@@ -1408,12 +3037,39 @@
         "forks": 0
       }
     },
+    "github:kdayinsummer/saltline-fable-5.2": {
+      "platform": "github",
+      "url": "https://github.com/kdayinsummer/saltline-fable-5.2",
+      "published_at": "2026-11-11T16:08:19Z",
+      "metrics": {
+        "stars": 3,
+        "forks": 1
+      }
+    },
     "github:kelaiem/timesim": {
       "platform": "github",
       "url": "https://github.com/kelaiem/timesim",
       "published_at": "2026-07-22T04:33:10Z",
       "metrics": {
         "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:kevansoon/pathlens": {
+      "platform": "github",
+      "url": "https://github.com/kevansoon/pathlens",
+      "published_at": "2026-03-07T05:55:56Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:kevinwillyan456/purchaseway-fire-wheels": {
+      "platform": "github",
+      "url": "https://github.com/kevinwillyan456/purchaseway-fire-wheels",
+      "published_at": "2025-03-20T02:55:30Z",
+      "metrics": {
+        "stars": 0,
         "forks": 0
       }
     },
@@ -1453,10 +3109,28 @@
         "forks": 0
       }
     },
+    "github:kilroyroboto/solar-system-3d": {
+      "platform": "github",
+      "url": "https://github.com/kilroyroboto/solar-system-3d",
+      "published_at": "2026-04-28T06:43:23Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:kiranmohan-92/warsaw-downtown-game": {
       "platform": "github",
       "url": "https://github.com/kiranmohan-92/warsaw-downtown-game",
       "published_at": "2026-10-25T23:26:04Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:knuc18/home-network-3d-map": {
+      "platform": "github",
+      "url": "https://github.com/knuc18/home-network-3d-map",
+      "published_at": "2026-10-23T12:13:20Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -1480,10 +3154,10 @@
         "forks": 1
       }
     },
-    "github:koumpas/hundred-ghosts": {
+    "github:kostikoneuro/kimi-vs-astra": {
       "platform": "github",
-      "url": "https://github.com/koumpas/hundred-ghosts",
-      "published_at": "2026-11-11T08:33:38Z",
+      "url": "https://github.com/kostikoneuro/kimi-vs-astra",
+      "published_at": "2026-10-26T07:59:12Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -1516,12 +3190,48 @@
         "forks": 0
       }
     },
+    "github:kutluhangil/rebuildrebreak": {
+      "platform": "github",
+      "url": "https://github.com/kutluhangil/rebuildrebreak",
+      "published_at": "2026-04-25T23:25:07Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:kyle-itprojectmgmt/solar-system-explorer": {
       "platform": "github",
       "url": "https://github.com/kyle-itprojectmgmt/solar-system-explorer",
       "published_at": "2026-07-10T22:54:06Z",
       "metrics": {
         "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:kylebuildsai/driftwing": {
+      "platform": "github",
+      "url": "https://github.com/kylebuildsai/driftwing",
+      "published_at": "2026-09-26T17:46:23Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 2
+      }
+    },
+    "github:labskull-33/le-releve": {
+      "platform": "github",
+      "url": "https://github.com/labskull-33/le-releve",
+      "published_at": "2026-10-14T18:45:08Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:lakbychance/sonovia": {
+      "platform": "github",
+      "url": "https://github.com/lakbychance/sonovia",
+      "published_at": "2025-06-23T14:46:36Z",
+      "metrics": {
+        "stars": 2,
         "forks": 0
       }
     },
@@ -1552,6 +3262,15 @@
         "forks": 0
       }
     },
+    "github:leonvanzyl/3d-golf-fable": {
+      "platform": "github",
+      "url": "https://github.com/leonvanzyl/3d-golf-fable",
+      "published_at": "2026-09-30T05:07:40Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 1
+      }
+    },
     "github:leonxlnx/golden-temple": {
       "platform": "github",
       "url": "https://github.com/leonxlnx/golden-temple",
@@ -1559,6 +3278,42 @@
       "metrics": {
         "stars": 150,
         "forks": 22
+      }
+    },
+    "github:lets-be-strategic-here/low-poly-horse": {
+      "platform": "github",
+      "url": "https://github.com/lets-be-strategic-here/low-poly-horse",
+      "published_at": "2026-09-26T03:20:54Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:lillliant/pigeon-world": {
+      "platform": "github",
+      "url": "https://github.com/lillliant/pigeon-world",
+      "published_at": "2026-09-27T22:03:23Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:limboinf/teacher-day": {
+      "platform": "github",
+      "url": "https://github.com/limboinf/teacher-day",
+      "published_at": "2026-09-06T04:18:25Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:loktar00/codevember": {
+      "platform": "github",
+      "url": "https://github.com/loktar00/codevember",
+      "published_at": "2026-11-08T01:59:16Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
       }
     },
     "github:loktar00/lanternfall": {
@@ -1579,10 +3334,73 @@
         "forks": 0
       }
     },
+    "github:luiscleto/weherd": {
+      "platform": "github",
+      "url": "https://github.com/luiscleto/weherd",
+      "published_at": "2026-09-05T14:44:10Z",
+      "metrics": {
+        "stars": 4,
+        "forks": 1
+      }
+    },
     "github:lukasbialozor/warszawa-na-sieci-demo": {
       "platform": "github",
       "url": "https://github.com/lukasbialozor/warszawa-na-sieci-demo",
       "published_at": "2026-10-06T12:20:34Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:luojw5566/cloud-kitchen": {
+      "platform": "github",
+      "url": "https://github.com/luojw5566/cloud-kitchen",
+      "published_at": "2026-08-27T16:02:03Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:lyai-labs/lyai-motorvisuales-site": {
+      "platform": "github",
+      "url": "https://github.com/lyai-labs/lyai-motorvisuales-site",
+      "published_at": "2026-09-25T21:55:38Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:lyfe42/saltline-study-copy": {
+      "platform": "github",
+      "url": "https://github.com/lyfe42/saltline-study-copy",
+      "published_at": "2026-11-11T10:37:39Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 1
+      }
+    },
+    "github:madebysourasith-sudo/gaming-pc-teardown": {
+      "platform": "github",
+      "url": "https://github.com/madebysourasith-sudo/gaming-pc-teardown",
+      "published_at": "2026-11-11T17:08:02Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:madhurjyabharadwaj/virtua-justice-rail-shooter": {
+      "platform": "github",
+      "url": "https://github.com/madhurjyabharadwaj/virtua-justice-rail-shooter",
+      "published_at": "2026-09-07T09:24:38Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:madouki/neo-velocity": {
+      "platform": "github",
+      "url": "https://github.com/madouki/neo-velocity",
+      "published_at": "2026-09-04T04:11:25Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -1615,10 +3433,28 @@
         "forks": 0
       }
     },
+    "github:maqbool-dev/holodeck": {
+      "platform": "github",
+      "url": "https://github.com/maqbool-dev/holodeck",
+      "published_at": "2026-08-03T07:47:21Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:marcelomiyake/geotoon": {
       "platform": "github",
       "url": "https://github.com/marcelomiyake/geotoon",
       "published_at": "2026-11-01T13:48:21Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:mariusfaitducode/claude-craft": {
+      "platform": "github",
+      "url": "https://github.com/mariusfaitducode/claude-craft",
+      "published_at": "2026-05-14T15:20:56Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -1633,12 +3469,84 @@
         "forks": 1
       }
     },
+    "github:marr59/alpine-rush": {
+      "platform": "github",
+      "url": "https://github.com/marr59/alpine-rush",
+      "published_at": "2026-07-29T06:19:27Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:maxbol/house-visualizer": {
+      "platform": "github",
+      "url": "https://github.com/maxbol/house-visualizer",
+      "published_at": "2026-07-07T20:25:51Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:maximilianfeix/repoville": {
       "platform": "github",
       "url": "https://github.com/maximilianfeix/repoville",
       "published_at": "2026-10-15T19:25:46Z",
       "metrics": {
         "stars": 3,
+        "forks": 0
+      }
+    },
+    "github:maximilianocarrau123-debug/site-3d-claude-blender": {
+      "platform": "github",
+      "url": "https://github.com/maximilianocarrau123-debug/site-3d-claude-blender",
+      "published_at": "2026-11-13T18:22:05Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:mcgregory99/downlink": {
+      "platform": "github",
+      "url": "https://github.com/mcgregory99/downlink",
+      "published_at": "2026-10-11T19:24:55Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:mdhasibul35/ripple-pond": {
+      "platform": "github",
+      "url": "https://github.com/mdhasibul35/ripple-pond",
+      "published_at": "2026-10-03T16:53:01Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:mdhphoenixvbcodes/games": {
+      "platform": "github",
+      "url": "https://github.com/mdhphoenixvbcodes/games",
+      "published_at": "2026-04-29T13:10:11Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:me-how-m/kessler-syndrome-fable-sim": {
+      "platform": "github",
+      "url": "https://github.com/me-how-m/kessler-syndrome-fable-sim",
+      "published_at": "2026-07-01T23:29:10Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:medtahiri/bmo": {
+      "platform": "github",
+      "url": "https://github.com/medtahiri/bmo",
+      "published_at": "2026-10-05T15:12:15Z",
+      "metrics": {
+        "stars": 5,
         "forks": 0
       }
     },
@@ -1651,10 +3559,28 @@
         "forks": 1
       }
     },
+    "github:mesotracker/labyrinthbox": {
+      "platform": "github",
+      "url": "https://github.com/mesotracker/labyrinthbox",
+      "published_at": "2026-10-04T01:32:43Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
     "github:mf4633/eclipse-predictor": {
       "platform": "github",
       "url": "https://github.com/mf4633/eclipse-predictor",
       "published_at": "2026-05-05T17:37:32Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:mgantlett/fidget.gantlett.io": {
+      "platform": "github",
+      "url": "https://github.com/mgantlett/fidget.gantlett.io",
+      "published_at": "2025-06-07T16:19:12Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -1678,6 +3604,24 @@
         "forks": 0
       }
     },
+    "github:mihaibulic2/test-game-claude-4.8": {
+      "platform": "github",
+      "url": "https://github.com/mihaibulic2/test-game-claude-4.8",
+      "published_at": "2026-05-28T23:06:32Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:miklosme/screensaver": {
+      "platform": "github",
+      "url": "https://github.com/miklosme/screensaver",
+      "published_at": "2026-11-11T23:22:32Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:mindplottech/growing-reach": {
       "platform": "github",
       "url": "https://github.com/mindplottech/growing-reach",
@@ -1687,10 +3631,91 @@
         "forks": 0
       }
     },
+    "github:minetsh/ai-web-playground": {
+      "platform": "github",
+      "url": "https://github.com/minetsh/ai-web-playground",
+      "published_at": "2026-11-11T07:51:34Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:mire403/cosmos-explorer-3d": {
+      "platform": "github",
+      "url": "https://github.com/mire403/cosmos-explorer-3d",
+      "published_at": "2025-12-04T18:05:00Z",
+      "metrics": {
+        "stars": 10,
+        "forks": 0
+      }
+    },
+    "github:mirulismat-bit/neon-sky-runner": {
+      "platform": "github",
+      "url": "https://github.com/mirulismat-bit/neon-sky-runner",
+      "published_at": "2026-10-17T07:26:05Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:mister030/ophaalbrug-diorama": {
+      "platform": "github",
+      "url": "https://github.com/mister030/ophaalbrug-diorama",
+      "published_at": "2026-10-31T14:20:03Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:mkasberg/astropilot-vr": {
       "platform": "github",
       "url": "https://github.com/mkasberg/astropilot-vr",
       "published_at": "2026-04-12T19:00:31Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:mon724/saltline-fable-5.2": {
+      "platform": "github",
+      "url": "https://github.com/mon724/saltline-fable-5.2",
+      "published_at": "2026-11-11T02:47:45Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:moonarce/gemini_max": {
+      "platform": "github",
+      "url": "https://github.com/moonarce/gemini_max",
+      "published_at": "2025-11-20T12:27:57Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:mooonster/tamkang-bridge-3d": {
+      "platform": "github",
+      "url": "https://github.com/mooonster/tamkang-bridge-3d",
+      "published_at": "2026-06-11T10:31:30Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:moshoutegong/baoshi-house": {
+      "platform": "github",
+      "url": "https://github.com/moshoutegong/baoshi-house",
+      "published_at": "2026-11-12T08:30:57Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 1
+      }
+    },
+    "github:mrbeastbrasiltiktok-droid/fable-sandbox": {
+      "platform": "github",
+      "url": "https://github.com/mrbeastbrasiltiktok-droid/fable-sandbox",
+      "published_at": "2026-10-21T23:20:09Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -1711,6 +3736,15 @@
       "published_at": "2026-10-23T10:55:13Z",
       "metrics": {
         "stars": 3,
+        "forks": 0
+      }
+    },
+    "github:msocko420/trek-nebula-community": {
+      "platform": "github",
+      "url": "https://github.com/msocko420/trek-nebula-community",
+      "published_at": "2026-11-06T17:10:14Z",
+      "metrics": {
+        "stars": 1,
         "forks": 0
       }
     },
@@ -1741,12 +3775,39 @@
         "forks": 0
       }
     },
+    "github:munansa1003/jump-quiz-island": {
+      "platform": "github",
+      "url": "https://github.com/munansa1003/jump-quiz-island",
+      "published_at": "2026-07-11T03:41:16Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:munish983/3d-game": {
+      "platform": "github",
+      "url": "https://github.com/munish983/3d-game",
+      "published_at": "2026-10-08T10:25:57Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:musamisto/claudecraft": {
       "platform": "github",
       "url": "https://github.com/musamisto/claudecraft",
       "published_at": "2026-06-12T17:09:27Z",
       "metrics": {
         "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:muskaantimbadiya/crowdiq": {
+      "platform": "github",
+      "url": "https://github.com/muskaantimbadiya/crowdiq",
+      "published_at": "2026-07-06T13:07:10Z",
+      "metrics": {
+        "stars": 0,
         "forks": 0
       }
     },
@@ -1786,6 +3847,33 @@
         "forks": 0
       }
     },
+    "github:n1ghtk1n/fablerace": {
+      "platform": "github",
+      "url": "https://github.com/n1ghtk1n/fablerace",
+      "published_at": "2026-07-10T19:46:25Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:nadavrosenberg/3dagent": {
+      "platform": "github",
+      "url": "https://github.com/nadavrosenberg/3dagent",
+      "published_at": "2026-06-22T23:28:23Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:ncl9100/nathan-liu-portfolio": {
+      "platform": "github",
+      "url": "https://github.com/ncl9100/nathan-liu-portfolio",
+      "published_at": "2026-10-11T11:24:43Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:nelsen0717/agent-360": {
       "platform": "github",
       "url": "https://github.com/nelsen0717/agent-360",
@@ -1813,6 +3901,15 @@
         "forks": 0
       }
     },
+    "github:neshanjo/einhornzoo": {
+      "platform": "github",
+      "url": "https://github.com/neshanjo/einhornzoo",
+      "published_at": "2026-11-12T13:05:13Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:netanelyan/outbound": {
       "platform": "github",
       "url": "https://github.com/netanelyan/outbound",
@@ -1826,6 +3923,15 @@
       "platform": "github",
       "url": "https://github.com/nevasini1/willowbrook-threejs",
       "published_at": "2026-03-22T00:55:58Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:newturn2017/vibe-draw": {
+      "platform": "github",
+      "url": "https://github.com/newturn2017/vibe-draw",
+      "published_at": "2026-05-16T07:26:32Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -1849,6 +3955,15 @@
         "forks": 0
       }
     },
+    "github:nikhil0100kumar/fable-3d-luxury": {
+      "platform": "github",
+      "url": "https://github.com/nikhil0100kumar/fable-3d-luxury",
+      "published_at": "2026-06-20T11:45:58Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:ninetigers/emberfall-forge-claude-fable-5.2": {
       "platform": "github",
       "url": "https://github.com/ninetigers/emberfall-forge-claude-fable-5.2",
@@ -1862,6 +3977,51 @@
       "platform": "github",
       "url": "https://github.com/ninetigers/quiet-forge-codex-astra",
       "published_at": "2026-11-11T09:19:51Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:nipale-ai/blocks-openworld": {
+      "platform": "github",
+      "url": "https://github.com/nipale-ai/blocks-openworld",
+      "published_at": "2026-09-02T11:30:59Z",
+      "metrics": {
+        "stars": 3,
+        "forks": 1
+      }
+    },
+    "github:nipale-ai/fable-5-1-one-prompt-game": {
+      "platform": "github",
+      "url": "https://github.com/nipale-ai/fable-5-1-one-prompt-game",
+      "published_at": "2026-09-01T19:29:12Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 1
+      }
+    },
+    "github:nipale-ai/galaxy": {
+      "platform": "github",
+      "url": "https://github.com/nipale-ai/galaxy",
+      "published_at": "2026-09-04T10:44:11Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:nipale-ai/opus-5-5-overnight-builds": {
+      "platform": "github",
+      "url": "https://github.com/nipale-ai/opus-5-5-overnight-builds",
+      "published_at": "2026-09-23T19:27:34Z",
+      "metrics": {
+        "stars": 7,
+        "forks": 1
+      }
+    },
+    "github:nirussvn0/world-anatomy": {
+      "platform": "github",
+      "url": "https://github.com/nirussvn0/world-anatomy",
+      "published_at": "2026-09-17T16:52:52Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -1894,12 +4054,48 @@
         "forks": 0
       }
     },
+    "github:nonojin99/constellation-voyage": {
+      "platform": "github",
+      "url": "https://github.com/nonojin99/constellation-voyage",
+      "published_at": "2026-07-13T01:34:45Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:nullthrone/primacy": {
+      "platform": "github",
+      "url": "https://github.com/nullthrone/primacy",
+      "published_at": "2026-08-20T18:39:10Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:nunoamorim99/beagle-chomp": {
       "platform": "github",
       "url": "https://github.com/nunoamorim99/beagle-chomp",
       "published_at": "2026-07-06T07:37:55Z",
       "metrics": {
         "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:nwind/saltline-asset": {
+      "platform": "github",
+      "url": "https://github.com/nwind/saltline-asset",
+      "published_at": "2026-11-12T10:23:07Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:octavian-ilie/jingle-dash": {
+      "platform": "github",
+      "url": "https://github.com/octavian-ilie/jingle-dash",
+      "published_at": "2026-11-10T11:19:24Z",
+      "metrics": {
+        "stars": 0,
         "forks": 0
       }
     },
@@ -1939,12 +4135,30 @@
         "forks": 0
       }
     },
+    "github:oplosy/space": {
+      "platform": "github",
+      "url": "https://github.com/oplosy/space",
+      "published_at": "2026-09-23T17:48:12Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:orodmorais/trip-map-3d": {
       "platform": "github",
       "url": "https://github.com/orodmorais/trip-map-3d",
       "published_at": "2026-11-05T22:20:13Z",
       "metrics": {
         "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:outliner-coach/aquagarden-bench": {
+      "platform": "github",
+      "url": "https://github.com/outliner-coach/aquagarden-bench",
+      "published_at": "2026-09-02T05:49:51Z",
+      "metrics": {
+        "stars": 0,
         "forks": 0
       }
     },
@@ -1955,6 +4169,15 @@
       "metrics": {
         "stars": 3,
         "forks": 2
+      }
+    },
+    "github:pacificastarlight/saltlineclone": {
+      "platform": "github",
+      "url": "https://github.com/pacificastarlight/saltlineclone",
+      "published_at": "2026-11-13T06:15:28Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
       }
     },
     "github:para-fr/claude-fable-5.2-flight-sim": {
@@ -1990,6 +4213,24 @@
       "published_at": "2026-09-26T18:55:15Z",
       "metrics": {
         "stars": 2,
+        "forks": 0
+      }
+    },
+    "github:phalla-doll/cosmic-scroll": {
+      "platform": "github",
+      "url": "https://github.com/phalla-doll/cosmic-scroll",
+      "published_at": "2026-02-19T07:03:15Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:phoebes-debug/murph-tesseract": {
+      "platform": "github",
+      "url": "https://github.com/phoebes-debug/murph-tesseract",
+      "published_at": "2026-05-26T13:17:14Z",
+      "metrics": {
+        "stars": 0,
         "forks": 0
       }
     },
@@ -2056,12 +4297,57 @@
         "forks": 0
       }
     },
+    "github:pragadishts/explorespaceer": {
+      "platform": "github",
+      "url": "https://github.com/pragadishts/explorespaceer",
+      "published_at": "2025-12-12T11:33:54Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:preetanshmgohil-sketch/open-world-3d": {
       "platform": "github",
       "url": "https://github.com/preetanshmgohil-sketch/open-world-3d",
       "published_at": "2026-10-18T15:18:55Z",
       "metrics": {
         "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:princesshemen/threejs": {
+      "platform": "github",
+      "url": "https://github.com/princesshemen/threejs",
+      "published_at": "2025-01-20T13:55:34Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:promptengineer48/claude-opus-5.5-games": {
+      "platform": "github",
+      "url": "https://github.com/promptengineer48/claude-opus-5.5-games",
+      "published_at": "2026-09-24T04:53:58Z",
+      "metrics": {
+        "stars": 4,
+        "forks": 3
+      }
+    },
+    "github:ptfrey/abyssal-drift": {
+      "platform": "github",
+      "url": "https://github.com/ptfrey/abyssal-drift",
+      "published_at": "2026-06-10T10:18:25Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:punitpritam788/doodle-snakes-and-ladders": {
+      "platform": "github",
+      "url": "https://github.com/punitpritam788/doodle-snakes-and-ladders",
+      "published_at": "2026-10-28T14:07:49Z",
+      "metrics": {
+        "stars": 0,
         "forks": 0
       }
     },
@@ -2083,12 +4369,120 @@
         "forks": 0
       }
     },
+    "github:rafiulm/fable-52-game-3d": {
+      "platform": "github",
+      "url": "https://github.com/rafiulm/fable-52-game-3d",
+      "published_at": "2026-11-12T10:39:30Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 1
+      }
+    },
+    "github:rafiulm/mythos-minecraft": {
+      "platform": "github",
+      "url": "https://github.com/rafiulm/mythos-minecraft",
+      "published_at": "2026-06-12T09:52:05Z",
+      "metrics": {
+        "stars": 3,
+        "forks": 2
+      }
+    },
+    "github:rai220/korovany": {
+      "platform": "github",
+      "url": "https://github.com/rai220/korovany",
+      "published_at": "2026-06-10T05:57:45Z",
+      "metrics": {
+        "stars": 8,
+        "forks": 0
+      }
+    },
+    "github:rajyadav-dev/aether-solar-system": {
+      "platform": "github",
+      "url": "https://github.com/rajyadav-dev/aether-solar-system",
+      "published_at": "2026-09-13T17:03:25Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:ralphbutler/survival-island": {
+      "platform": "github",
+      "url": "https://github.com/ralphbutler/survival-island",
+      "published_at": "2026-10-11T21:58:02Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 1
+      }
+    },
     "github:raphy78626/bridge-walker": {
       "platform": "github",
       "url": "https://github.com/raphy78626/bridge-walker",
       "published_at": "2026-10-29T07:57:37Z",
       "metrics": {
         "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:ray-o-0509/robot-secretary": {
+      "platform": "github",
+      "url": "https://github.com/ray-o-0509/robot-secretary",
+      "published_at": "2026-04-29T18:48:48Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:realcodebear/blender-fable-5.2": {
+      "platform": "github",
+      "url": "https://github.com/realcodebear/blender-fable-5.2",
+      "published_at": "2026-11-10T16:02:07Z",
+      "metrics": {
+        "stars": 4,
+        "forks": 1
+      }
+    },
+    "github:realcodebear/saltline-fable-5.2": {
+      "platform": "github",
+      "url": "https://github.com/realcodebear/saltline-fable-5.2",
+      "published_at": "2026-11-10T15:04:30Z",
+      "metrics": {
+        "stars": 344,
+        "forks": 108
+      }
+    },
+    "github:realcodebear/threejs-fable-5.2-all-effort-koi-pond": {
+      "platform": "github",
+      "url": "https://github.com/realcodebear/threejs-fable-5.2-all-effort-koi-pond",
+      "published_at": "2026-11-12T15:50:36Z",
+      "metrics": {
+        "stars": 3,
+        "forks": 0
+      }
+    },
+    "github:recursive-self-improving/qingdao-badaguan-threejs-fable-5-2-max-cc": {
+      "platform": "github",
+      "url": "https://github.com/recursive-self-improving/qingdao-badaguan-threejs-fable-5-2-max-cc",
+      "published_at": "2026-11-10T05:48:33Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 1
+      }
+    },
+    "github:red-reddington/web-demos": {
+      "platform": "github",
+      "url": "https://github.com/red-reddington/web-demos",
+      "published_at": "2026-05-05T05:11:09Z",
+      "metrics": {
+        "stars": 8,
+        "forks": 2
+      }
+    },
+    "github:rengbas99/storycraft-3d": {
+      "platform": "github",
+      "url": "https://github.com/rengbas99/storycraft-3d",
+      "published_at": "2026-06-30T16:55:22Z",
+      "metrics": {
+        "stars": 0,
         "forks": 0
       }
     },
@@ -2119,10 +4513,37 @@
         "forks": 0
       }
     },
+    "github:richardvinger/wft-kart-gp": {
+      "platform": "github",
+      "url": "https://github.com/richardvinger/wft-kart-gp",
+      "published_at": "2026-10-11T11:01:41Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:richi2293/palm-royal": {
       "platform": "github",
       "url": "https://github.com/richi2293/palm-royal",
       "published_at": "2026-09-05T11:33:23Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:riddhibose/chronos-strike": {
+      "platform": "github",
+      "url": "https://github.com/riddhibose/chronos-strike",
+      "published_at": "2026-05-03T09:32:12Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:rightgo09/ai-3d-generator": {
+      "platform": "github",
+      "url": "https://github.com/rightgo09/ai-3d-generator",
+      "published_at": "2025-12-09T04:55:16Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -2137,10 +4558,73 @@
         "forks": 0
       }
     },
+    "github:riz007/bodyflow": {
+      "platform": "github",
+      "url": "https://github.com/riz007/bodyflow",
+      "published_at": "2026-10-28T14:02:57Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:rj45010/black-hole": {
+      "platform": "github",
+      "url": "https://github.com/rj45010/black-hole",
+      "published_at": "2026-11-11T08:54:56Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:robin-senpai/fpv-drone": {
+      "platform": "github",
+      "url": "https://github.com/robin-senpai/fpv-drone",
+      "published_at": "2026-11-13T17:44:03Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:rohit-chaugle/not-coders": {
+      "platform": "github",
+      "url": "https://github.com/rohit-chaugle/not-coders",
+      "published_at": "2026-10-16T05:16:56Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:ronronnie/galaxia": {
+      "platform": "github",
+      "url": "https://github.com/ronronnie/galaxia",
+      "published_at": "2026-05-08T09:16:11Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:ross-code/elvis-fpv": {
+      "platform": "github",
+      "url": "https://github.com/ross-code/elvis-fpv",
+      "published_at": "2026-06-25T20:25:41Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:royfactory/claude-office": {
       "platform": "github",
       "url": "https://github.com/royfactory/claude-office",
       "published_at": "2026-10-21T05:12:51Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:ryogaaaaaaaaaaa/toiletgame": {
+      "platform": "github",
+      "url": "https://github.com/ryogaaaaaaaaaaa/toiletgame",
+      "published_at": "2026-06-27T14:24:01Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -2164,6 +4648,24 @@
         "forks": 1
       }
     },
+    "github:saiamartya/dungeonofdoom": {
+      "platform": "github",
+      "url": "https://github.com/saiamartya/dungeonofdoom",
+      "published_at": "2026-06-10T18:12:18Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 1
+      }
+    },
+    "github:saiamartya/flappy-bird-3d": {
+      "platform": "github",
+      "url": "https://github.com/saiamartya/flappy-bird-3d",
+      "published_at": "2026-06-09T22:26:09Z",
+      "metrics": {
+        "stars": 2,
+        "forks": 2
+      }
+    },
     "github:sam1983aing/senna-800kg": {
       "platform": "github",
       "url": "https://github.com/sam1983aing/senna-800kg",
@@ -2171,6 +4673,24 @@
       "metrics": {
         "stars": 10,
         "forks": 4
+      }
+    },
+    "github:sam1983aing/ticket-tear": {
+      "platform": "github",
+      "url": "https://github.com/sam1983aing/ticket-tear",
+      "published_at": "2026-10-22T12:43:31Z",
+      "metrics": {
+        "stars": 89,
+        "forks": 13
+      }
+    },
+    "github:sambit1110/portfolio": {
+      "platform": "github",
+      "url": "https://github.com/sambit1110/portfolio",
+      "published_at": "2026-10-07T15:47:54Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
       }
     },
     "github:samvit-govindani/kinegen-prosthetic-designer-": {
@@ -2218,10 +4738,37 @@
         "forks": 0
       }
     },
+    "github:sbrooks2026/apex-rush": {
+      "platform": "github",
+      "url": "https://github.com/sbrooks2026/apex-rush",
+      "published_at": "2026-07-16T02:28:17Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 1
+      }
+    },
+    "github:sc8z35a-collab/fables5.2": {
+      "platform": "github",
+      "url": "https://github.com/sc8z35a-collab/fables5.2",
+      "published_at": "2026-11-09T22:01:21Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:scotho/luminal": {
       "platform": "github",
       "url": "https://github.com/scotho/luminal",
       "published_at": "2026-09-29T19:19:19Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:sd1920/roomcraft": {
+      "platform": "github",
+      "url": "https://github.com/sd1920/roomcraft",
+      "published_at": "2026-11-10T13:50:02Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -2236,10 +4783,64 @@
         "forks": 1
       }
     },
+    "github:sebasjavela14/concept-lab": {
+      "platform": "github",
+      "url": "https://github.com/sebasjavela14/concept-lab",
+      "published_at": "2026-09-24T22:48:28Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:sepivip/claudenautica": {
+      "platform": "github",
+      "url": "https://github.com/sepivip/claudenautica",
+      "published_at": "2026-08-28T19:07:42Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:serejaris/rpg": {
       "platform": "github",
       "url": "https://github.com/serejaris/rpg",
       "published_at": "2026-07-28T22:01:02Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:sfxnz/supercar-challenge": {
+      "platform": "github",
+      "url": "https://github.com/sfxnz/supercar-challenge",
+      "published_at": "2026-10-11T17:38:46Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:shabanihamidu19-cell/magic-solar-system": {
+      "platform": "github",
+      "url": "https://github.com/shabanihamidu19-cell/magic-solar-system",
+      "published_at": "2026-09-21T20:36:20Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:shafiur0/neon-arena": {
+      "platform": "github",
+      "url": "https://github.com/shafiur0/neon-arena",
+      "published_at": "2026-10-25T09:59:27Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:shain1912/vanguard-arena": {
+      "platform": "github",
+      "url": "https://github.com/shain1912/vanguard-arena",
+      "published_at": "2026-09-21T04:09:38Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -2252,6 +4853,15 @@
       "metrics": {
         "stars": 0,
         "forks": 0
+      }
+    },
+    "github:sharpwizard/ironvale": {
+      "platform": "github",
+      "url": "https://github.com/sharpwizard/ironvale",
+      "published_at": "2026-11-11T19:07:02Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 2
       }
     },
     "github:shaunprice/soccer-3d": {
@@ -2278,6 +4888,15 @@
       "published_at": "2026-07-21T16:21:17Z",
       "metrics": {
         "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:shikharuniyal/cognitive-3d-learning-ai": {
+      "platform": "github",
+      "url": "https://github.com/shikharuniyal/cognitive-3d-learning-ai",
+      "published_at": "2026-02-13T13:06:46Z",
+      "metrics": {
+        "stars": 3,
         "forks": 0
       }
     },
@@ -2326,10 +4945,64 @@
         "forks": 1
       }
     },
+    "github:silasedel/claude-heist": {
+      "platform": "github",
+      "url": "https://github.com/silasedel/claude-heist",
+      "published_at": "2026-11-13T23:43:13Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:silexened-create/iastronaut": {
       "platform": "github",
       "url": "https://github.com/silexened-create/iastronaut",
       "published_at": "2026-02-28T21:24:43Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:singhshatabdi/3d-planetary": {
+      "platform": "github",
+      "url": "https://github.com/singhshatabdi/3d-planetary",
+      "published_at": "2026-09-17T17:34:51Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:sisuo3039/kadu-build-game": {
+      "platform": "github",
+      "url": "https://github.com/sisuo3039/kadu-build-game",
+      "published_at": "2026-01-07T00:06:23Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:skye-cqu/long-night-inn": {
+      "platform": "github",
+      "url": "https://github.com/skye-cqu/long-night-inn",
+      "published_at": "2026-10-27T10:46:23Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:smitamw/3d-os": {
+      "platform": "github",
+      "url": "https://github.com/smitamw/3d-os",
+      "published_at": "2026-06-18T23:33:21Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:snjvkthrvn/ai-8ball": {
+      "platform": "github",
+      "url": "https://github.com/snjvkthrvn/ai-8ball",
+      "published_at": "2026-05-01T19:47:42Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -2344,6 +5017,33 @@
         "forks": 0
       }
     },
+    "github:sorryhumans/roost": {
+      "platform": "github",
+      "url": "https://github.com/sorryhumans/roost",
+      "published_at": "2026-06-11T22:53:43Z",
+      "metrics": {
+        "stars": 6,
+        "forks": 1
+      }
+    },
+    "github:soundraysshingo3/parallel-universe": {
+      "platform": "github",
+      "url": "https://github.com/soundraysshingo3/parallel-universe",
+      "published_at": "2026-03-06T07:40:28Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:sparshmishra09/drift-temple": {
+      "platform": "github",
+      "url": "https://github.com/sparshmishra09/drift-temple",
+      "published_at": "2026-09-08T00:39:45Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:squall01337/abyssal-ocean": {
       "platform": "github",
       "url": "https://github.com/squall01337/abyssal-ocean",
@@ -2351,6 +5051,15 @@
       "metrics": {
         "stars": 57,
         "forks": 10
+      }
+    },
+    "github:sserrot/ai-slop-game": {
+      "platform": "github",
+      "url": "https://github.com/sserrot/ai-slop-game",
+      "published_at": "2026-08-20T03:59:03Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
       }
     },
     "github:stanlee7/robot-arm-3d-lab": {
@@ -2362,6 +5071,15 @@
         "forks": 0
       }
     },
+    "github:starknightt/nightdrive": {
+      "platform": "github",
+      "url": "https://github.com/starknightt/nightdrive",
+      "published_at": "2026-07-30T07:31:30Z",
+      "metrics": {
+        "stars": 6,
+        "forks": 1
+      }
+    },
     "github:starknightt/tiny-planet": {
       "platform": "github",
       "url": "https://github.com/starknightt/tiny-planet",
@@ -2371,6 +5089,60 @@
         "forks": 3
       }
     },
+    "github:stpulleyking/horizonripples": {
+      "platform": "github",
+      "url": "https://github.com/stpulleyking/horizonripples",
+      "published_at": "2025-05-12T23:23:45Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:sujitha-2306/geomind-ai": {
+      "platform": "github",
+      "url": "https://github.com/sujitha-2306/geomind-ai",
+      "published_at": "2026-08-15T11:04:01Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:sultanpeyek/dagodao-claude-code-for-creatives-demo": {
+      "platform": "github",
+      "url": "https://github.com/sultanpeyek/dagodao-claude-code-for-creatives-demo",
+      "published_at": "2026-01-23T09:47:08Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:surafel58/habitat": {
+      "platform": "github",
+      "url": "https://github.com/surafel58/habitat",
+      "published_at": "2026-06-29T14:15:02Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 1
+      }
+    },
+    "github:sushanshetty2601-pixel/deep-time-mirror": {
+      "platform": "github",
+      "url": "https://github.com/sushanshetty2601-pixel/deep-time-mirror",
+      "published_at": "2026-04-17T14:59:40Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:switchfire6/slopstroid-opus": {
+      "platform": "github",
+      "url": "https://github.com/switchfire6/slopstroid-opus",
+      "published_at": "2026-10-04T15:40:13Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:sy059922/bone-typing": {
       "platform": "github",
       "url": "https://github.com/sy059922/bone-typing",
@@ -2378,6 +5150,24 @@
       "metrics": {
         "stars": 0,
         "forks": 0
+      }
+    },
+    "github:talhaasalman/hand-sync-3d-particle-system": {
+      "platform": "github",
+      "url": "https://github.com/talhaasalman/hand-sync-3d-particle-system",
+      "published_at": "2026-01-03T10:12:01Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 1
+      }
+    },
+    "github:talhahsalman/hand-sync-3d-particle-system": {
+      "platform": "github",
+      "url": "https://github.com/talhahsalman/hand-sync-3d-particle-system",
+      "published_at": "2026-02-23T20:14:40Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 1
       }
     },
     "github:tanuu5/astra-potato-farm": {
@@ -2396,6 +5186,15 @@
       "metrics": {
         "stars": 1,
         "forks": 3
+      }
+    },
+    "github:tanuu5/bealach-na-bo-finne": {
+      "platform": "github",
+      "url": "https://github.com/tanuu5/bealach-na-bo-finne",
+      "published_at": "2026-09-21T18:42:18Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
       }
     },
     "github:tanuu5/bunbetsu-beat": {
@@ -2434,12 +5233,39 @@
         "forks": 0
       }
     },
+    "github:tanuu5/clawd-collection": {
+      "platform": "github",
+      "url": "https://github.com/tanuu5/clawd-collection",
+      "published_at": "2026-11-01T11:34:22Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:tanuu5/clawd-flow-desk": {
       "platform": "github",
       "url": "https://github.com/tanuu5/clawd-flow-desk",
       "published_at": "2026-10-12T03:47:09Z",
       "metrics": {
         "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:tanuu5/clawd-plushies": {
+      "platform": "github",
+      "url": "https://github.com/tanuu5/clawd-plushies",
+      "published_at": "2026-10-01T12:00:33Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:tanuu5/coin-lagoon": {
+      "platform": "github",
+      "url": "https://github.com/tanuu5/coin-lagoon",
+      "published_at": "2026-10-23T14:22:16Z",
+      "metrics": {
+        "stars": 0,
         "forks": 0
       }
     },
@@ -2465,6 +5291,15 @@
       "platform": "github",
       "url": "https://github.com/tanuu5/fossil-horihori",
       "published_at": "2026-10-11T08:42:11Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:tanuu5/foxfire-kagura": {
+      "platform": "github",
+      "url": "https://github.com/tanuu5/foxfire-kagura",
+      "published_at": "2026-10-09T15:55:49Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -2578,6 +5413,15 @@
         "forks": 2
       }
     },
+    "github:tanuu5/shippo-express": {
+      "platform": "github",
+      "url": "https://github.com/tanuu5/shippo-express",
+      "published_at": "2026-10-01T10:41:55Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:tanuu5/signal-dilemma": {
       "platform": "github",
       "url": "https://github.com/tanuu5/signal-dilemma",
@@ -2641,6 +5485,33 @@
         "forks": 0
       }
     },
+    "github:tekano/shoreline": {
+      "platform": "github",
+      "url": "https://github.com/tekano/shoreline",
+      "published_at": "2026-10-02T09:33:57Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:thebuggeddev/carriage": {
+      "platform": "github",
+      "url": "https://github.com/thebuggeddev/carriage",
+      "published_at": "2026-10-15T06:23:57Z",
+      "metrics": {
+        "stars": 10,
+        "forks": 1
+      }
+    },
+    "github:thebuggeddev/delphi": {
+      "platform": "github",
+      "url": "https://github.com/thebuggeddev/delphi",
+      "published_at": "2026-01-13T05:58:23Z",
+      "metrics": {
+        "stars": 88,
+        "forks": 23
+      }
+    },
     "github:thefolahan/sombrero-galaxy": {
       "platform": "github",
       "url": "https://github.com/thefolahan/sombrero-galaxy",
@@ -2668,6 +5539,33 @@
         "forks": 1
       }
     },
+    "github:theotherkoala/warehouse-llm-simulator": {
+      "platform": "github",
+      "url": "https://github.com/theotherkoala/warehouse-llm-simulator",
+      "published_at": "2026-11-09T10:27:57Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:thequantling/fable-5.2-tests": {
+      "platform": "github",
+      "url": "https://github.com/thequantling/fable-5.2-tests",
+      "published_at": "2026-11-09T23:10:40Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 1
+      }
+    },
+    "github:thequy/archi-graph": {
+      "platform": "github",
+      "url": "https://github.com/thequy/archi-graph",
+      "published_at": "2026-10-31T13:53:50Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:theredstapler/orb-shooter": {
       "platform": "github",
       "url": "https://github.com/theredstapler/orb-shooter",
@@ -2677,10 +5575,46 @@
         "forks": 4
       }
     },
+    "github:tholeg/saltline-field-archive": {
+      "platform": "github",
+      "url": "https://github.com/tholeg/saltline-field-archive",
+      "published_at": "2026-11-11T06:23:33Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 1
+      }
+    },
+    "github:thumm110/spacesuck": {
+      "platform": "github",
+      "url": "https://github.com/thumm110/spacesuck",
+      "published_at": "2026-07-14T21:07:54Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
     "github:tky-27/xo-beta": {
       "platform": "github",
       "url": "https://github.com/tky-27/xo-beta",
       "published_at": "2026-08-21T13:14:52Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:tlejay/145-korat-cyberpunk": {
+      "platform": "github",
+      "url": "https://github.com/tlejay/145-korat-cyberpunk",
+      "published_at": "2026-10-17T11:15:54Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:tmc5csxr9m-cpu/night-shift": {
+      "platform": "github",
+      "url": "https://github.com/tmc5csxr9m-cpu/night-shift",
+      "published_at": "2026-11-08T13:28:16Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -2695,19 +5629,19 @@
         "forks": 0
       }
     },
-    "github:tonydowney/periplus": {
+    "github:tobiasosborne/freescape-studio": {
       "platform": "github",
-      "url": "https://github.com/tonydowney/periplus",
-      "published_at": "2026-07-26T14:52:48Z",
+      "url": "https://github.com/tobiasosborne/freescape-studio",
+      "published_at": "2026-11-03T07:16:33Z",
       "metrics": {
         "stars": 0,
         "forks": 0
       }
     },
-    "github:toontalk/ant-playground": {
+    "github:tonydowney/periplus": {
       "platform": "github",
-      "url": "https://github.com/toontalk/ant-playground",
-      "published_at": "2026-11-09T16:38:17Z",
+      "url": "https://github.com/tonydowney/periplus",
+      "published_at": "2026-07-26T14:52:48Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -2758,12 +5692,138 @@
         "forks": 0
       }
     },
+    "github:trentsterling/breakmass": {
+      "platform": "github",
+      "url": "https://github.com/trentsterling/breakmass",
+      "published_at": "2026-09-17T05:26:28Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:trmytelabs/nextlevel": {
+      "platform": "github",
+      "url": "https://github.com/trmytelabs/nextlevel",
+      "published_at": "2026-10-23T21:11:20Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:ujjwalathub/chess-with-ai": {
+      "platform": "github",
+      "url": "https://github.com/ujjwalathub/chess-with-ai",
+      "published_at": "2025-08-27T10:59:31Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:unbeauvoyage/fable-composed": {
+      "platform": "github",
+      "url": "https://github.com/unbeauvoyage/fable-composed",
+      "published_at": "2026-08-24T14:32:06Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:unbeauvoyage/fable-experiment": {
+      "platform": "github",
+      "url": "https://github.com/unbeauvoyage/fable-experiment",
+      "published_at": "2026-08-24T14:05:46Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:usama-shiranai90/claude-of-iron": {
       "platform": "github",
       "url": "https://github.com/usama-shiranai90/claude-of-iron",
       "published_at": "2026-07-30T11:30:56Z",
       "metrics": {
         "stars": 3,
+        "forks": 0
+      }
+    },
+    "github:utkarsh-ai-design/universe-xplorer": {
+      "platform": "github",
+      "url": "https://github.com/utkarsh-ai-design/universe-xplorer",
+      "published_at": "2026-11-02T15:02:16Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:utpal1kumar/ziupra--store": {
+      "platform": "github",
+      "url": "https://github.com/utpal1kumar/ziupra--store",
+      "published_at": "2026-09-19T17:32:30Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:uzzoper/vibecraft": {
+      "platform": "github",
+      "url": "https://github.com/uzzoper/vibecraft",
+      "published_at": "2026-05-09T19:17:32Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:vibe-peng/solar-system-webgl": {
+      "platform": "github",
+      "url": "https://github.com/vibe-peng/solar-system-webgl",
+      "published_at": "2026-10-13T13:05:15Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:vickyiitp/devil-labs-demo-platform": {
+      "platform": "github",
+      "url": "https://github.com/vickyiitp/devil-labs-demo-platform",
+      "published_at": "2026-08-05T01:52:54Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:vickyiitp/sora-immersive-hospitality-experience": {
+      "platform": "github",
+      "url": "https://github.com/vickyiitp/sora-immersive-hospitality-experience",
+      "published_at": "2026-08-01T07:28:20Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:vignesh2027/terranova": {
+      "platform": "github",
+      "url": "https://github.com/vignesh2027/terranova",
+      "published_at": "2026-05-21T12:14:42Z",
+      "metrics": {
+        "stars": 3,
+        "forks": 0
+      }
+    },
+    "github:vineetsharma96/nexus": {
+      "platform": "github",
+      "url": "https://github.com/vineetsharma96/nexus",
+      "published_at": "2026-09-10T02:57:59Z",
+      "metrics": {
+        "stars": 2,
+        "forks": 0
+      }
+    },
+    "github:viral2525/interactive-3d-particle-system": {
+      "platform": "github",
+      "url": "https://github.com/viral2525/interactive-3d-particle-system",
+      "published_at": "2025-12-29T13:48:17Z",
+      "metrics": {
+        "stars": 0,
         "forks": 0
       }
     },
@@ -2776,12 +5836,48 @@
         "forks": 0
       }
     },
+    "github:vuthevinh2125/giza-pyramid-3d": {
+      "platform": "github",
+      "url": "https://github.com/vuthevinh2125/giza-pyramid-3d",
+      "published_at": "2026-11-05T10:23:53Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:vzwtim/volume-study": {
+      "platform": "github",
+      "url": "https://github.com/vzwtim/volume-study",
+      "published_at": "2026-06-14T01:02:23Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:wag-me/vibeship": {
       "platform": "github",
       "url": "https://github.com/wag-me/vibeship",
       "published_at": "2026-10-05T15:56:37Z",
       "metrics": {
         "stars": 2,
+        "forks": 0
+      }
+    },
+    "github:wally869/floraison": {
+      "platform": "github",
+      "url": "https://github.com/wally869/floraison",
+      "published_at": "2025-09-30T18:52:27Z",
+      "metrics": {
+        "stars": 7,
+        "forks": 0
+      }
+    },
+    "github:wass08/fable-lite": {
+      "platform": "github",
+      "url": "https://github.com/wass08/fable-lite",
+      "published_at": "2026-06-14T22:08:56Z",
+      "metrics": {
+        "stars": 8,
         "forks": 0
       }
     },
@@ -2801,6 +5897,24 @@
       "metrics": {
         "stars": 3,
         "forks": 4
+      }
+    },
+    "github:weskao/skyline-rush": {
+      "platform": "github",
+      "url": "https://github.com/weskao/skyline-rush",
+      "published_at": "2026-10-18T03:20:36Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:wil-pe/c204-dossier-scientifique": {
+      "platform": "github",
+      "url": "https://github.com/wil-pe/c204-dossier-scientifique",
+      "published_at": "2026-11-11T15:08:02Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
       }
     },
     "github:william89971/road-to-el-salvador": {
@@ -2830,6 +5944,33 @@
         "forks": 3
       }
     },
+    "github:wjb127/ss-040-fable-game-dev-practice-02": {
+      "platform": "github",
+      "url": "https://github.com/wjb127/ss-040-fable-game-dev-practice-02",
+      "published_at": "2026-07-03T14:00:29Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:wongh26/claude_fps": {
+      "platform": "github",
+      "url": "https://github.com/wongh26/claude_fps",
+      "published_at": "2026-11-13T15:16:32Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:wonjyou/morphing-particle-swarm": {
+      "platform": "github",
+      "url": "https://github.com/wonjyou/morphing-particle-swarm",
+      "published_at": "2026-03-22T20:02:43Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
     "github:workdd/context-brain": {
       "platform": "github",
       "url": "https://github.com/workdd/context-brain",
@@ -2846,6 +5987,33 @@
       "metrics": {
         "stars": 95,
         "forks": 19
+      }
+    },
+    "github:wuwochen/racing-game": {
+      "platform": "github",
+      "url": "https://github.com/wuwochen/racing-game",
+      "published_at": "2026-07-07T01:14:27Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:wwwillems/threejs-shooter": {
+      "platform": "github",
+      "url": "https://github.com/wwwillems/threejs-shooter",
+      "published_at": "2025-03-14T13:00:09Z",
+      "metrics": {
+        "stars": 2,
+        "forks": 0
+      }
+    },
+    "github:xiangrose/body-journey": {
+      "platform": "github",
+      "url": "https://github.com/xiangrose/body-journey",
+      "published_at": "2026-07-31T10:30:52Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
       }
     },
     "github:xiaozhenliu/boeing-fable-5-2": {
@@ -2866,10 +6034,37 @@
         "forks": 0
       }
     },
+    "github:xiubia/horselegend": {
+      "platform": "github",
+      "url": "https://github.com/xiubia/horselegend",
+      "published_at": "2026-03-01T16:42:14Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:xr-e16ai/ai--traffic-simmulation": {
+      "platform": "github",
+      "url": "https://github.com/xr-e16ai/ai--traffic-simmulation",
+      "published_at": "2026-06-05T05:05:15Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:xucroyuri/dinosaur-ocean-paradise": {
       "platform": "github",
       "url": "https://github.com/xucroyuri/dinosaur-ocean-paradise",
       "published_at": "2026-07-20T19:10:01Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:xunnychen/qingdao-badaguan-threejs": {
+      "platform": "github",
+      "url": "https://github.com/xunnychen/qingdao-badaguan-threejs",
+      "published_at": "2026-11-13T15:15:39Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -2893,10 +6088,64 @@
         "forks": 0
       }
     },
+    "github:yankamkevin/demo-fable5.2-3d": {
+      "platform": "github",
+      "url": "https://github.com/yankamkevin/demo-fable5.2-3d",
+      "published_at": "2026-11-13T11:17:20Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:yeme-oss/plan2world": {
+      "platform": "github",
+      "url": "https://github.com/yeme-oss/plan2world",
+      "published_at": "2026-10-17T03:36:10Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:yenfu-rustychen/red-dust": {
+      "platform": "github",
+      "url": "https://github.com/yenfu-rustychen/red-dust",
+      "published_at": "2026-10-03T16:27:15Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:yhyu13/saltline-dock-look": {
+      "platform": "github",
+      "url": "https://github.com/yhyu13/saltline-dock-look",
+      "published_at": "2026-11-13T08:50:46Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:yinchao-jack/fish-on-screen": {
+      "platform": "github",
+      "url": "https://github.com/yinchao-jack/fish-on-screen",
+      "published_at": "2026-10-09T15:00:01Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:yinchao-jack/roadster-flight-experience": {
       "platform": "github",
       "url": "https://github.com/yinchao-jack/roadster-flight-experience",
       "published_at": "2026-10-17T04:46:51Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:yitachen/3d-battle-documentaries": {
+      "platform": "github",
+      "url": "https://github.com/yitachen/3d-battle-documentaries",
+      "published_at": "2026-06-12T17:52:22Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -2929,6 +6178,42 @@
         "forks": 0
       }
     },
+    "github:yopazerbot/brieltje": {
+      "platform": "github",
+      "url": "https://github.com/yopazerbot/brieltje",
+      "published_at": "2026-10-31T08:14:52Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:youssef-110/threat-pulse": {
+      "platform": "github",
+      "url": "https://github.com/youssef-110/threat-pulse",
+      "published_at": "2026-07-04T10:07:56Z",
+      "metrics": {
+        "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:yoyohuang1012/ncku-campus-3d": {
+      "platform": "github",
+      "url": "https://github.com/yoyohuang1012/ncku-campus-3d",
+      "published_at": "2026-10-19T02:37:47Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:ysohaarsh/3d-cell-tour": {
+      "platform": "github",
+      "url": "https://github.com/ysohaarsh/3d-cell-tour",
+      "published_at": "2026-11-13T04:10:53Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:yusen-dev/living-ascii": {
       "platform": "github",
       "url": "https://github.com/yusen-dev/living-ascii",
@@ -2936,6 +6221,15 @@
       "metrics": {
         "stars": 50,
         "forks": 2
+      }
+    },
+    "github:yuyang2230/saltline-resort-island": {
+      "platform": "github",
+      "url": "https://github.com/yuyang2230/saltline-resort-island",
+      "published_at": "2026-11-12T02:51:02Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
       }
     },
     "github:zaafirrizwan/k8s-skyrealm": {
@@ -2947,12 +6241,39 @@
         "forks": 0
       }
     },
+    "github:zeeshan020dev/interactive-3d-particle-system": {
+      "platform": "github",
+      "url": "https://github.com/zeeshan020dev/interactive-3d-particle-system",
+      "published_at": "2025-12-25T13:47:49Z",
+      "metrics": {
+        "stars": 22,
+        "forks": 6
+      }
+    },
+    "github:zenojz/shibuya-rain-walk": {
+      "platform": "github",
+      "url": "https://github.com/zenojz/shibuya-rain-walk",
+      "published_at": "2026-10-22T11:31:18Z",
+      "metrics": {
+        "stars": 5,
+        "forks": 2
+      }
+    },
     "github:zhangyu-gif/particle-planet": {
       "platform": "github",
       "url": "https://github.com/zhangyu-gif/particle-planet",
       "published_at": "2026-10-25T14:24:21Z",
       "metrics": {
         "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:zhao-hanbo/virtual-slush-venue": {
+      "platform": "github",
+      "url": "https://github.com/zhao-hanbo/virtual-slush-venue",
+      "published_at": "2026-11-12T20:29:04Z",
+      "metrics": {
+        "stars": 0,
         "forks": 0
       }
     },
@@ -2965,6 +6286,15 @@
         "forks": 0
       }
     },
+    "github:zillabunny/dragon-raiders": {
+      "platform": "github",
+      "url": "https://github.com/zillabunny/dragon-raiders",
+      "published_at": "2026-05-29T15:58:57Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:zohaibmahar234/matchgrid-stadium-ops": {
       "platform": "github",
       "url": "https://github.com/zohaibmahar234/matchgrid-stadium-ops",
@@ -2972,6 +6302,63 @@
       "metrics": {
         "stars": 0,
         "forks": 0
+      }
+    },
+    "github:zombiecoder3000/solar-system-interactive": {
+      "platform": "github",
+      "url": "https://github.com/zombiecoder3000/solar-system-interactive",
+      "published_at": "2025-12-03T20:59:04Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "huggingface:Asamiiiii/bounded-threejs-fireflies": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/Asamiiiii/bounded-threejs-fireflies",
+      "published_at": "2026-10-09T08:08:25.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:Asamiiiii/threejs-laser-impact-wall": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/Asamiiiii/threejs-laser-impact-wall",
+      "published_at": "2026-10-14T10:56:06.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:Damon0516/cssc-902-webgl-sample": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/Damon0516/cssc-902-webgl-sample",
+      "published_at": "2026-10-27T08:56:28.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:FL3Xchilli/voxel-visionary": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/FL3Xchilli/voxel-visionary",
+      "published_at": "2025-11-15T06:50:58.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:Hoan12/minicraft-3d-voxel-spiel": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/Hoan12/minicraft-3d-voxel-spiel",
+      "published_at": "2026-09-24T09:56:38.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:Irien/minicraft-responsive-voxel-sandbox": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/Irien/minicraft-responsive-voxel-sandbox",
+      "published_at": "2026-08-12T00:58:37.000Z",
+      "metrics": {
+        "likes": 0
       }
     },
     "huggingface:JohnVeds15/arcade-3d-games": {
@@ -2990,10 +6377,82 @@
         "likes": 0
       }
     },
+    "huggingface:Miguelpef/voxel-viewer": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/Miguelpef/voxel-viewer",
+      "published_at": "2025-01-24T17:37:17.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:MySafeCode/threejsGLBandVoxels": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/MySafeCode/threejsGLBandVoxels",
+      "published_at": "2025-12-10T12:11:32.000Z",
+      "metrics": {
+        "likes": 1
+      }
+    },
+    "huggingface:Severian/webgl_demo": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/Severian/webgl_demo",
+      "published_at": "2025-02-05T22:00:26.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:aishsingh752/endless-farm-3d-mobile-farming-game": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/aishsingh752/endless-farm-3d-mobile-farming-game",
+      "published_at": "2026-08-28T02:42:24.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:akhaliq/threejsgame": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/akhaliq/threejsgame",
+      "published_at": "2025-03-19T16:17:03.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:akhaliq/voxel-art-magistral": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/akhaliq/voxel-art-magistral",
+      "published_at": "2025-09-18T16:35:03.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:akhaliq/voxel-gemini-latest": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/akhaliq/voxel-gemini-latest",
+      "published_at": "2025-09-25T20:36:27.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:anshdadhich/stylized-pirate-ocean-threejs": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/anshdadhich/stylized-pirate-ocean-threejs",
+      "published_at": "2026-04-30T15:07:15.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
     "huggingface:arad1367/Dreamy-THreeJS-SpaceMusic": {
       "platform": "huggingface",
       "url": "https://huggingface.co/spaces/arad1367/Dreamy-THreeJS-SpaceMusic",
       "published_at": "2025-05-18T23:13:21.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:arhs/circuit-rush-three-js-car-racing-game": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/arhs/circuit-rush-three-js-car-racing-game",
+      "published_at": "2026-09-22T21:54:07.000Z",
       "metrics": {
         "likes": 0
       }
@@ -3014,6 +6473,14 @@
         "likes": 0
       }
     },
+    "huggingface:dfjkghdjkf/voxelverse-craft": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/dfjkghdjkf/voxelverse-craft",
+      "published_at": "2026-02-01T16:58:29.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
     "huggingface:ginipick/3D-GAME": {
       "platform": "huggingface",
       "url": "https://huggingface.co/spaces/ginipick/3D-GAME",
@@ -3022,12 +6489,36 @@
         "likes": 1
       }
     },
+    "huggingface:investpr/voxelverse-3d-craft": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/investpr/voxelverse-3d-craft",
+      "published_at": "2026-01-30T14:41:06.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:jbondy007/realm-wars-3d-rts-game": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/jbondy007/realm-wars-3d-rts-game",
+      "published_at": "2026-06-26T19:49:26.000Z",
+      "metrics": {
+        "likes": 2
+      }
+    },
     "huggingface:kimhyunwoo/3D-GAME": {
       "platform": "huggingface",
       "url": "https://huggingface.co/spaces/kimhyunwoo/3D-GAME",
       "published_at": "2025-03-07T13:06:44.000Z",
       "metrics": {
         "likes": 0
+      }
+    },
+    "huggingface:kimhyunwoo/voxel": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/kimhyunwoo/voxel",
+      "published_at": "2025-08-01T14:36:34.000Z",
+      "metrics": {
+        "likes": 1
       }
     },
     "huggingface:mrshu/claude-fable-5-bratislava-castle-oneshot": {
@@ -3046,6 +6537,62 @@
         "likes": 0
       }
     },
+    "huggingface:paslan/threejs-teleport-landing-ring": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/paslan/threejs-teleport-landing-ring",
+      "published_at": "2026-10-14T08:20:29.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:quanghuynt14/fable-5-watch-movement": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/quanghuynt14/fable-5-watch-movement",
+      "published_at": "2026-06-10T00:28:45.000Z",
+      "metrics": {
+        "likes": 9
+      }
+    },
+    "huggingface:tatir/fable-5-boeing-747": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/tatir/fable-5-boeing-747",
+      "published_at": "2026-07-05T04:04:57.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:townbox/boeing-747-400-fable-5.2": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/townbox/boeing-747-400-fable-5.2",
+      "published_at": "2026-11-10T09:44:09.000Z",
+      "metrics": {
+        "likes": 7
+      }
+    },
+    "huggingface:v-mkrtumy/threejs-smoke-plume-study": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/v-mkrtumy/threejs-smoke-plume-study",
+      "published_at": "2026-10-19T08:13:38.000Z",
+      "metrics": {
+        "likes": 0
+      }
+    },
+    "huggingface:victor/fable-5-1-boeing-747": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/victor/fable-5-1-boeing-747",
+      "published_at": "2026-09-01T20:17:02.000Z",
+      "metrics": {
+        "likes": 1
+      }
+    },
+    "huggingface:victor/fable-5-boeing-747": {
+      "platform": "huggingface",
+      "url": "https://huggingface.co/spaces/victor/fable-5-boeing-747",
+      "published_at": "2026-06-09T20:22:20.000Z",
+      "metrics": {
+        "likes": 28
+      }
+    },
     "huggingface:victor/fable-5-vs-5-1-boeing-747": {
       "platform": "huggingface",
       "url": "https://huggingface.co/spaces/victor/fable-5-vs-5-1-boeing-747",
@@ -3059,7 +6606,7 @@
       "url": "https://x.com/i/status/2119728047754547326",
       "published_at": "2026-11-09T09:45:23.000Z",
       "metrics": {
-        "likes": 425,
+        "likes": 426,
         "comments": 41
       }
     },
@@ -3086,7 +6633,7 @@
       "url": "https://x.com/i/status/2119868968307695818",
       "published_at": "2026-11-09T19:05:21.000Z",
       "metrics": {
-        "likes": 4267,
+        "likes": 4268,
         "comments": 174
       }
     },
@@ -3149,7 +6696,7 @@
       "url": "https://x.com/i/status/2119897113534529605",
       "published_at": "2026-11-09T20:57:12.000Z",
       "metrics": {
-        "likes": 593,
+        "likes": 592,
         "comments": 24
       }
     },
@@ -3185,7 +6732,7 @@
       "url": "https://x.com/i/status/2119902109709537708",
       "published_at": "2026-11-09T21:17:03.000Z",
       "metrics": {
-        "likes": 7053,
+        "likes": 7052,
         "comments": 270
       }
     },
@@ -3275,7 +6822,7 @@
       "url": "https://x.com/i/status/2119910195325481026",
       "published_at": "2026-11-09T21:49:11.000Z",
       "metrics": {
-        "likes": 1036,
+        "likes": 1035,
         "comments": 140
       }
     },
@@ -3302,7 +6849,7 @@
       "url": "https://x.com/i/status/2119925633564463609",
       "published_at": "2026-11-09T22:50:32.000Z",
       "metrics": {
-        "likes": 14814,
+        "likes": 14818,
         "comments": 846
       }
     },
@@ -3356,7 +6903,7 @@
       "url": "https://x.com/i/status/2120010028073771323",
       "published_at": "2026-11-10T04:25:53.000Z",
       "metrics": {
-        "likes": 212,
+        "likes": 213,
         "comments": 11
       }
     },
@@ -3437,7 +6984,7 @@
       "url": "https://x.com/i/status/2120192761542615271",
       "published_at": "2026-11-10T16:32:00.000Z",
       "metrics": {
-        "likes": 1421,
+        "likes": 1422,
         "comments": 117
       }
     },
@@ -3446,7 +6993,7 @@
       "url": "https://x.com/i/status/2120223731520040966",
       "published_at": "2026-11-10T18:35:04.000Z",
       "metrics": {
-        "likes": 565,
+        "likes": 567,
         "comments": 36
       }
     },
@@ -3482,7 +7029,7 @@
       "url": "https://x.com/i/status/2120284261089673376",
       "published_at": "2026-11-10T22:35:35.000Z",
       "metrics": {
-        "likes": 17892,
+        "likes": 17898,
         "comments": 499
       }
     },
@@ -3491,7 +7038,7 @@
       "url": "https://x.com/i/status/2120341251178594532",
       "published_at": "2026-11-11T02:22:02.000Z",
       "metrics": {
-        "likes": 7970,
+        "likes": 7971,
         "comments": 386
       }
     },
@@ -3551,6 +7098,10 @@
     },
     {
       "source": "youtube:2TM8W66NI_8",
+      "reason": "YOUTUBE_API_KEY not configured"
+    },
+    {
+      "source": "youtube:bzIDhRAtwtg",
       "reason": "YOUTUBE_API_KEY not configured"
     }
   ]
