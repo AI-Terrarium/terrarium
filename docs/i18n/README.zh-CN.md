@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">最热</a> · <a href="#latest">最新</a> · <a href="#contents">目录</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1015</b> 收录条目 · <b>6</b> 创作类别 · <b>922</b> 公开代码 · <b>421</b> 源码归档<br><sub>目录数据：2026-11-16</sub></p>
+<p align="center"><b>1020</b> 收录条目 · <b>6</b> 创作类别 · <b>927</b> 公开代码 · <b>426</b> 源码归档<br><sub>目录数据：2026-11-16</sub></p>
 
 <a name="trending"></a>
 
@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · 最热"></picture></a></p>
 
-<p align="center"><sub>热度同步：2026-11-16 12:09 UTC · 计划每 8 小时刷新</sub></p>
+<p align="center"><sub>热度同步：2026-11-16 14:00 UTC · 计划每 8 小时刷新</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · 17,921 赞 · 499 评论</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · 14,865 赞 · 850 评论</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · 7,983 赞 · 387 评论</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · 17,922 赞 · 499 评论</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · 14,868 赞 · 850 评论</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · 7,985 赞 · 387 评论</a></sub></td>
 <td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · 7,515 赞 · 677 评论</a></sub></td>
 </tr></table>
 
 <details><summary>榜单来源与排序</summary>
 
-按公开点赞、Star 等支持数排序；评论、转发等仅用于同分排序，播放量单独展示。同一平台取支持数最高的帖子，同一来源不重复展示。 798 个来源 · 4 个平台 · 7 个来源未获取 <a href="../../data/showcase.json">查看数据</a> · <a href="../../scripts/SHOWCASE.md">计算说明</a>
+按公开点赞、Star 等支持数排序；评论、转发等仅用于同分排序，播放量单独展示。同一平台取支持数最高的帖子，同一来源不重复展示。 803 个来源 · 4 个平台 · 7 个来源未获取 <a href="../../data/showcase.json">查看数据</a> · <a href="../../scripts/SHOWCASE.md">计算说明</a>
 
 </details>
 
@@ -74,7 +74,7 @@
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 游戏</a> · 555</b><br><sub>479 公开代码 · 186 源码归档</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 游戏</a> · 560</b><br><sub>484 公开代码 · 191 源码归档</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 世界与场景</a> · 211</b><br><sub>203 公开代码 · 94 源码归档</sub></td>
 
@@ -96,11 +96,11 @@
 
 <a name="contents-games"></a>
 
-### 🎮 游戏 · 555
+### 🎮 游戏 · 560
 
 从射击、竞速与飞行，到冒险、解谜和沙盒。
 
-<p><a href="../../games/README.zh-CN.md#genre-shooter">射击</a> <b>111</b> · <a href="../../games/README.zh-CN.md#genre-action-and-combat">动作与战斗</a> <b>57</b> · <a href="../../games/README.zh-CN.md#genre-platformer-and-runner">平台跳跃与跑酷</a> <b>38</b> · <a href="../../games/README.zh-CN.md#genre-racing-and-driving">竞速与驾驶</a> <b>75</b> · <a href="../../games/README.zh-CN.md#genre-flight">飞行</a> <b>28</b> · <a href="../../games/README.zh-CN.md#genre-sports">体育</a> <b>15</b> · <a href="../../games/README.zh-CN.md#genre-adventure-and-exploration">冒险与探索</a> <b>77</b> · <a href="../../games/README.zh-CN.md#genre-puzzle">解谜</a> <b>23</b> · <a href="../../games/README.zh-CN.md#genre-strategy-and-management">策略与经营</a> <b>47</b> · <a href="../../games/README.zh-CN.md#genre-sandbox">沙盒</a> <b>27</b> · <a href="../../games/README.zh-CN.md#genre-casual-and-arcade">休闲与街机</a> <b>35</b> · <a href="../../games/README.zh-CN.md#genre-interactive-story">互动叙事</a> <b>3</b> · <a href="../../games/README.zh-CN.md#genre-simulation-and-visualization">模拟与可视化</a> <b>4</b> · <a href="../../games/README.zh-CN.md#genre-other-games">其他游戏</a> <b>15</b></p>
+<p><a href="../../games/README.zh-CN.md#genre-shooter">射击</a> <b>111</b> · <a href="../../games/README.zh-CN.md#genre-action-and-combat">动作与战斗</a> <b>57</b> · <a href="../../games/README.zh-CN.md#genre-platformer-and-runner">平台跳跃与跑酷</a> <b>38</b> · <a href="../../games/README.zh-CN.md#genre-racing-and-driving">竞速与驾驶</a> <b>75</b> · <a href="../../games/README.zh-CN.md#genre-flight">飞行</a> <b>28</b> · <a href="../../games/README.zh-CN.md#genre-sports">体育</a> <b>15</b> · <a href="../../games/README.zh-CN.md#genre-adventure-and-exploration">冒险与探索</a> <b>77</b> · <a href="../../games/README.zh-CN.md#genre-puzzle">解谜</a> <b>23</b> · <a href="../../games/README.zh-CN.md#genre-strategy-and-management">策略与经营</a> <b>47</b> · <a href="../../games/README.zh-CN.md#genre-sandbox">沙盒</a> <b>27</b> · <a href="../../games/README.zh-CN.md#genre-casual-and-arcade">休闲与街机</a> <b>35</b> · <a href="../../games/README.zh-CN.md#genre-interactive-story">互动叙事</a> <b>3</b> · <a href="../../games/README.zh-CN.md#genre-simulation-and-visualization">模拟与可视化</a> <b>4</b> · <a href="../../games/README.zh-CN.md#genre-other-games">其他游戏</a> <b>20</b></p>
 
 <table>
 <tr>
@@ -110,7 +110,7 @@
 </tr>
 </table>
 
-<p><b><a href="../../games/README.zh-CN.md">浏览全部 555 个条目 →</a></b> · <a href="#contents">↑ 目录</a></p>
+<p><b><a href="../../games/README.zh-CN.md">浏览全部 560 个条目 →</a></b> · <a href="#contents">↑ 目录</a></p>
 
 <a name="contents-scenes"></a>
 
@@ -198,7 +198,7 @@
 
 作品来自 GitHub、Hugging Face Spaces、itch.io、X、Bilibili 等平台，覆盖 324 位作者。图片链接原始发布页；「代码」链接公开源码；「文件」打开 HF 归档。227 个作品可在浏览器运行，346 个使用 Three.js。
 
-421 个有开源许可证的条目已按类别与作品集中归档，保留原仓库许可证文件（如有）。批量获取：
+426 个有开源许可证的条目已按类别与作品集中归档，保留原仓库许可证文件（如有）。批量获取：
 
 ```sh
 git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works

@@ -15,9 +15,9 @@
 
 <h1 align="center">Spiele</h1>
 
-<p align="center">555 Einträge. Shooter, Rennen, Flugsimulationen, Rätsel und vieles mehr.</p>
+<p align="center">560 Einträge. Shooter, Rennen, Flugsimulationen, Rätsel und vieles mehr.</p>
 
-<p><a href="#genre-shooter">Shooter</a> <b>111</b> · <a href="#genre-action-and-combat">Action und Kampf</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plattform und Runner</a> <b>38</b> · <a href="#genre-racing-and-driving">Rennen und Fahren</a> <b>75</b> · <a href="#genre-flight">Flug</a> <b>28</b> · <a href="#genre-sports">Sport</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Abenteuer und Erkundung</a> <b>77</b> · <a href="#genre-puzzle">Rätsel</a> <b>23</b> · <a href="#genre-strategy-and-management">Strategie und Aufbau</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual und Arcade</a> <b>35</b> · <a href="#genre-interactive-story">Interaktive Geschichten</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation und Visualisierung</a> <b>4</b> · <a href="#genre-other-games">Weitere Spiele</a> <b>15</b></p>
+<p><a href="#genre-shooter">Shooter</a> <b>111</b> · <a href="#genre-action-and-combat">Action und Kampf</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plattform und Runner</a> <b>38</b> · <a href="#genre-racing-and-driving">Rennen und Fahren</a> <b>75</b> · <a href="#genre-flight">Flug</a> <b>28</b> · <a href="#genre-sports">Sport</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Abenteuer und Erkundung</a> <b>77</b> · <a href="#genre-puzzle">Rätsel</a> <b>23</b> · <a href="#genre-strategy-and-management">Strategie und Aufbau</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual und Arcade</a> <b>35</b> · <a href="#genre-interactive-story">Interaktive Geschichten</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation und Visualisierung</a> <b>4</b> · <a href="#genre-other-games">Weitere Spiele</a> <b>20</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1168,6 +1168,16 @@ Werke ohne Vorschaubild:
 <table>
 
 <tr><th align="left">Werk</th><th align="left">Urheber</th><th align="left">Lizenz</th><th align="left">Links</th></tr>
+
+<tr><td><a href="https://arcade-racing.onrender.com/">arcade-racing</a></td><td><a href="https://github.com/StackOverflowIsBetterThanAnyAI">StackOverflowIsBetterThanAnyAI</a></td><td>MIT</td><td><a href="https://github.com/stackoverflowisbetterthananyai/arcade-racing">Code</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/arcade-racing-932a5c9a">Dateien</a></td></tr>
+
+<tr><td><a href="https://1xaispark.com/games/casa-de-gemas">casadegema</a></td><td><a href="https://github.com/deepujain">deepujain</a></td><td>MIT</td><td><a href="https://github.com/deepujain/casadegema">Code</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/casadegema-e0e0cb69">Dateien</a></td></tr>
+
+<tr><td><a href="https://playroom.mmonoo.com/en/games/ink-fill/#play">ink-fill</a></td><td><a href="https://github.com/simpleusername96">simpleusername96</a></td><td>MIT</td><td><a href="https://github.com/simpleusername96/ink-fill">Code</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/ink-fill-7a4f8a3d">Dateien</a></td></tr>
+
+<tr><td><a href="https://munimv2.itch.io/little-ember">little-ember</a></td><td><a href="https://github.com/munimtechnologies">munimtechnologies</a></td><td>Apache-2.0</td><td><a href="https://github.com/munimtechnologies/little-ember">Code</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/little-ember-33221b54">Dateien</a></td></tr>
+
+<tr><td><a href="https://pulp-panic.fly.dev">pulp-panic</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/pulp-panic">Code</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/pulp-panic-a592ed39">Dateien</a></td></tr>
 
 <tr><td><a href="https://vippi.vercel.app/">Vippi</a></td><td>@Shrit1401</td><td>Lizenz unbekannt</td><td>—</td></tr>
 

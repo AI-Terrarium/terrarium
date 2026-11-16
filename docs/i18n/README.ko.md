@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">인기</a> · <a href="#latest">최신</a> · <a href="#contents">목차</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1015</b> 수록 항목 · <b>6</b> 카테고리 · <b>922</b> 공개 코드 · <b>421</b> 소스 아카이브<br><sub>목록 데이터: 2026-11-16</sub></p>
+<p align="center"><b>1020</b> 수록 항목 · <b>6</b> 카테고리 · <b>927</b> 공개 코드 · <b>426</b> 소스 아카이브<br><sub>목록 데이터: 2026-11-16</sub></p>
 
 <a name="trending"></a>
 
@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · 인기"></picture></a></p>
 
-<p align="center"><sub>인기 데이터 갱신: 2026-11-16 12:09 UTC · 8시간마다 갱신 예정</sub></p>
+<p align="center"><sub>인기 데이터 갱신: 2026-11-16 14:00 UTC · 8시간마다 갱신 예정</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · 17,921 좋아요 · 499 댓글</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · 14,865 좋아요 · 850 댓글</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · 7,983 좋아요 · 387 댓글</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · 17,922 좋아요 · 499 댓글</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · 14,868 좋아요 · 850 댓글</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · 7,985 좋아요 · 387 댓글</a></sub></td>
 <td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · 7,515 좋아요 · 677 댓글</a></sub></td>
 </tr></table>
 
 <details><summary>출처와 정렬 기준</summary>
 
-공개 좋아요와 Star 등 지지 수로 정렬하고, 동점일 때만 댓글과 공유 수를 사용합니다. 조회 수는 별도로 표시합니다. 플랫폼별 최고 지지 게시물을 사용하며 같은 출처는 한 번만 표시합니다. 출처 798개 · 플랫폼 4개 · 미수집 7개 <a href="../../data/showcase.json">데이터 보기</a> · <a href="../../scripts/SHOWCASE.md">집계 방식</a>
+공개 좋아요와 Star 등 지지 수로 정렬하고, 동점일 때만 댓글과 공유 수를 사용합니다. 조회 수는 별도로 표시합니다. 플랫폼별 최고 지지 게시물을 사용하며 같은 출처는 한 번만 표시합니다. 출처 803개 · 플랫폼 4개 · 미수집 7개 <a href="../../data/showcase.json">데이터 보기</a> · <a href="../../scripts/SHOWCASE.md">집계 방식</a>
 
 </details>
 
@@ -74,7 +74,7 @@
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 게임</a> · 555</b><br><sub>479 공개 코드 · 186 소스 아카이브</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 게임</a> · 560</b><br><sub>484 공개 코드 · 191 소스 아카이브</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 월드와 장면</a> · 211</b><br><sub>203 공개 코드 · 94 소스 아카이브</sub></td>
 
@@ -96,11 +96,11 @@
 
 <a name="contents-games"></a>
 
-### 🎮 게임 · 555
+### 🎮 게임 · 560
 
 슈팅, 레이싱, 비행, 퍼즐 등 다양한 게임.
 
-<p><a href="../../games/README.ko.md#genre-shooter">슈팅</a> <b>111</b> · <a href="../../games/README.ko.md#genre-action-and-combat">액션·전투</a> <b>57</b> · <a href="../../games/README.ko.md#genre-platformer-and-runner">플랫포머·러너</a> <b>38</b> · <a href="../../games/README.ko.md#genre-racing-and-driving">레이싱·운전</a> <b>75</b> · <a href="../../games/README.ko.md#genre-flight">비행</a> <b>28</b> · <a href="../../games/README.ko.md#genre-sports">스포츠</a> <b>15</b> · <a href="../../games/README.ko.md#genre-adventure-and-exploration">모험·탐험</a> <b>77</b> · <a href="../../games/README.ko.md#genre-puzzle">퍼즐</a> <b>23</b> · <a href="../../games/README.ko.md#genre-strategy-and-management">전략·경영</a> <b>47</b> · <a href="../../games/README.ko.md#genre-sandbox">샌드박스</a> <b>27</b> · <a href="../../games/README.ko.md#genre-casual-and-arcade">캐주얼·아케이드</a> <b>35</b> · <a href="../../games/README.ko.md#genre-interactive-story">인터랙티브 스토리</a> <b>3</b> · <a href="../../games/README.ko.md#genre-simulation-and-visualization">시뮬레이션·시각화</a> <b>4</b> · <a href="../../games/README.ko.md#genre-other-games">기타 게임</a> <b>15</b></p>
+<p><a href="../../games/README.ko.md#genre-shooter">슈팅</a> <b>111</b> · <a href="../../games/README.ko.md#genre-action-and-combat">액션·전투</a> <b>57</b> · <a href="../../games/README.ko.md#genre-platformer-and-runner">플랫포머·러너</a> <b>38</b> · <a href="../../games/README.ko.md#genre-racing-and-driving">레이싱·운전</a> <b>75</b> · <a href="../../games/README.ko.md#genre-flight">비행</a> <b>28</b> · <a href="../../games/README.ko.md#genre-sports">스포츠</a> <b>15</b> · <a href="../../games/README.ko.md#genre-adventure-and-exploration">모험·탐험</a> <b>77</b> · <a href="../../games/README.ko.md#genre-puzzle">퍼즐</a> <b>23</b> · <a href="../../games/README.ko.md#genre-strategy-and-management">전략·경영</a> <b>47</b> · <a href="../../games/README.ko.md#genre-sandbox">샌드박스</a> <b>27</b> · <a href="../../games/README.ko.md#genre-casual-and-arcade">캐주얼·아케이드</a> <b>35</b> · <a href="../../games/README.ko.md#genre-interactive-story">인터랙티브 스토리</a> <b>3</b> · <a href="../../games/README.ko.md#genre-simulation-and-visualization">시뮬레이션·시각화</a> <b>4</b> · <a href="../../games/README.ko.md#genre-other-games">기타 게임</a> <b>20</b></p>
 
 <table>
 <tr>
@@ -110,7 +110,7 @@
 </tr>
 </table>
 
-<p><b><a href="../../games/README.ko.md">전체 555개 보기 →</a></b> · <a href="#contents">↑ 목차</a></p>
+<p><b><a href="../../games/README.ko.md">전체 560개 보기 →</a></b> · <a href="#contents">↑ 목차</a></p>
 
 <a name="contents-scenes"></a>
 
@@ -198,7 +198,7 @@
 
 GitHub, Hugging Face Spaces, itch.io, X, Bilibili 등에서 324명의 창작자가 만든 작품을 모았습니다. 이미지는 원본 게시물, 코드는 공개 소스, 파일은 HF 아카이브로 연결됩니다. 227개 작품은 브라우저에서 실행되며 346개는 Three.js를 사용합니다.
 
-오픈 소스 라이선스가 있는 421개 항목을 카테고리와 작품별로 보관하며, 원본 라이선스 파일이 있으면 함께 제공합니다. 일괄 다운로드:
+오픈 소스 라이선스가 있는 426개 항목을 카테고리와 작품별로 보관하며, 원본 라이선스 파일이 있으면 함께 제공합니다. 일괄 다운로드:
 
 ```sh
 git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works
