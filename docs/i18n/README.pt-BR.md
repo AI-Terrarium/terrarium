@@ -4,7 +4,7 @@
 
 <h1 align="center">Terrarium</h1>
 
-<p align="center"><b>Descubra jogos, mundos e visualizações 3D criados com código. Veja as prévias, visite as obras originais e encontre código-fonte e downloads quando disponíveis.</b></p>
+<p align="center"><b>Uma coleção abrangente dos mais recentes jogos 3D, mundos interativos, vídeos e visualizações, com destaques populares atualizados a cada 8 horas e arquivos gratuitos de código aberto completo e prompts de geração publicados.</b></p>
 
 <p align="center"><a href="https://terraium.ai/"><img src="https://img.shields.io/badge/Site-Terrarium-c6f25a?labelColor=30363d" height="22" alt="Site"></a>
 <a href="https://github.com/AI-Terrarium/terrarium"><img src="https://img.shields.io/badge/GitHub-Repository-c6f25a?labelColor=30363d" height="22" alt="GitHub"></a>

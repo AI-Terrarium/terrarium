@@ -2,7 +2,7 @@
   "en": {
     "name": "English",
     "filename": "README.md",
-    "tagline": "Discover 3D games, worlds and visualizations made with code. Browse previews, visit the original works and find source code and downloads where available.",
+    "tagline": "A comprehensive showcase of the latest 3D games, interactive worlds, videos and visualizations—with trending picks refreshed every 8 hours and free archives of complete open-source code and published generation prompts.",
     "nav": [
       "Trending",
       "Latest",
@@ -103,7 +103,7 @@
   "zh-CN": {
     "name": "简体中文",
     "filename": "README.zh-CN.md",
-    "tagline": "发现用代码创作的 3D 游戏、场景和可视化作品。浏览预览、访问原作，查找公开的源代码和可下载文件。",
+    "tagline": "全面收录最新的 3D 游戏、交互世界、视频与可视化，热榜每 8 小时刷新，完整开源代码与公开生成提示词免费归档。",
     "nav": [
       "最热",
       "最新",
@@ -204,7 +204,7 @@
   "zh-TW": {
     "name": "繁體中文",
     "filename": "README.zh-TW.md",
-    "tagline": "探索以程式創作的 3D 遊戲、場景與視覺化作品。瀏覽預覽、造訪原作，並在有提供時查找原始碼與下載檔案。",
+    "tagline": "全面收錄最新的 3D 遊戲、互動世界、影片與視覺化作品，熱門榜單每 8 小時更新，完整開源原始碼與公開生成提示詞免費封存。",
     "nav": [
       "熱門",
       "最新",
@@ -305,7 +305,7 @@
   "ja": {
     "name": "日本語",
     "filename": "README.ja.md",
-    "tagline": "コードで作られた3Dゲーム、ワールド、ビジュアライゼーションを紹介します。プレビューを見て原作を訪問し、公開されているソースコードやダウンロードを探せます。",
+    "tagline": "最新の 3D ゲーム、インタラクティブなワールド、動画、可視化作品を幅広く収録し、人気作品を 8 時間ごとに更新、完全なオープンソースコードと公開された生成プロンプトを無料で提供しています。",
     "nav": [
       "人気",
       "新着",
@@ -406,7 +406,7 @@
   "ko": {
     "name": "한국어",
     "filename": "README.ko.md",
-    "tagline": "코드로 만든 3D 게임, 월드와 시각화를 살펴보세요. 미리보기를 보고 원작을 방문하며, 제공되는 경우 소스 코드와 다운로드 파일을 찾을 수 있습니다.",
+    "tagline": "최신 3D 게임, 인터랙티브 월드, 영상과 시각화를 폭넓게 수록하고 인기 목록을 8시간마다 갱신하며, 완전한 오픈 소스 코드와 공개된 생성 프롬프트를 무료로 제공합니다.",
     "nav": [
       "인기",
       "최신",
@@ -507,7 +507,7 @@
   "es": {
     "name": "Español",
     "filename": "README.es.md",
-    "tagline": "Descubre juegos, mundos y visualizaciones 3D creados con código. Explora las vistas previas, visita las obras originales y encuentra código fuente y descargas cuando estén disponibles.",
+    "tagline": "Una amplia colección de los últimos juegos 3D, mundos interactivos, vídeos y visualizaciones, con una selección popular actualizada cada 8 horas y archivos gratuitos de código abierto completo y prompts de generación publicados.",
     "nav": [
       "Popular",
       "Novedades",
@@ -608,7 +608,7 @@
   "pt-BR": {
     "name": "Português",
     "filename": "README.pt-BR.md",
-    "tagline": "Descubra jogos, mundos e visualizações 3D criados com código. Veja as prévias, visite as obras originais e encontre código-fonte e downloads quando disponíveis.",
+    "tagline": "Uma coleção abrangente dos mais recentes jogos 3D, mundos interativos, vídeos e visualizações, com destaques populares atualizados a cada 8 horas e arquivos gratuitos de código aberto completo e prompts de geração publicados.",
     "nav": [
       "Em alta",
       "Novidades",
@@ -709,7 +709,7 @@
   "fr": {
     "name": "Français",
     "filename": "README.fr.md",
-    "tagline": "Découvrez des jeux, des univers et des visualisations 3D créés avec du code. Parcourez les aperçus, visitez les œuvres originales et trouvez le code source et les téléchargements lorsqu’ils sont disponibles.",
+    "tagline": "Une vaste collection des derniers jeux 3D, mondes interactifs, vidéos et visualisations, avec une sélection populaire actualisée toutes les 8 heures et des archives gratuites de code open source complet et de prompts de génération publiés.",
     "nav": [
       "Populaires",
       "Nouveautés",
@@ -810,7 +810,7 @@
   "de": {
     "name": "Deutsch",
     "filename": "README.de.md",
-    "tagline": "Entdecke 3D-Spiele, Welten und Visualisierungen, die mit Code erstellt wurden. Sieh dir Vorschauen an, besuche die Originalwerke und finde Quellcode und Downloads, sofern verfügbar.",
+    "tagline": "Eine umfassende Sammlung der neuesten 3D-Spiele, interaktiven Welten, Videos und Visualisierungen mit alle 8 Stunden aktualisierten beliebten Werken sowie kostenlosen Archiven des vollständigen Open-Source-Codes und veröffentlichter Generierungs-Prompts.",
     "nav": [
       "Beliebt",
       "Neu",
@@ -911,7 +911,7 @@
   "ru": {
     "name": "Русский",
     "filename": "README.ru.md",
-    "tagline": "Откройте для себя 3D-игры, миры и визуализации, созданные с помощью кода. Просматривайте превью, переходите к оригиналам и находите исходный код и загрузки, если они доступны.",
+    "tagline": "Обширная коллекция новых 3D-игр, интерактивных миров, видео и визуализаций с обновлением популярных работ каждые 8 часов и бесплатными архивами полного открытого исходного кода и опубликованных промптов генерации.",
     "nav": [
       "Популярное",
       "Новое",

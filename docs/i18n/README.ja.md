@@ -4,7 +4,7 @@
 
 <h1 align="center">Terrarium</h1>
 
-<p align="center"><b>コードで作られた3Dゲーム、ワールド、ビジュアライゼーションを紹介します。プレビューを見て原作を訪問し、公開されているソースコードやダウンロードを探せます。</b></p>
+<p align="center"><b>最新の 3D ゲーム、インタラクティブなワールド、動画、可視化作品を幅広く収録し、人気作品を 8 時間ごとに更新、完全なオープンソースコードと公開された生成プロンプトを無料で提供しています。</b></p>
 
 <p align="center"><a href="https://terraium.ai/"><img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88-Terrarium-c6f25a?labelColor=30363d" height="22" alt="公式サイト"></a>
 <a href="https://github.com/AI-Terrarium/terrarium"><img src="https://img.shields.io/badge/GitHub-Repository-c6f25a?labelColor=30363d" height="22" alt="GitHub"></a>
