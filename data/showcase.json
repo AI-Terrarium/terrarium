@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-15T21:40:59Z",
+  "updated_at": "2026-11-16T05:36:37Z",
   "method": "public-support-v1",
   "sources": {
     "bilibili:BV1ByWM6mE1D": {
@@ -22,9 +22,9 @@
       "url": "https://www.bilibili.com/video/BV1yJW168ENZ/",
       "published_at": "2026-11-11T07:37:09+00:00",
       "metrics": {
-        "views": 180,
+        "views": 181,
         "likes": 4,
-        "comments": 1,
+        "comments": 0,
         "shares": 0,
         "favorites": 0,
         "coins": 2
@@ -279,7 +279,7 @@
       "url": "https://github.com/aditazzz/suno-youtube-aditazzz-music",
       "published_at": "2026-10-26T23:30:26Z",
       "metrics": {
-        "stars": 6,
+        "stars": 7,
         "forks": 0
       }
     },
@@ -711,7 +711,7 @@
       "url": "https://github.com/arnie016/flight-simulator-fable5",
       "published_at": "2026-07-06T16:55:46Z",
       "metrics": {
-        "stars": 6,
+        "stars": 7,
         "forks": 2
       }
     },
@@ -1062,7 +1062,7 @@
       "url": "https://github.com/bridge-mind/apex-formula",
       "published_at": "2026-09-02T17:33:33Z",
       "metrics": {
-        "stars": 10,
+        "stars": 11,
         "forks": 12
       }
     },
@@ -1089,7 +1089,7 @@
       "url": "https://github.com/bridge-mind/turbo-kart-rally",
       "published_at": "2026-09-22T17:36:26Z",
       "metrics": {
-        "stars": 49,
+        "stars": 50,
         "forks": 19
       }
     },
@@ -1387,7 +1387,7 @@
       "published_at": "2026-11-12T09:58:36Z",
       "metrics": {
         "stars": 8,
-        "forks": 1
+        "forks": 2
       }
     },
     "github:cyb3rcricket/the-wizard": {
@@ -1782,8 +1782,8 @@
       "url": "https://github.com/emollick/ai-portals",
       "published_at": "2026-11-09T18:59:43Z",
       "metrics": {
-        "stars": 172,
-        "forks": 39
+        "stars": 173,
+        "forks": 40
       }
     },
     "github:emollick/fable-refinery": {
@@ -1846,7 +1846,7 @@
       "published_at": "2026-11-11T20:06:45Z",
       "metrics": {
         "stars": 9,
-        "forks": 3
+        "forks": 4
       }
     },
     "github:eval-forge/claude-battle": {
@@ -1953,7 +1953,7 @@
       "url": "https://github.com/felixgollnhuber/t3-office",
       "published_at": "2026-10-13T02:35:40Z",
       "metrics": {
-        "stars": 3,
+        "stars": 4,
         "forks": 1
       }
     },
@@ -2421,7 +2421,7 @@
       "url": "https://github.com/harleycoops/math-to-manim",
       "published_at": "2025-01-20T11:04:50Z",
       "metrics": {
-        "stars": 2875,
+        "stars": 2877,
         "forks": 319
       }
     },
@@ -2637,7 +2637,7 @@
       "url": "https://github.com/infatoshi/ai-video",
       "published_at": "2026-09-29T03:47:38Z",
       "metrics": {
-        "stars": 0,
+        "stars": 1,
         "forks": 0
       }
     },
@@ -2889,7 +2889,7 @@
       "url": "https://github.com/jjcm/petalwake",
       "published_at": "2026-11-10T05:54:32Z",
       "metrics": {
-        "stars": 73,
+        "stars": 76,
         "forks": 16
       }
     },
@@ -3087,8 +3087,8 @@
       "url": "https://github.com/khanh020905/my-office",
       "published_at": "2026-10-28T12:30:47Z",
       "metrics": {
-        "stars": 283,
-        "forks": 130
+        "stars": 284,
+        "forks": 131
       }
     },
     "github:khanmjk/fable51_hourglass": {
@@ -3168,7 +3168,7 @@
       "url": "https://github.com/krasimirkralev/harvest-hollow",
       "published_at": "2026-10-05T07:21:09Z",
       "metrics": {
-        "stars": 14,
+        "stars": 15,
         "forks": 4
       }
     },
@@ -3277,7 +3277,7 @@
       "published_at": "2026-10-15T08:48:25Z",
       "metrics": {
         "stars": 150,
-        "forks": 22
+        "forks": 23
       }
     },
     "github:lets-be-strategic-here/low-poly-horse": {
@@ -4446,8 +4446,8 @@
       "url": "https://github.com/realcodebear/saltline-fable-5.2",
       "published_at": "2026-11-10T15:04:30Z",
       "metrics": {
-        "stars": 344,
-        "forks": 108
+        "stars": 350,
+        "forks": 111
       }
     },
     "github:realcodebear/threejs-fable-5.2-all-effort-koi-pond": {
@@ -5580,7 +5580,7 @@
       "url": "https://github.com/tholeg/saltline-field-archive",
       "published_at": "2026-11-11T06:23:33Z",
       "metrics": {
-        "stars": 1,
+        "stars": 2,
         "forks": 1
       }
     },
@@ -5642,15 +5642,6 @@
       "platform": "github",
       "url": "https://github.com/tonydowney/periplus",
       "published_at": "2026-07-26T14:52:48Z",
-      "metrics": {
-        "stars": 0,
-        "forks": 0
-      }
-    },
-    "github:topway-ai/harbor-blackout-gemini": {
-      "platform": "github",
-      "url": "https://github.com/topway-ai/harbor-blackout-gemini",
-      "published_at": "2026-11-13T13:56:20Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -5985,7 +5976,7 @@
       "url": "https://github.com/wquguru/fable52-fps-repro",
       "published_at": "2026-11-11T04:58:58Z",
       "metrics": {
-        "stars": 95,
+        "stars": 99,
         "forks": 19
       }
     },
@@ -6566,7 +6557,7 @@
       "url": "https://huggingface.co/spaces/townbox/boeing-747-400-fable-5.2",
       "published_at": "2026-11-10T09:44:09.000Z",
       "metrics": {
-        "likes": 7
+        "likes": 8
       }
     },
     "huggingface:v-mkrtumy/threejs-smoke-plume-study": {
@@ -6615,7 +6606,7 @@
       "url": "https://x.com/i/status/2119772039037014524",
       "published_at": "2026-11-09T12:40:12.000Z",
       "metrics": {
-        "likes": 251,
+        "likes": 252,
         "comments": 15
       }
     },
@@ -6633,7 +6624,7 @@
       "url": "https://x.com/i/status/2119868968307695818",
       "published_at": "2026-11-09T19:05:21.000Z",
       "metrics": {
-        "likes": 4268,
+        "likes": 4271,
         "comments": 174
       }
     },
@@ -6669,7 +6660,7 @@
       "url": "https://x.com/i/status/2119877065701036047",
       "published_at": "2026-11-09T19:37:32.000Z",
       "metrics": {
-        "likes": 2415,
+        "likes": 2418,
         "comments": 93
       }
     },
@@ -6696,7 +6687,7 @@
       "url": "https://x.com/i/status/2119897113534529605",
       "published_at": "2026-11-09T20:57:12.000Z",
       "metrics": {
-        "likes": 592,
+        "likes": 594,
         "comments": 24
       }
     },
@@ -6732,8 +6723,8 @@
       "url": "https://x.com/i/status/2119902109709537708",
       "published_at": "2026-11-09T21:17:03.000Z",
       "metrics": {
-        "likes": 7052,
-        "comments": 270
+        "likes": 7058,
+        "comments": 271
       }
     },
     "x:2119904269235277978": {
@@ -6777,7 +6768,7 @@
       "url": "https://x.com/i/status/2119907841599496421",
       "published_at": "2026-11-09T21:39:50.000Z",
       "metrics": {
-        "likes": 103,
+        "likes": 104,
         "comments": 3
       }
     },
@@ -6822,7 +6813,7 @@
       "url": "https://x.com/i/status/2119910195325481026",
       "published_at": "2026-11-09T21:49:11.000Z",
       "metrics": {
-        "likes": 1035,
+        "likes": 1034,
         "comments": 140
       }
     },
@@ -6849,8 +6840,8 @@
       "url": "https://x.com/i/status/2119925633564463609",
       "published_at": "2026-11-09T22:50:32.000Z",
       "metrics": {
-        "likes": 14818,
-        "comments": 846
+        "likes": 14847,
+        "comments": 848
       }
     },
     "x:2119927838321328577": {
@@ -6858,7 +6849,7 @@
       "url": "https://x.com/i/status/2119927838321328577",
       "published_at": "2026-11-09T22:59:17.000Z",
       "metrics": {
-        "likes": 173,
+        "likes": 176,
         "comments": 20
       }
     },
@@ -6957,7 +6948,7 @@
       "url": "https://x.com/i/status/2120154573356793883",
       "published_at": "2026-11-10T14:00:15.000Z",
       "metrics": {
-        "likes": 1092,
+        "likes": 1093,
         "comments": 80
       }
     },
@@ -6984,7 +6975,7 @@
       "url": "https://x.com/i/status/2120192761542615271",
       "published_at": "2026-11-10T16:32:00.000Z",
       "metrics": {
-        "likes": 1422,
+        "likes": 1427,
         "comments": 117
       }
     },
@@ -7002,7 +6993,7 @@
       "url": "https://x.com/i/status/2120238844754923874",
       "published_at": "2026-11-10T19:35:07.000Z",
       "metrics": {
-        "likes": 1766,
+        "likes": 1776,
         "comments": 133
       }
     },
@@ -7020,7 +7011,7 @@
       "url": "https://x.com/i/status/2120282133503820150",
       "published_at": "2026-11-10T22:27:08.000Z",
       "metrics": {
-        "likes": 7515,
+        "likes": 7517,
         "comments": 678
       }
     },
@@ -7029,7 +7020,7 @@
       "url": "https://x.com/i/status/2120284261089673376",
       "published_at": "2026-11-10T22:35:35.000Z",
       "metrics": {
-        "likes": 17898,
+        "likes": 17916,
         "comments": 499
       }
     },
@@ -7038,8 +7029,8 @@
       "url": "https://x.com/i/status/2120341251178594532",
       "published_at": "2026-11-11T02:22:02.000Z",
       "metrics": {
-        "likes": 7971,
-        "comments": 386
+        "likes": 7976,
+        "comments": 387
       }
     },
     "x:2120374208043876422": {
@@ -7080,6 +7071,10 @@
     }
   },
   "unavailable": [
+    {
+      "source": "github:topway-ai/harbor-blackout-gemini",
+      "reason": "Not public or not found"
+    },
     {
       "source": "reddit:1xs8rut",
       "reason": "HTTPError"

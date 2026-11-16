@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · Популярное"></picture></a></p>
 
-<p align="center"><sub>Обновлено: 2026-11-15 21:40 UTC · Обновление запланировано каждые 8 часов</sub></p>
+<p align="center"><sub>Обновлено: 2026-11-16 05:36 UTC · Обновление запланировано каждые 8 часов</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Нравится: 17 898 · Комментарии: 499</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Нравится: 14 818 · Комментарии: 846</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Нравится: 7 971 · Комментарии: 386</a></sub></td>
-<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Нравится: 7 515 · Комментарии: 678</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Нравится: 17 916 · Комментарии: 499</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Нравится: 14 847 · Комментарии: 848</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Нравится: 7 976 · Комментарии: 387</a></sub></td>
+<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Нравится: 7 517 · Комментарии: 678</a></sub></td>
 </tr></table>
 
 <details><summary>Источники и порядок</summary>
 
-Сортировка по открытым отметкам «Нравится», звёздам и другим откликам поддержки. Комментарии и репосты используются при равенстве, просмотры показаны отдельно. Учитывается самая поддержанная публикация с каждой платформы; источники не дублируются. Источники: 789 · платформы: 4 · без данных: 6 <a href="../../data/showcase.json">Посмотреть данные</a> · <a href="../../scripts/SHOWCASE.md">Методика</a>
+Сортировка по открытым отметкам «Нравится», звёздам и другим откликам поддержки. Комментарии и репосты используются при равенстве, просмотры показаны отдельно. Учитывается самая поддержанная публикация с каждой платформы; источники не дублируются. Источники: 788 · платформы: 4 · без данных: 7 <a href="../../data/showcase.json">Посмотреть данные</a> · <a href="../../scripts/SHOWCASE.md">Методика</a>
 
 </details>
 
