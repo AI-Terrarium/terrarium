@@ -19,7 +19,7 @@ import shutil
 from PIL import Image, ImageOps
 
 ROOT = Path(__file__).resolve().parents[1]
-ARCHIVE = "https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"
+ARCHIVE = "https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works"
 ORDER = ("games", "scenes", "videos", "tools", "visualizations", "wallpapers")
 FORM_CATEGORY = {
     "games": "games", "scenes-and-environments": "scenes", "films-and-videos": "videos",

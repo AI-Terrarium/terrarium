@@ -76,7 +76,7 @@
     ],
     "about": [
       "Works come from GitHub, Hugging Face Spaces, itch.io, X, Bilibili and more, spanning 324 creators. Previews open the original publication; Code links to public source; Files opens the HF archive. 227 works run in the browser, and 346 use Three.js.",
-      "Source for 321 openly licensed entries is archived by category and work, with original license files where available. Download the collection:",
+      "Source for {archive_count} openly licensed entries is archived by category and work, with original license files where available. Download the collection:",
       "Large files require Git LFS. Works retain their own licenses; page text is CC0 1.0. Catalog and popularity timestamps are separate."
     ],
     "method": "Ordered by public likes, stars and other support. Comments and shares break ties; views are shown separately. The strongest post per platform contributes, and shared sources appear once.",
@@ -177,7 +177,7 @@
     ],
     "about": [
       "作品来自 GitHub、Hugging Face Spaces、itch.io、X、Bilibili 等平台，覆盖 324 位作者。图片链接原始发布页；「代码」链接公开源码；「文件」打开 HF 归档。227 个作品可在浏览器运行，346 个使用 Three.js。",
-      "321 个有开源许可证的条目已按类别与作品集中归档，保留原仓库许可证文件（如有）。批量获取：",
+      "{archive_count} 个有开源许可证的条目已按类别与作品集中归档，保留原仓库许可证文件（如有）。批量获取：",
       "大文件需要 Git LFS。作品遵循各自许可证；页面文字采用 CC0 1.0。目录和热度分别标注更新时间。"
     ],
     "method": "按公开点赞、Star 等支持数排序；评论、转发等仅用于同分排序，播放量单独展示。同一平台取支持数最高的帖子，同一来源不重复展示。",
@@ -278,7 +278,7 @@
     ],
     "about": [
       "作品來自 GitHub、Hugging Face Spaces、itch.io、X、Bilibili 等平台，涵蓋 324 位創作者。預覽圖連至原始發布頁；原始碼連至公開程式碼；檔案開啟 HF 封存。227 個作品可在瀏覽器執行，346 個使用 Three.js。",
-      "321 個具開源授權的項目已按類別與作品集中封存，並保留原始授權檔案（如有）。批次下載：",
+      "{archive_count} 個具開源授權的項目已按類別與作品集中封存，並保留原始授權檔案（如有）。批次下載：",
       "大型檔案需要 Git LFS。作品保留各自的授權條款；頁面文字採 CC0 1.0。目錄與熱門資料分別標示更新時間。"
     ],
     "method": "依公開按讚、Star 等支持數排序；留言與分享只用於同分排序，觀看次數另外顯示。每個平台採支持數最高的貼文，相同來源不重複展示。",
@@ -379,7 +379,7 @@
     ],
     "about": [
       "GitHub、Hugging Face Spaces、itch.io、X、Bilibili などから、324 人のクリエイターの作品を収録。画像は元の公開ページ、ソースは公開コード、ファイルは HF のアーカイブにリンクします。227 作品はブラウザーで動作し、346 作品は Three.js を使用しています。",
-      "オープンソースライセンスのある 321 項目をカテゴリーと作品ごとに保存し、元のライセンスファイルがあれば同梱しています。一括取得：",
+      "オープンソースライセンスのある {archive_count} 項目をカテゴリーと作品ごとに保存し、元のライセンスファイルがあれば同梱しています。一括取得：",
       "大きなファイルには Git LFS が必要です。各作品のライセンスに従ってください。ページ本文は CC0 1.0 です。カタログと人気データの更新日時は別々に表示します。"
     ],
     "method": "公開の「いいね」や Star などの支持数で並べ、同数の場合のみコメントや共有数を使います。再生数は別に表示。各プラットフォームで最も支持された投稿を採用し、同じ出典は重複表示しません。",
@@ -480,7 +480,7 @@
     ],
     "about": [
       "GitHub, Hugging Face Spaces, itch.io, X, Bilibili 등에서 324명의 창작자가 만든 작품을 모았습니다. 이미지는 원본 게시물, 코드는 공개 소스, 파일은 HF 아카이브로 연결됩니다. 227개 작품은 브라우저에서 실행되며 346개는 Three.js를 사용합니다.",
-      "오픈 소스 라이선스가 있는 321개 항목을 카테고리와 작품별로 보관하며, 원본 라이선스 파일이 있으면 함께 제공합니다. 일괄 다운로드:",
+      "오픈 소스 라이선스가 있는 {archive_count}개 항목을 카테고리와 작품별로 보관하며, 원본 라이선스 파일이 있으면 함께 제공합니다. 일괄 다운로드:",
       "대용량 파일에는 Git LFS가 필요합니다. 각 작품의 라이선스를 따르세요. 페이지 본문은 CC0 1.0입니다. 목록과 인기 데이터의 갱신 시간은 별도로 표시합니다."
     ],
     "method": "공개 좋아요와 Star 등 지지 수로 정렬하고, 동점일 때만 댓글과 공유 수를 사용합니다. 조회 수는 별도로 표시합니다. 플랫폼별 최고 지지 게시물을 사용하며 같은 출처는 한 번만 표시합니다.",
@@ -581,7 +581,7 @@
     ],
     "about": [
       "Obras de 324 creadores, procedentes de GitHub, Hugging Face Spaces, itch.io, X, Bilibili y más. Las imágenes abren la publicación original; Código enlaza al código público y Archivos al archivo de HF. 227 obras funcionan en el navegador y 346 usan Three.js.",
-      "Se conservan 321 entradas con licencia de código abierto, organizadas por categoría y obra, con las licencias originales cuando están disponibles. Descarga conjunta:",
+      "Se conservan {archive_count} entradas con licencia de código abierto, organizadas por categoría y obra, con las licencias originales cuando están disponibles. Descarga conjunta:",
       "Los archivos grandes requieren Git LFS. Cada obra conserva su licencia; el texto de estas páginas es CC0 1.0. Las fechas del catálogo y de popularidad se muestran por separado."
     ],
     "method": "Ordenadas por apoyos públicos, como Me gusta y estrellas. Los comentarios y las veces compartidas desempatan; las visualizaciones se muestran aparte. Se usa la publicación con más apoyo por plataforma y cada fuente aparece una sola vez.",
@@ -682,7 +682,7 @@
     ],
     "about": [
       "Obras de 324 criadores, vindas de GitHub, Hugging Face Spaces, itch.io, X, Bilibili e outras plataformas. As imagens abrem a publicação original; Código leva ao código público e Arquivos ao arquivo no HF. 227 obras funcionam no navegador e 346 usam Three.js.",
-      "Há 321 itens com licença de código aberto arquivados por categoria e obra, com as licenças originais quando disponíveis. Download em lote:",
+      "Há {archive_count} itens com licença de código aberto arquivados por categoria e obra, com as licenças originais quando disponíveis. Download em lote:",
       "Arquivos grandes exigem Git LFS. Cada obra mantém sua própria licença; o texto destas páginas é CC0 1.0. As datas do catálogo e da popularidade são exibidas separadamente."
     ],
     "method": "Ordenação por apoios públicos, como curtidas e estrelas. Comentários e compartilhamentos desempatam; visualizações aparecem à parte. Usa-se a publicação mais apoiada de cada plataforma, sem repetir fontes.",
@@ -783,7 +783,7 @@
     ],
     "about": [
       "Des œuvres de 324 créateurs provenant de GitHub, Hugging Face Spaces, itch.io, X, Bilibili et d’autres plateformes. Les aperçus ouvrent la publication d’origine ; Code mène au code public et Fichiers à l’archive HF. 227 œuvres fonctionnent dans le navigateur et 346 utilisent Three.js.",
-      "Les sources de 321 entrées sous licence open source sont archivées par catégorie et par œuvre, avec les licences d’origine lorsqu’elles sont disponibles. Téléchargement groupé :",
+      "Les sources de {archive_count} entrées sous licence open source sont archivées par catégorie et par œuvre, avec les licences d’origine lorsqu’elles sont disponibles. Téléchargement groupé :",
       "Les gros fichiers nécessitent Git LFS. Chaque œuvre conserve sa licence ; le texte de ces pages est sous CC0 1.0. Les dates du catalogue et de popularité sont indiquées séparément."
     ],
     "method": "Classement par soutiens publics, comme les mentions J’aime et les étoiles. Commentaires et partages départagent les égalités ; les vues sont affichées séparément. La publication la plus soutenue de chaque plateforme est retenue, sans répéter les sources.",
@@ -884,7 +884,7 @@
     ],
     "about": [
       "Werke von 324 Kreativen aus GitHub, Hugging Face Spaces, itch.io, X, Bilibili und weiteren Plattformen. Vorschaubilder öffnen die Originalveröffentlichung; Code führt zum öffentlichen Quellcode und Dateien zum HF-Archiv. 227 Werke laufen im Browser und 346 verwenden Three.js.",
-      "Der Quellcode von 321 offen lizenzierten Einträgen ist nach Kategorie und Werk archiviert, einschließlich der ursprünglichen Lizenzdateien, soweit vorhanden. Gesamtdownload:",
+      "Der Quellcode von {archive_count} offen lizenzierten Einträgen ist nach Kategorie und Werk archiviert, einschließlich der ursprünglichen Lizenzdateien, soweit vorhanden. Gesamtdownload:",
       "Große Dateien erfordern Git LFS. Jedes Werk behält seine eigene Lizenz; die Seitentexte stehen unter CC0 1.0. Katalog- und Beliebtheitsdaten haben getrennte Zeitstempel."
     ],
     "method": "Sortiert nach öffentlichen Likes, Sternen und ähnlicher Zustimmung. Kommentare und geteilte Beiträge entscheiden bei Gleichstand; Aufrufe werden getrennt angezeigt. Pro Plattform zählt der meistunterstützte Beitrag, jede Quelle erscheint nur einmal.",
@@ -985,7 +985,7 @@
     ],
     "about": [
       "Работы 324 авторов из GitHub, Hugging Face Spaces, itch.io, X, Bilibili и других платформ. Изображения ведут к оригинальной публикации, Код — к общедоступным исходникам, Файлы — к архиву HF. 227 работ запускаются в браузере, 346 используют Three.js.",
-      "Исходники 321 записи с открытой лицензией сохранены по категориям и работам вместе с оригинальными файлами лицензий, если они есть. Скачать всё:",
+      "Исходники {archive_count} записи с открытой лицензией сохранены по категориям и работам вместе с оригинальными файлами лицензий, если они есть. Скачать всё:",
       "Для больших файлов нужен Git LFS. У каждой работы своя лицензия; тексты страниц доступны по CC0 1.0. Даты каталога и данных популярности указаны отдельно."
     ],
     "method": "Сортировка по открытым отметкам «Нравится», звёздам и другим откликам поддержки. Комментарии и репосты используются при равенстве, просмотры показаны отдельно. Учитывается самая поддержанная публикация с каждой платформы; источники не дублируются.",

@@ -12,7 +12,8 @@ from i18n import CONTENT_ORDER, GENRE_SLUGS, ICONS, LOCALES, from_root, language
 from refresh_showcase import CARD, ROOT, load_catalog, parse_entries, recent_entries, select_entries, showcase_markup
 
 WEBSITE = "https://terraium.ai/"
-ARCHIVE = "https://huggingface.co/datasets/awesome-fable-5-2/terrarium-open-works"
+GITHUB = "https://github.com/AI-Terrarium/terrarium"
+ARCHIVE = "https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works"
 DISCORD = "https://discord.com/invite/bJqy7ev7WD"
 CAT_START, CAT_END = "<!-- CATALOG:START -->", "<!-- CATALOG:END -->"
 FEATURED = {
@@ -39,7 +40,7 @@ def header(code, category=None):
     if not category:
         parts.append(f'<p align="center"><b>{esc(p["tagline"])}</b></p>')
     badges = []
-    for label, value, url in ((p["ui"]["website"], "Terrarium", WEBSITE), (p["ui"]["archive"], "Hugging Face", ARCHIVE), ("Discord", "Join", DISCORD)):
+    for label, value, url in ((p["ui"]["website"], "Terrarium", WEBSITE), ("GitHub", "Repository", GITHUB), (p["ui"]["archive"], "Hugging Face", ARCHIVE), ("Discord", "Join", DISCORD)):
         image = f'https://img.shields.io/badge/{quote(label, safe="")}-{quote(value, safe="")}-c6f25a?labelColor=30363d'
         badges.append(f'<a href="{url}"><img src="{image}" height="22" alt="{esc(label)}"></a>')
     parts.append('<p align="center">' + "\n".join(badges) + '</p>')
@@ -153,7 +154,7 @@ def build_all(root=ROOT):
     outputs = {}
     for code, p in LOCALES.items():
         source = code if code in ('en', 'zh-CN') else 'en'
-        about = '\n\n'.join([f'<details><summary>{esc(p["ui"]["about_summary"])}</summary>', esc(p['about'][0]), esc(p['about'][1]), f'```sh\ngit clone {ARCHIVE}\n```', esc(p['about'][2]), f'<a href="scripts/SHOWCASE.md">{esc(p["ui"]["methodology"])}</a> · <a href="https://github.com/AI-Terrarium/terrarium/issues/new">{esc(p["ui"]["contribute"])}</a>', '</details>'])
+        about = '\n\n'.join([f'<details><summary>{esc(p["ui"]["about_summary"])}</summary>', esc(p['about'][0]), esc(p['about'][1].format(archive_count=sum(bool(entry.files) for entry in entries))), f'```sh\ngit clone {ARCHIVE}\n```', esc(p['about'][2]), f'<a href="scripts/SHOWCASE.md">{esc(p["ui"]["methodology"])}</a> · <a href="https://github.com/AI-Terrarium/terrarium/issues/new">{esc(p["ui"]["contribute"])}</a>', '</details>'])
         blocks = [header(code), showcase_markup(entries, selected, ranked, state, date, now, locale=code), '<a name="latest"></a>', f'## {p["nav"][1]}', from_root(cards_table(latest[source], code, columns=4), code), from_root(contents(code, entries, bodies, genre_counts), code), f'<p align="center"><a href="{WEBSITE}">{esc(p["ui"]["open_website"])}</a> · <a href="{ARCHIVE}">{esc(p["ui"]["get_code"])}</a></p>', from_root(about, code)]
         outputs[root / page_path(code)] = '\n\n'.join(blocks) + footer(code, date)
         for cat in CONTENT_ORDER:
