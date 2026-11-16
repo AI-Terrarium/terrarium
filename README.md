@@ -24,13 +24,13 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/showcase.webp"><img src="assets/showcase.gif" width="100%" alt="Terrarium · Trending"></picture></a></p>
 
-<p align="center"><sub>Updated: 2026-11-16 11:04 UTC · Refresh scheduled every 8 hours</sub></p>
+<p align="center"><sub>Updated: 2026-11-16 12:09 UTC · Refresh scheduled every 8 hours</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Likes: 17,922 · Comments: 499</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Likes: 14,863 · Comments: 848</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Likes: 17,921 · Comments: 499</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Likes: 14,865 · Comments: 850</a></sub></td>
 <td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Likes: 7,983 · Comments: 387</a></sub></td>
 <td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Likes: 7,515 · Comments: 677</a></sub></td>
 </tr></table>
