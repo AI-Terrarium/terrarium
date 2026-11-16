@@ -2,7 +2,7 @@ name: Refresh README showcase
 
 on:
   schedule:
-    - cron: '23 */8 * * *'
+    - cron: '0 1,9,17 * * *'
   workflow_dispatch:
   push:
     paths:
@@ -13,6 +13,7 @@ on:
       - 'scripts/**'
       - 'data/showcase.json'
       - 'data/engagement-links.json'
+      - 'data/catalog.jsonl'
       - '.github/workflows/refresh-showcase.yml'
 
 permissions:
@@ -26,7 +27,7 @@ jobs:
   refresh:
     if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -41,6 +42,10 @@ jobs:
           sudo apt-get install -y fonts-dejavu-core fonts-noto-cjk
       - name: Check ranking and fallback behavior
         run: python -m unittest discover -s scripts -p 'test_*.py'
+      - name: Synchronize reviewed catalog and actual archive index
+        env:
+          CATALOG_WAIT_SECONDS: ${{ github.event_name == 'schedule' && '300' || '0' }}
+        run: python scripts/sync_public_catalog.py --wait-seconds "$CATALOG_WAIT_SECONDS"
       - name: Refresh cross-platform heat and render showcase
         env:
           GITHUB_TOKEN: ${{ github.token }}
@@ -54,6 +59,9 @@ jobs:
       - name: Commit updated showcase
         run: |
           git add 'README*.md' '*/README*.md' docs/i18n assets/showcase.gif assets/showcase.webp data/showcase.json
+          for path in data/catalog.jsonl data/catalog-sync-baseline.jsonl data/catalog-sync.json data/archive-index.jsonl data/platform-metrics.json; do
+            if [ -f "$path" ]; then git add "$path"; fi
+          done
           if [ -d assets/showcase-previews ]; then
             git add assets/showcase-previews
           fi
