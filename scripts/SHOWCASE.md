@@ -52,13 +52,41 @@ For ranked works without a catalog screenshot, available public video covers
 are cached under `assets/showcase-previews/` and attributed by their source link.
 Install Noto Sans CJK or set `SHOWCASE_FONT` to a Unicode font for CJK titles.
 
-The workflow runs at minute 23 every 8 hours (UTC), on relevant default-branch
+The workflow runs at 01:00, 09:00 and 17:00 UTC (09:00, 17:00 and 01:00 Beijing time), on relevant default-branch
 changes, and through **Actions → Refresh README showcase → Run workflow**.
 It becomes active when pushed to the default branch with Actions enabled and
 permission to push updates. Protected branches may require the normal repository
 change process. GitHub scheduling and image caching can delay refreshes; the
 README therefore displays the measured sync time rather than promising a
 per-visit live ranking.
+
+## Platform and Hugging Face synchronization
+
+Before refreshing metrics, `sync_public_catalog.py` reads a pinned public snapshot
+from `AI-Terrarium/terrarium-open-works`. Scheduled runs wait up to five minutes
+for the current eight-hour batch. Missing snapshots leave the existing catalog
+in place. Invalid hashes or contracts fail the job before publication.
+
+After the first successful import, edit `data/catalog.jsonl` for catalog changes;
+category README bodies are generated from it. The first import preserves existing
+reviewed README entries and attributions. Three-way merging keeps independent
+GitHub edits and records conflicts for platform review. Missing entries never
+delete work; an explicit `withdrawn` record is required. Platform decisions to
+keep its values apply only to the exact GitHub record that was reviewed.
+
+`data/catalog-sync-baseline.jsonl` retains the last HF input, and
+`data/catalog-sync.json` acknowledges the published catalog hash. A `conflict`
+receipt means local edits still need platform review; `ready` means the catalogs
+match. Archive links come only from the real HF index. Existing archive paths
+remain valid when a work's editorial form changes. The workflow commits these
+files with all localized pages using its own `GITHUB_TOKEN`; it needs no HF write
+token. The platform is the HF writer and exports public catalog fields only.
+Source files require separate confirmation of redistribution permission.
+
+For offline validation, run `python3 scripts/sync_public_catalog.py --snapshot
+/path/to/snapshot --root /path/to/copy`, followed by the builders and validator.
+The snapshot directory needs `catalog.jsonl`, `metadata.jsonl`, `catalog-sync.json`,
+`catalog-creators.json`, `catalog-tags.json`, and `catalog-metrics.json`.
 
 ## Public sources and credentials
 

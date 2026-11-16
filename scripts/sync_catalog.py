@@ -217,6 +217,7 @@ def main():
     parser.add_argument("--thumbs", required=True)
     parser.add_argument("--metadata", required=True)
     parser.add_argument("--creators", required=True)
+    parser.add_argument("--catalog-date", help="Actual catalog-change date; independent of heat refreshes")
     args = parser.parse_args()
     master, works = read_jsonl(args.master), json.loads(Path(args.works).read_text())
     collections = json.loads(Path(args.collections).read_text())
@@ -230,7 +231,7 @@ def main():
         expected_hf_category = FORM_CATEGORY.get(by_id[key].get("form")) if key in by_id else None
         if (key not in by_id or key in files or not row.get("category") or
                 row.get("path") != f'{row["category"]}/{row["slug"]}' or
-                row.get("category") != expected_hf_category):
+                row.get("category") not in ORDER):
             raise ValueError(f"invalid metadata identity/path: {key}")
         files[key] = row
     if len(files) != len(metadata):
@@ -267,7 +268,9 @@ def main():
         else:
             grouped[category].sort(key=lambda e: (e["title"].casefold(), e["slug"]))
     tags = json.loads((static_thumbs.parent / "tags.json").read_text())
-    stamp = max(row.get("added", "") for row in master)
+    stamp = args.catalog_date or max(row.get("added", "") for row in master)
+    if stamp:
+        date.fromisoformat(stamp)
     if not stamp:
         stamp = date.today().isoformat()
     for category in ORDER:
