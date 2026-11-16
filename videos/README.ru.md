@@ -15,7 +15,7 @@
 
 <h1 align="center">Видео</h1>
 
-<p align="center">Записей: 30. Короткие фильмы, анимация и визуальные эксперименты, созданные кодом.</p>
+<p align="center">Записей: 32. Короткие фильмы, анимация и визуальные эксперименты, созданные кодом.</p>
 
 
 
@@ -84,10 +84,14 @@
 
 <tr><td><a href="https://github.com/Infatoshi/ai-video">ai-video</a><br>Коллекция: 7 работ</td><td><a href="https://github.com/Infatoshi">Elliot Arledge</a></td><td>MIT</td><td><a href="https://github.com/Infatoshi/ai-video">Код</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/videos/ai-video">Файлы</a></td></tr>
 
+<tr><td><a href="https://finderchangchang.github.io/cloud-stunt-3d/">Cloud Stunt 3D</a></td><td>@jev_chat</td><td>Лицензия неизвестна</td><td><a href="https://github.com/Finderchangchang/cloud-stunt-3d">Код</a></td></tr>
+
+<tr><td><a href="https://loktar00.github.io/llm-test-pages/fable52-dino-chase/">Thunder Valley dino chase</a></td><td>@loktar00</td><td>Лицензия неизвестна</td><td><a href="https://github.com/loktar00/llm-test-pages/tree/main/fable52-dino-chase">Код</a></td></tr>
+
 </table>
 
 <!-- CATALOG:END -->
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.ru.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ru.md">Главная</a> · <a href="../games/README.ru.md">Игры</a> · <a href="../scenes/README.ru.md">Миры и сцены</a> · <a href="README.ru.md">Видео</a> · <a href="../tools/README.ru.md">Инструменты</a> · <a href="../visualizations/README.ru.md">Визуализации</a> · <a href="../wallpapers/README.ru.md">Обои</a> · <a href="#top">Наверх</a><br>Данные каталога: 2026-11-15</sub></p>
+<p align="center"><a href="../docs/i18n/README.ru.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ru.md">Главная</a> · <a href="../games/README.ru.md">Игры</a> · <a href="../scenes/README.ru.md">Миры и сцены</a> · <a href="README.ru.md">Видео</a> · <a href="../tools/README.ru.md">Инструменты</a> · <a href="../visualizations/README.ru.md">Визуализации</a> · <a href="../wallpapers/README.ru.md">Обои</a> · <a href="#top">Наверх</a><br>Данные каталога: 2026-11-16</sub></p>

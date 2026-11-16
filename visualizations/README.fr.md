@@ -186,7 +186,7 @@
 
 <tr><td><a href="https://github.com/sushanshetty2601-pixel/deep-time-mirror">deep-time-mirror</a></td><td><a href="https://github.com/sushanshetty2601-pixel">sushanshetty2601-pixel</a></td><td>Licence inconnue</td><td><a href="https://github.com/sushanshetty2601-pixel/deep-time-mirror">Code</a></td></tr>
 
-<tr><td><a href="https://github.com/sorryhumans/roost">roost</a></td><td><a href="https://github.com/sorryhumans">sorryhumans</a></td><td>MIT</td><td><a href="https://github.com/sorryhumans/roost">Code</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/visualizations/roost">Fichiers</a></td></tr>
+<tr><td><a href="https://github.com/sorryhumans/roost">roost</a></td><td><a href="https://github.com/sorryhumans">sorryhumans</a></td><td>MIT</td><td><a href="https://github.com/sorryhumans/roost">Code</a></td></tr>
 
 </table>
 
@@ -194,4 +194,4 @@
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.fr.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.fr.md">Accueil</a> · <a href="../games/README.fr.md">Jeux</a> · <a href="../scenes/README.fr.md">Mondes et scènes</a> · <a href="../videos/README.fr.md">Vidéos</a> · <a href="../tools/README.fr.md">Outils</a> · <a href="README.fr.md">Visualisations</a> · <a href="../wallpapers/README.fr.md">Fonds d’écran</a> · <a href="#top">Retour en haut</a><br>Données du catalogue : 2026-11-15</sub></p>
+<p align="center"><a href="../docs/i18n/README.fr.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.fr.md">Accueil</a> · <a href="../games/README.fr.md">Jeux</a> · <a href="../scenes/README.fr.md">Mondes et scènes</a> · <a href="../videos/README.fr.md">Vidéos</a> · <a href="../tools/README.fr.md">Outils</a> · <a href="README.fr.md">Visualisations</a> · <a href="../wallpapers/README.fr.md">Fonds d’écran</a> · <a href="#top">Retour en haut</a><br>Données du catalogue : 2026-11-16</sub></p>

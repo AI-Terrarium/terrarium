@@ -186,7 +186,7 @@ Works without a preview image:
 
 <tr><td><a href="https://github.com/sushanshetty2601-pixel/deep-time-mirror">deep-time-mirror</a></td><td><a href="https://github.com/sushanshetty2601-pixel">sushanshetty2601-pixel</a></td><td>License unknown</td><td><a href="https://github.com/sushanshetty2601-pixel/deep-time-mirror">Code</a></td></tr>
 
-<tr><td><a href="https://github.com/sorryhumans/roost">roost</a></td><td><a href="https://github.com/sorryhumans">sorryhumans</a></td><td>MIT</td><td><a href="https://github.com/sorryhumans/roost">Code</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/visualizations/roost">Files</a></td></tr>
+<tr><td><a href="https://github.com/sorryhumans/roost">roost</a></td><td><a href="https://github.com/sorryhumans">sorryhumans</a></td><td>MIT</td><td><a href="https://github.com/sorryhumans/roost">Code</a></td></tr>
 
 </table>
 
@@ -194,4 +194,4 @@ Works without a preview image:
 
 ---
 
-<p align="center"><a href="../README.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../README.md">Home</a> · <a href="../games/README.md">Games</a> · <a href="../scenes/README.md">Worlds &amp; Scenes</a> · <a href="../videos/README.md">Videos</a> · <a href="../tools/README.md">Tools</a> · <a href="README.md">Visualizations</a> · <a href="../wallpapers/README.md">Wallpapers</a> · <a href="#top">Back to top</a><br>Catalog data: 2026-11-15</sub></p>
+<p align="center"><a href="../README.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../README.md">Home</a> · <a href="../games/README.md">Games</a> · <a href="../scenes/README.md">Worlds &amp; Scenes</a> · <a href="../videos/README.md">Videos</a> · <a href="../tools/README.md">Tools</a> · <a href="README.md">Visualizations</a> · <a href="../wallpapers/README.md">Wallpapers</a> · <a href="#top">Back to top</a><br>Catalog data: 2026-11-16</sub></p>

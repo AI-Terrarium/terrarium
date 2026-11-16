@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "source_batch_id": "d512a873-64d3-40ef-80b2-4534f3da38d6",
+  "source_hf_revision": "569cb6861c49298fc1cae0bcd92a727d80c4a117",
+  "catalog_sha256": "3733624e1285b1e627843ce581bf01b3e52525ef4ab64e37a1e513558ba2c9d1",
+  "source_catalog_sha256": "bb0b2038675157da38e60d131cb069f207a6af53db3ba5bf548806628270408c",
+  "catalog_updated_at": "2026-11-16T10:55:53.589661+00:00",
+  "interval_hours": 8,
+  "status": "conflict",
+  "conflicts": []
+}

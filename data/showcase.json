@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-16T08:23:45Z",
+  "updated_at": "2026-11-16T11:04:19Z",
   "method": "public-support-v1",
   "sources": {
     "bilibili:BV1ByWM6mE1D": {
@@ -22,7 +22,7 @@
       "url": "https://www.bilibili.com/video/BV1yJW168ENZ/",
       "published_at": "2026-11-11T07:37:09+00:00",
       "metrics": {
-        "views": 181,
+        "views": 182,
         "likes": 4,
         "comments": 0,
         "shares": 0,
@@ -188,6 +188,15 @@
       "platform": "github",
       "url": "https://github.com/aaryan-kapoor/iron-man-fable-5",
       "published_at": "2026-06-12T00:45:14Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:aashishgtbit/paletterider": {
+      "platform": "github",
+      "url": "https://github.com/aashishgtbit/paletterider",
+      "published_at": "2026-11-12T15:01:29Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -1237,6 +1246,15 @@
         "forks": 0
       }
     },
+    "github:clockendbader/fable-builds": {
+      "platform": "github",
+      "url": "https://github.com/clockendbader/fable-builds",
+      "published_at": "2026-11-13T14:08:05Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 1
+      }
+    },
     "github:cocosmos72-ahn/neon-tetris": {
       "platform": "github",
       "url": "https://github.com/cocosmos72-ahn/neon-tetris",
@@ -1972,6 +1990,15 @@
       "published_at": "2026-10-17T18:40:32Z",
       "metrics": {
         "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:finderchangchang/cloud-stunt-3d": {
+      "platform": "github",
+      "url": "https://github.com/finderchangchang/cloud-stunt-3d",
+      "published_at": "2026-11-10T05:28:48Z",
+      "metrics": {
+        "stars": 0,
         "forks": 0
       }
     },
@@ -2781,7 +2808,7 @@
       "url": "https://github.com/jbang2004/long-wind",
       "published_at": "2026-09-26T00:41:09Z",
       "metrics": {
-        "stars": 121,
+        "stars": 122,
         "forks": 44
       }
     },
@@ -2889,7 +2916,7 @@
       "url": "https://github.com/jjcm/petalwake",
       "published_at": "2026-11-10T05:54:32Z",
       "metrics": {
-        "stars": 79,
+        "stars": 80,
         "forks": 16
       }
     },
@@ -3235,6 +3262,15 @@
         "forks": 0
       }
     },
+    "github:lauramionel/cayley-flight-simulator": {
+      "platform": "github",
+      "url": "https://github.com/lauramionel/cayley-flight-simulator",
+      "published_at": "2026-11-11T12:17:46Z",
+      "metrics": {
+        "stars": 7,
+        "forks": 3
+      }
+    },
     "github:learnprompt/fowl-fortress": {
       "platform": "github",
       "url": "https://github.com/learnprompt/fowl-fortress",
@@ -3280,6 +3316,15 @@
         "forks": 23
       }
     },
+    "github:leonxlnx/unsung-vale": {
+      "platform": "github",
+      "url": "https://github.com/leonxlnx/unsung-vale",
+      "published_at": "2026-11-12T03:30:20Z",
+      "metrics": {
+        "stars": 9,
+        "forks": 5
+      }
+    },
     "github:lets-be-strategic-here/low-poly-horse": {
       "platform": "github",
       "url": "https://github.com/lets-be-strategic-here/low-poly-horse",
@@ -3323,6 +3368,15 @@
       "metrics": {
         "stars": 15,
         "forks": 8
+      }
+    },
+    "github:loktar00/llm-test-pages": {
+      "platform": "github",
+      "url": "https://github.com/loktar00/llm-test-pages",
+      "published_at": "2026-06-17T03:57:42Z",
+      "metrics": {
+        "stars": 2,
+        "forks": 0
       }
     },
     "github:lompendans/blacksite-download": {
@@ -3476,6 +3530,15 @@
       "metrics": {
         "stars": 0,
         "forks": 0
+      }
+    },
+    "github:masterofvfx2070/xray-mirror": {
+      "platform": "github",
+      "url": "https://github.com/masterofvfx2070/xray-mirror",
+      "published_at": "2026-11-10T18:34:31Z",
+      "metrics": {
+        "stars": 88,
+        "forks": 41
       }
     },
     "github:maxbol/house-visualizer": {
@@ -3942,8 +4005,8 @@
       "url": "https://github.com/niaonao/pelecanus",
       "published_at": "2026-09-11T06:35:52Z",
       "metrics": {
-        "stars": 18,
-        "forks": 1
+        "stars": 19,
+        "forks": 2
       }
     },
     "github:nightlybuildhq/slash-motion": {
@@ -4133,6 +4196,15 @@
       "metrics": {
         "stars": 0,
         "forks": 0
+      }
+    },
+    "github:op7418/guizang-game-skill": {
+      "platform": "github",
+      "url": "https://github.com/op7418/guizang-game-skill",
+      "published_at": "2026-11-11T16:28:54Z",
+      "metrics": {
+        "stars": 372,
+        "forks": 58
       }
     },
     "github:oplosy/space": {
@@ -4446,7 +4518,7 @@
       "url": "https://github.com/realcodebear/saltline-fable-5.2",
       "published_at": "2026-11-10T15:04:30Z",
       "metrics": {
-        "stars": 352,
+        "stars": 357,
         "forks": 112
       }
     },
@@ -4690,6 +4762,15 @@
       "published_at": "2026-10-07T15:47:54Z",
       "metrics": {
         "stars": 1,
+        "forks": 0
+      }
+    },
+    "github:samg-coder/solstice-racing": {
+      "platform": "github",
+      "url": "https://github.com/samg-coder/solstice-racing",
+      "published_at": "2026-11-10T06:05:21Z",
+      "metrics": {
+        "stars": 3,
         "forks": 0
       }
     },
@@ -5494,6 +5575,15 @@
         "forks": 0
       }
     },
+    "github:tetriss22/harbor-gp": {
+      "platform": "github",
+      "url": "https://github.com/tetriss22/harbor-gp",
+      "published_at": "2026-11-12T18:12:10Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:thebuggeddev/carriage": {
       "platform": "github",
       "url": "https://github.com/thebuggeddev/carriage",
@@ -5976,7 +6066,7 @@
       "url": "https://github.com/wquguru/fable52-fps-repro",
       "published_at": "2026-11-11T04:58:58Z",
       "metrics": {
-        "stars": 100,
+        "stars": 101,
         "forks": 19
       }
     },
@@ -6624,7 +6714,7 @@
       "url": "https://x.com/i/status/2119868968307695818",
       "published_at": "2026-11-09T19:05:21.000Z",
       "metrics": {
-        "likes": 4272,
+        "likes": 4273,
         "comments": 174
       }
     },
@@ -6651,7 +6741,7 @@
       "url": "https://x.com/i/status/2119876449494540554",
       "published_at": "2026-11-09T19:35:05.000Z",
       "metrics": {
-        "likes": 513,
+        "likes": 512,
         "comments": 55
       }
     },
@@ -6696,7 +6786,7 @@
       "url": "https://x.com/i/status/2119900487688622171",
       "published_at": "2026-11-09T21:10:36.000Z",
       "metrics": {
-        "likes": 330,
+        "likes": 329,
         "comments": 36
       }
     },
@@ -6840,7 +6930,7 @@
       "url": "https://x.com/i/status/2119925633564463609",
       "published_at": "2026-11-09T22:50:32.000Z",
       "metrics": {
-        "likes": 14855,
+        "likes": 14863,
         "comments": 848
       }
     },
@@ -6948,7 +7038,7 @@
       "url": "https://x.com/i/status/2120154573356793883",
       "published_at": "2026-11-10T14:00:15.000Z",
       "metrics": {
-        "likes": 1093,
+        "likes": 1094,
         "comments": 80
       }
     },
@@ -6957,7 +7047,7 @@
       "url": "https://x.com/i/status/2120167560700383572",
       "published_at": "2026-11-10T14:51:51.000Z",
       "metrics": {
-        "likes": 967,
+        "likes": 968,
         "comments": 43
       }
     },
@@ -6993,8 +7083,8 @@
       "url": "https://x.com/i/status/2120238844754923874",
       "published_at": "2026-11-10T19:35:07.000Z",
       "metrics": {
-        "likes": 1779,
-        "comments": 134
+        "likes": 1780,
+        "comments": 136
       }
     },
     "x:2120248525254742318": {
@@ -7011,7 +7101,7 @@
       "url": "https://x.com/i/status/2120282133503820150",
       "published_at": "2026-11-10T22:27:08.000Z",
       "metrics": {
-        "likes": 7516,
+        "likes": 7515,
         "comments": 677
       }
     },
@@ -7020,7 +7110,7 @@
       "url": "https://x.com/i/status/2120284261089673376",
       "published_at": "2026-11-10T22:35:35.000Z",
       "metrics": {
-        "likes": 17920,
+        "likes": 17922,
         "comments": 499
       }
     },
@@ -7029,7 +7119,7 @@
       "url": "https://x.com/i/status/2120341251178594532",
       "published_at": "2026-11-11T02:22:02.000Z",
       "metrics": {
-        "likes": 7979,
+        "likes": 7983,
         "comments": 387
       }
     },

@@ -15,7 +15,7 @@
 
 <h1 align="center">動画</h1>
 
-<p align="center">30 件。 コードで描かれた短編映像、アニメーション、ビジュアル実験。</p>
+<p align="center">32 件。 コードで描かれた短編映像、アニメーション、ビジュアル実験。</p>
 
 
 
@@ -84,10 +84,14 @@
 
 <tr><td><a href="https://github.com/Infatoshi/ai-video">ai-video</a><br>コレクション・7 作品</td><td><a href="https://github.com/Infatoshi">Elliot Arledge</a></td><td>MIT</td><td><a href="https://github.com/Infatoshi/ai-video">ソース</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/videos/ai-video">ファイル</a></td></tr>
 
+<tr><td><a href="https://finderchangchang.github.io/cloud-stunt-3d/">Cloud Stunt 3D</a></td><td>@jev_chat</td><td>ライセンス不明</td><td><a href="https://github.com/Finderchangchang/cloud-stunt-3d">ソース</a></td></tr>
+
+<tr><td><a href="https://loktar00.github.io/llm-test-pages/fable52-dino-chase/">Thunder Valley dino chase</a></td><td>@loktar00</td><td>ライセンス不明</td><td><a href="https://github.com/loktar00/llm-test-pages/tree/main/fable52-dino-chase">ソース</a></td></tr>
+
 </table>
 
 <!-- CATALOG:END -->
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.ja.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ja.md">ホーム</a> · <a href="../games/README.ja.md">ゲーム</a> · <a href="../scenes/README.ja.md">ワールドとシーン</a> · <a href="README.ja.md">動画</a> · <a href="../tools/README.ja.md">ツール</a> · <a href="../visualizations/README.ja.md">可視化</a> · <a href="../wallpapers/README.ja.md">壁紙</a> · <a href="#top">トップへ</a><br>カタログのデータ：2026-11-15</sub></p>
+<p align="center"><a href="../docs/i18n/README.ja.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ja.md">ホーム</a> · <a href="../games/README.ja.md">ゲーム</a> · <a href="../scenes/README.ja.md">ワールドとシーン</a> · <a href="README.ja.md">動画</a> · <a href="../tools/README.ja.md">ツール</a> · <a href="../visualizations/README.ja.md">可視化</a> · <a href="../wallpapers/README.ja.md">壁紙</a> · <a href="#top">トップへ</a><br>カタログのデータ：2026-11-16</sub></p>

@@ -186,7 +186,7 @@
 
 <tr><td><a href="https://github.com/sushanshetty2601-pixel/deep-time-mirror">deep-time-mirror</a></td><td><a href="https://github.com/sushanshetty2601-pixel">sushanshetty2601-pixel</a></td><td>Лицензия неизвестна</td><td><a href="https://github.com/sushanshetty2601-pixel/deep-time-mirror">Код</a></td></tr>
 
-<tr><td><a href="https://github.com/sorryhumans/roost">roost</a></td><td><a href="https://github.com/sorryhumans">sorryhumans</a></td><td>MIT</td><td><a href="https://github.com/sorryhumans/roost">Код</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/visualizations/roost">Файлы</a></td></tr>
+<tr><td><a href="https://github.com/sorryhumans/roost">roost</a></td><td><a href="https://github.com/sorryhumans">sorryhumans</a></td><td>MIT</td><td><a href="https://github.com/sorryhumans/roost">Код</a></td></tr>
 
 </table>
 
@@ -194,4 +194,4 @@
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.ru.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ru.md">Главная</a> · <a href="../games/README.ru.md">Игры</a> · <a href="../scenes/README.ru.md">Миры и сцены</a> · <a href="../videos/README.ru.md">Видео</a> · <a href="../tools/README.ru.md">Инструменты</a> · <a href="README.ru.md">Визуализации</a> · <a href="../wallpapers/README.ru.md">Обои</a> · <a href="#top">Наверх</a><br>Данные каталога: 2026-11-15</sub></p>
+<p align="center"><a href="../docs/i18n/README.ru.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ru.md">Главная</a> · <a href="../games/README.ru.md">Игры</a> · <a href="../scenes/README.ru.md">Миры и сцены</a> · <a href="../videos/README.ru.md">Видео</a> · <a href="../tools/README.ru.md">Инструменты</a> · <a href="README.ru.md">Визуализации</a> · <a href="../wallpapers/README.ru.md">Обои</a> · <a href="#top">Наверх</a><br>Данные каталога: 2026-11-16</sub></p>

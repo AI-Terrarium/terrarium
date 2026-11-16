@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">Popular</a> · <a href="#latest">Novedades</a> · <a href="#contents">Contenido</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>957</b> entradas · <b>6</b> categorías · <b>905</b> con código público · <b>419</b> archivos de código<br><sub>Datos del catálogo: 2026-11-15</sub></p>
+<p align="center"><b>1015</b> entradas · <b>6</b> categorías · <b>922</b> con código público · <b>421</b> archivos de código<br><sub>Datos del catálogo: 2026-11-16</sub></p>
 
 <a name="trending"></a>
 
@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · Popular"></picture></a></p>
 
-<p align="center"><sub>Actualizado: 2026-11-16 08:23 UTC · Actualización programada cada 8 horas</sub></p>
+<p align="center"><sub>Actualizado: 2026-11-16 11:04 UTC · Actualización programada cada 8 horas</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Me gusta: 17.920 · Comentarios: 499</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Me gusta: 14.855 · Comentarios: 848</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Me gusta: 7.979 · Comentarios: 387</a></sub></td>
-<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Me gusta: 7.516 · Comentarios: 677</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Me gusta: 17.922 · Comentarios: 499</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Me gusta: 14.863 · Comentarios: 848</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Me gusta: 7.983 · Comentarios: 387</a></sub></td>
+<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Me gusta: 7.515 · Comentarios: 677</a></sub></td>
 </tr></table>
 
 <details><summary>Fuentes y ordenación</summary>
 
-Ordenadas por apoyos públicos, como Me gusta y estrellas. Los comentarios y las veces compartidas desempatan; las visualizaciones se muestran aparte. Se usa la publicación con más apoyo por plataforma y cada fuente aparece una sola vez. 788 fuentes · 4 plataformas · 7 sin medir <a href="../../data/showcase.json">Ver datos</a> · <a href="../../scripts/SHOWCASE.md">Metodología</a>
+Ordenadas por apoyos públicos, como Me gusta y estrellas. Los comentarios y las veces compartidas desempatan; las visualizaciones se muestran aparte. Se usa la publicación con más apoyo por plataforma y cada fuente aparece una sola vez. 798 fuentes · 4 plataformas · 7 sin medir <a href="../../data/showcase.json">Ver datos</a> · <a href="../../scripts/SHOWCASE.md">Metodología</a>
 
 </details>
 
@@ -74,11 +74,11 @@ Explora las obras destacadas, elige un género o consulta la colección completa
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 Juegos</a> · 500</b><br><sub>465 con código público · 184 archivos de código</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 Juegos</a> · 555</b><br><sub>479 con código público · 186 archivos de código</sub></td>
 
-<td width="33.33%"><b><a href="#contents-scenes">🌍 Mundos y escenas</a> · 210</b><br><sub>202 con código público · 93 archivos de código</sub></td>
+<td width="33.33%"><b><a href="#contents-scenes">🌍 Mundos y escenas</a> · 211</b><br><sub>203 con código público · 94 archivos de código</sub></td>
 
-<td width="33.33%"><b><a href="#contents-videos">🎬 Vídeos</a> · 30</b><br><sub>21 con código público · 15 archivos de código</sub></td>
+<td width="33.33%"><b><a href="#contents-videos">🎬 Vídeos</a> · 32</b><br><sub>23 con código público · 15 archivos de código</sub></td>
 
 </tr>
 
@@ -86,7 +86,7 @@ Explora las obras destacadas, elige un género o consulta la colección completa
 
 <td width="33.33%"><b><a href="#contents-tools">🛠️ Herramientas</a> · 115</b><br><sub>115 con código público · 75 archivos de código</sub></td>
 
-<td width="33.33%"><b><a href="#contents-visualizations">📊 Visualizaciones</a> · 99</b><br><sub>99 con código público · 49 archivos de código</sub></td>
+<td width="33.33%"><b><a href="#contents-visualizations">📊 Visualizaciones</a> · 99</b><br><sub>99 con código público · 48 archivos de código</sub></td>
 
 <td width="33.33%"><b><a href="#contents-wallpapers">🖥️ Fondos de pantalla</a> · 3</b><br><sub>3 con código público · 3 archivos de código</sub></td>
 
@@ -96,11 +96,11 @@ Explora las obras destacadas, elige un género o consulta la colección completa
 
 <a name="contents-games"></a>
 
-### 🎮 Juegos · 500
+### 🎮 Juegos · 555
 
 Disparos, conducción, vuelo, puzles y mucho más.
 
-<p><a href="../../games/README.es.md#genre-shooter">Disparos</a> <b>108</b> · <a href="../../games/README.es.md#genre-action-and-combat">Acción y combate</a> <b>46</b> · <a href="../../games/README.es.md#genre-platformer-and-runner">Plataformas y carreras sin fin</a> <b>36</b> · <a href="../../games/README.es.md#genre-racing-and-driving">Carreras y conducción</a> <b>66</b> · <a href="../../games/README.es.md#genre-flight">Vuelo</a> <b>24</b> · <a href="../../games/README.es.md#genre-sports">Deportes</a> <b>12</b> · <a href="../../games/README.es.md#genre-adventure-and-exploration">Aventura y exploración</a> <b>68</b> · <a href="../../games/README.es.md#genre-puzzle">Puzles</a> <b>22</b> · <a href="../../games/README.es.md#genre-strategy-and-management">Estrategia y gestión</a> <b>44</b> · <a href="../../games/README.es.md#genre-sandbox">Sandbox</a> <b>24</b> · <a href="../../games/README.es.md#genre-casual-and-arcade">Casuales y arcade</a> <b>32</b> · <a href="../../games/README.es.md#genre-interactive-story">Historia interactiva</a> <b>3</b> · <a href="../../games/README.es.md#genre-simulation-and-visualization">Simulación y visualización</a> <b>4</b> · <a href="../../games/README.es.md#genre-other-games">Otros juegos</a> <b>11</b></p>
+<p><a href="../../games/README.es.md#genre-shooter">Disparos</a> <b>111</b> · <a href="../../games/README.es.md#genre-action-and-combat">Acción y combate</a> <b>57</b> · <a href="../../games/README.es.md#genre-platformer-and-runner">Plataformas y carreras sin fin</a> <b>38</b> · <a href="../../games/README.es.md#genre-racing-and-driving">Carreras y conducción</a> <b>75</b> · <a href="../../games/README.es.md#genre-flight">Vuelo</a> <b>28</b> · <a href="../../games/README.es.md#genre-sports">Deportes</a> <b>15</b> · <a href="../../games/README.es.md#genre-adventure-and-exploration">Aventura y exploración</a> <b>77</b> · <a href="../../games/README.es.md#genre-puzzle">Puzles</a> <b>23</b> · <a href="../../games/README.es.md#genre-strategy-and-management">Estrategia y gestión</a> <b>47</b> · <a href="../../games/README.es.md#genre-sandbox">Sandbox</a> <b>27</b> · <a href="../../games/README.es.md#genre-casual-and-arcade">Casuales y arcade</a> <b>35</b> · <a href="../../games/README.es.md#genre-interactive-story">Historia interactiva</a> <b>3</b> · <a href="../../games/README.es.md#genre-simulation-and-visualization">Simulación y visualización</a> <b>4</b> · <a href="../../games/README.es.md#genre-other-games">Otros juegos</a> <b>15</b></p>
 
 <table>
 <tr>
@@ -110,11 +110,11 @@ Disparos, conducción, vuelo, puzles y mucho más.
 </tr>
 </table>
 
-<p><b><a href="../../games/README.es.md">Ver las 500 entradas →</a></b> · <a href="#contents">↑ Contenido</a></p>
+<p><b><a href="../../games/README.es.md">Ver las 555 entradas →</a></b> · <a href="#contents">↑ Contenido</a></p>
 
 <a name="contents-scenes"></a>
 
-### 🌍 Mundos y escenas · 210
+### 🌍 Mundos y escenas · 211
 
 Recorre lugares imaginarios, explora paisajes y examina objetos 3D.
 
@@ -126,11 +126,11 @@ Recorre lugares imaginarios, explora paisajes y examina objetos 3D.
 </tr>
 </table>
 
-<p><b><a href="../../scenes/README.es.md">Ver las 210 entradas →</a></b> · <a href="#contents">↑ Contenido</a></p>
+<p><b><a href="../../scenes/README.es.md">Ver las 211 entradas →</a></b> · <a href="#contents">↑ Contenido</a></p>
 
 <a name="contents-videos"></a>
 
-### 🎬 Vídeos · 30
+### 🎬 Vídeos · 32
 
 Cortos, animaciones y experimentos visuales renderizados con código.
 
@@ -142,7 +142,7 @@ Cortos, animaciones y experimentos visuales renderizados con código.
 </tr>
 </table>
 
-<p><b><a href="../../videos/README.es.md">Ver las 30 entradas →</a></b> · <a href="#contents">↑ Contenido</a></p>
+<p><b><a href="../../videos/README.es.md">Ver las 32 entradas →</a></b> · <a href="#contents">↑ Contenido</a></p>
 
 <a name="contents-tools"></a>
 
@@ -198,7 +198,7 @@ Salvapantallas, compañeros de escritorio y ambientes en 3D.
 
 Obras de 324 creadores, procedentes de GitHub, Hugging Face Spaces, itch.io, X, Bilibili y más. Las imágenes abren la publicación original; Código enlaza al código público y Archivos al archivo de HF. 227 obras funcionan en el navegador y 346 usan Three.js.
 
-Se conservan 419 entradas con licencia de código abierto, organizadas por categoría y obra, con las licencias originales cuando están disponibles. Descarga conjunta:
+Se conservan 421 entradas con licencia de código abierto, organizadas por categoría y obra, con las licencias originales cuando están disponibles. Descarga conjunta:
 
 ```sh
 git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works
@@ -212,4 +212,4 @@ Los archivos grandes requieren Git LFS. Cada obra conserva su licencia; el texto
 
 ---
 
-<p align="center"><a href="README.es.md"><img src="../../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="README.es.md">Inicio</a> · <a href="../../games/README.es.md">Juegos</a> · <a href="../../scenes/README.es.md">Mundos y escenas</a> · <a href="../../videos/README.es.md">Vídeos</a> · <a href="../../tools/README.es.md">Herramientas</a> · <a href="../../visualizations/README.es.md">Visualizaciones</a> · <a href="../../wallpapers/README.es.md">Fondos de pantalla</a> · <a href="#top">Volver arriba</a><br>Datos del catálogo: 2026-11-15</sub></p>
+<p align="center"><a href="README.es.md"><img src="../../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="README.es.md">Inicio</a> · <a href="../../games/README.es.md">Juegos</a> · <a href="../../scenes/README.es.md">Mundos y escenas</a> · <a href="../../videos/README.es.md">Vídeos</a> · <a href="../../tools/README.es.md">Herramientas</a> · <a href="../../visualizations/README.es.md">Visualizaciones</a> · <a href="../../wallpapers/README.es.md">Fondos de pantalla</a> · <a href="#top">Volver arriba</a><br>Datos del catálogo: 2026-11-16</sub></p>

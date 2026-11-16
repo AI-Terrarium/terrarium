@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">人気</a> · <a href="#latest">新着</a> · <a href="#contents">目次</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>957</b> 収録項目 · <b>6</b> カテゴリー · <b>905</b> ソース公開 · <b>419</b> ソースアーカイブ<br><sub>カタログのデータ：2026-11-15</sub></p>
+<p align="center"><b>1015</b> 収録項目 · <b>6</b> カテゴリー · <b>922</b> ソース公開 · <b>421</b> ソースアーカイブ<br><sub>カタログのデータ：2026-11-16</sub></p>
 
 <a name="trending"></a>
 
@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · 人気"></picture></a></p>
 
-<p align="center"><sub>人気データ更新：2026-11-16 08:23 UTC · 8 時間ごとに更新予定</sub></p>
+<p align="center"><sub>人気データ更新：2026-11-16 11:04 UTC · 8 時間ごとに更新予定</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · 17,920 いいね · 499 コメント</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · 14,855 いいね · 848 コメント</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · 7,979 いいね · 387 コメント</a></sub></td>
-<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · 7,516 いいね · 677 コメント</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · 17,922 いいね · 499 コメント</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · 14,863 いいね · 848 コメント</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · 7,983 いいね · 387 コメント</a></sub></td>
+<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · 7,515 いいね · 677 コメント</a></sub></td>
 </tr></table>
 
 <details><summary>データの出典と並び順</summary>
 
-公開の「いいね」や Star などの支持数で並べ、同数の場合のみコメントや共有数を使います。再生数は別に表示。各プラットフォームで最も支持された投稿を採用し、同じ出典は重複表示しません。 788 件の出典 · 4 プラットフォーム · 7 件は未取得 <a href="../../data/showcase.json">データを見る</a> · <a href="../../scripts/SHOWCASE.md">集計方法</a>
+公開の「いいね」や Star などの支持数で並べ、同数の場合のみコメントや共有数を使います。再生数は別に表示。各プラットフォームで最も支持された投稿を採用し、同じ出典は重複表示しません。 798 件の出典 · 4 プラットフォーム · 7 件は未取得 <a href="../../data/showcase.json">データを見る</a> · <a href="../../scripts/SHOWCASE.md">集計方法</a>
 
 </details>
 
@@ -74,11 +74,11 @@
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 ゲーム</a> · 500</b><br><sub>465 ソース公開 · 184 ソースアーカイブ</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 ゲーム</a> · 555</b><br><sub>479 ソース公開 · 186 ソースアーカイブ</sub></td>
 
-<td width="33.33%"><b><a href="#contents-scenes">🌍 ワールドとシーン</a> · 210</b><br><sub>202 ソース公開 · 93 ソースアーカイブ</sub></td>
+<td width="33.33%"><b><a href="#contents-scenes">🌍 ワールドとシーン</a> · 211</b><br><sub>203 ソース公開 · 94 ソースアーカイブ</sub></td>
 
-<td width="33.33%"><b><a href="#contents-videos">🎬 動画</a> · 30</b><br><sub>21 ソース公開 · 15 ソースアーカイブ</sub></td>
+<td width="33.33%"><b><a href="#contents-videos">🎬 動画</a> · 32</b><br><sub>23 ソース公開 · 15 ソースアーカイブ</sub></td>
 
 </tr>
 
@@ -86,7 +86,7 @@
 
 <td width="33.33%"><b><a href="#contents-tools">🛠️ ツール</a> · 115</b><br><sub>115 ソース公開 · 75 ソースアーカイブ</sub></td>
 
-<td width="33.33%"><b><a href="#contents-visualizations">📊 可視化</a> · 99</b><br><sub>99 ソース公開 · 49 ソースアーカイブ</sub></td>
+<td width="33.33%"><b><a href="#contents-visualizations">📊 可視化</a> · 99</b><br><sub>99 ソース公開 · 48 ソースアーカイブ</sub></td>
 
 <td width="33.33%"><b><a href="#contents-wallpapers">🖥️ 壁紙</a> · 3</b><br><sub>3 ソース公開 · 3 ソースアーカイブ</sub></td>
 
@@ -96,11 +96,11 @@
 
 <a name="contents-games"></a>
 
-### 🎮 ゲーム · 500
+### 🎮 ゲーム · 555
 
 シューティング、レース、フライト、パズルなど多彩なゲーム。
 
-<p><a href="../../games/README.ja.md#genre-shooter">シューティング</a> <b>108</b> · <a href="../../games/README.ja.md#genre-action-and-combat">アクション・戦闘</a> <b>46</b> · <a href="../../games/README.ja.md#genre-platformer-and-runner">プラットフォーマー・ランナー</a> <b>36</b> · <a href="../../games/README.ja.md#genre-racing-and-driving">レース・ドライブ</a> <b>66</b> · <a href="../../games/README.ja.md#genre-flight">フライト</a> <b>24</b> · <a href="../../games/README.ja.md#genre-sports">スポーツ</a> <b>12</b> · <a href="../../games/README.ja.md#genre-adventure-and-exploration">アドベンチャー・探索</a> <b>68</b> · <a href="../../games/README.ja.md#genre-puzzle">パズル</a> <b>22</b> · <a href="../../games/README.ja.md#genre-strategy-and-management">戦略・経営</a> <b>44</b> · <a href="../../games/README.ja.md#genre-sandbox">サンドボックス</a> <b>24</b> · <a href="../../games/README.ja.md#genre-casual-and-arcade">カジュアル・アーケード</a> <b>32</b> · <a href="../../games/README.ja.md#genre-interactive-story">インタラクティブストーリー</a> <b>3</b> · <a href="../../games/README.ja.md#genre-simulation-and-visualization">シミュレーション・可視化</a> <b>4</b> · <a href="../../games/README.ja.md#genre-other-games">その他</a> <b>11</b></p>
+<p><a href="../../games/README.ja.md#genre-shooter">シューティング</a> <b>111</b> · <a href="../../games/README.ja.md#genre-action-and-combat">アクション・戦闘</a> <b>57</b> · <a href="../../games/README.ja.md#genre-platformer-and-runner">プラットフォーマー・ランナー</a> <b>38</b> · <a href="../../games/README.ja.md#genre-racing-and-driving">レース・ドライブ</a> <b>75</b> · <a href="../../games/README.ja.md#genre-flight">フライト</a> <b>28</b> · <a href="../../games/README.ja.md#genre-sports">スポーツ</a> <b>15</b> · <a href="../../games/README.ja.md#genre-adventure-and-exploration">アドベンチャー・探索</a> <b>77</b> · <a href="../../games/README.ja.md#genre-puzzle">パズル</a> <b>23</b> · <a href="../../games/README.ja.md#genre-strategy-and-management">戦略・経営</a> <b>47</b> · <a href="../../games/README.ja.md#genre-sandbox">サンドボックス</a> <b>27</b> · <a href="../../games/README.ja.md#genre-casual-and-arcade">カジュアル・アーケード</a> <b>35</b> · <a href="../../games/README.ja.md#genre-interactive-story">インタラクティブストーリー</a> <b>3</b> · <a href="../../games/README.ja.md#genre-simulation-and-visualization">シミュレーション・可視化</a> <b>4</b> · <a href="../../games/README.ja.md#genre-other-games">その他</a> <b>15</b></p>
 
 <table>
 <tr>
@@ -110,11 +110,11 @@
 </tr>
 </table>
 
-<p><b><a href="../../games/README.ja.md">全 500 件を見る →</a></b> · <a href="#contents">↑ 目次</a></p>
+<p><b><a href="../../games/README.ja.md">全 555 件を見る →</a></b> · <a href="#contents">↑ 目次</a></p>
 
 <a name="contents-scenes"></a>
 
-### 🌍 ワールドとシーン · 210
+### 🌍 ワールドとシーン · 211
 
 架空の世界や自然の風景を歩き、精巧な 3D オブジェクトを探索。
 
@@ -126,11 +126,11 @@
 </tr>
 </table>
 
-<p><b><a href="../../scenes/README.ja.md">全 210 件を見る →</a></b> · <a href="#contents">↑ 目次</a></p>
+<p><b><a href="../../scenes/README.ja.md">全 211 件を見る →</a></b> · <a href="#contents">↑ 目次</a></p>
 
 <a name="contents-videos"></a>
 
-### 🎬 動画 · 30
+### 🎬 動画 · 32
 
 コードで描かれた短編映像、アニメーション、ビジュアル実験。
 
@@ -142,7 +142,7 @@
 </tr>
 </table>
 
-<p><b><a href="../../videos/README.ja.md">全 30 件を見る →</a></b> · <a href="#contents">↑ 目次</a></p>
+<p><b><a href="../../videos/README.ja.md">全 32 件を見る →</a></b> · <a href="#contents">↑ 目次</a></p>
 
 <a name="contents-tools"></a>
 
@@ -198,7 +198,7 @@
 
 GitHub、Hugging Face Spaces、itch.io、X、Bilibili などから、324 人のクリエイターの作品を収録。画像は元の公開ページ、ソースは公開コード、ファイルは HF のアーカイブにリンクします。227 作品はブラウザーで動作し、346 作品は Three.js を使用しています。
 
-オープンソースライセンスのある 419 項目をカテゴリーと作品ごとに保存し、元のライセンスファイルがあれば同梱しています。一括取得：
+オープンソースライセンスのある 421 項目をカテゴリーと作品ごとに保存し、元のライセンスファイルがあれば同梱しています。一括取得：
 
 ```sh
 git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works
@@ -212,4 +212,4 @@ git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works
 
 ---
 
-<p align="center"><a href="README.ja.md"><img src="../../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="README.ja.md">ホーム</a> · <a href="../../games/README.ja.md">ゲーム</a> · <a href="../../scenes/README.ja.md">ワールドとシーン</a> · <a href="../../videos/README.ja.md">動画</a> · <a href="../../tools/README.ja.md">ツール</a> · <a href="../../visualizations/README.ja.md">可視化</a> · <a href="../../wallpapers/README.ja.md">壁紙</a> · <a href="#top">トップへ</a><br>カタログのデータ：2026-11-15</sub></p>
+<p align="center"><a href="README.ja.md"><img src="../../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="README.ja.md">ホーム</a> · <a href="../../games/README.ja.md">ゲーム</a> · <a href="../../scenes/README.ja.md">ワールドとシーン</a> · <a href="../../videos/README.ja.md">動画</a> · <a href="../../tools/README.ja.md">ツール</a> · <a href="../../visualizations/README.ja.md">可視化</a> · <a href="../../wallpapers/README.ja.md">壁紙</a> · <a href="#top">トップへ</a><br>カタログのデータ：2026-11-16</sub></p>

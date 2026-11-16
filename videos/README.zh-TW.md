@@ -15,7 +15,7 @@
 
 <h1 align="center">影片</h1>
 
-<p align="center">30 個項目。 以程式碼算繪的短片、動畫與視覺實驗。</p>
+<p align="center">32 個項目。 以程式碼算繪的短片、動畫與視覺實驗。</p>
 
 
 
@@ -84,10 +84,14 @@
 
 <tr><td><a href="https://github.com/Infatoshi/ai-video">ai-video</a><br>合集，7 個作品</td><td><a href="https://github.com/Infatoshi">Elliot Arledge</a></td><td>MIT</td><td><a href="https://github.com/Infatoshi/ai-video">原始碼</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/videos/ai-video">檔案</a></td></tr>
 
+<tr><td><a href="https://finderchangchang.github.io/cloud-stunt-3d/">Cloud Stunt 3D</a></td><td>@jev_chat</td><td>授權條款不明</td><td><a href="https://github.com/Finderchangchang/cloud-stunt-3d">原始碼</a></td></tr>
+
+<tr><td><a href="https://loktar00.github.io/llm-test-pages/fable52-dino-chase/">Thunder Valley dino chase</a></td><td>@loktar00</td><td>授權條款不明</td><td><a href="https://github.com/loktar00/llm-test-pages/tree/main/fable52-dino-chase">原始碼</a></td></tr>
+
 </table>
 
 <!-- CATALOG:END -->
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.zh-TW.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.zh-TW.md">首頁</a> · <a href="../games/README.zh-TW.md">遊戲</a> · <a href="../scenes/README.zh-TW.md">世界與場景</a> · <a href="README.zh-TW.md">影片</a> · <a href="../tools/README.zh-TW.md">工具</a> · <a href="../visualizations/README.zh-TW.md">視覺化</a> · <a href="../wallpapers/README.zh-TW.md">桌布</a> · <a href="#top">返回頂端</a><br>目錄資料：2026-11-15</sub></p>
+<p align="center"><a href="../docs/i18n/README.zh-TW.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.zh-TW.md">首頁</a> · <a href="../games/README.zh-TW.md">遊戲</a> · <a href="../scenes/README.zh-TW.md">世界與場景</a> · <a href="README.zh-TW.md">影片</a> · <a href="../tools/README.zh-TW.md">工具</a> · <a href="../visualizations/README.zh-TW.md">視覺化</a> · <a href="../wallpapers/README.zh-TW.md">桌布</a> · <a href="#top">返回頂端</a><br>目錄資料：2026-11-16</sub></p>

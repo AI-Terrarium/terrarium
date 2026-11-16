@@ -15,7 +15,7 @@
 
 <h1 align="center">ワールドとシーン</h1>
 
-<p align="center">210 件。 架空の世界や自然の風景を歩き、精巧な 3D オブジェクトを探索。</p>
+<p align="center">211 件。 架空の世界や自然の風景を歩き、精巧な 3D オブジェクトを探索。</p>
 
 
 
@@ -212,7 +212,7 @@
 <td width="25%" valign="top"><a href="https://www.aivi.fyi/games/qingming.html"><img src="../assets/thumbs/qingming-rainbow-bridge.webp" width="100%" alt="Qingming: Rainbow Bridge" title="An interactive 3D recreation of the Rainbow Bridge and its riverside market."></a><br><b><a href="https://www.aivi.fyi/games/qingming.html">Qingming: Rainbow Bridge</a></b><br><sub>AI超元域<br>ライセンス不明 · <a href="https://www.aivi.fyi/games/qingming.html">ソース</a></sub></td>
 <td width="25%" valign="top"><a href="https://wquguru.github.io/fable52-fps-repro/demos/02-materials/"><img src="../assets/thumbs/rainy-dock-materials.webp" width="100%" alt="Rainy Dock Materials" title="An interactive Three.js material study of a rainy dock and weathered containers."></a><br><b><a href="https://wquguru.github.io/fable52-fps-repro/demos/02-materials/">Rainy Dock Materials</a></b><br><sub><a href="https://github.com/wquguru">wquguru</a><br>MIT · <a href="https://github.com/wquguru/fable52-fps-repro/blob/main/demos/02-materials/index.html">ソース</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/scenes/rainy-dock-materials">ファイル</a></sub></td>
 <td width="25%" valign="top"><a href="https://mdhasibul35.github.io/ripple-pond/"><img src="../assets/thumbs/ripple-pond.webp" width="100%" alt="ripple-pond" title="The player can make waves, sail a boat, switch weather, and drop meteors in this browser-based 3D water simulator. The work uses a single HTML file and Three.js."></a><br><b><a href="https://mdhasibul35.github.io/ripple-pond/">ripple-pond</a></b><br><sub><a href="https://github.com/mdhasibul35">mdhasibul35</a><br>ライセンス不明 · <a href="https://github.com/mdhasibul35/ripple-pond">ソース</a></sub></td>
-<td width="25%" valign="top"><a href="https://yinchao-jack.github.io/roadster-flight-experience/"><img src="../assets/thumbs/roadster-the-flight-experience.webp" width="100%" alt="ROADSTER · The Flight Experience" title="The work is a 3D driving experience. The player drives a sports car across the course, triggers four aerial stunts, and switches among cockpit, follow, and panoramic views."></a><br><b><a href="https://yinchao-jack.github.io/roadster-flight-experience/">ROADSTER · The Flight Experience</a></b><br><sub><a href="https://github.com/yinchao-jack">YC Jack</a><br>ライセンス不明 · <a href="https://github.com/yinchao-jack/roadster-flight-experience">ソース</a></sub></td>
+<td width="25%" valign="top"><a href="https://yinchao-jack.github.io/roadster-flight-experience/"><img src="../assets/thumbs/roadster-the-flight-experience.webp" width="100%" alt="ROADSTER · The Flight Experience" title="The work is a 3D driving experience. The player drives a sports car across the course, triggers four aerial stunts, and switches among cockpit, follow, and panoramic views."></a><br><b><a href="https://yinchao-jack.github.io/roadster-flight-experience/">ROADSTER · The Flight Experience</a></b><br><sub><a href="https://github.com/yinchao-jack">YC Jack</a><br>ライセンス不明 · <a href="https://github.com/yinchao-jack/roadster-flight-experience">ソース</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/scenes/roadster-the-flight-experience">ファイル</a></sub></td>
 </tr>
 <tr>
 <td width="25%" valign="top"><a href="https://fable-rome.surge.sh/"><img src="../assets/thumbs/rome-ad-320.webp" width="100%" alt="Rome, AD 320" title="A freely explorable 3D reconstruction of Rome in AD 320, with flyover and street-level views."></a><br><b><a href="https://fable-rome.surge.sh/">Rome, AD 320</a></b><br><sub>Peter Gostev<br>ライセンス不明 · <a href="https://fable-rome.surge.sh/">ソース</a></sub></td>
@@ -352,10 +352,12 @@
 
 <tr><td><a href="https://mysafecode-threejsglbandvoxels.static.hf.space/index.html">ThreejsGLBandVoxels</a></td><td><a href="https://huggingface.co/MySafeCode">MySafeCode</a></td><td>ライセンス不明</td><td><a href="https://huggingface.co/spaces/MySafeCode/threejsGLBandVoxels">ソース</a></td></tr>
 
+<tr><td><a href="https://github.com/MasterOfVFX2070/xray-mirror">X-Ray Mirror</a></td><td>MasterOfVFX2070</td><td>ライセンス不明</td><td><a href="https://github.com/MasterOfVFX2070/xray-mirror">ソース</a></td></tr>
+
 </table>
 
 <!-- CATALOG:END -->
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.ja.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ja.md">ホーム</a> · <a href="../games/README.ja.md">ゲーム</a> · <a href="README.ja.md">ワールドとシーン</a> · <a href="../videos/README.ja.md">動画</a> · <a href="../tools/README.ja.md">ツール</a> · <a href="../visualizations/README.ja.md">可視化</a> · <a href="../wallpapers/README.ja.md">壁紙</a> · <a href="#top">トップへ</a><br>カタログのデータ：2026-11-15</sub></p>
+<p align="center"><a href="../docs/i18n/README.ja.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ja.md">ホーム</a> · <a href="../games/README.ja.md">ゲーム</a> · <a href="README.ja.md">ワールドとシーン</a> · <a href="../videos/README.ja.md">動画</a> · <a href="../tools/README.ja.md">ツール</a> · <a href="../visualizations/README.ja.md">可視化</a> · <a href="../wallpapers/README.ja.md">壁紙</a> · <a href="#top">トップへ</a><br>カタログのデータ：2026-11-16</sub></p>

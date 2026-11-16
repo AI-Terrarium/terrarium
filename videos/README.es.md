@@ -15,7 +15,7 @@
 
 <h1 align="center">Vídeos</h1>
 
-<p align="center">30 entradas. Cortos, animaciones y experimentos visuales renderizados con código.</p>
+<p align="center">32 entradas. Cortos, animaciones y experimentos visuales renderizados con código.</p>
 
 
 
@@ -84,10 +84,14 @@ Obras sin imagen de vista previa:
 
 <tr><td><a href="https://github.com/Infatoshi/ai-video">ai-video</a><br>Colección de 7 obras</td><td><a href="https://github.com/Infatoshi">Elliot Arledge</a></td><td>MIT</td><td><a href="https://github.com/Infatoshi/ai-video">Código</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/videos/ai-video">Archivos</a></td></tr>
 
+<tr><td><a href="https://finderchangchang.github.io/cloud-stunt-3d/">Cloud Stunt 3D</a></td><td>@jev_chat</td><td>Licencia desconocida</td><td><a href="https://github.com/Finderchangchang/cloud-stunt-3d">Código</a></td></tr>
+
+<tr><td><a href="https://loktar00.github.io/llm-test-pages/fable52-dino-chase/">Thunder Valley dino chase</a></td><td>@loktar00</td><td>Licencia desconocida</td><td><a href="https://github.com/loktar00/llm-test-pages/tree/main/fable52-dino-chase">Código</a></td></tr>
+
 </table>
 
 <!-- CATALOG:END -->
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.es.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.es.md">Inicio</a> · <a href="../games/README.es.md">Juegos</a> · <a href="../scenes/README.es.md">Mundos y escenas</a> · <a href="README.es.md">Vídeos</a> · <a href="../tools/README.es.md">Herramientas</a> · <a href="../visualizations/README.es.md">Visualizaciones</a> · <a href="../wallpapers/README.es.md">Fondos de pantalla</a> · <a href="#top">Volver arriba</a><br>Datos del catálogo: 2026-11-15</sub></p>
+<p align="center"><a href="../docs/i18n/README.es.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.es.md">Inicio</a> · <a href="../games/README.es.md">Juegos</a> · <a href="../scenes/README.es.md">Mundos y escenas</a> · <a href="README.es.md">Vídeos</a> · <a href="../tools/README.es.md">Herramientas</a> · <a href="../visualizations/README.es.md">Visualizaciones</a> · <a href="../wallpapers/README.es.md">Fondos de pantalla</a> · <a href="#top">Volver arriba</a><br>Datos del catálogo: 2026-11-16</sub></p>

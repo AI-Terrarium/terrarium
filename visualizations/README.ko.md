@@ -186,7 +186,7 @@
 
 <tr><td><a href="https://github.com/sushanshetty2601-pixel/deep-time-mirror">deep-time-mirror</a></td><td><a href="https://github.com/sushanshetty2601-pixel">sushanshetty2601-pixel</a></td><td>라이선스 미확인</td><td><a href="https://github.com/sushanshetty2601-pixel/deep-time-mirror">코드</a></td></tr>
 
-<tr><td><a href="https://github.com/sorryhumans/roost">roost</a></td><td><a href="https://github.com/sorryhumans">sorryhumans</a></td><td>MIT</td><td><a href="https://github.com/sorryhumans/roost">코드</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/visualizations/roost">파일</a></td></tr>
+<tr><td><a href="https://github.com/sorryhumans/roost">roost</a></td><td><a href="https://github.com/sorryhumans">sorryhumans</a></td><td>MIT</td><td><a href="https://github.com/sorryhumans/roost">코드</a></td></tr>
 
 </table>
 
@@ -194,4 +194,4 @@
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.ko.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ko.md">홈</a> · <a href="../games/README.ko.md">게임</a> · <a href="../scenes/README.ko.md">월드와 장면</a> · <a href="../videos/README.ko.md">영상</a> · <a href="../tools/README.ko.md">도구</a> · <a href="README.ko.md">시각화</a> · <a href="../wallpapers/README.ko.md">배경화면</a> · <a href="#top">맨 위로</a><br>목록 데이터: 2026-11-15</sub></p>
+<p align="center"><a href="../docs/i18n/README.ko.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ko.md">홈</a> · <a href="../games/README.ko.md">게임</a> · <a href="../scenes/README.ko.md">월드와 장면</a> · <a href="../videos/README.ko.md">영상</a> · <a href="../tools/README.ko.md">도구</a> · <a href="README.ko.md">시각화</a> · <a href="../wallpapers/README.ko.md">배경화면</a> · <a href="#top">맨 위로</a><br>목록 데이터: 2026-11-16</sub></p>

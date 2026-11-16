@@ -15,7 +15,7 @@
 
 <h1 align="center">영상</h1>
 
-<p align="center">30개 항목. 코드로 렌더링한 단편 영상, 애니메이션과 시각 실험.</p>
+<p align="center">32개 항목. 코드로 렌더링한 단편 영상, 애니메이션과 시각 실험.</p>
 
 
 
@@ -84,10 +84,14 @@
 
 <tr><td><a href="https://github.com/Infatoshi/ai-video">ai-video</a><br>모음집 · 작품 7개</td><td><a href="https://github.com/Infatoshi">Elliot Arledge</a></td><td>MIT</td><td><a href="https://github.com/Infatoshi/ai-video">코드</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/videos/ai-video">파일</a></td></tr>
 
+<tr><td><a href="https://finderchangchang.github.io/cloud-stunt-3d/">Cloud Stunt 3D</a></td><td>@jev_chat</td><td>라이선스 미확인</td><td><a href="https://github.com/Finderchangchang/cloud-stunt-3d">코드</a></td></tr>
+
+<tr><td><a href="https://loktar00.github.io/llm-test-pages/fable52-dino-chase/">Thunder Valley dino chase</a></td><td>@loktar00</td><td>라이선스 미확인</td><td><a href="https://github.com/loktar00/llm-test-pages/tree/main/fable52-dino-chase">코드</a></td></tr>
+
 </table>
 
 <!-- CATALOG:END -->
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.ko.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ko.md">홈</a> · <a href="../games/README.ko.md">게임</a> · <a href="../scenes/README.ko.md">월드와 장면</a> · <a href="README.ko.md">영상</a> · <a href="../tools/README.ko.md">도구</a> · <a href="../visualizations/README.ko.md">시각화</a> · <a href="../wallpapers/README.ko.md">배경화면</a> · <a href="#top">맨 위로</a><br>목록 데이터: 2026-11-15</sub></p>
+<p align="center"><a href="../docs/i18n/README.ko.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ko.md">홈</a> · <a href="../games/README.ko.md">게임</a> · <a href="../scenes/README.ko.md">월드와 장면</a> · <a href="README.ko.md">영상</a> · <a href="../tools/README.ko.md">도구</a> · <a href="../visualizations/README.ko.md">시각화</a> · <a href="../wallpapers/README.ko.md">배경화면</a> · <a href="#top">맨 위로</a><br>목록 데이터: 2026-11-16</sub></p>

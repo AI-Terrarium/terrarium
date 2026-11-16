@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">Популярное</a> · <a href="#latest">Новое</a> · <a href="#contents">Содержание</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>957</b> записей · <b>6</b> категорий · <b>905</b> с открытым кодом · <b>419</b> архивов кода<br><sub>Данные каталога: 2026-11-15</sub></p>
+<p align="center"><b>1015</b> записей · <b>6</b> категорий · <b>922</b> с открытым кодом · <b>421</b> архивов кода<br><sub>Данные каталога: 2026-11-16</sub></p>
 
 <a name="trending"></a>
 
@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · Популярное"></picture></a></p>
 
-<p align="center"><sub>Обновлено: 2026-11-16 08:23 UTC · Обновление запланировано каждые 8 часов</sub></p>
+<p align="center"><sub>Обновлено: 2026-11-16 11:04 UTC · Обновление запланировано каждые 8 часов</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Нравится: 17 920 · Комментарии: 499</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Нравится: 14 855 · Комментарии: 848</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Нравится: 7 979 · Комментарии: 387</a></sub></td>
-<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Нравится: 7 516 · Комментарии: 677</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Нравится: 17 922 · Комментарии: 499</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Нравится: 14 863 · Комментарии: 848</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Нравится: 7 983 · Комментарии: 387</a></sub></td>
+<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Нравится: 7 515 · Комментарии: 677</a></sub></td>
 </tr></table>
 
 <details><summary>Источники и порядок</summary>
 
-Сортировка по открытым отметкам «Нравится», звёздам и другим откликам поддержки. Комментарии и репосты используются при равенстве, просмотры показаны отдельно. Учитывается самая поддержанная публикация с каждой платформы; источники не дублируются. Источники: 788 · платформы: 4 · без данных: 7 <a href="../../data/showcase.json">Посмотреть данные</a> · <a href="../../scripts/SHOWCASE.md">Методика</a>
+Сортировка по открытым отметкам «Нравится», звёздам и другим откликам поддержки. Комментарии и репосты используются при равенстве, просмотры показаны отдельно. Учитывается самая поддержанная публикация с каждой платформы; источники не дублируются. Источники: 798 · платформы: 4 · без данных: 7 <a href="../../data/showcase.json">Посмотреть данные</a> · <a href="../../scripts/SHOWCASE.md">Методика</a>
 
 </details>
 
@@ -74,11 +74,11 @@
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 Игры</a> · 500</b><br><sub>465 с открытым кодом · 184 архивов кода</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 Игры</a> · 555</b><br><sub>479 с открытым кодом · 186 архивов кода</sub></td>
 
-<td width="33.33%"><b><a href="#contents-scenes">🌍 Миры и сцены</a> · 210</b><br><sub>202 с открытым кодом · 93 архивов кода</sub></td>
+<td width="33.33%"><b><a href="#contents-scenes">🌍 Миры и сцены</a> · 211</b><br><sub>203 с открытым кодом · 94 архивов кода</sub></td>
 
-<td width="33.33%"><b><a href="#contents-videos">🎬 Видео</a> · 30</b><br><sub>21 с открытым кодом · 15 архивов кода</sub></td>
+<td width="33.33%"><b><a href="#contents-videos">🎬 Видео</a> · 32</b><br><sub>23 с открытым кодом · 15 архивов кода</sub></td>
 
 </tr>
 
@@ -86,7 +86,7 @@
 
 <td width="33.33%"><b><a href="#contents-tools">🛠️ Инструменты</a> · 115</b><br><sub>115 с открытым кодом · 75 архивов кода</sub></td>
 
-<td width="33.33%"><b><a href="#contents-visualizations">📊 Визуализации</a> · 99</b><br><sub>99 с открытым кодом · 49 архивов кода</sub></td>
+<td width="33.33%"><b><a href="#contents-visualizations">📊 Визуализации</a> · 99</b><br><sub>99 с открытым кодом · 48 архивов кода</sub></td>
 
 <td width="33.33%"><b><a href="#contents-wallpapers">🖥️ Обои</a> · 3</b><br><sub>3 с открытым кодом · 3 архивов кода</sub></td>
 
@@ -96,11 +96,11 @@
 
 <a name="contents-games"></a>
 
-### 🎮 Игры · 500
+### 🎮 Игры · 555
 
 Шутеры, гонки, полёты, головоломки и многое другое.
 
-<p><a href="../../games/README.ru.md#genre-shooter">Шутеры</a> <b>108</b> · <a href="../../games/README.ru.md#genre-action-and-combat">Экшен и сражения</a> <b>46</b> · <a href="../../games/README.ru.md#genre-platformer-and-runner">Платформеры и раннеры</a> <b>36</b> · <a href="../../games/README.ru.md#genre-racing-and-driving">Гонки и вождение</a> <b>66</b> · <a href="../../games/README.ru.md#genre-flight">Полёты</a> <b>24</b> · <a href="../../games/README.ru.md#genre-sports">Спорт</a> <b>12</b> · <a href="../../games/README.ru.md#genre-adventure-and-exploration">Приключения и исследование</a> <b>68</b> · <a href="../../games/README.ru.md#genre-puzzle">Головоломки</a> <b>22</b> · <a href="../../games/README.ru.md#genre-strategy-and-management">Стратегии и управление</a> <b>44</b> · <a href="../../games/README.ru.md#genre-sandbox">Песочницы</a> <b>24</b> · <a href="../../games/README.ru.md#genre-casual-and-arcade">Казуальные и аркадные игры</a> <b>32</b> · <a href="../../games/README.ru.md#genre-interactive-story">Интерактивные истории</a> <b>3</b> · <a href="../../games/README.ru.md#genre-simulation-and-visualization">Моделирование и визуализация</a> <b>4</b> · <a href="../../games/README.ru.md#genre-other-games">Другие игры</a> <b>11</b></p>
+<p><a href="../../games/README.ru.md#genre-shooter">Шутеры</a> <b>111</b> · <a href="../../games/README.ru.md#genre-action-and-combat">Экшен и сражения</a> <b>57</b> · <a href="../../games/README.ru.md#genre-platformer-and-runner">Платформеры и раннеры</a> <b>38</b> · <a href="../../games/README.ru.md#genre-racing-and-driving">Гонки и вождение</a> <b>75</b> · <a href="../../games/README.ru.md#genre-flight">Полёты</a> <b>28</b> · <a href="../../games/README.ru.md#genre-sports">Спорт</a> <b>15</b> · <a href="../../games/README.ru.md#genre-adventure-and-exploration">Приключения и исследование</a> <b>77</b> · <a href="../../games/README.ru.md#genre-puzzle">Головоломки</a> <b>23</b> · <a href="../../games/README.ru.md#genre-strategy-and-management">Стратегии и управление</a> <b>47</b> · <a href="../../games/README.ru.md#genre-sandbox">Песочницы</a> <b>27</b> · <a href="../../games/README.ru.md#genre-casual-and-arcade">Казуальные и аркадные игры</a> <b>35</b> · <a href="../../games/README.ru.md#genre-interactive-story">Интерактивные истории</a> <b>3</b> · <a href="../../games/README.ru.md#genre-simulation-and-visualization">Моделирование и визуализация</a> <b>4</b> · <a href="../../games/README.ru.md#genre-other-games">Другие игры</a> <b>15</b></p>
 
 <table>
 <tr>
@@ -110,11 +110,11 @@
 </tr>
 </table>
 
-<p><b><a href="../../games/README.ru.md">Все записи: 500 →</a></b> · <a href="#contents">↑ Содержание</a></p>
+<p><b><a href="../../games/README.ru.md">Все записи: 555 →</a></b> · <a href="#contents">↑ Содержание</a></p>
 
 <a name="contents-scenes"></a>
 
-### 🌍 Миры и сцены · 210
+### 🌍 Миры и сцены · 211
 
 Исследуйте вымышленные места, природные пейзажи и подробные 3D-объекты.
 
@@ -126,11 +126,11 @@
 </tr>
 </table>
 
-<p><b><a href="../../scenes/README.ru.md">Все записи: 210 →</a></b> · <a href="#contents">↑ Содержание</a></p>
+<p><b><a href="../../scenes/README.ru.md">Все записи: 211 →</a></b> · <a href="#contents">↑ Содержание</a></p>
 
 <a name="contents-videos"></a>
 
-### 🎬 Видео · 30
+### 🎬 Видео · 32
 
 Короткие фильмы, анимация и визуальные эксперименты, созданные кодом.
 
@@ -142,7 +142,7 @@
 </tr>
 </table>
 
-<p><b><a href="../../videos/README.ru.md">Все записи: 30 →</a></b> · <a href="#contents">↑ Содержание</a></p>
+<p><b><a href="../../videos/README.ru.md">Все записи: 32 →</a></b> · <a href="#contents">↑ Содержание</a></p>
 
 <a name="contents-tools"></a>
 
@@ -198,7 +198,7 @@
 
 Работы 324 авторов из GitHub, Hugging Face Spaces, itch.io, X, Bilibili и других платформ. Изображения ведут к оригинальной публикации, Код — к общедоступным исходникам, Файлы — к архиву HF. 227 работ запускаются в браузере, 346 используют Three.js.
 
-Исходники 419 записи с открытой лицензией сохранены по категориям и работам вместе с оригинальными файлами лицензий, если они есть. Скачать всё:
+Исходники 421 записи с открытой лицензией сохранены по категориям и работам вместе с оригинальными файлами лицензий, если они есть. Скачать всё:
 
 ```sh
 git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works
@@ -212,4 +212,4 @@ git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works
 
 ---
 
-<p align="center"><a href="README.ru.md"><img src="../../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="README.ru.md">Главная</a> · <a href="../../games/README.ru.md">Игры</a> · <a href="../../scenes/README.ru.md">Миры и сцены</a> · <a href="../../videos/README.ru.md">Видео</a> · <a href="../../tools/README.ru.md">Инструменты</a> · <a href="../../visualizations/README.ru.md">Визуализации</a> · <a href="../../wallpapers/README.ru.md">Обои</a> · <a href="#top">Наверх</a><br>Данные каталога: 2026-11-15</sub></p>
+<p align="center"><a href="README.ru.md"><img src="../../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="README.ru.md">Главная</a> · <a href="../../games/README.ru.md">Игры</a> · <a href="../../scenes/README.ru.md">Миры и сцены</a> · <a href="../../videos/README.ru.md">Видео</a> · <a href="../../tools/README.ru.md">Инструменты</a> · <a href="../../visualizations/README.ru.md">Визуализации</a> · <a href="../../wallpapers/README.ru.md">Обои</a> · <a href="#top">Наверх</a><br>Данные каталога: 2026-11-16</sub></p>

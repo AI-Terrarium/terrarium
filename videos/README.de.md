@@ -15,7 +15,7 @@
 
 <h1 align="center">Videos</h1>
 
-<p align="center">30 Einträge. Kurzfilme, Animationen und visuelle Experimente, mit Code gerendert.</p>
+<p align="center">32 Einträge. Kurzfilme, Animationen und visuelle Experimente, mit Code gerendert.</p>
 
 
 
@@ -84,10 +84,14 @@ Werke ohne Vorschaubild:
 
 <tr><td><a href="https://github.com/Infatoshi/ai-video">ai-video</a><br>Sammlung mit 7 Werken</td><td><a href="https://github.com/Infatoshi">Elliot Arledge</a></td><td>MIT</td><td><a href="https://github.com/Infatoshi/ai-video">Code</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/videos/ai-video">Dateien</a></td></tr>
 
+<tr><td><a href="https://finderchangchang.github.io/cloud-stunt-3d/">Cloud Stunt 3D</a></td><td>@jev_chat</td><td>Lizenz unbekannt</td><td><a href="https://github.com/Finderchangchang/cloud-stunt-3d">Code</a></td></tr>
+
+<tr><td><a href="https://loktar00.github.io/llm-test-pages/fable52-dino-chase/">Thunder Valley dino chase</a></td><td>@loktar00</td><td>Lizenz unbekannt</td><td><a href="https://github.com/loktar00/llm-test-pages/tree/main/fable52-dino-chase">Code</a></td></tr>
+
 </table>
 
 <!-- CATALOG:END -->
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.de.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.de.md">Startseite</a> · <a href="../games/README.de.md">Spiele</a> · <a href="../scenes/README.de.md">Welten und Szenen</a> · <a href="README.de.md">Videos</a> · <a href="../tools/README.de.md">Werkzeuge</a> · <a href="../visualizations/README.de.md">Visualisierungen</a> · <a href="../wallpapers/README.de.md">Hintergrundbilder</a> · <a href="#top">Nach oben</a><br>Katalogdaten: 2026-11-15</sub></p>
+<p align="center"><a href="../docs/i18n/README.de.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.de.md">Startseite</a> · <a href="../games/README.de.md">Spiele</a> · <a href="../scenes/README.de.md">Welten und Szenen</a> · <a href="README.de.md">Videos</a> · <a href="../tools/README.de.md">Werkzeuge</a> · <a href="../visualizations/README.de.md">Visualisierungen</a> · <a href="../wallpapers/README.de.md">Hintergrundbilder</a> · <a href="#top">Nach oben</a><br>Katalogdaten: 2026-11-16</sub></p>

@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">熱門</a> · <a href="#latest">最新</a> · <a href="#contents">目錄</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>957</b> 收錄項目 · <b>6</b> 創作類別 · <b>905</b> 公開原始碼 · <b>419</b> 原始碼封存<br><sub>目錄資料：2026-11-15</sub></p>
+<p align="center"><b>1015</b> 收錄項目 · <b>6</b> 創作類別 · <b>922</b> 公開原始碼 · <b>421</b> 原始碼封存<br><sub>目錄資料：2026-11-16</sub></p>
 
 <a name="trending"></a>
 
@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · 熱門"></picture></a></p>
 
-<p align="center"><sub>熱門資料同步：2026-11-16 08:23 UTC · 預計每 8 小時更新</sub></p>
+<p align="center"><sub>熱門資料同步：2026-11-16 11:04 UTC · 預計每 8 小時更新</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · 17,920 讚 · 499 留言</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · 14,855 讚 · 848 留言</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · 7,979 讚 · 387 留言</a></sub></td>
-<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · 7,516 讚 · 677 留言</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · 17,922 讚 · 499 留言</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · 14,863 讚 · 848 留言</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · 7,983 讚 · 387 留言</a></sub></td>
+<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · 7,515 讚 · 677 留言</a></sub></td>
 </tr></table>
 
 <details><summary>榜單來源與排序</summary>
 
-依公開按讚、Star 等支持數排序；留言與分享只用於同分排序，觀看次數另外顯示。每個平台採支持數最高的貼文，相同來源不重複展示。 788 個來源 · 4 個平台 · 7 個來源未取得 <a href="../../data/showcase.json">查看資料</a> · <a href="../../scripts/SHOWCASE.md">計算方式</a>
+依公開按讚、Star 等支持數排序；留言與分享只用於同分排序，觀看次數另外顯示。每個平台採支持數最高的貼文，相同來源不重複展示。 798 個來源 · 4 個平台 · 7 個來源未取得 <a href="../../data/showcase.json">查看資料</a> · <a href="../../scripts/SHOWCASE.md">計算方式</a>
 
 </details>
 
@@ -74,11 +74,11 @@
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 遊戲</a> · 500</b><br><sub>465 公開原始碼 · 184 原始碼封存</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 遊戲</a> · 555</b><br><sub>479 公開原始碼 · 186 原始碼封存</sub></td>
 
-<td width="33.33%"><b><a href="#contents-scenes">🌍 世界與場景</a> · 210</b><br><sub>202 公開原始碼 · 93 原始碼封存</sub></td>
+<td width="33.33%"><b><a href="#contents-scenes">🌍 世界與場景</a> · 211</b><br><sub>203 公開原始碼 · 94 原始碼封存</sub></td>
 
-<td width="33.33%"><b><a href="#contents-videos">🎬 影片</a> · 30</b><br><sub>21 公開原始碼 · 15 原始碼封存</sub></td>
+<td width="33.33%"><b><a href="#contents-videos">🎬 影片</a> · 32</b><br><sub>23 公開原始碼 · 15 原始碼封存</sub></td>
 
 </tr>
 
@@ -86,7 +86,7 @@
 
 <td width="33.33%"><b><a href="#contents-tools">🛠️ 工具</a> · 115</b><br><sub>115 公開原始碼 · 75 原始碼封存</sub></td>
 
-<td width="33.33%"><b><a href="#contents-visualizations">📊 視覺化</a> · 99</b><br><sub>99 公開原始碼 · 49 原始碼封存</sub></td>
+<td width="33.33%"><b><a href="#contents-visualizations">📊 視覺化</a> · 99</b><br><sub>99 公開原始碼 · 48 原始碼封存</sub></td>
 
 <td width="33.33%"><b><a href="#contents-wallpapers">🖥️ 桌布</a> · 3</b><br><sub>3 公開原始碼 · 3 原始碼封存</sub></td>
 
@@ -96,11 +96,11 @@
 
 <a name="contents-games"></a>
 
-### 🎮 遊戲 · 500
+### 🎮 遊戲 · 555
 
 從射擊、競速與飛行，到冒險、解謎和沙盒。
 
-<p><a href="../../games/README.zh-TW.md#genre-shooter">射擊</a> <b>108</b> · <a href="../../games/README.zh-TW.md#genre-action-and-combat">動作與戰鬥</a> <b>46</b> · <a href="../../games/README.zh-TW.md#genre-platformer-and-runner">平台跳躍與跑酷</a> <b>36</b> · <a href="../../games/README.zh-TW.md#genre-racing-and-driving">競速與駕駛</a> <b>66</b> · <a href="../../games/README.zh-TW.md#genre-flight">飛行</a> <b>24</b> · <a href="../../games/README.zh-TW.md#genre-sports">運動</a> <b>12</b> · <a href="../../games/README.zh-TW.md#genre-adventure-and-exploration">冒險與探索</a> <b>68</b> · <a href="../../games/README.zh-TW.md#genre-puzzle">解謎</a> <b>22</b> · <a href="../../games/README.zh-TW.md#genre-strategy-and-management">策略與經營</a> <b>44</b> · <a href="../../games/README.zh-TW.md#genre-sandbox">沙盒</a> <b>24</b> · <a href="../../games/README.zh-TW.md#genre-casual-and-arcade">休閒與街機</a> <b>32</b> · <a href="../../games/README.zh-TW.md#genre-interactive-story">互動敘事</a> <b>3</b> · <a href="../../games/README.zh-TW.md#genre-simulation-and-visualization">模擬與視覺化</a> <b>4</b> · <a href="../../games/README.zh-TW.md#genre-other-games">其他遊戲</a> <b>11</b></p>
+<p><a href="../../games/README.zh-TW.md#genre-shooter">射擊</a> <b>111</b> · <a href="../../games/README.zh-TW.md#genre-action-and-combat">動作與戰鬥</a> <b>57</b> · <a href="../../games/README.zh-TW.md#genre-platformer-and-runner">平台跳躍與跑酷</a> <b>38</b> · <a href="../../games/README.zh-TW.md#genre-racing-and-driving">競速與駕駛</a> <b>75</b> · <a href="../../games/README.zh-TW.md#genre-flight">飛行</a> <b>28</b> · <a href="../../games/README.zh-TW.md#genre-sports">運動</a> <b>15</b> · <a href="../../games/README.zh-TW.md#genre-adventure-and-exploration">冒險與探索</a> <b>77</b> · <a href="../../games/README.zh-TW.md#genre-puzzle">解謎</a> <b>23</b> · <a href="../../games/README.zh-TW.md#genre-strategy-and-management">策略與經營</a> <b>47</b> · <a href="../../games/README.zh-TW.md#genre-sandbox">沙盒</a> <b>27</b> · <a href="../../games/README.zh-TW.md#genre-casual-and-arcade">休閒與街機</a> <b>35</b> · <a href="../../games/README.zh-TW.md#genre-interactive-story">互動敘事</a> <b>3</b> · <a href="../../games/README.zh-TW.md#genre-simulation-and-visualization">模擬與視覺化</a> <b>4</b> · <a href="../../games/README.zh-TW.md#genre-other-games">其他遊戲</a> <b>15</b></p>
 
 <table>
 <tr>
@@ -110,11 +110,11 @@
 </tr>
 </table>
 
-<p><b><a href="../../games/README.zh-TW.md">瀏覽全部 500 個項目 →</a></b> · <a href="#contents">↑ 目錄</a></p>
+<p><b><a href="../../games/README.zh-TW.md">瀏覽全部 555 個項目 →</a></b> · <a href="#contents">↑ 目錄</a></p>
 
 <a name="contents-scenes"></a>
 
-### 🌍 世界與場景 · 210
+### 🌍 世界與場景 · 211
 
 漫遊想像世界、探索自然場景，或細看精巧的 3D 物件。
 
@@ -126,11 +126,11 @@
 </tr>
 </table>
 
-<p><b><a href="../../scenes/README.zh-TW.md">瀏覽全部 210 個項目 →</a></b> · <a href="#contents">↑ 目錄</a></p>
+<p><b><a href="../../scenes/README.zh-TW.md">瀏覽全部 211 個項目 →</a></b> · <a href="#contents">↑ 目錄</a></p>
 
 <a name="contents-videos"></a>
 
-### 🎬 影片 · 30
+### 🎬 影片 · 32
 
 以程式碼算繪的短片、動畫與視覺實驗。
 
@@ -142,7 +142,7 @@
 </tr>
 </table>
 
-<p><b><a href="../../videos/README.zh-TW.md">瀏覽全部 30 個項目 →</a></b> · <a href="#contents">↑ 目錄</a></p>
+<p><b><a href="../../videos/README.zh-TW.md">瀏覽全部 32 個項目 →</a></b> · <a href="#contents">↑ 目錄</a></p>
 
 <a name="contents-tools"></a>
 
@@ -198,7 +198,7 @@
 
 作品來自 GitHub、Hugging Face Spaces、itch.io、X、Bilibili 等平台，涵蓋 324 位創作者。預覽圖連至原始發布頁；原始碼連至公開程式碼；檔案開啟 HF 封存。227 個作品可在瀏覽器執行，346 個使用 Three.js。
 
-419 個具開源授權的項目已按類別與作品集中封存，並保留原始授權檔案（如有）。批次下載：
+421 個具開源授權的項目已按類別與作品集中封存，並保留原始授權檔案（如有）。批次下載：
 
 ```sh
 git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works
@@ -212,4 +212,4 @@ git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works
 
 ---
 
-<p align="center"><a href="README.zh-TW.md"><img src="../../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="README.zh-TW.md">首頁</a> · <a href="../../games/README.zh-TW.md">遊戲</a> · <a href="../../scenes/README.zh-TW.md">世界與場景</a> · <a href="../../videos/README.zh-TW.md">影片</a> · <a href="../../tools/README.zh-TW.md">工具</a> · <a href="../../visualizations/README.zh-TW.md">視覺化</a> · <a href="../../wallpapers/README.zh-TW.md">桌布</a> · <a href="#top">返回頂端</a><br>目錄資料：2026-11-15</sub></p>
+<p align="center"><a href="README.zh-TW.md"><img src="../../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="README.zh-TW.md">首頁</a> · <a href="../../games/README.zh-TW.md">遊戲</a> · <a href="../../scenes/README.zh-TW.md">世界與場景</a> · <a href="../../videos/README.zh-TW.md">影片</a> · <a href="../../tools/README.zh-TW.md">工具</a> · <a href="../../visualizations/README.zh-TW.md">視覺化</a> · <a href="../../wallpapers/README.zh-TW.md">桌布</a> · <a href="#top">返回頂端</a><br>目錄資料：2026-11-16</sub></p>
