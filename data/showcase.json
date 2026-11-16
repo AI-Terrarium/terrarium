@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-16T06:51:15Z",
+  "updated_at": "2026-11-16T08:23:45Z",
   "method": "public-support-v1",
   "sources": {
     "bilibili:BV1ByWM6mE1D": {
@@ -1899,8 +1899,8 @@
       "url": "https://github.com/fablestar/bayhaven",
       "published_at": "2026-11-11T17:20:10Z",
       "metrics": {
-        "stars": 2,
-        "forks": 0
+        "stars": 3,
+        "forks": 1
       }
     },
     "github:falshaw/ai-command-center": {
@@ -2277,8 +2277,8 @@
       "url": "https://github.com/gavinlorio/fable-5.2-random-game",
       "published_at": "2026-11-10T17:16:24Z",
       "metrics": {
-        "stars": 0,
-        "forks": 1
+        "stars": 1,
+        "forks": 2
       }
     },
     "github:ghaisansyams/orb": {
@@ -2394,8 +2394,8 @@
       "url": "https://github.com/hahaliu1029/fable5.2demo",
       "published_at": "2026-11-11T01:33:40Z",
       "metrics": {
-        "stars": 0,
-        "forks": 0
+        "stars": 1,
+        "forks": 1
       }
     },
     "github:hahaliu1029/house-3d": {
@@ -2889,7 +2889,7 @@
       "url": "https://github.com/jjcm/petalwake",
       "published_at": "2026-11-10T05:54:32Z",
       "metrics": {
-        "stars": 78,
+        "stars": 79,
         "forks": 16
       }
     },
@@ -4447,7 +4447,7 @@
       "published_at": "2026-11-10T15:04:30Z",
       "metrics": {
         "stars": 352,
-        "forks": 111
+        "forks": 112
       }
     },
     "github:realcodebear/threejs-fable-5.2-all-effort-koi-pond": {
@@ -4860,8 +4860,8 @@
       "url": "https://github.com/sharpwizard/ironvale",
       "published_at": "2026-11-11T19:07:02Z",
       "metrics": {
-        "stars": 1,
-        "forks": 2
+        "stars": 2,
+        "forks": 3
       }
     },
     "github:shaunprice/soccer-3d": {
@@ -5976,7 +5976,7 @@
       "url": "https://github.com/wquguru/fable52-fps-repro",
       "published_at": "2026-11-11T04:58:58Z",
       "metrics": {
-        "stars": 99,
+        "stars": 100,
         "forks": 19
       }
     },
@@ -6822,7 +6822,7 @@
       "url": "https://x.com/i/status/2119915123070644263",
       "published_at": "2026-11-09T22:08:46.000Z",
       "metrics": {
-        "likes": 118,
+        "likes": 119,
         "comments": 5
       }
     },
@@ -6840,7 +6840,7 @@
       "url": "https://x.com/i/status/2119925633564463609",
       "published_at": "2026-11-09T22:50:32.000Z",
       "metrics": {
-        "likes": 14850,
+        "likes": 14855,
         "comments": 848
       }
     },
@@ -6867,7 +6867,7 @@
       "url": "https://x.com/i/status/2119937977426338283",
       "published_at": "2026-11-09T23:39:35.000Z",
       "metrics": {
-        "likes": 251,
+        "likes": 252,
         "comments": 38
       }
     },
@@ -6975,8 +6975,8 @@
       "url": "https://x.com/i/status/2120192761542615271",
       "published_at": "2026-11-10T16:32:00.000Z",
       "metrics": {
-        "likes": 1427,
-        "comments": 117
+        "likes": 1428,
+        "comments": 118
       }
     },
     "x:2120223731520040966": {
@@ -6993,8 +6993,8 @@
       "url": "https://x.com/i/status/2120238844754923874",
       "published_at": "2026-11-10T19:35:07.000Z",
       "metrics": {
-        "likes": 1777,
-        "comments": 133
+        "likes": 1779,
+        "comments": 134
       }
     },
     "x:2120248525254742318": {
@@ -7011,7 +7011,7 @@
       "url": "https://x.com/i/status/2120282133503820150",
       "published_at": "2026-11-10T22:27:08.000Z",
       "metrics": {
-        "likes": 7517,
+        "likes": 7516,
         "comments": 677
       }
     },
@@ -7020,7 +7020,7 @@
       "url": "https://x.com/i/status/2120284261089673376",
       "published_at": "2026-11-10T22:35:35.000Z",
       "metrics": {
-        "likes": 17919,
+        "likes": 17920,
         "comments": 499
       }
     },
@@ -7029,7 +7029,7 @@
       "url": "https://x.com/i/status/2120341251178594532",
       "published_at": "2026-11-11T02:22:02.000Z",
       "metrics": {
-        "likes": 7978,
+        "likes": 7979,
         "comments": 387
       }
     },
