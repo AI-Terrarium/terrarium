@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-17T08:56:51Z",
+  "updated_at": "2026-11-17T11:11:19Z",
   "method": "public-support-v1",
   "sources": {
     "bilibili:BV1ByWM6mE1D": {
@@ -1827,7 +1827,7 @@
       "url": "https://github.com/emollick/ai-portals",
       "published_at": "2026-11-09T18:59:43Z",
       "metrics": {
-        "stars": 183,
+        "stars": 185,
         "forks": 43
       }
     },
@@ -1890,7 +1890,7 @@
       "url": "https://github.com/ethanplusai/zombies",
       "published_at": "2026-11-11T20:06:45Z",
       "metrics": {
-        "stars": 11,
+        "stars": 13,
         "forks": 4
       }
     },
@@ -1980,7 +1980,7 @@
       "url": "https://github.com/fedifianto/shuttlestrike",
       "published_at": "2026-11-11T09:07:34Z",
       "metrics": {
-        "stars": 0,
+        "stars": 1,
         "forks": 1
       }
     },
@@ -4059,7 +4059,7 @@
       "url": "https://github.com/niaonao/pelecanus",
       "published_at": "2026-09-11T06:35:52Z",
       "metrics": {
-        "stars": 19,
+        "stars": 20,
         "forks": 2
       }
     },
@@ -4257,7 +4257,7 @@
       "url": "https://github.com/op7418/guizang-game-skill",
       "published_at": "2026-11-11T16:28:54Z",
       "metrics": {
-        "stars": 393,
+        "stars": 395,
         "forks": 61
       }
     },
@@ -4581,7 +4581,7 @@
       "url": "https://github.com/realcodebear/saltline-fable-5.2",
       "published_at": "2026-11-10T15:04:30Z",
       "metrics": {
-        "stars": 381,
+        "stars": 386,
         "forks": 118
       }
     },
@@ -6147,7 +6147,7 @@
       "url": "https://github.com/wquguru/fable52-fps-repro",
       "published_at": "2026-11-11T04:58:58Z",
       "metrics": {
-        "stars": 103,
+        "stars": 105,
         "forks": 19
       }
     },
@@ -6389,6 +6389,15 @@
       "platform": "github",
       "url": "https://github.com/yuyang2230/saltline-resort-island",
       "published_at": "2026-11-12T02:51:02Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:ywan033/game-recreations": {
+      "platform": "github",
+      "url": "https://github.com/ywan033/game-recreations",
+      "published_at": "2026-11-17T05:08:20Z",
       "metrics": {
         "stars": 0,
         "forks": 0
@@ -6795,7 +6804,7 @@
       "url": "https://x.com/i/status/2119868968307695818",
       "published_at": "2026-11-09T19:05:21.000Z",
       "metrics": {
-        "likes": 4277,
+        "likes": 4278,
         "comments": 174
       }
     },
@@ -6822,7 +6831,7 @@
       "url": "https://x.com/i/status/2119876449494540554",
       "published_at": "2026-11-09T19:35:05.000Z",
       "metrics": {
-        "likes": 513,
+        "likes": 514,
         "comments": 55
       }
     },
@@ -6984,7 +6993,7 @@
       "url": "https://x.com/i/status/2119910195325481026",
       "published_at": "2026-11-09T21:49:11.000Z",
       "metrics": {
-        "likes": 1036,
+        "likes": 1035,
         "comments": 141
       }
     },
@@ -7011,8 +7020,8 @@
       "url": "https://x.com/i/status/2119925633564463609",
       "published_at": "2026-11-09T22:50:32.000Z",
       "metrics": {
-        "likes": 14909,
-        "comments": 852
+        "likes": 14913,
+        "comments": 853
       }
     },
     "x:2119927838321328577": {
@@ -7047,7 +7056,7 @@
       "url": "https://x.com/i/status/2119966127149429093",
       "published_at": "2026-11-10T01:31:26.000Z",
       "metrics": {
-        "likes": 95,
+        "likes": 96,
         "comments": 10
       }
     },
@@ -7137,7 +7146,7 @@
       "url": "https://x.com/i/status/2120184709732823356",
       "published_at": "2026-11-10T16:00:00.000Z",
       "metrics": {
-        "likes": 6,
+        "likes": 7,
         "comments": 4
       }
     },
@@ -7164,8 +7173,8 @@
       "url": "https://x.com/i/status/2120238844754923874",
       "published_at": "2026-11-10T19:35:07.000Z",
       "metrics": {
-        "likes": 1788,
-        "comments": 143
+        "likes": 1790,
+        "comments": 147
       }
     },
     "x:2120248525254742318": {
@@ -7182,7 +7191,7 @@
       "url": "https://x.com/i/status/2120282133503820150",
       "published_at": "2026-11-10T22:27:08.000Z",
       "metrics": {
-        "likes": 7514,
+        "likes": 7517,
         "comments": 677
       }
     },
