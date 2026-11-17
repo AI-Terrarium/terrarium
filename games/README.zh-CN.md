@@ -543,7 +543,7 @@
 
 <tr><td><a href="https://aashishgtbit.github.io/PaletteRider/">PaletteRider — cycle through famous paintings</a></td><td>@Aashish_Tiwari_</td><td>许可证未知</td><td><a href="https://github.com/Aashishgtbit/PaletteRider">代码</a></td></tr>
 
-<tr><td><a href="https://claude.ai/artifact/DLnFodkTwvawCNwurDmSZK?sk=5N6PtC07f1niB7h3I6clZQ">Roost</a></td><td>@tejas3732</td><td>许可证未知</td><td><a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/visualizations/roost">文件</a></td></tr>
+<tr><td><a href="https://claude.ai/artifact/DLnFodkTwvawCNwurDmSZK?sk=5N6PtC07f1niB7h3I6clZQ">Roost</a></td><td>@tejas3732</td><td>许可证未知</td><td>—</td></tr>
 
 </table>
 

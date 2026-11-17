@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">Em alta</a> · <a href="#latest">Novidades</a> · <a href="#contents">Índice</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1021</b> itens · <b>6</b> categorias · <b>928</b> com código público · <b>426</b> arquivos de código<br><sub>Dados do catálogo: 2026-11-17</sub></p>
+<p align="center"><b>1021</b> itens · <b>6</b> categorias · <b>928</b> com código público · <b>425</b> arquivos de código<br><sub>Dados do catálogo: 2026-11-17</sub></p>
 
 <a name="trending"></a>
 
@@ -24,7 +24,7 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · Em alta"></picture></a></p>
 
-<p align="center"><sub>Atualizado: 2026-11-17 07:50 UTC · Atualização programada a cada 8 horas</sub></p>
+<p align="center"><sub>Atualizado: 2026-11-17 07:57 UTC · Atualização programada a cada 8 horas</sub></p>
 
 <a name="showcase-links"></a>
 
@@ -74,7 +74,7 @@ Explore os destaques, escolha um gênero ou abra a coleção completa.
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 Jogos</a> · 561</b><br><sub>485 com código público · 191 arquivos de código</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 Jogos</a> · 561</b><br><sub>485 com código público · 190 arquivos de código</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 Mundos e cenas</a> · 211</b><br><sub>203 com código público · 94 arquivos de código</sub></td>
 
@@ -198,7 +198,7 @@ Protetores de tela, companheiros de desktop e ambientes 3D.
 
 Obras de 324 criadores, vindas de GitHub, Hugging Face Spaces, itch.io, X, Bilibili e outras plataformas. As imagens abrem a publicação original; Código leva ao código público e Arquivos ao arquivo no HF. 227 obras funcionam no navegador e 346 usam Three.js.
 
-Há 426 itens com licença de código aberto arquivados por categoria e obra, com as licenças originais quando disponíveis. Download em lote:
+Há 425 itens com licença de código aberto arquivados por categoria e obra, com as licenças originais quando disponíveis. Download em lote:
 
 ```sh
 git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works

@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">Популярное</a> · <a href="#latest">Новое</a> · <a href="#contents">Содержание</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1021</b> записей · <b>6</b> категорий · <b>928</b> с открытым кодом · <b>426</b> архивов кода<br><sub>Данные каталога: 2026-11-17</sub></p>
+<p align="center"><b>1021</b> записей · <b>6</b> категорий · <b>928</b> с открытым кодом · <b>425</b> архивов кода<br><sub>Данные каталога: 2026-11-17</sub></p>
 
 <a name="trending"></a>
 
@@ -24,7 +24,7 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · Популярное"></picture></a></p>
 
-<p align="center"><sub>Обновлено: 2026-11-17 07:50 UTC · Обновление запланировано каждые 8 часов</sub></p>
+<p align="center"><sub>Обновлено: 2026-11-17 07:57 UTC · Обновление запланировано каждые 8 часов</sub></p>
 
 <a name="showcase-links"></a>
 
@@ -74,7 +74,7 @@
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 Игры</a> · 561</b><br><sub>485 с открытым кодом · 191 архивов кода</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 Игры</a> · 561</b><br><sub>485 с открытым кодом · 190 архивов кода</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 Миры и сцены</a> · 211</b><br><sub>203 с открытым кодом · 94 архивов кода</sub></td>
 
@@ -198,7 +198,7 @@
 
 Работы 324 авторов из GitHub, Hugging Face Spaces, itch.io, X, Bilibili и других платформ. Изображения ведут к оригинальной публикации, Код — к общедоступным исходникам, Файлы — к архиву HF. 227 работ запускаются в браузере, 346 используют Three.js.
 
-Исходники 426 записи с открытой лицензией сохранены по категориям и работам вместе с оригинальными файлами лицензий, если они есть. Скачать всё:
+Исходники 425 записи с открытой лицензией сохранены по категориям и работам вместе с оригинальными файлами лицензий, если они есть. Скачать всё:
 
 ```sh
 git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works

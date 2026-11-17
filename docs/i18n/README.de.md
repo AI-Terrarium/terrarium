@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">Beliebt</a> · <a href="#latest">Neu</a> · <a href="#contents">Inhalt</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1021</b> Einträge · <b>6</b> Kategorien · <b>928</b> mit öffentlichem Code · <b>426</b> Codearchive<br><sub>Katalogdaten: 2026-11-17</sub></p>
+<p align="center"><b>1021</b> Einträge · <b>6</b> Kategorien · <b>928</b> mit öffentlichem Code · <b>425</b> Codearchive<br><sub>Katalogdaten: 2026-11-17</sub></p>
 
 <a name="trending"></a>
 
@@ -24,7 +24,7 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · Beliebt"></picture></a></p>
 
-<p align="center"><sub>Aktualisiert: 2026-11-17 07:50 UTC · Aktualisierung alle 8 Stunden geplant</sub></p>
+<p align="center"><sub>Aktualisiert: 2026-11-17 07:57 UTC · Aktualisierung alle 8 Stunden geplant</sub></p>
 
 <a name="showcase-links"></a>
 
@@ -74,7 +74,7 @@ Entdecke ausgewählte Werke, wähle ein Genre oder öffne die gesamte Sammlung.
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 Spiele</a> · 561</b><br><sub>485 mit öffentlichem Code · 191 Codearchive</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 Spiele</a> · 561</b><br><sub>485 mit öffentlichem Code · 190 Codearchive</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 Welten und Szenen</a> · 211</b><br><sub>203 mit öffentlichem Code · 94 Codearchive</sub></td>
 
@@ -198,7 +198,7 @@ Bildschirmschoner, Desktop-Begleiter und stimmungsvolle 3D-Ansichten.
 
 Werke von 324 Kreativen aus GitHub, Hugging Face Spaces, itch.io, X, Bilibili und weiteren Plattformen. Vorschaubilder öffnen die Originalveröffentlichung; Code führt zum öffentlichen Quellcode und Dateien zum HF-Archiv. 227 Werke laufen im Browser und 346 verwenden Three.js.
 
-Der Quellcode von 426 offen lizenzierten Einträgen ist nach Kategorie und Werk archiviert, einschließlich der ursprünglichen Lizenzdateien, soweit vorhanden. Gesamtdownload:
+Der Quellcode von 425 offen lizenzierten Einträgen ist nach Kategorie und Werk archiviert, einschließlich der ursprünglichen Lizenzdateien, soweit vorhanden. Gesamtdownload:
 
 ```sh
 git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works

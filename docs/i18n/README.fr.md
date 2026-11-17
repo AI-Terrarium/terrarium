@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">Populaires</a> · <a href="#latest">Nouveautés</a> · <a href="#contents">Sommaire</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1021</b> entrées · <b>6</b> catégories · <b>928</b> avec code public · <b>426</b> archives de code<br><sub>Données du catalogue : 2026-11-17</sub></p>
+<p align="center"><b>1021</b> entrées · <b>6</b> catégories · <b>928</b> avec code public · <b>425</b> archives de code<br><sub>Données du catalogue : 2026-11-17</sub></p>
 
 <a name="trending"></a>
 
@@ -24,7 +24,7 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · Populaires"></picture></a></p>
 
-<p align="center"><sub>Mise à jour : 2026-11-17 07:50 UTC · Actualisation prévue toutes les 8 heures</sub></p>
+<p align="center"><sub>Mise à jour : 2026-11-17 07:57 UTC · Actualisation prévue toutes les 8 heures</sub></p>
 
 <a name="showcase-links"></a>
 
@@ -74,7 +74,7 @@ Découvrez une sélection, choisissez un genre ou parcourez la collection compl�
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 Jeux</a> · 561</b><br><sub>485 avec code public · 191 archives de code</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 Jeux</a> · 561</b><br><sub>485 avec code public · 190 archives de code</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 Mondes et scènes</a> · 211</b><br><sub>203 avec code public · 94 archives de code</sub></td>
 
@@ -198,7 +198,7 @@ Explorez les sciences, les données et les idées en 3D interactive.
 
 Des œuvres de 324 créateurs provenant de GitHub, Hugging Face Spaces, itch.io, X, Bilibili et d’autres plateformes. Les aperçus ouvrent la publication d’origine ; Code mène au code public et Fichiers à l’archive HF. 227 œuvres fonctionnent dans le navigateur et 346 utilisent Three.js.
 
-Les sources de 426 entrées sous licence open source sont archivées par catégorie et par œuvre, avec les licences d’origine lorsqu’elles sont disponibles. Téléchargement groupé :
+Les sources de 425 entrées sous licence open source sont archivées par catégorie et par œuvre, avec les licences d’origine lorsqu’elles sont disponibles. Téléchargement groupé :
 
 ```sh
 git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works

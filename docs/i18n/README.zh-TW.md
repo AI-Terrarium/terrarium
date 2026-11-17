@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">熱門</a> · <a href="#latest">最新</a> · <a href="#contents">目錄</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1021</b> 收錄項目 · <b>6</b> 創作類別 · <b>928</b> 公開原始碼 · <b>426</b> 原始碼封存<br><sub>目錄資料：2026-11-17</sub></p>
+<p align="center"><b>1021</b> 收錄項目 · <b>6</b> 創作類別 · <b>928</b> 公開原始碼 · <b>425</b> 原始碼封存<br><sub>目錄資料：2026-11-17</sub></p>
 
 <a name="trending"></a>
 
@@ -24,7 +24,7 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · 熱門"></picture></a></p>
 
-<p align="center"><sub>熱門資料同步：2026-11-17 07:50 UTC · 預計每 8 小時更新</sub></p>
+<p align="center"><sub>熱門資料同步：2026-11-17 07:57 UTC · 預計每 8 小時更新</sub></p>
 
 <a name="showcase-links"></a>
 
@@ -74,7 +74,7 @@
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 遊戲</a> · 561</b><br><sub>485 公開原始碼 · 191 原始碼封存</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 遊戲</a> · 561</b><br><sub>485 公開原始碼 · 190 原始碼封存</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 世界與場景</a> · 211</b><br><sub>203 公開原始碼 · 94 原始碼封存</sub></td>
 
@@ -198,7 +198,7 @@
 
 作品來自 GitHub、Hugging Face Spaces、itch.io、X、Bilibili 等平台，涵蓋 324 位創作者。預覽圖連至原始發布頁；原始碼連至公開程式碼；檔案開啟 HF 封存。227 個作品可在瀏覽器執行，346 個使用 Three.js。
 
-426 個具開源授權的項目已按類別與作品集中封存，並保留原始授權檔案（如有）。批次下載：
+425 個具開源授權的項目已按類別與作品集中封存，並保留原始授權檔案（如有）。批次下載：
 
 ```sh
 git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works

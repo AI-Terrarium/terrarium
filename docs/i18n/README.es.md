@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">Popular</a> · <a href="#latest">Novedades</a> · <a href="#contents">Contenido</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1021</b> entradas · <b>6</b> categorías · <b>928</b> con código público · <b>426</b> archivos de código<br><sub>Datos del catálogo: 2026-11-17</sub></p>
+<p align="center"><b>1021</b> entradas · <b>6</b> categorías · <b>928</b> con código público · <b>425</b> archivos de código<br><sub>Datos del catálogo: 2026-11-17</sub></p>
 
 <a name="trending"></a>
 
@@ -24,7 +24,7 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · Popular"></picture></a></p>
 
-<p align="center"><sub>Actualizado: 2026-11-17 07:50 UTC · Actualización programada cada 8 horas</sub></p>
+<p align="center"><sub>Actualizado: 2026-11-17 07:57 UTC · Actualización programada cada 8 horas</sub></p>
 
 <a name="showcase-links"></a>
 
@@ -74,7 +74,7 @@ Explora las obras destacadas, elige un género o consulta la colección completa
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 Juegos</a> · 561</b><br><sub>485 con código público · 191 archivos de código</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 Juegos</a> · 561</b><br><sub>485 con código público · 190 archivos de código</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 Mundos y escenas</a> · 211</b><br><sub>203 con código público · 94 archivos de código</sub></td>
 
@@ -198,7 +198,7 @@ Salvapantallas, compañeros de escritorio y ambientes en 3D.
 
 Obras de 324 creadores, procedentes de GitHub, Hugging Face Spaces, itch.io, X, Bilibili y más. Las imágenes abren la publicación original; Código enlaza al código público y Archivos al archivo de HF. 227 obras funcionan en el navegador y 346 usan Three.js.
 
-Se conservan 426 entradas con licencia de código abierto, organizadas por categoría y obra, con las licencias originales cuando están disponibles. Descarga conjunta:
+Se conservan 425 entradas con licencia de código abierto, organizadas por categoría y obra, con las licencias originales cuando están disponibles. Descarga conjunta:
 
 ```sh
 git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works

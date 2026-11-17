@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">人気</a> · <a href="#latest">新着</a> · <a href="#contents">目次</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1021</b> 収録項目 · <b>6</b> カテゴリー · <b>928</b> ソース公開 · <b>426</b> ソースアーカイブ<br><sub>カタログのデータ：2026-11-17</sub></p>
+<p align="center"><b>1021</b> 収録項目 · <b>6</b> カテゴリー · <b>928</b> ソース公開 · <b>425</b> ソースアーカイブ<br><sub>カタログのデータ：2026-11-17</sub></p>
 
 <a name="trending"></a>
 
@@ -24,7 +24,7 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · 人気"></picture></a></p>
 
-<p align="center"><sub>人気データ更新：2026-11-17 07:50 UTC · 8 時間ごとに更新予定</sub></p>
+<p align="center"><sub>人気データ更新：2026-11-17 07:57 UTC · 8 時間ごとに更新予定</sub></p>
 
 <a name="showcase-links"></a>
 
@@ -74,7 +74,7 @@
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 ゲーム</a> · 561</b><br><sub>485 ソース公開 · 191 ソースアーカイブ</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 ゲーム</a> · 561</b><br><sub>485 ソース公開 · 190 ソースアーカイブ</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 ワールドとシーン</a> · 211</b><br><sub>203 ソース公開 · 94 ソースアーカイブ</sub></td>
 
@@ -198,7 +198,7 @@
 
 GitHub、Hugging Face Spaces、itch.io、X、Bilibili などから、324 人のクリエイターの作品を収録。画像は元の公開ページ、ソースは公開コード、ファイルは HF のアーカイブにリンクします。227 作品はブラウザーで動作し、346 作品は Three.js を使用しています。
 
-オープンソースライセンスのある 426 項目をカテゴリーと作品ごとに保存し、元のライセンスファイルがあれば同梱しています。一括取得：
+オープンソースライセンスのある 425 項目をカテゴリーと作品ごとに保存し、元のライセンスファイルがあれば同梱しています。一括取得：
 
 ```sh
 git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works

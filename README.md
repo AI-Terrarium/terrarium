@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">Trending</a> · <a href="#latest">Latest</a> · <a href="#contents">Contents</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1021</b> curated entries · <b>6</b> creative categories · <b>928</b> with public code · <b>426</b> source archives<br><sub>Catalog data: 2026-11-17</sub></p>
+<p align="center"><b>1021</b> curated entries · <b>6</b> creative categories · <b>928</b> with public code · <b>425</b> source archives<br><sub>Catalog data: 2026-11-17</sub></p>
 
 <a name="trending"></a>
 
@@ -24,7 +24,7 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/showcase.webp"><img src="assets/showcase.gif" width="100%" alt="Terrarium · Trending"></picture></a></p>
 
-<p align="center"><sub>Updated: 2026-11-17 07:50 UTC · Refresh scheduled every 8 hours</sub></p>
+<p align="center"><sub>Updated: 2026-11-17 07:57 UTC · Refresh scheduled every 8 hours</sub></p>
 
 <a name="showcase-links"></a>
 
@@ -74,7 +74,7 @@ Explore selected works, jump to a genre, or open the full collection.
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 Games</a> · 561</b><br><sub>485 with public code · 191 source archives</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 Games</a> · 561</b><br><sub>485 with public code · 190 source archives</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 Worlds &amp; Scenes</a> · 211</b><br><sub>203 with public code · 94 source archives</sub></td>
 
@@ -198,7 +198,7 @@ Screensavers, desktop companions and ambient 3D experiences.
 
 Works come from GitHub, Hugging Face Spaces, itch.io, X, Bilibili and more, spanning 324 creators. Previews open the original publication; Code links to public source; Files opens the HF archive. 227 works run in the browser, and 346 use Three.js.
 
-Source for 426 openly licensed entries is archived by category and work, with original license files where available. Download the collection:
+Source for 425 openly licensed entries is archived by category and work, with original license files where available. Download the collection:
 
 ```sh
 git clone https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works
