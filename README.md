@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">Trending</a> · <a href="#latest">Latest</a> · <a href="#contents">Contents</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1020</b> curated entries · <b>6</b> creative categories · <b>927</b> with public code · <b>426</b> source archives<br><sub>Catalog data: 2026-11-16</sub></p>
+<p align="center"><b>1023</b> curated entries · <b>6</b> creative categories · <b>930</b> with public code · <b>426</b> source archives<br><sub>Catalog data: 2026-11-17</sub></p>
 
 <a name="trending"></a>
 
@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/showcase.webp"><img src="assets/showcase.gif" width="100%" alt="Terrarium · Trending"></picture></a></p>
 
-<p align="center"><sub>Updated: 2026-11-16 14:00 UTC · Refresh scheduled every 8 hours</sub></p>
+<p align="center"><sub>Updated: 2026-11-17 00:43 UTC · Refresh scheduled every 8 hours</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Likes: 17,922 · Comments: 499</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Likes: 14,868 · Comments: 850</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Likes: 7,985 · Comments: 387</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Likes: 17,932 · Comments: 501</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Likes: 14,899 · Comments: 851</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Likes: 7,988 · Comments: 388</a></sub></td>
 <td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Likes: 7,515 · Comments: 677</a></sub></td>
 </tr></table>
 
 <details><summary>Sources &amp; ordering</summary>
 
-Ordered by public likes, stars and other support. Comments and shares break ties; views are shown separately. The strongest post per platform contributes, and shared sources appear once. 803 sources · 4 platforms · 7 unmeasured <a href="data/showcase.json">View data</a> · <a href="scripts/SHOWCASE.md">Methodology</a>
+Ordered by public likes, stars and other support. Comments and shares break ties; views are shown separately. The strongest post per platform contributes, and shared sources appear once. 806 sources · 4 platforms · 7 unmeasured <a href="data/showcase.json">View data</a> · <a href="scripts/SHOWCASE.md">Methodology</a>
 
 </details>
 
@@ -74,7 +74,7 @@ Explore selected works, jump to a genre, or open the full collection.
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 Games</a> · 560</b><br><sub>484 with public code · 191 source archives</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 Games</a> · 563</b><br><sub>487 with public code · 191 source archives</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 Worlds &amp; Scenes</a> · 211</b><br><sub>203 with public code · 94 source archives</sub></td>
 
@@ -96,11 +96,11 @@ Explore selected works, jump to a genre, or open the full collection.
 
 <a name="contents-games"></a>
 
-### 🎮 Games · 560
+### 🎮 Games · 563
 
 Shooters, driving, flight, puzzles and everything in between.
 
-<p><a href="games/README.md#genre-shooter">Shooter</a> <b>111</b> · <a href="games/README.md#genre-action-and-combat">Action &amp; combat</a> <b>57</b> · <a href="games/README.md#genre-platformer-and-runner">Platformer &amp; runner</a> <b>38</b> · <a href="games/README.md#genre-racing-and-driving">Racing &amp; driving</a> <b>75</b> · <a href="games/README.md#genre-flight">Flight</a> <b>28</b> · <a href="games/README.md#genre-sports">Sports</a> <b>15</b> · <a href="games/README.md#genre-adventure-and-exploration">Adventure &amp; exploration</a> <b>77</b> · <a href="games/README.md#genre-puzzle">Puzzle</a> <b>23</b> · <a href="games/README.md#genre-strategy-and-management">Strategy &amp; management</a> <b>47</b> · <a href="games/README.md#genre-sandbox">Sandbox</a> <b>27</b> · <a href="games/README.md#genre-casual-and-arcade">Casual &amp; arcade</a> <b>35</b> · <a href="games/README.md#genre-interactive-story">Interactive story</a> <b>3</b> · <a href="games/README.md#genre-simulation-and-visualization">Simulation &amp; visualization</a> <b>4</b> · <a href="games/README.md#genre-other-games">Other games</a> <b>20</b></p>
+<p><a href="games/README.md#genre-shooter">Shooter</a> <b>111</b> · <a href="games/README.md#genre-action-and-combat">Action &amp; combat</a> <b>57</b> · <a href="games/README.md#genre-platformer-and-runner">Platformer &amp; runner</a> <b>38</b> · <a href="games/README.md#genre-racing-and-driving">Racing &amp; driving</a> <b>75</b> · <a href="games/README.md#genre-flight">Flight</a> <b>28</b> · <a href="games/README.md#genre-sports">Sports</a> <b>15</b> · <a href="games/README.md#genre-adventure-and-exploration">Adventure &amp; exploration</a> <b>77</b> · <a href="games/README.md#genre-puzzle">Puzzle</a> <b>23</b> · <a href="games/README.md#genre-strategy-and-management">Strategy &amp; management</a> <b>47</b> · <a href="games/README.md#genre-sandbox">Sandbox</a> <b>27</b> · <a href="games/README.md#genre-casual-and-arcade">Casual &amp; arcade</a> <b>35</b> · <a href="games/README.md#genre-interactive-story">Interactive story</a> <b>3</b> · <a href="games/README.md#genre-simulation-and-visualization">Simulation &amp; visualization</a> <b>4</b> · <a href="games/README.md#genre-other-games">Other games</a> <b>23</b></p>
 
 <table>
 <tr>
@@ -110,7 +110,7 @@ Shooters, driving, flight, puzzles and everything in between.
 </tr>
 </table>
 
-<p><b><a href="games/README.md">Browse all 560 →</a></b> · <a href="#contents">↑ Contents</a></p>
+<p><b><a href="games/README.md">Browse all 563 →</a></b> · <a href="#contents">↑ Contents</a></p>
 
 <a name="contents-scenes"></a>
 
@@ -212,4 +212,4 @@ Large files require Git LFS. Works retain their own licenses; page text is CC0 1
 
 ---
 
-<p align="center"><a href="README.md"><img src="assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="README.md">Home</a> · <a href="games/README.md">Games</a> · <a href="scenes/README.md">Worlds &amp; Scenes</a> · <a href="videos/README.md">Videos</a> · <a href="tools/README.md">Tools</a> · <a href="visualizations/README.md">Visualizations</a> · <a href="wallpapers/README.md">Wallpapers</a> · <a href="#top">Back to top</a><br>Catalog data: 2026-11-16</sub></p>
+<p align="center"><a href="README.md"><img src="assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="README.md">Home</a> · <a href="games/README.md">Games</a> · <a href="scenes/README.md">Worlds &amp; Scenes</a> · <a href="videos/README.md">Videos</a> · <a href="tools/README.md">Tools</a> · <a href="visualizations/README.md">Visualizations</a> · <a href="wallpapers/README.md">Wallpapers</a> · <a href="#top">Back to top</a><br>Catalog data: 2026-11-17</sub></p>

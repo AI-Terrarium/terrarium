@@ -15,9 +15,9 @@
 
 <h1 align="center">遊戲</h1>
 
-<p align="center">560 個項目。 從射擊、競速與飛行，到冒險、解謎和沙盒。</p>
+<p align="center">563 個項目。 從射擊、競速與飛行，到冒險、解謎和沙盒。</p>
 
-<p><a href="#genre-shooter">射擊</a> <b>111</b> · <a href="#genre-action-and-combat">動作與戰鬥</a> <b>57</b> · <a href="#genre-platformer-and-runner">平台跳躍與跑酷</a> <b>38</b> · <a href="#genre-racing-and-driving">競速與駕駛</a> <b>75</b> · <a href="#genre-flight">飛行</a> <b>28</b> · <a href="#genre-sports">運動</a> <b>15</b> · <a href="#genre-adventure-and-exploration">冒險與探索</a> <b>77</b> · <a href="#genre-puzzle">解謎</a> <b>23</b> · <a href="#genre-strategy-and-management">策略與經營</a> <b>47</b> · <a href="#genre-sandbox">沙盒</a> <b>27</b> · <a href="#genre-casual-and-arcade">休閒與街機</a> <b>35</b> · <a href="#genre-interactive-story">互動敘事</a> <b>3</b> · <a href="#genre-simulation-and-visualization">模擬與視覺化</a> <b>4</b> · <a href="#genre-other-games">其他遊戲</a> <b>20</b></p>
+<p><a href="#genre-shooter">射擊</a> <b>111</b> · <a href="#genre-action-and-combat">動作與戰鬥</a> <b>57</b> · <a href="#genre-platformer-and-runner">平台跳躍與跑酷</a> <b>38</b> · <a href="#genre-racing-and-driving">競速與駕駛</a> <b>75</b> · <a href="#genre-flight">飛行</a> <b>28</b> · <a href="#genre-sports">運動</a> <b>15</b> · <a href="#genre-adventure-and-exploration">冒險與探索</a> <b>77</b> · <a href="#genre-puzzle">解謎</a> <b>23</b> · <a href="#genre-strategy-and-management">策略與經營</a> <b>47</b> · <a href="#genre-sandbox">沙盒</a> <b>27</b> · <a href="#genre-casual-and-arcade">休閒與街機</a> <b>35</b> · <a href="#genre-interactive-story">互動敘事</a> <b>3</b> · <a href="#genre-simulation-and-visualization">模擬與視覺化</a> <b>4</b> · <a href="#genre-other-games">其他遊戲</a> <b>23</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1169,9 +1169,15 @@
 
 <tr><th align="left">作品</th><th align="left">作者</th><th align="left">授權</th><th align="left">連結</th></tr>
 
+<tr><td><a href="https://fusheng.qiaomu.ai/">ai-fushengji</a></td><td><a href="https://github.com/joeseesun">joeseesun</a></td><td>MIT</td><td><a href="https://github.com/joeseesun/ai-fushengji">原始碼</a></td></tr>
+
 <tr><td><a href="https://arcade-racing.onrender.com/">arcade-racing</a></td><td><a href="https://github.com/StackOverflowIsBetterThanAnyAI">StackOverflowIsBetterThanAnyAI</a></td><td>MIT</td><td><a href="https://github.com/stackoverflowisbetterthananyai/arcade-racing">原始碼</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/arcade-racing-932a5c9a">檔案</a></td></tr>
 
+<tr><td><a href="https://raunakpatil.com/radar">best-ai-tools</a></td><td><a href="https://github.com/raunakpatil">raunakpatil</a></td><td>MIT</td><td><a href="https://github.com/raunakpatil/best-ai-tools">原始碼</a></td></tr>
+
 <tr><td><a href="https://1xaispark.com/games/casa-de-gemas">casadegema</a></td><td><a href="https://github.com/deepujain">deepujain</a></td><td>MIT</td><td><a href="https://github.com/deepujain/casadegema">原始碼</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/casadegema-e0e0cb69">檔案</a></td></tr>
+
+<tr><td><a href="https://www.glitchless.gg">glitchless</a></td><td><a href="https://github.com/glitchless-gg">glitchless-gg</a></td><td>MIT</td><td><a href="https://github.com/glitchless-gg/glitchless">原始碼</a></td></tr>
 
 <tr><td><a href="https://playroom.mmonoo.com/en/games/ink-fill/#play">ink-fill</a></td><td><a href="https://github.com/simpleusername96">simpleusername96</a></td><td>MIT</td><td><a href="https://github.com/simpleusername96/ink-fill">原始碼</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/ink-fill-7a4f8a3d">檔案</a></td></tr>
 
@@ -1189,4 +1195,4 @@
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.zh-TW.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.zh-TW.md">首頁</a> · <a href="README.zh-TW.md">遊戲</a> · <a href="../scenes/README.zh-TW.md">世界與場景</a> · <a href="../videos/README.zh-TW.md">影片</a> · <a href="../tools/README.zh-TW.md">工具</a> · <a href="../visualizations/README.zh-TW.md">視覺化</a> · <a href="../wallpapers/README.zh-TW.md">桌布</a> · <a href="#top">返回頂端</a><br>目錄資料：2026-11-16</sub></p>
+<p align="center"><a href="../docs/i18n/README.zh-TW.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.zh-TW.md">首頁</a> · <a href="README.zh-TW.md">遊戲</a> · <a href="../scenes/README.zh-TW.md">世界與場景</a> · <a href="../videos/README.zh-TW.md">影片</a> · <a href="../tools/README.zh-TW.md">工具</a> · <a href="../visualizations/README.zh-TW.md">視覺化</a> · <a href="../wallpapers/README.zh-TW.md">桌布</a> · <a href="#top">返回頂端</a><br>目錄資料：2026-11-17</sub></p>

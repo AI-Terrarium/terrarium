@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">Beliebt</a> · <a href="#latest">Neu</a> · <a href="#contents">Inhalt</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1020</b> Einträge · <b>6</b> Kategorien · <b>927</b> mit öffentlichem Code · <b>426</b> Codearchive<br><sub>Katalogdaten: 2026-11-16</sub></p>
+<p align="center"><b>1023</b> Einträge · <b>6</b> Kategorien · <b>930</b> mit öffentlichem Code · <b>426</b> Codearchive<br><sub>Katalogdaten: 2026-11-17</sub></p>
 
 <a name="trending"></a>
 
@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · Beliebt"></picture></a></p>
 
-<p align="center"><sub>Aktualisiert: 2026-11-16 14:00 UTC · Aktualisierung alle 8 Stunden geplant</sub></p>
+<p align="center"><sub>Aktualisiert: 2026-11-17 00:43 UTC · Aktualisierung alle 8 Stunden geplant</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Likes: 17.922 · Kommentare: 499</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Likes: 14.868 · Kommentare: 850</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Likes: 7.985 · Kommentare: 387</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Likes: 17.932 · Kommentare: 501</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Likes: 14.899 · Kommentare: 851</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Likes: 7.988 · Kommentare: 388</a></sub></td>
 <td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Likes: 7.515 · Kommentare: 677</a></sub></td>
 </tr></table>
 
 <details><summary>Quellen und Sortierung</summary>
 
-Sortiert nach öffentlichen Likes, Sternen und ähnlicher Zustimmung. Kommentare und geteilte Beiträge entscheiden bei Gleichstand; Aufrufe werden getrennt angezeigt. Pro Plattform zählt der meistunterstützte Beitrag, jede Quelle erscheint nur einmal. 803 Quellen · 4 Plattformen · 7 nicht erfasst <a href="../../data/showcase.json">Daten ansehen</a> · <a href="../../scripts/SHOWCASE.md">Methode</a>
+Sortiert nach öffentlichen Likes, Sternen und ähnlicher Zustimmung. Kommentare und geteilte Beiträge entscheiden bei Gleichstand; Aufrufe werden getrennt angezeigt. Pro Plattform zählt der meistunterstützte Beitrag, jede Quelle erscheint nur einmal. 806 Quellen · 4 Plattformen · 7 nicht erfasst <a href="../../data/showcase.json">Daten ansehen</a> · <a href="../../scripts/SHOWCASE.md">Methode</a>
 
 </details>
 
@@ -74,7 +74,7 @@ Entdecke ausgewählte Werke, wähle ein Genre oder öffne die gesamte Sammlung.
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 Spiele</a> · 560</b><br><sub>484 mit öffentlichem Code · 191 Codearchive</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 Spiele</a> · 563</b><br><sub>487 mit öffentlichem Code · 191 Codearchive</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 Welten und Szenen</a> · 211</b><br><sub>203 mit öffentlichem Code · 94 Codearchive</sub></td>
 
@@ -96,11 +96,11 @@ Entdecke ausgewählte Werke, wähle ein Genre oder öffne die gesamte Sammlung.
 
 <a name="contents-games"></a>
 
-### 🎮 Spiele · 560
+### 🎮 Spiele · 563
 
 Shooter, Rennen, Flugsimulationen, Rätsel und vieles mehr.
 
-<p><a href="../../games/README.de.md#genre-shooter">Shooter</a> <b>111</b> · <a href="../../games/README.de.md#genre-action-and-combat">Action und Kampf</a> <b>57</b> · <a href="../../games/README.de.md#genre-platformer-and-runner">Plattform und Runner</a> <b>38</b> · <a href="../../games/README.de.md#genre-racing-and-driving">Rennen und Fahren</a> <b>75</b> · <a href="../../games/README.de.md#genre-flight">Flug</a> <b>28</b> · <a href="../../games/README.de.md#genre-sports">Sport</a> <b>15</b> · <a href="../../games/README.de.md#genre-adventure-and-exploration">Abenteuer und Erkundung</a> <b>77</b> · <a href="../../games/README.de.md#genre-puzzle">Rätsel</a> <b>23</b> · <a href="../../games/README.de.md#genre-strategy-and-management">Strategie und Aufbau</a> <b>47</b> · <a href="../../games/README.de.md#genre-sandbox">Sandbox</a> <b>27</b> · <a href="../../games/README.de.md#genre-casual-and-arcade">Casual und Arcade</a> <b>35</b> · <a href="../../games/README.de.md#genre-interactive-story">Interaktive Geschichten</a> <b>3</b> · <a href="../../games/README.de.md#genre-simulation-and-visualization">Simulation und Visualisierung</a> <b>4</b> · <a href="../../games/README.de.md#genre-other-games">Weitere Spiele</a> <b>20</b></p>
+<p><a href="../../games/README.de.md#genre-shooter">Shooter</a> <b>111</b> · <a href="../../games/README.de.md#genre-action-and-combat">Action und Kampf</a> <b>57</b> · <a href="../../games/README.de.md#genre-platformer-and-runner">Plattform und Runner</a> <b>38</b> · <a href="../../games/README.de.md#genre-racing-and-driving">Rennen und Fahren</a> <b>75</b> · <a href="../../games/README.de.md#genre-flight">Flug</a> <b>28</b> · <a href="../../games/README.de.md#genre-sports">Sport</a> <b>15</b> · <a href="../../games/README.de.md#genre-adventure-and-exploration">Abenteuer und Erkundung</a> <b>77</b> · <a href="../../games/README.de.md#genre-puzzle">Rätsel</a> <b>23</b> · <a href="../../games/README.de.md#genre-strategy-and-management">Strategie und Aufbau</a> <b>47</b> · <a href="../../games/README.de.md#genre-sandbox">Sandbox</a> <b>27</b> · <a href="../../games/README.de.md#genre-casual-and-arcade">Casual und Arcade</a> <b>35</b> · <a href="../../games/README.de.md#genre-interactive-story">Interaktive Geschichten</a> <b>3</b> · <a href="../../games/README.de.md#genre-simulation-and-visualization">Simulation und Visualisierung</a> <b>4</b> · <a href="../../games/README.de.md#genre-other-games">Weitere Spiele</a> <b>23</b></p>
 
 <table>
 <tr>
@@ -110,7 +110,7 @@ Shooter, Rennen, Flugsimulationen, Rätsel und vieles mehr.
 </tr>
 </table>
 
-<p><b><a href="../../games/README.de.md">Alle 560 Einträge ansehen →</a></b> · <a href="#contents">↑ Inhalt</a></p>
+<p><b><a href="../../games/README.de.md">Alle 563 Einträge ansehen →</a></b> · <a href="#contents">↑ Inhalt</a></p>
 
 <a name="contents-scenes"></a>
 
@@ -212,4 +212,4 @@ Große Dateien erfordern Git LFS. Jedes Werk behält seine eigene Lizenz; die Se
 
 ---
 
-<p align="center"><a href="README.de.md"><img src="../../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="README.de.md">Startseite</a> · <a href="../../games/README.de.md">Spiele</a> · <a href="../../scenes/README.de.md">Welten und Szenen</a> · <a href="../../videos/README.de.md">Videos</a> · <a href="../../tools/README.de.md">Werkzeuge</a> · <a href="../../visualizations/README.de.md">Visualisierungen</a> · <a href="../../wallpapers/README.de.md">Hintergrundbilder</a> · <a href="#top">Nach oben</a><br>Katalogdaten: 2026-11-16</sub></p>
+<p align="center"><a href="README.de.md"><img src="../../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="README.de.md">Startseite</a> · <a href="../../games/README.de.md">Spiele</a> · <a href="../../scenes/README.de.md">Welten und Szenen</a> · <a href="../../videos/README.de.md">Videos</a> · <a href="../../tools/README.de.md">Werkzeuge</a> · <a href="../../visualizations/README.de.md">Visualisierungen</a> · <a href="../../wallpapers/README.de.md">Hintergrundbilder</a> · <a href="#top">Nach oben</a><br>Katalogdaten: 2026-11-17</sub></p>
