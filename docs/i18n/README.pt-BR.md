@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">Em alta</a> · <a href="#latest">Novidades</a> · <a href="#contents">Índice</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1024</b> itens · <b>6</b> categorias · <b>931</b> com código público · <b>426</b> arquivos de código<br><sub>Dados do catálogo: 2026-11-17</sub></p>
+<p align="center"><b>1021</b> itens · <b>6</b> categorias · <b>928</b> com código público · <b>426</b> arquivos de código<br><sub>Dados do catálogo: 2026-11-17</sub></p>
 
 <a name="trending"></a>
 
@@ -32,7 +32,7 @@
 <td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Curtidas: 17.936 · Comentários: 501</a></sub></td>
 <td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Curtidas: 14.908 · Comentários: 852</a></sub></td>
 <td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Curtidas: 7.991 · Comentários: 388</a></sub></td>
-<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Curtidas: 7.514 · Comentários: 677</a></sub></td>
+<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">CROSSTOWN</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Curtidas: 7.514 · Comentários: 677</a></sub></td>
 </tr></table>
 
 <details><summary>Fontes e ordenação</summary>
@@ -74,7 +74,7 @@ Explore os destaques, escolha um gênero ou abra a coleção completa.
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 Jogos</a> · 564</b><br><sub>488 com código público · 191 arquivos de código</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 Jogos</a> · 561</b><br><sub>485 com código público · 191 arquivos de código</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 Mundos e cenas</a> · 211</b><br><sub>203 com código público · 94 arquivos de código</sub></td>
 
@@ -96,11 +96,11 @@ Explore os destaques, escolha um gênero ou abra a coleção completa.
 
 <a name="contents-games"></a>
 
-### 🎮 Jogos · 564
+### 🎮 Jogos · 561
 
 Tiro, corrida, voo, quebra-cabeças e muito mais.
 
-<p><a href="../../games/README.pt-BR.md#genre-shooter">Tiro</a> <b>111</b> · <a href="../../games/README.pt-BR.md#genre-action-and-combat">Ação e combate</a> <b>57</b> · <a href="../../games/README.pt-BR.md#genre-platformer-and-runner">Plataforma e corrida infinita</a> <b>38</b> · <a href="../../games/README.pt-BR.md#genre-racing-and-driving">Corrida e direção</a> <b>75</b> · <a href="../../games/README.pt-BR.md#genre-flight">Voo</a> <b>28</b> · <a href="../../games/README.pt-BR.md#genre-sports">Esportes</a> <b>15</b> · <a href="../../games/README.pt-BR.md#genre-adventure-and-exploration">Aventura e exploração</a> <b>77</b> · <a href="../../games/README.pt-BR.md#genre-puzzle">Quebra-cabeças</a> <b>23</b> · <a href="../../games/README.pt-BR.md#genre-strategy-and-management">Estratégia e gestão</a> <b>47</b> · <a href="../../games/README.pt-BR.md#genre-sandbox">Sandbox</a> <b>27</b> · <a href="../../games/README.pt-BR.md#genre-casual-and-arcade">Casual e arcade</a> <b>35</b> · <a href="../../games/README.pt-BR.md#genre-interactive-story">História interativa</a> <b>3</b> · <a href="../../games/README.pt-BR.md#genre-simulation-and-visualization">Simulação e visualização</a> <b>4</b> · <a href="../../games/README.pt-BR.md#genre-other-games">Outros jogos</a> <b>24</b></p>
+<p><a href="../../games/README.pt-BR.md#genre-shooter">Tiro</a> <b>111</b> · <a href="../../games/README.pt-BR.md#genre-action-and-combat">Ação e combate</a> <b>57</b> · <a href="../../games/README.pt-BR.md#genre-platformer-and-runner">Plataforma e corrida infinita</a> <b>38</b> · <a href="../../games/README.pt-BR.md#genre-racing-and-driving">Corrida e direção</a> <b>75</b> · <a href="../../games/README.pt-BR.md#genre-flight">Voo</a> <b>28</b> · <a href="../../games/README.pt-BR.md#genre-sports">Esportes</a> <b>15</b> · <a href="../../games/README.pt-BR.md#genre-adventure-and-exploration">Aventura e exploração</a> <b>77</b> · <a href="../../games/README.pt-BR.md#genre-puzzle">Quebra-cabeças</a> <b>23</b> · <a href="../../games/README.pt-BR.md#genre-strategy-and-management">Estratégia e gestão</a> <b>47</b> · <a href="../../games/README.pt-BR.md#genre-sandbox">Sandbox</a> <b>27</b> · <a href="../../games/README.pt-BR.md#genre-casual-and-arcade">Casual e arcade</a> <b>35</b> · <a href="../../games/README.pt-BR.md#genre-interactive-story">História interativa</a> <b>3</b> · <a href="../../games/README.pt-BR.md#genre-simulation-and-visualization">Simulação e visualização</a> <b>4</b> · <a href="../../games/README.pt-BR.md#genre-other-games">Outros jogos</a> <b>21</b></p>
 
 <table>
 <tr>
@@ -110,7 +110,7 @@ Tiro, corrida, voo, quebra-cabeças e muito mais.
 </tr>
 </table>
 
-<p><b><a href="../../games/README.pt-BR.md">Ver todos os 564 itens →</a></b> · <a href="#contents">↑ Índice</a></p>
+<p><b><a href="../../games/README.pt-BR.md">Ver todos os 561 itens →</a></b> · <a href="#contents">↑ Índice</a></p>
 
 <a name="contents-scenes"></a>
 

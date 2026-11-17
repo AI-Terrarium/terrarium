@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">Популярное</a> · <a href="#latest">Новое</a> · <a href="#contents">Содержание</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1024</b> записей · <b>6</b> категорий · <b>931</b> с открытым кодом · <b>426</b> архивов кода<br><sub>Данные каталога: 2026-11-17</sub></p>
+<p align="center"><b>1021</b> записей · <b>6</b> категорий · <b>928</b> с открытым кодом · <b>426</b> архивов кода<br><sub>Данные каталога: 2026-11-17</sub></p>
 
 <a name="trending"></a>
 
@@ -32,7 +32,7 @@
 <td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Нравится: 17 936 · Комментарии: 501</a></sub></td>
 <td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Нравится: 14 908 · Комментарии: 852</a></sub></td>
 <td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Нравится: 7 991 · Комментарии: 388</a></sub></td>
-<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Нравится: 7 514 · Комментарии: 677</a></sub></td>
+<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">CROSSTOWN</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Нравится: 7 514 · Комментарии: 677</a></sub></td>
 </tr></table>
 
 <details><summary>Источники и порядок</summary>
@@ -74,7 +74,7 @@
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 Игры</a> · 564</b><br><sub>488 с открытым кодом · 191 архивов кода</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 Игры</a> · 561</b><br><sub>485 с открытым кодом · 191 архивов кода</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 Миры и сцены</a> · 211</b><br><sub>203 с открытым кодом · 94 архивов кода</sub></td>
 
@@ -96,11 +96,11 @@
 
 <a name="contents-games"></a>
 
-### 🎮 Игры · 564
+### 🎮 Игры · 561
 
 Шутеры, гонки, полёты, головоломки и многое другое.
 
-<p><a href="../../games/README.ru.md#genre-shooter">Шутеры</a> <b>111</b> · <a href="../../games/README.ru.md#genre-action-and-combat">Экшен и сражения</a> <b>57</b> · <a href="../../games/README.ru.md#genre-platformer-and-runner">Платформеры и раннеры</a> <b>38</b> · <a href="../../games/README.ru.md#genre-racing-and-driving">Гонки и вождение</a> <b>75</b> · <a href="../../games/README.ru.md#genre-flight">Полёты</a> <b>28</b> · <a href="../../games/README.ru.md#genre-sports">Спорт</a> <b>15</b> · <a href="../../games/README.ru.md#genre-adventure-and-exploration">Приключения и исследование</a> <b>77</b> · <a href="../../games/README.ru.md#genre-puzzle">Головоломки</a> <b>23</b> · <a href="../../games/README.ru.md#genre-strategy-and-management">Стратегии и управление</a> <b>47</b> · <a href="../../games/README.ru.md#genre-sandbox">Песочницы</a> <b>27</b> · <a href="../../games/README.ru.md#genre-casual-and-arcade">Казуальные и аркадные игры</a> <b>35</b> · <a href="../../games/README.ru.md#genre-interactive-story">Интерактивные истории</a> <b>3</b> · <a href="../../games/README.ru.md#genre-simulation-and-visualization">Моделирование и визуализация</a> <b>4</b> · <a href="../../games/README.ru.md#genre-other-games">Другие игры</a> <b>24</b></p>
+<p><a href="../../games/README.ru.md#genre-shooter">Шутеры</a> <b>111</b> · <a href="../../games/README.ru.md#genre-action-and-combat">Экшен и сражения</a> <b>57</b> · <a href="../../games/README.ru.md#genre-platformer-and-runner">Платформеры и раннеры</a> <b>38</b> · <a href="../../games/README.ru.md#genre-racing-and-driving">Гонки и вождение</a> <b>75</b> · <a href="../../games/README.ru.md#genre-flight">Полёты</a> <b>28</b> · <a href="../../games/README.ru.md#genre-sports">Спорт</a> <b>15</b> · <a href="../../games/README.ru.md#genre-adventure-and-exploration">Приключения и исследование</a> <b>77</b> · <a href="../../games/README.ru.md#genre-puzzle">Головоломки</a> <b>23</b> · <a href="../../games/README.ru.md#genre-strategy-and-management">Стратегии и управление</a> <b>47</b> · <a href="../../games/README.ru.md#genre-sandbox">Песочницы</a> <b>27</b> · <a href="../../games/README.ru.md#genre-casual-and-arcade">Казуальные и аркадные игры</a> <b>35</b> · <a href="../../games/README.ru.md#genre-interactive-story">Интерактивные истории</a> <b>3</b> · <a href="../../games/README.ru.md#genre-simulation-and-visualization">Моделирование и визуализация</a> <b>4</b> · <a href="../../games/README.ru.md#genre-other-games">Другие игры</a> <b>21</b></p>
 
 <table>
 <tr>
@@ -110,7 +110,7 @@
 </tr>
 </table>
 
-<p><b><a href="../../games/README.ru.md">Все записи: 564 →</a></b> · <a href="#contents">↑ Содержание</a></p>
+<p><b><a href="../../games/README.ru.md">Все записи: 561 →</a></b> · <a href="#contents">↑ Содержание</a></p>
 
 <a name="contents-scenes"></a>
 

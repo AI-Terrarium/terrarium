@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">熱門</a> · <a href="#latest">最新</a> · <a href="#contents">目錄</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1024</b> 收錄項目 · <b>6</b> 創作類別 · <b>931</b> 公開原始碼 · <b>426</b> 原始碼封存<br><sub>目錄資料：2026-11-17</sub></p>
+<p align="center"><b>1021</b> 收錄項目 · <b>6</b> 創作類別 · <b>928</b> 公開原始碼 · <b>426</b> 原始碼封存<br><sub>目錄資料：2026-11-17</sub></p>
 
 <a name="trending"></a>
 
@@ -32,7 +32,7 @@
 <td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · 17,936 讚 · 501 留言</a></sub></td>
 <td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · 14,908 讚 · 852 留言</a></sub></td>
 <td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · 7,991 讚 · 388 留言</a></sub></td>
-<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · 7,514 讚 · 677 留言</a></sub></td>
+<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">CROSSTOWN</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · 7,514 讚 · 677 留言</a></sub></td>
 </tr></table>
 
 <details><summary>榜單來源與排序</summary>
@@ -74,7 +74,7 @@
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 遊戲</a> · 564</b><br><sub>488 公開原始碼 · 191 原始碼封存</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 遊戲</a> · 561</b><br><sub>485 公開原始碼 · 191 原始碼封存</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 世界與場景</a> · 211</b><br><sub>203 公開原始碼 · 94 原始碼封存</sub></td>
 
@@ -96,11 +96,11 @@
 
 <a name="contents-games"></a>
 
-### 🎮 遊戲 · 564
+### 🎮 遊戲 · 561
 
 從射擊、競速與飛行，到冒險、解謎和沙盒。
 
-<p><a href="../../games/README.zh-TW.md#genre-shooter">射擊</a> <b>111</b> · <a href="../../games/README.zh-TW.md#genre-action-and-combat">動作與戰鬥</a> <b>57</b> · <a href="../../games/README.zh-TW.md#genre-platformer-and-runner">平台跳躍與跑酷</a> <b>38</b> · <a href="../../games/README.zh-TW.md#genre-racing-and-driving">競速與駕駛</a> <b>75</b> · <a href="../../games/README.zh-TW.md#genre-flight">飛行</a> <b>28</b> · <a href="../../games/README.zh-TW.md#genre-sports">運動</a> <b>15</b> · <a href="../../games/README.zh-TW.md#genre-adventure-and-exploration">冒險與探索</a> <b>77</b> · <a href="../../games/README.zh-TW.md#genre-puzzle">解謎</a> <b>23</b> · <a href="../../games/README.zh-TW.md#genre-strategy-and-management">策略與經營</a> <b>47</b> · <a href="../../games/README.zh-TW.md#genre-sandbox">沙盒</a> <b>27</b> · <a href="../../games/README.zh-TW.md#genre-casual-and-arcade">休閒與街機</a> <b>35</b> · <a href="../../games/README.zh-TW.md#genre-interactive-story">互動敘事</a> <b>3</b> · <a href="../../games/README.zh-TW.md#genre-simulation-and-visualization">模擬與視覺化</a> <b>4</b> · <a href="../../games/README.zh-TW.md#genre-other-games">其他遊戲</a> <b>24</b></p>
+<p><a href="../../games/README.zh-TW.md#genre-shooter">射擊</a> <b>111</b> · <a href="../../games/README.zh-TW.md#genre-action-and-combat">動作與戰鬥</a> <b>57</b> · <a href="../../games/README.zh-TW.md#genre-platformer-and-runner">平台跳躍與跑酷</a> <b>38</b> · <a href="../../games/README.zh-TW.md#genre-racing-and-driving">競速與駕駛</a> <b>75</b> · <a href="../../games/README.zh-TW.md#genre-flight">飛行</a> <b>28</b> · <a href="../../games/README.zh-TW.md#genre-sports">運動</a> <b>15</b> · <a href="../../games/README.zh-TW.md#genre-adventure-and-exploration">冒險與探索</a> <b>77</b> · <a href="../../games/README.zh-TW.md#genre-puzzle">解謎</a> <b>23</b> · <a href="../../games/README.zh-TW.md#genre-strategy-and-management">策略與經營</a> <b>47</b> · <a href="../../games/README.zh-TW.md#genre-sandbox">沙盒</a> <b>27</b> · <a href="../../games/README.zh-TW.md#genre-casual-and-arcade">休閒與街機</a> <b>35</b> · <a href="../../games/README.zh-TW.md#genre-interactive-story">互動敘事</a> <b>3</b> · <a href="../../games/README.zh-TW.md#genre-simulation-and-visualization">模擬與視覺化</a> <b>4</b> · <a href="../../games/README.zh-TW.md#genre-other-games">其他遊戲</a> <b>21</b></p>
 
 <table>
 <tr>
@@ -110,7 +110,7 @@
 </tr>
 </table>
 
-<p><b><a href="../../games/README.zh-TW.md">瀏覽全部 564 個項目 →</a></b> · <a href="#contents">↑ 目錄</a></p>
+<p><b><a href="../../games/README.zh-TW.md">瀏覽全部 561 個項目 →</a></b> · <a href="#contents">↑ 目錄</a></p>
 
 <a name="contents-scenes"></a>
 

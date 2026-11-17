@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">Trending</a> · <a href="#latest">Latest</a> · <a href="#contents">Contents</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1024</b> curated entries · <b>6</b> creative categories · <b>931</b> with public code · <b>426</b> source archives<br><sub>Catalog data: 2026-11-17</sub></p>
+<p align="center"><b>1021</b> curated entries · <b>6</b> creative categories · <b>928</b> with public code · <b>426</b> source archives<br><sub>Catalog data: 2026-11-17</sub></p>
 
 <a name="trending"></a>
 
@@ -32,7 +32,7 @@
 <td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Likes: 17,936 · Comments: 501</a></sub></td>
 <td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Likes: 14,908 · Comments: 852</a></sub></td>
 <td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Likes: 7,991 · Comments: 388</a></sub></td>
-<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Likes: 7,514 · Comments: 677</a></sub></td>
+<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">CROSSTOWN</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Likes: 7,514 · Comments: 677</a></sub></td>
 </tr></table>
 
 <details><summary>Sources &amp; ordering</summary>
@@ -74,7 +74,7 @@ Explore selected works, jump to a genre, or open the full collection.
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 Games</a> · 564</b><br><sub>488 with public code · 191 source archives</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 Games</a> · 561</b><br><sub>485 with public code · 191 source archives</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 Worlds &amp; Scenes</a> · 211</b><br><sub>203 with public code · 94 source archives</sub></td>
 
@@ -96,11 +96,11 @@ Explore selected works, jump to a genre, or open the full collection.
 
 <a name="contents-games"></a>
 
-### 🎮 Games · 564
+### 🎮 Games · 561
 
 Shooters, driving, flight, puzzles and everything in between.
 
-<p><a href="games/README.md#genre-shooter">Shooter</a> <b>111</b> · <a href="games/README.md#genre-action-and-combat">Action &amp; combat</a> <b>57</b> · <a href="games/README.md#genre-platformer-and-runner">Platformer &amp; runner</a> <b>38</b> · <a href="games/README.md#genre-racing-and-driving">Racing &amp; driving</a> <b>75</b> · <a href="games/README.md#genre-flight">Flight</a> <b>28</b> · <a href="games/README.md#genre-sports">Sports</a> <b>15</b> · <a href="games/README.md#genre-adventure-and-exploration">Adventure &amp; exploration</a> <b>77</b> · <a href="games/README.md#genre-puzzle">Puzzle</a> <b>23</b> · <a href="games/README.md#genre-strategy-and-management">Strategy &amp; management</a> <b>47</b> · <a href="games/README.md#genre-sandbox">Sandbox</a> <b>27</b> · <a href="games/README.md#genre-casual-and-arcade">Casual &amp; arcade</a> <b>35</b> · <a href="games/README.md#genre-interactive-story">Interactive story</a> <b>3</b> · <a href="games/README.md#genre-simulation-and-visualization">Simulation &amp; visualization</a> <b>4</b> · <a href="games/README.md#genre-other-games">Other games</a> <b>24</b></p>
+<p><a href="games/README.md#genre-shooter">Shooter</a> <b>111</b> · <a href="games/README.md#genre-action-and-combat">Action &amp; combat</a> <b>57</b> · <a href="games/README.md#genre-platformer-and-runner">Platformer &amp; runner</a> <b>38</b> · <a href="games/README.md#genre-racing-and-driving">Racing &amp; driving</a> <b>75</b> · <a href="games/README.md#genre-flight">Flight</a> <b>28</b> · <a href="games/README.md#genre-sports">Sports</a> <b>15</b> · <a href="games/README.md#genre-adventure-and-exploration">Adventure &amp; exploration</a> <b>77</b> · <a href="games/README.md#genre-puzzle">Puzzle</a> <b>23</b> · <a href="games/README.md#genre-strategy-and-management">Strategy &amp; management</a> <b>47</b> · <a href="games/README.md#genre-sandbox">Sandbox</a> <b>27</b> · <a href="games/README.md#genre-casual-and-arcade">Casual &amp; arcade</a> <b>35</b> · <a href="games/README.md#genre-interactive-story">Interactive story</a> <b>3</b> · <a href="games/README.md#genre-simulation-and-visualization">Simulation &amp; visualization</a> <b>4</b> · <a href="games/README.md#genre-other-games">Other games</a> <b>21</b></p>
 
 <table>
 <tr>
@@ -110,7 +110,7 @@ Shooters, driving, flight, puzzles and everything in between.
 </tr>
 </table>
 
-<p><b><a href="games/README.md">Browse all 564 →</a></b> · <a href="#contents">↑ Contents</a></p>
+<p><b><a href="games/README.md">Browse all 561 →</a></b> · <a href="#contents">↑ Contents</a></p>
 
 <a name="contents-scenes"></a>
 
