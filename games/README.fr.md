@@ -15,9 +15,9 @@
 
 <h1 align="center">Jeux</h1>
 
-<p align="center">561 entrées. Tir, course, vol, énigmes et bien d’autres jeux.</p>
+<p align="center">562 entrées. Tir, course, vol, énigmes et bien d’autres jeux.</p>
 
-<p><a href="#genre-shooter">Tir</a> <b>111</b> · <a href="#genre-action-and-combat">Action et combat</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plateforme et course sans fin</a> <b>38</b> · <a href="#genre-racing-and-driving">Course et conduite</a> <b>75</b> · <a href="#genre-flight">Vol</a> <b>28</b> · <a href="#genre-sports">Sports</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventure et exploration</a> <b>77</b> · <a href="#genre-puzzle">Énigmes</a> <b>23</b> · <a href="#genre-strategy-and-management">Stratégie et gestion</a> <b>47</b> · <a href="#genre-sandbox">Bac à sable</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual et arcade</a> <b>35</b> · <a href="#genre-interactive-story">Récit interactif</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation et visualisation</a> <b>4</b> · <a href="#genre-other-games">Autres jeux</a> <b>21</b></p>
+<p><a href="#genre-shooter">Tir</a> <b>111</b> · <a href="#genre-action-and-combat">Action et combat</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plateforme et course sans fin</a> <b>38</b> · <a href="#genre-racing-and-driving">Course et conduite</a> <b>75</b> · <a href="#genre-flight">Vol</a> <b>28</b> · <a href="#genre-sports">Sports</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventure et exploration</a> <b>77</b> · <a href="#genre-puzzle">Énigmes</a> <b>23</b> · <a href="#genre-strategy-and-management">Stratégie et gestion</a> <b>47</b> · <a href="#genre-sandbox">Bac à sable</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual et arcade</a> <b>35</b> · <a href="#genre-interactive-story">Récit interactif</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation et visualisation</a> <b>4</b> · <a href="#genre-other-games">Autres jeux</a> <b>22</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1172,6 +1172,8 @@
 <tr><td><a href="https://1xaispark.com/games/casa-de-gemas">casadegema</a></td><td><a href="https://github.com/deepujain">deepujain</a></td><td>MIT</td><td><a href="https://github.com/deepujain/casadegema">Code</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/casadegema-e0e0cb69">Fichiers</a></td></tr>
 
 <tr><td><a href="https://fruit-fling.fly.dev">fruit-fling</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/fruit-fling">Code</a></td></tr>
+
+<tr><td><a href="https://ywan033.github.io/game-recreations/play/rainlane-blades.html">game-recreations</a></td><td><a href="https://github.com/Ywan033">Ywan033</a></td><td>MIT</td><td><a href="https://github.com/ywan033/game-recreations">Code</a></td></tr>
 
 <tr><td><a href="https://www.glitchless.gg">glitchless</a></td><td><a href="https://github.com/glitchless-gg">glitchless-gg</a></td><td>MIT</td><td><a href="https://github.com/glitchless-gg/glitchless">Code</a></td></tr>
 
