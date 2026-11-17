@@ -15,9 +15,9 @@
 
 <h1 align="center">ゲーム</h1>
 
-<p align="center">562 件。 シューティング、レース、フライト、パズルなど多彩なゲーム。</p>
+<p align="center">564 件。 シューティング、レース、フライト、パズルなど多彩なゲーム。</p>
 
-<p><a href="#genre-shooter">シューティング</a> <b>111</b> · <a href="#genre-action-and-combat">アクション・戦闘</a> <b>57</b> · <a href="#genre-platformer-and-runner">プラットフォーマー・ランナー</a> <b>38</b> · <a href="#genre-racing-and-driving">レース・ドライブ</a> <b>75</b> · <a href="#genre-flight">フライト</a> <b>28</b> · <a href="#genre-sports">スポーツ</a> <b>15</b> · <a href="#genre-adventure-and-exploration">アドベンチャー・探索</a> <b>77</b> · <a href="#genre-puzzle">パズル</a> <b>23</b> · <a href="#genre-strategy-and-management">戦略・経営</a> <b>47</b> · <a href="#genre-sandbox">サンドボックス</a> <b>27</b> · <a href="#genre-casual-and-arcade">カジュアル・アーケード</a> <b>35</b> · <a href="#genre-interactive-story">インタラクティブストーリー</a> <b>3</b> · <a href="#genre-simulation-and-visualization">シミュレーション・可視化</a> <b>4</b> · <a href="#genre-other-games">その他</a> <b>22</b></p>
+<p><a href="#genre-shooter">シューティング</a> <b>111</b> · <a href="#genre-action-and-combat">アクション・戦闘</a> <b>57</b> · <a href="#genre-platformer-and-runner">プラットフォーマー・ランナー</a> <b>38</b> · <a href="#genre-racing-and-driving">レース・ドライブ</a> <b>75</b> · <a href="#genre-flight">フライト</a> <b>28</b> · <a href="#genre-sports">スポーツ</a> <b>15</b> · <a href="#genre-adventure-and-exploration">アドベンチャー・探索</a> <b>77</b> · <a href="#genre-puzzle">パズル</a> <b>23</b> · <a href="#genre-strategy-and-management">戦略・経営</a> <b>47</b> · <a href="#genre-sandbox">サンドボックス</a> <b>27</b> · <a href="#genre-casual-and-arcade">カジュアル・アーケード</a> <b>35</b> · <a href="#genre-interactive-story">インタラクティブストーリー</a> <b>3</b> · <a href="#genre-simulation-and-visualization">シミュレーション・可視化</a> <b>4</b> · <a href="#genre-other-games">その他</a> <b>24</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1169,6 +1169,8 @@
 
 <tr><td><a href="https://raunakpatil.com/radar">best-ai-tools</a></td><td><a href="https://github.com/raunakpatil">raunakpatil</a></td><td>MIT</td><td><a href="https://github.com/raunakpatil/best-ai-tools">ソース</a></td></tr>
 
+<tr><td><a href="https://21cabbagee.github.io/capybara-delivery-3d/">capybara-delivery-3d</a></td><td><a href="https://github.com/21cabbagee">21cabbagee</a></td><td>MIT</td><td><a href="https://github.com/21cabbagee/capybara-delivery-3d">ソース</a></td></tr>
+
 <tr><td><a href="https://1xaispark.com/games/casa-de-gemas">casadegema</a></td><td><a href="https://github.com/deepujain">deepujain</a></td><td>MIT</td><td><a href="https://github.com/deepujain/casadegema">ソース</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/casadegema-e0e0cb69">ファイル</a></td></tr>
 
 <tr><td><a href="https://fruit-fling.fly.dev">fruit-fling</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/fruit-fling">ソース</a></td></tr>
@@ -1178,6 +1180,8 @@
 <tr><td><a href="https://www.glitchless.gg">glitchless</a></td><td><a href="https://github.com/glitchless-gg">glitchless-gg</a></td><td>MIT</td><td><a href="https://github.com/glitchless-gg/glitchless">ソース</a></td></tr>
 
 <tr><td><a href="https://playroom.mmonoo.com/en/games/ink-fill/#play">ink-fill</a></td><td><a href="https://github.com/simpleusername96">simpleusername96</a></td><td>MIT</td><td><a href="https://github.com/simpleusername96/ink-fill">ソース</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/ink-fill-7a4f8a3d">ファイル</a></td></tr>
+
+<tr><td><a href="https://link-sekai-ot4mp9chy59.qoder.zone">LINK-SEKAI</a></td><td><a href="https://github.com/EliasNeko">EliasNeko</a></td><td>MIT</td><td><a href="https://github.com/eliasneko/link-sekai">ソース</a></td></tr>
 
 <tr><td><a href="https://munimv2.itch.io/little-ember">little-ember</a></td><td><a href="https://github.com/munimtechnologies">munimtechnologies</a></td><td>Apache-2.0</td><td><a href="https://github.com/munimtechnologies/little-ember">ソース</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/little-ember-33221b54">ファイル</a></td></tr>
 
@@ -1193,4 +1197,4 @@
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.ja.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ja.md">ホーム</a> · <a href="README.ja.md">ゲーム</a> · <a href="../scenes/README.ja.md">ワールドとシーン</a> · <a href="../videos/README.ja.md">動画</a> · <a href="../tools/README.ja.md">ツール</a> · <a href="../visualizations/README.ja.md">可視化</a> · <a href="../wallpapers/README.ja.md">壁紙</a> · <a href="#top">トップへ</a><br>カタログのデータ：2026-11-17</sub></p>
+<p align="center"><a href="../docs/i18n/README.ja.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ja.md">ホーム</a> · <a href="README.ja.md">ゲーム</a> · <a href="../scenes/README.ja.md">ワールドとシーン</a> · <a href="../videos/README.ja.md">動画</a> · <a href="../tools/README.ja.md">ツール</a> · <a href="../visualizations/README.ja.md">可視化</a> · <a href="../wallpapers/README.ja.md">壁紙</a> · <a href="#top">トップへ</a><br>カタログのデータ：2026-11-18</sub></p>

@@ -15,9 +15,9 @@
 
 <h1 align="center">游戏</h1>
 
-<p align="center">562 个条目。 从射击、竞速与飞行，到冒险、解谜和沙盒。</p>
+<p align="center">564 个条目。 从射击、竞速与飞行，到冒险、解谜和沙盒。</p>
 
-<p><a href="#genre-shooter">射击</a> <b>111</b> · <a href="#genre-action-and-combat">动作与战斗</a> <b>57</b> · <a href="#genre-platformer-and-runner">平台跳跃与跑酷</a> <b>38</b> · <a href="#genre-racing-and-driving">竞速与驾驶</a> <b>75</b> · <a href="#genre-flight">飞行</a> <b>28</b> · <a href="#genre-sports">体育</a> <b>15</b> · <a href="#genre-adventure-and-exploration">冒险与探索</a> <b>77</b> · <a href="#genre-puzzle">解谜</a> <b>23</b> · <a href="#genre-strategy-and-management">策略与经营</a> <b>47</b> · <a href="#genre-sandbox">沙盒</a> <b>27</b> · <a href="#genre-casual-and-arcade">休闲与街机</a> <b>35</b> · <a href="#genre-interactive-story">互动叙事</a> <b>3</b> · <a href="#genre-simulation-and-visualization">模拟与可视化</a> <b>4</b> · <a href="#genre-other-games">其他游戏</a> <b>22</b></p>
+<p><a href="#genre-shooter">射击</a> <b>111</b> · <a href="#genre-action-and-combat">动作与战斗</a> <b>57</b> · <a href="#genre-platformer-and-runner">平台跳跃与跑酷</a> <b>38</b> · <a href="#genre-racing-and-driving">竞速与驾驶</a> <b>75</b> · <a href="#genre-flight">飞行</a> <b>28</b> · <a href="#genre-sports">体育</a> <b>15</b> · <a href="#genre-adventure-and-exploration">冒险与探索</a> <b>77</b> · <a href="#genre-puzzle">解谜</a> <b>23</b> · <a href="#genre-strategy-and-management">策略与经营</a> <b>47</b> · <a href="#genre-sandbox">沙盒</a> <b>27</b> · <a href="#genre-casual-and-arcade">休闲与街机</a> <b>35</b> · <a href="#genre-interactive-story">互动叙事</a> <b>3</b> · <a href="#genre-simulation-and-visualization">模拟与可视化</a> <b>4</b> · <a href="#genre-other-games">其他游戏</a> <b>24</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1169,6 +1169,8 @@
 
 <tr><td><a href="https://raunakpatil.com/radar">best-ai-tools</a></td><td><a href="https://github.com/raunakpatil">raunakpatil</a></td><td>MIT</td><td><a href="https://github.com/raunakpatil/best-ai-tools">代码</a></td></tr>
 
+<tr><td><a href="https://21cabbagee.github.io/capybara-delivery-3d/">capybara-delivery-3d</a></td><td><a href="https://github.com/21cabbagee">21cabbagee</a></td><td>MIT</td><td><a href="https://github.com/21cabbagee/capybara-delivery-3d">代码</a></td></tr>
+
 <tr><td><a href="https://1xaispark.com/games/casa-de-gemas">casadegema</a></td><td><a href="https://github.com/deepujain">deepujain</a></td><td>MIT</td><td><a href="https://github.com/deepujain/casadegema">代码</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/casadegema-e0e0cb69">文件</a></td></tr>
 
 <tr><td><a href="https://fruit-fling.fly.dev">fruit-fling</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/fruit-fling">代码</a></td></tr>
@@ -1178,6 +1180,8 @@
 <tr><td><a href="https://www.glitchless.gg">glitchless</a></td><td><a href="https://github.com/glitchless-gg">glitchless-gg</a></td><td>MIT</td><td><a href="https://github.com/glitchless-gg/glitchless">代码</a></td></tr>
 
 <tr><td><a href="https://playroom.mmonoo.com/en/games/ink-fill/#play">ink-fill</a></td><td><a href="https://github.com/simpleusername96">simpleusername96</a></td><td>MIT</td><td><a href="https://github.com/simpleusername96/ink-fill">代码</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/ink-fill-7a4f8a3d">文件</a></td></tr>
+
+<tr><td><a href="https://link-sekai-ot4mp9chy59.qoder.zone">LINK-SEKAI</a></td><td><a href="https://github.com/EliasNeko">EliasNeko</a></td><td>MIT</td><td><a href="https://github.com/eliasneko/link-sekai">代码</a></td></tr>
 
 <tr><td><a href="https://munimv2.itch.io/little-ember">little-ember</a></td><td><a href="https://github.com/munimtechnologies">munimtechnologies</a></td><td>Apache-2.0</td><td><a href="https://github.com/munimtechnologies/little-ember">代码</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/little-ember-33221b54">文件</a></td></tr>
 
@@ -1193,4 +1197,4 @@
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.zh-CN.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.zh-CN.md">首页</a> · <a href="README.zh-CN.md">游戏</a> · <a href="../scenes/README.zh-CN.md">世界与场景</a> · <a href="../videos/README.zh-CN.md">视频</a> · <a href="../tools/README.zh-CN.md">工具</a> · <a href="../visualizations/README.zh-CN.md">可视化</a> · <a href="../wallpapers/README.zh-CN.md">壁纸</a> · <a href="#top">返回顶部</a><br>目录数据：2026-11-17</sub></p>
+<p align="center"><a href="../docs/i18n/README.zh-CN.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.zh-CN.md">首页</a> · <a href="README.zh-CN.md">游戏</a> · <a href="../scenes/README.zh-CN.md">世界与场景</a> · <a href="../videos/README.zh-CN.md">视频</a> · <a href="../tools/README.zh-CN.md">工具</a> · <a href="../visualizations/README.zh-CN.md">可视化</a> · <a href="../wallpapers/README.zh-CN.md">壁纸</a> · <a href="#top">返回顶部</a><br>目录数据：2026-11-18</sub></p>

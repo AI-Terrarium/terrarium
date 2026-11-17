@@ -194,4 +194,4 @@
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.zh-TW.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.zh-TW.md">首頁</a> · <a href="../games/README.zh-TW.md">遊戲</a> · <a href="../scenes/README.zh-TW.md">世界與場景</a> · <a href="../videos/README.zh-TW.md">影片</a> · <a href="../tools/README.zh-TW.md">工具</a> · <a href="README.zh-TW.md">視覺化</a> · <a href="../wallpapers/README.zh-TW.md">桌布</a> · <a href="#top">返回頂端</a><br>目錄資料：2026-11-17</sub></p>
+<p align="center"><a href="../docs/i18n/README.zh-TW.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.zh-TW.md">首頁</a> · <a href="../games/README.zh-TW.md">遊戲</a> · <a href="../scenes/README.zh-TW.md">世界與場景</a> · <a href="../videos/README.zh-TW.md">影片</a> · <a href="../tools/README.zh-TW.md">工具</a> · <a href="README.zh-TW.md">視覺化</a> · <a href="../wallpapers/README.zh-TW.md">桌布</a> · <a href="#top">返回頂端</a><br>目錄資料：2026-11-18</sub></p>

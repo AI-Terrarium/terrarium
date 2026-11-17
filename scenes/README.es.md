@@ -360,4 +360,4 @@ Obras sin imagen de vista previa:
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.es.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.es.md">Inicio</a> · <a href="../games/README.es.md">Juegos</a> · <a href="README.es.md">Mundos y escenas</a> · <a href="../videos/README.es.md">Vídeos</a> · <a href="../tools/README.es.md">Herramientas</a> · <a href="../visualizations/README.es.md">Visualizaciones</a> · <a href="../wallpapers/README.es.md">Fondos de pantalla</a> · <a href="#top">Volver arriba</a><br>Datos del catálogo: 2026-11-17</sub></p>
+<p align="center"><a href="../docs/i18n/README.es.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.es.md">Inicio</a> · <a href="../games/README.es.md">Juegos</a> · <a href="README.es.md">Mundos y escenas</a> · <a href="../videos/README.es.md">Vídeos</a> · <a href="../tools/README.es.md">Herramientas</a> · <a href="../visualizations/README.es.md">Visualizaciones</a> · <a href="../wallpapers/README.es.md">Fondos de pantalla</a> · <a href="#top">Volver arriba</a><br>Datos del catálogo: 2026-11-18</sub></p>
