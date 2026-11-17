@@ -168,3 +168,5 @@ If that generator also writes homepages, port the new prose and marker pairs
 into its templates before regenerating them. Connect and verify that discovery
 pipeline before claiming a daily catalog update or the fastest/broadest coverage
 against other collections.
+
+After the platform publishes a batch to HF, it dispatches `sync-catalog.yml` with the exact HF revision and batch ID. This catalog-only job validates that pair, renders all languages, and commits the receipt without refreshing engagement metrics or querying X. It shares the showcase concurrency group and checks out current main when it starts, preserving intervening GitHub edits. The existing eight-hour showcase schedule remains a fallback. A dispatch acknowledgement alone never means the catalogs match; the platform verifies the committed batch ID and both content hashes.

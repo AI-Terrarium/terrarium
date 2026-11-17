@@ -12,8 +12,8 @@ import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.error import HTTPError
-from urllib.request import Request, urlopen
 from urllib.parse import urlsplit
+from urllib.request import Request, urlopen
 
 from catalog_contract import (
     FORMS,
@@ -53,27 +53,35 @@ def fetch(url, missing=False):
     return data
 
 
-def download(wait_seconds=0):
+def download(wait_seconds=0, *, revision=None, batch_id=None):
+    if revision is not None and not re.fullmatch(r"[a-f0-9]{40}", revision):
+        raise ValueError("invalid_source_revision")
     deadline = time.monotonic() + wait_seconds
     now = datetime.now(timezone.utc)
     anchor = now.replace(hour=1, minute=0, second=0, microsecond=0)
     slot = anchor + (int((now - anchor) // timedelta(hours=8))) * timedelta(hours=8)
     while True:
-        info = json.loads(fetch(f"https://huggingface.co/api/datasets/{REPO}?expand[]=sha"))
-        revision = info["sha"]
-        if len(revision) != 40 or any(c not in "0123456789abcdef" for c in revision):
+        selected = revision
+        if selected is None:
+            info = json.loads(fetch(f"https://huggingface.co/api/datasets/{REPO}?expand[]=sha"))
+            selected = info["sha"]
+        if not re.fullmatch(r"[a-f0-9]{40}", selected):
             raise ValueError("invalid_source_revision")
-        root = f"https://huggingface.co/datasets/{REPO}/raw/{revision}/"
+        root = f"https://huggingface.co/datasets/{REPO}/raw/{selected}/"
         marker = fetch(root + "catalog-sync.json", missing=True)
         if marker is None:
-            return None, revision
+            if batch_id:
+                raise ValueError("expected_batch_missing")
+            return None, selected
         manifest = json.loads(marker)
+        if batch_id and manifest.get("batch_id") != batch_id:
+            raise ValueError("source_batch_mismatch")
         generated = datetime.fromisoformat(manifest["generated_at"].replace("Z", "+00:00"))
-        if generated >= slot or time.monotonic() >= deadline:
+        if revision or generated >= slot or time.monotonic() >= deadline:
             return {
                 name: marker if name == "catalog-sync.json" else fetch(root + name)
                 for name in FILES
-            }, revision
+            }, selected
         time.sleep(min(15, max(0, deadline - time.monotonic())))
 
 
@@ -313,15 +321,21 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--root", type=Path, default=ROOT)
     parser.add_argument("--snapshot", type=Path)
+    parser.add_argument("--hf-revision")
+    parser.add_argument("--batch-id")
     parser.add_argument("--wait-seconds", type=int, choices=range(0, 601), default=0)
     args = parser.parse_args()
+    if bool(args.hf_revision) != bool(args.batch_id) or (args.snapshot and args.hf_revision):
+        parser.error("Pinned synchronization requires both --hf-revision and --batch-id")
     if args.snapshot:
         bundle, revision = (
             {name: (args.snapshot / name).read_bytes() for name in FILES},
             "offline-fixture",
         )
     else:
-        bundle, revision = download(args.wait_seconds)
+        bundle, revision = download(
+            args.wait_seconds, revision=args.hf_revision, batch_id=args.batch_id
+        )
     if bundle is None:
         print(json.dumps({"status": "source_not_ready", "source": REPO}))
         return
