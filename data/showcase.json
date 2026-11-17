@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-17T07:57:05Z",
+  "updated_at": "2026-11-17T08:56:51Z",
   "method": "public-support-v1",
   "sources": {
     "bilibili:BV1ByWM6mE1D": {
@@ -2845,7 +2845,7 @@
       "published_at": "2026-09-26T00:41:09Z",
       "metrics": {
         "stars": 123,
-        "forks": 45
+        "forks": 44
       }
     },
     "github:jediconcepts/j1-racing": {
@@ -3312,8 +3312,8 @@
       "url": "https://github.com/lauramionel/cayley-flight-simulator",
       "published_at": "2026-11-11T12:17:46Z",
       "metrics": {
-        "stars": 7,
-        "forks": 3
+        "stars": 8,
+        "forks": 4
       }
     },
     "github:learnprompt/fowl-fortress": {
@@ -4257,7 +4257,7 @@
       "url": "https://github.com/op7418/guizang-game-skill",
       "published_at": "2026-11-11T16:28:54Z",
       "metrics": {
-        "stars": 391,
+        "stars": 393,
         "forks": 61
       }
     },
@@ -4581,7 +4581,7 @@
       "url": "https://github.com/realcodebear/saltline-fable-5.2",
       "published_at": "2026-11-10T15:04:30Z",
       "metrics": {
-        "stars": 380,
+        "stars": 381,
         "forks": 118
       }
     },
@@ -6858,7 +6858,7 @@
       "url": "https://x.com/i/status/2119897113534529605",
       "published_at": "2026-11-09T20:57:12.000Z",
       "metrics": {
-        "likes": 593,
+        "likes": 594,
         "comments": 24
       }
     },
@@ -6948,7 +6948,7 @@
       "url": "https://x.com/i/status/2119908486880342326",
       "published_at": "2026-11-09T21:42:23.000Z",
       "metrics": {
-        "likes": 74,
+        "likes": 73,
         "comments": 6
       }
     },
@@ -7011,7 +7011,7 @@
       "url": "https://x.com/i/status/2119925633564463609",
       "published_at": "2026-11-09T22:50:32.000Z",
       "metrics": {
-        "likes": 14908,
+        "likes": 14909,
         "comments": 852
       }
     },
@@ -7029,7 +7029,7 @@
       "url": "https://x.com/i/status/2119935331499925557",
       "published_at": "2026-11-09T23:29:04.000Z",
       "metrics": {
-        "likes": 1984,
+        "likes": 1985,
         "comments": 136
       }
     },
@@ -7165,7 +7165,7 @@
       "published_at": "2026-11-10T19:35:07.000Z",
       "metrics": {
         "likes": 1788,
-        "comments": 142
+        "comments": 143
       }
     },
     "x:2120248525254742318": {
@@ -7191,7 +7191,7 @@
       "url": "https://x.com/i/status/2120284261089673376",
       "published_at": "2026-11-10T22:35:35.000Z",
       "metrics": {
-        "likes": 17936,
+        "likes": 17933,
         "comments": 501
       }
     },
@@ -7200,7 +7200,7 @@
       "url": "https://x.com/i/status/2120341251178594532",
       "published_at": "2026-11-11T02:22:02.000Z",
       "metrics": {
-        "likes": 7991,
+        "likes": 7992,
         "comments": 388
       }
     },
