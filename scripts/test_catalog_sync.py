@@ -1,11 +1,11 @@
-import hashlib
 import json
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
 from catalog_contract import digest, jsonl, normalize
-from sync_public_catalog import apply_snapshot, merge_catalog
+from sync_public_catalog import FILES, apply_snapshot, download, merge_catalog
 
 
 def entry(**values):
@@ -20,6 +20,38 @@ def entry(**values):
 
 
 class CatalogSyncTests(unittest.TestCase):
+    def test_pinned_dispatch_reads_one_revision_and_requires_the_expected_batch(self):
+        revision = "a" * 40
+        batch = "00000000-0000-0000-0000-000000000001"
+        marker = json.dumps({"batch_id": batch, "generated_at": "2026-01-01T00:00:00Z"}).encode()
+        seen = []
+
+        def fetch(url, **kwargs):
+            seen.append(url)
+            self.assertIn("/raw/" + revision + "/", url)
+            return marker if url.endswith("catalog-sync.json") else b"fixture"
+
+        with patch("sync_public_catalog.fetch", fetch):
+            bundle, actual = download(300, revision=revision, batch_id=batch)
+            self.assertEqual(actual, revision)
+            self.assertEqual(set(bundle), set(FILES))
+            with self.assertRaisesRegex(ValueError, "source_batch_mismatch"):
+                download(revision=revision, batch_id="another-batch")
+            with self.assertRaisesRegex(ValueError, "invalid_source_revision"):
+                download(revision="main", batch_id=batch)
+
+    def test_review_can_remove_only_the_exact_duplicate_github_record(self):
+        duplicate = normalize(entry(slug="duplicate"))
+        resolution = {
+            "kind": "work", "slug": "duplicate", "decision": "keep_platform",
+            "fields": list(duplicate), "remote_hash": digest(duplicate),
+        }
+        result, _ = merge_catalog([], [duplicate], [], [resolution])
+        self.assertEqual(result, [])
+        edited = duplicate | {"description": "New independent edit"}
+        result, _ = merge_catalog([], [edited], [], [resolution])
+        self.assertEqual(result, [edited])
+
     def test_disjoint_edits_and_same_field_conflicts(self):
         base = entry()
         result, conflicts = merge_catalog(
