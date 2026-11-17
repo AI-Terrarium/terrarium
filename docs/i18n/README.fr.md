@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">Populaires</a> · <a href="#latest">Nouveautés</a> · <a href="#contents">Sommaire</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1023</b> entrées · <b>6</b> catégories · <b>930</b> avec code public · <b>426</b> archives de code<br><sub>Données du catalogue : 2026-11-17</sub></p>
+<p align="center"><b>1024</b> entrées · <b>6</b> catégories · <b>931</b> avec code public · <b>426</b> archives de code<br><sub>Données du catalogue : 2026-11-17</sub></p>
 
 <a name="trending"></a>
 
@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · Populaires"></picture></a></p>
 
-<p align="center"><sub>Mise à jour : 2026-11-17 00:43 UTC · Actualisation prévue toutes les 8 heures</sub></p>
+<p align="center"><sub>Mise à jour : 2026-11-17 07:50 UTC · Actualisation prévue toutes les 8 heures</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · J’aime: 17 932 · Commentaires: 501</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · J’aime: 14 899 · Commentaires: 851</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · J’aime: 7 988 · Commentaires: 388</a></sub></td>
-<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · J’aime: 7 515 · Commentaires: 677</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · J’aime: 17 936 · Commentaires: 501</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · J’aime: 14 908 · Commentaires: 852</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · J’aime: 7 991 · Commentaires: 388</a></sub></td>
+<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · J’aime: 7 514 · Commentaires: 677</a></sub></td>
 </tr></table>
 
 <details><summary>Sources et classement</summary>
 
-Classement par soutiens publics, comme les mentions J’aime et les étoiles. Commentaires et partages départagent les égalités ; les vues sont affichées séparément. La publication la plus soutenue de chaque plateforme est retenue, sans répéter les sources. 806 sources · 4 plateformes · 7 non mesurées <a href="../../data/showcase.json">Voir les données</a> · <a href="../../scripts/SHOWCASE.md">Méthode</a>
+Classement par soutiens publics, comme les mentions J’aime et les étoiles. Commentaires et partages départagent les égalités ; les vues sont affichées séparément. La publication la plus soutenue de chaque plateforme est retenue, sans répéter les sources. 807 sources · 4 plateformes · 7 non mesurées <a href="../../data/showcase.json">Voir les données</a> · <a href="../../scripts/SHOWCASE.md">Méthode</a>
 
 </details>
 
@@ -74,7 +74,7 @@ Découvrez une sélection, choisissez un genre ou parcourez la collection compl�
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 Jeux</a> · 563</b><br><sub>487 avec code public · 191 archives de code</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 Jeux</a> · 564</b><br><sub>488 avec code public · 191 archives de code</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 Mondes et scènes</a> · 211</b><br><sub>203 avec code public · 94 archives de code</sub></td>
 
@@ -96,11 +96,11 @@ Découvrez une sélection, choisissez un genre ou parcourez la collection compl�
 
 <a name="contents-games"></a>
 
-### 🎮 Jeux · 563
+### 🎮 Jeux · 564
 
 Tir, course, vol, énigmes et bien d’autres jeux.
 
-<p><a href="../../games/README.fr.md#genre-shooter">Tir</a> <b>111</b> · <a href="../../games/README.fr.md#genre-action-and-combat">Action et combat</a> <b>57</b> · <a href="../../games/README.fr.md#genre-platformer-and-runner">Plateforme et course sans fin</a> <b>38</b> · <a href="../../games/README.fr.md#genre-racing-and-driving">Course et conduite</a> <b>75</b> · <a href="../../games/README.fr.md#genre-flight">Vol</a> <b>28</b> · <a href="../../games/README.fr.md#genre-sports">Sports</a> <b>15</b> · <a href="../../games/README.fr.md#genre-adventure-and-exploration">Aventure et exploration</a> <b>77</b> · <a href="../../games/README.fr.md#genre-puzzle">Énigmes</a> <b>23</b> · <a href="../../games/README.fr.md#genre-strategy-and-management">Stratégie et gestion</a> <b>47</b> · <a href="../../games/README.fr.md#genre-sandbox">Bac à sable</a> <b>27</b> · <a href="../../games/README.fr.md#genre-casual-and-arcade">Casual et arcade</a> <b>35</b> · <a href="../../games/README.fr.md#genre-interactive-story">Récit interactif</a> <b>3</b> · <a href="../../games/README.fr.md#genre-simulation-and-visualization">Simulation et visualisation</a> <b>4</b> · <a href="../../games/README.fr.md#genre-other-games">Autres jeux</a> <b>23</b></p>
+<p><a href="../../games/README.fr.md#genre-shooter">Tir</a> <b>111</b> · <a href="../../games/README.fr.md#genre-action-and-combat">Action et combat</a> <b>57</b> · <a href="../../games/README.fr.md#genre-platformer-and-runner">Plateforme et course sans fin</a> <b>38</b> · <a href="../../games/README.fr.md#genre-racing-and-driving">Course et conduite</a> <b>75</b> · <a href="../../games/README.fr.md#genre-flight">Vol</a> <b>28</b> · <a href="../../games/README.fr.md#genre-sports">Sports</a> <b>15</b> · <a href="../../games/README.fr.md#genre-adventure-and-exploration">Aventure et exploration</a> <b>77</b> · <a href="../../games/README.fr.md#genre-puzzle">Énigmes</a> <b>23</b> · <a href="../../games/README.fr.md#genre-strategy-and-management">Stratégie et gestion</a> <b>47</b> · <a href="../../games/README.fr.md#genre-sandbox">Bac à sable</a> <b>27</b> · <a href="../../games/README.fr.md#genre-casual-and-arcade">Casual et arcade</a> <b>35</b> · <a href="../../games/README.fr.md#genre-interactive-story">Récit interactif</a> <b>3</b> · <a href="../../games/README.fr.md#genre-simulation-and-visualization">Simulation et visualisation</a> <b>4</b> · <a href="../../games/README.fr.md#genre-other-games">Autres jeux</a> <b>24</b></p>
 
 <table>
 <tr>
@@ -110,7 +110,7 @@ Tir, course, vol, énigmes et bien d’autres jeux.
 </tr>
 </table>
 
-<p><b><a href="../../games/README.fr.md">Voir les 563 entrées →</a></b> · <a href="#contents">↑ Sommaire</a></p>
+<p><b><a href="../../games/README.fr.md">Voir les 564 entrées →</a></b> · <a href="#contents">↑ Sommaire</a></p>
 
 <a name="contents-scenes"></a>
 

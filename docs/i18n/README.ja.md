@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">人気</a> · <a href="#latest">新着</a> · <a href="#contents">目次</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1023</b> 収録項目 · <b>6</b> カテゴリー · <b>930</b> ソース公開 · <b>426</b> ソースアーカイブ<br><sub>カタログのデータ：2026-11-17</sub></p>
+<p align="center"><b>1024</b> 収録項目 · <b>6</b> カテゴリー · <b>931</b> ソース公開 · <b>426</b> ソースアーカイブ<br><sub>カタログのデータ：2026-11-17</sub></p>
 
 <a name="trending"></a>
 
@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · 人気"></picture></a></p>
 
-<p align="center"><sub>人気データ更新：2026-11-17 00:43 UTC · 8 時間ごとに更新予定</sub></p>
+<p align="center"><sub>人気データ更新：2026-11-17 07:50 UTC · 8 時間ごとに更新予定</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · 17,932 いいね · 501 コメント</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · 14,899 いいね · 851 コメント</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · 7,988 いいね · 388 コメント</a></sub></td>
-<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · 7,515 いいね · 677 コメント</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · 17,936 いいね · 501 コメント</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · 14,908 いいね · 852 コメント</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · 7,991 いいね · 388 コメント</a></sub></td>
+<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">Untitled open-world driving game</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · 7,514 いいね · 677 コメント</a></sub></td>
 </tr></table>
 
 <details><summary>データの出典と並び順</summary>
 
-公開の「いいね」や Star などの支持数で並べ、同数の場合のみコメントや共有数を使います。再生数は別に表示。各プラットフォームで最も支持された投稿を採用し、同じ出典は重複表示しません。 806 件の出典 · 4 プラットフォーム · 7 件は未取得 <a href="../../data/showcase.json">データを見る</a> · <a href="../../scripts/SHOWCASE.md">集計方法</a>
+公開の「いいね」や Star などの支持数で並べ、同数の場合のみコメントや共有数を使います。再生数は別に表示。各プラットフォームで最も支持された投稿を採用し、同じ出典は重複表示しません。 807 件の出典 · 4 プラットフォーム · 7 件は未取得 <a href="../../data/showcase.json">データを見る</a> · <a href="../../scripts/SHOWCASE.md">集計方法</a>
 
 </details>
 
@@ -74,7 +74,7 @@
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 ゲーム</a> · 563</b><br><sub>487 ソース公開 · 191 ソースアーカイブ</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 ゲーム</a> · 564</b><br><sub>488 ソース公開 · 191 ソースアーカイブ</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 ワールドとシーン</a> · 211</b><br><sub>203 ソース公開 · 94 ソースアーカイブ</sub></td>
 
@@ -96,11 +96,11 @@
 
 <a name="contents-games"></a>
 
-### 🎮 ゲーム · 563
+### 🎮 ゲーム · 564
 
 シューティング、レース、フライト、パズルなど多彩なゲーム。
 
-<p><a href="../../games/README.ja.md#genre-shooter">シューティング</a> <b>111</b> · <a href="../../games/README.ja.md#genre-action-and-combat">アクション・戦闘</a> <b>57</b> · <a href="../../games/README.ja.md#genre-platformer-and-runner">プラットフォーマー・ランナー</a> <b>38</b> · <a href="../../games/README.ja.md#genre-racing-and-driving">レース・ドライブ</a> <b>75</b> · <a href="../../games/README.ja.md#genre-flight">フライト</a> <b>28</b> · <a href="../../games/README.ja.md#genre-sports">スポーツ</a> <b>15</b> · <a href="../../games/README.ja.md#genre-adventure-and-exploration">アドベンチャー・探索</a> <b>77</b> · <a href="../../games/README.ja.md#genre-puzzle">パズル</a> <b>23</b> · <a href="../../games/README.ja.md#genre-strategy-and-management">戦略・経営</a> <b>47</b> · <a href="../../games/README.ja.md#genre-sandbox">サンドボックス</a> <b>27</b> · <a href="../../games/README.ja.md#genre-casual-and-arcade">カジュアル・アーケード</a> <b>35</b> · <a href="../../games/README.ja.md#genre-interactive-story">インタラクティブストーリー</a> <b>3</b> · <a href="../../games/README.ja.md#genre-simulation-and-visualization">シミュレーション・可視化</a> <b>4</b> · <a href="../../games/README.ja.md#genre-other-games">その他</a> <b>23</b></p>
+<p><a href="../../games/README.ja.md#genre-shooter">シューティング</a> <b>111</b> · <a href="../../games/README.ja.md#genre-action-and-combat">アクション・戦闘</a> <b>57</b> · <a href="../../games/README.ja.md#genre-platformer-and-runner">プラットフォーマー・ランナー</a> <b>38</b> · <a href="../../games/README.ja.md#genre-racing-and-driving">レース・ドライブ</a> <b>75</b> · <a href="../../games/README.ja.md#genre-flight">フライト</a> <b>28</b> · <a href="../../games/README.ja.md#genre-sports">スポーツ</a> <b>15</b> · <a href="../../games/README.ja.md#genre-adventure-and-exploration">アドベンチャー・探索</a> <b>77</b> · <a href="../../games/README.ja.md#genre-puzzle">パズル</a> <b>23</b> · <a href="../../games/README.ja.md#genre-strategy-and-management">戦略・経営</a> <b>47</b> · <a href="../../games/README.ja.md#genre-sandbox">サンドボックス</a> <b>27</b> · <a href="../../games/README.ja.md#genre-casual-and-arcade">カジュアル・アーケード</a> <b>35</b> · <a href="../../games/README.ja.md#genre-interactive-story">インタラクティブストーリー</a> <b>3</b> · <a href="../../games/README.ja.md#genre-simulation-and-visualization">シミュレーション・可視化</a> <b>4</b> · <a href="../../games/README.ja.md#genre-other-games">その他</a> <b>24</b></p>
 
 <table>
 <tr>
@@ -110,7 +110,7 @@
 </tr>
 </table>
 
-<p><b><a href="../../games/README.ja.md">全 563 件を見る →</a></b> · <a href="#contents">↑ 目次</a></p>
+<p><b><a href="../../games/README.ja.md">全 564 件を見る →</a></b> · <a href="#contents">↑ 目次</a></p>
 
 <a name="contents-scenes"></a>
 

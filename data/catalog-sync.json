@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "source_batch_id": "9a770417-cf73-47e9-8e32-95e1a9c85648",
-  "source_hf_revision": "dfb1367219d5adcb65992188e577c7228a68fb1d",
-  "catalog_sha256": "4fcb14ca4a564b4b0b6bf89cef3e86c26621b290eafb4c12920c9983ef7653bd",
-  "source_catalog_sha256": "60024896f1d63457f8f65b08e5d783c13922ef92cb370696ef966865d2631bb2",
-  "catalog_updated_at": "2026-11-16T19:40:39.610543+00:00",
+  "source_batch_id": "5e0ee202-3865-46ae-bc3c-ed6261c79c48",
+  "source_hf_revision": "138318ce37b38934fdb38281ce827cf4a2c951a8",
+  "catalog_sha256": "56ec362873249b611fdada472c1575d3e802a7f9c424ad96c99e3178ba704c45",
+  "source_catalog_sha256": "da66dc5c5f3475006ca6e4dfc87f935910e1bcbda4b89baa5745e8e12da45b48",
+  "catalog_updated_at": "2026-11-17T04:59:06.280039+00:00",
   "interval_hours": 8,
   "status": "conflict",
   "conflicts": []

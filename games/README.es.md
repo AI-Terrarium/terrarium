@@ -15,9 +15,9 @@
 
 <h1 align="center">Juegos</h1>
 
-<p align="center">563 entradas. Disparos, conducción, vuelo, puzles y mucho más.</p>
+<p align="center">564 entradas. Disparos, conducción, vuelo, puzles y mucho más.</p>
 
-<p><a href="#genre-shooter">Disparos</a> <b>111</b> · <a href="#genre-action-and-combat">Acción y combate</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plataformas y carreras sin fin</a> <b>38</b> · <a href="#genre-racing-and-driving">Carreras y conducción</a> <b>75</b> · <a href="#genre-flight">Vuelo</a> <b>28</b> · <a href="#genre-sports">Deportes</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventura y exploración</a> <b>77</b> · <a href="#genre-puzzle">Puzles</a> <b>23</b> · <a href="#genre-strategy-and-management">Estrategia y gestión</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casuales y arcade</a> <b>35</b> · <a href="#genre-interactive-story">Historia interactiva</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulación y visualización</a> <b>4</b> · <a href="#genre-other-games">Otros juegos</a> <b>23</b></p>
+<p><a href="#genre-shooter">Disparos</a> <b>111</b> · <a href="#genre-action-and-combat">Acción y combate</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plataformas y carreras sin fin</a> <b>38</b> · <a href="#genre-racing-and-driving">Carreras y conducción</a> <b>75</b> · <a href="#genre-flight">Vuelo</a> <b>28</b> · <a href="#genre-sports">Deportes</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventura y exploración</a> <b>77</b> · <a href="#genre-puzzle">Puzles</a> <b>23</b> · <a href="#genre-strategy-and-management">Estrategia y gestión</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casuales y arcade</a> <b>35</b> · <a href="#genre-interactive-story">Historia interactiva</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulación y visualización</a> <b>4</b> · <a href="#genre-other-games">Otros juegos</a> <b>24</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1176,6 +1176,8 @@ Obras sin imagen de vista previa:
 <tr><td><a href="https://raunakpatil.com/radar">best-ai-tools</a></td><td><a href="https://github.com/raunakpatil">raunakpatil</a></td><td>MIT</td><td><a href="https://github.com/raunakpatil/best-ai-tools">Código</a></td></tr>
 
 <tr><td><a href="https://1xaispark.com/games/casa-de-gemas">casadegema</a></td><td><a href="https://github.com/deepujain">deepujain</a></td><td>MIT</td><td><a href="https://github.com/deepujain/casadegema">Código</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/casadegema-e0e0cb69">Archivos</a></td></tr>
+
+<tr><td><a href="https://fruit-fling.fly.dev">fruit-fling</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/fruit-fling">Código</a></td></tr>
 
 <tr><td><a href="https://www.glitchless.gg">glitchless</a></td><td><a href="https://github.com/glitchless-gg">glitchless-gg</a></td><td>MIT</td><td><a href="https://github.com/glitchless-gg/glitchless">Código</a></td></tr>
 
