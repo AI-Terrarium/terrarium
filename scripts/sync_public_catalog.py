@@ -119,6 +119,19 @@ def canonical_url(value):
     return parsed.scheme.lower(), (parsed.hostname or "").lower(), path, parsed.query
 
 
+def archive_matches(record, archive):
+    """A shared slug alone cannot attach another author's archived source files."""
+    creator = (record.get("creator") or "").strip().lstrip("@").casefold()
+    owner = (archive.get("creator") or "").strip().lstrip("@").casefold()
+    if creator and owner and creator != owner:
+        return False
+    source = canonical_url(record.get("source_url") or "")
+    archived = canonical_url(archive.get("source_url") or "")
+    return not (
+        source[1] == archived[1] == "github.com" and source[2] != archived[2]
+    )
+
+
 def bootstrap_catalog(root, incoming_rows, archives):
     """Preserve the existing reviewed README entries when adding a structured feed."""
     from refresh_showcase import CARD, load_catalog, plain
@@ -246,7 +259,10 @@ def apply_snapshot(root, bundle, revision):
     actual_hash = hashlib.sha256(body).hexdigest()
     active = [row for row in merged if row.get("status") != "withdrawn"]
     by_id = {identity(row): row for row in active}
-    visible_archives = [row for row in archives if identity(row) in by_id]
+    visible_archives = [
+        row for row in archives
+        if identity(row) in by_id and archive_matches(by_id[identity(row)], row)
+    ]
     creators, tags = (
         json.loads(bundle["catalog-creators.json"]),
         json.loads(bundle["catalog-tags.json"]),

@@ -5,7 +5,13 @@ from pathlib import Path
 from unittest.mock import patch
 
 from catalog_contract import digest, jsonl, normalize
-from sync_public_catalog import FILES, apply_snapshot, download, merge_catalog
+from sync_public_catalog import (
+    FILES,
+    apply_snapshot,
+    archive_matches,
+    download,
+    merge_catalog,
+)
 
 
 def entry(**values):
@@ -20,6 +26,13 @@ def entry(**values):
 
 
 class CatalogSyncTests(unittest.TestCase):
+    def test_shared_slug_cannot_attach_another_authors_or_repositories_files(self):
+        work = entry(source_url="https://github.com/owner/game")
+        self.assertFalse(archive_matches(work, work | {"creator": "Someone Else"}))
+        self.assertFalse(archive_matches(work, work | {"source_url": "https://github.com/owner/other"}))
+        self.assertTrue(archive_matches(work, work | {"source_url": "https://github.com/Owner/Game.git/"}))
+        self.assertTrue(archive_matches(work, work | {"creator": "@ORIGINAL"}))
+
     def test_pinned_dispatch_reads_one_revision_and_requires_the_expected_batch(self):
         revision = "a" * 40
         batch = "00000000-0000-0000-0000-000000000001"
