@@ -4,7 +4,7 @@
 
 <h1 align="center">Terrarium</h1>
 
-<p align="center"><b>최신 3D 게임, 인터랙티브 월드, 영상과 시각화를 폭넓게 수록하고 인기 목록을 8시간마다 갱신하며, 완전한 오픈 소스 코드와 공개된 생성 프롬프트를 무료로 제공합니다.</b></p>
+<p align="center"><b>AI로 만든 1,000개 이상의 3D 게임, 인터랙티브 월드, 영상과 시각화를 만나보세요. 작품 모음은 8시간마다 갱신되며, 학습과 창작에 활용할 수 있도록 완전한 오픈 소스 코드와 공개된 생성 프롬프트를 무료로 보관해 제공합니다.</b></p>
 
 <p align="center"><a href="https://terraium.ai/"><img src="https://img.shields.io/badge/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-Terrarium-c6f25a?labelColor=30363d" height="22" alt="웹사이트"></a>
 <a href="https://github.com/AI-Terrarium/terrarium"><img src="https://img.shields.io/badge/GitHub-Repository-c6f25a?labelColor=30363d" height="22" alt="GitHub"></a>

@@ -4,7 +4,7 @@
 
 <h1 align="center">Terrarium</h1>
 
-<p align="center"><b>全面收录最新的 3D 游戏、交互世界、视频与可视化，热榜每 8 小时刷新，完整开源代码与公开生成提示词免费归档。</b></p>
+<p align="center"><b>探索 1,000+ AI 创作的 3D 游戏、交互世界、视频与可视化作品，作品库每 8 小时更新，完整开源代码与公开生成提示词免费归档，供你学习、复现与再创作。</b></p>
 
 <p align="center"><a href="https://terraium.ai/"><img src="https://img.shields.io/badge/%E5%AE%98%E7%BD%91-Terrarium-c6f25a?labelColor=30363d" height="22" alt="官网"></a>
 <a href="https://github.com/AI-Terrarium/terrarium"><img src="https://img.shields.io/badge/GitHub-Repository-c6f25a?labelColor=30363d" height="22" alt="GitHub"></a>

@@ -2,7 +2,7 @@
   "en": {
     "name": "English",
     "filename": "README.md",
-    "tagline": "A comprehensive showcase of the latest 3D games, interactive worlds, videos and visualizations—with trending picks refreshed every 8 hours and free archives of complete open-source code and published generation prompts.",
+    "tagline": "Discover 1,000+ AI-built 3D games, interactive worlds, videos and visualizations—updated every 8 hours, with free archives of complete open-source code and published prompts to learn from and build on.",
     "nav": [
       "Trending",
       "Latest",
@@ -103,7 +103,7 @@
   "zh-CN": {
     "name": "简体中文",
     "filename": "README.zh-CN.md",
-    "tagline": "全面收录最新的 3D 游戏、交互世界、视频与可视化，热榜每 8 小时刷新，完整开源代码与公开生成提示词免费归档。",
+    "tagline": "探索 1,000+ AI 创作的 3D 游戏、交互世界、视频与可视化作品，作品库每 8 小时更新，完整开源代码与公开生成提示词免费归档，供你学习、复现与再创作。",
     "nav": [
       "最热",
       "最新",
@@ -204,7 +204,7 @@
   "zh-TW": {
     "name": "繁體中文",
     "filename": "README.zh-TW.md",
-    "tagline": "全面收錄最新的 3D 遊戲、互動世界、影片與視覺化作品，熱門榜單每 8 小時更新，完整開源原始碼與公開生成提示詞免費封存。",
+    "tagline": "探索 1,000+ AI 創作的 3D 遊戲、互動世界、影片與視覺化作品，作品庫每 8 小時更新，完整開源原始碼與公開生成提示詞免費封存，供你學習、重現與再創作。",
     "nav": [
       "熱門",
       "最新",
@@ -305,7 +305,7 @@
   "ja": {
     "name": "日本語",
     "filename": "README.ja.md",
-    "tagline": "最新の 3D ゲーム、インタラクティブなワールド、動画、可視化作品を幅広く収録し、人気作品を 8 時間ごとに更新、完全なオープンソースコードと公開された生成プロンプトを無料で提供しています。",
+    "tagline": "AI が制作した 1,000 件以上の 3D ゲーム、インタラクティブなワールド、動画、可視化作品を発見。作品集は 8 時間ごとに更新され、完全なオープンソースコードと公開された生成プロンプトを学習や創作に使える無料アーカイブとして提供します。",
     "nav": [
       "人気",
       "新着",
@@ -406,7 +406,7 @@
   "ko": {
     "name": "한국어",
     "filename": "README.ko.md",
-    "tagline": "최신 3D 게임, 인터랙티브 월드, 영상과 시각화를 폭넓게 수록하고 인기 목록을 8시간마다 갱신하며, 완전한 오픈 소스 코드와 공개된 생성 프롬프트를 무료로 제공합니다.",
+    "tagline": "AI로 만든 1,000개 이상의 3D 게임, 인터랙티브 월드, 영상과 시각화를 만나보세요. 작품 모음은 8시간마다 갱신되며, 학습과 창작에 활용할 수 있도록 완전한 오픈 소스 코드와 공개된 생성 프롬프트를 무료로 보관해 제공합니다.",
     "nav": [
       "인기",
       "최신",
@@ -507,7 +507,7 @@
   "es": {
     "name": "Español",
     "filename": "README.es.md",
-    "tagline": "Una amplia colección de los últimos juegos 3D, mundos interactivos, vídeos y visualizaciones, con una selección popular actualizada cada 8 horas y archivos gratuitos de código abierto completo y prompts de generación publicados.",
+    "tagline": "Descubre más de 1.000 juegos 3D, mundos interactivos, vídeos y visualizaciones creados con IA: una colección actualizada cada 8 horas, con archivos gratuitos de código abierto completo y prompts de generación publicados para aprender y crear.",
     "nav": [
       "Popular",
       "Novedades",
@@ -608,7 +608,7 @@
   "pt-BR": {
     "name": "Português",
     "filename": "README.pt-BR.md",
-    "tagline": "Uma coleção abrangente dos mais recentes jogos 3D, mundos interativos, vídeos e visualizações, com destaques populares atualizados a cada 8 horas e arquivos gratuitos de código aberto completo e prompts de geração publicados.",
+    "tagline": "Descubra mais de 1.000 jogos 3D, mundos interativos, vídeos e visualizações criados com IA: uma coleção atualizada a cada 8 horas, com arquivos gratuitos de código aberto completo e prompts de geração publicados para aprender e criar.",
     "nav": [
       "Em alta",
       "Novidades",
@@ -709,7 +709,7 @@
   "fr": {
     "name": "Français",
     "filename": "README.fr.md",
-    "tagline": "Une vaste collection des derniers jeux 3D, mondes interactifs, vidéos et visualisations, avec une sélection populaire actualisée toutes les 8 heures et des archives gratuites de code open source complet et de prompts de génération publiés.",
+    "tagline": "Découvrez plus de 1 000 jeux 3D, mondes interactifs, vidéos et visualisations créés avec l’IA : une collection actualisée toutes les 8 heures, avec des archives gratuites de code open source complet et de prompts de génération publiés pour apprendre et créer.",
     "nav": [
       "Populaires",
       "Nouveautés",
@@ -810,7 +810,7 @@
   "de": {
     "name": "Deutsch",
     "filename": "README.de.md",
-    "tagline": "Eine umfassende Sammlung der neuesten 3D-Spiele, interaktiven Welten, Videos und Visualisierungen mit alle 8 Stunden aktualisierten beliebten Werken sowie kostenlosen Archiven des vollständigen Open-Source-Codes und veröffentlichter Generierungs-Prompts.",
+    "tagline": "Entdecke über 1.000 KI-erstellte 3D-Spiele, interaktive Welten, Videos und Visualisierungen: eine alle 8 Stunden aktualisierte Sammlung mit kostenlosen Archiven vollständigen Open-Source-Codes und veröffentlichter Generierungs-Prompts zum Lernen und Weiterentwickeln.",
     "nav": [
       "Beliebt",
       "Neu",
@@ -911,7 +911,7 @@
   "ru": {
     "name": "Русский",
     "filename": "README.ru.md",
-    "tagline": "Обширная коллекция новых 3D-игр, интерактивных миров, видео и визуализаций с обновлением популярных работ каждые 8 часов и бесплатными архивами полного открытого исходного кода и опубликованных промптов генерации.",
+    "tagline": "Откройте более 1 000 созданных с ИИ 3D-игр, интерактивных миров, видео и визуализаций: коллекция обновляется каждые 8 часов, а бесплатные архивы полного открытого исходного кода и опубликованных промптов генерации помогают учиться и создавать своё.",
     "nav": [
       "Популярное",
       "Новое",
