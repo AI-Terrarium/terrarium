@@ -170,3 +170,5 @@ pipeline before claiming a daily catalog update or the fastest/broadest coverage
 against other collections.
 
 After the platform publishes a batch to HF, it dispatches `sync-catalog.yml` with the exact HF revision and batch ID. This catalog-only job validates that pair, renders all languages, and commits the receipt without refreshing engagement metrics or querying X. It shares the showcase concurrency group and checks out current main when it starts, preserving intervening GitHub edits. The existing eight-hour showcase schedule remains a fallback. A dispatch acknowledgement alone never means the catalogs match; the platform verifies the committed batch ID and both content hashes.
+
+Archive Files links additionally require compatible author and canonical GitHub source identities. A matching slug cannot attach a different author's repository, even though the full HF archive index is retained for review.
