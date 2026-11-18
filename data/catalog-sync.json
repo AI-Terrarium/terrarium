@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "source_batch_id": "cddf1062-b805-47b6-9bfe-d972988339c3",
-  "source_hf_revision": "bc30a22e06e9b83550551f801512b635c04a6d46",
-  "catalog_sha256": "49a39c796980e12519cec23d2426466ae06118d4cc823bec0e7c56e575527ff6",
-  "source_catalog_sha256": "49a39c796980e12519cec23d2426466ae06118d4cc823bec0e7c56e575527ff6",
-  "catalog_updated_at": "2026-11-18T04:05:58.552837+00:00",
+  "source_batch_id": "4ea56e45-4622-4d94-a315-32ab16b373ff",
+  "source_hf_revision": "cb1c5ec0ae2a4df36f263fe0edd4a1bd6281c8c0",
+  "catalog_sha256": "53de68e6d8724dac63993194f8d89ec14b542495f35a2f5442bff6c1b8fdcf5e",
+  "source_catalog_sha256": "53de68e6d8724dac63993194f8d89ec14b542495f35a2f5442bff6c1b8fdcf5e",
+  "catalog_updated_at": "2026-11-18T13:07:32.017981+00:00",
   "interval_hours": 8,
   "status": "ready",
   "conflicts": []

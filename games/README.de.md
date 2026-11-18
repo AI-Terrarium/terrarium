@@ -15,9 +15,9 @@
 
 <h1 align="center">Spiele</h1>
 
-<p align="center">567 Einträge. Shooter, Rennen, Flugsimulationen, Rätsel und vieles mehr.</p>
+<p align="center">570 Einträge. Shooter, Rennen, Flugsimulationen, Rätsel und vieles mehr.</p>
 
-<p><a href="#genre-shooter">Shooter</a> <b>111</b> · <a href="#genre-action-and-combat">Action und Kampf</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plattform und Runner</a> <b>38</b> · <a href="#genre-racing-and-driving">Rennen und Fahren</a> <b>75</b> · <a href="#genre-flight">Flug</a> <b>28</b> · <a href="#genre-sports">Sport</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Abenteuer und Erkundung</a> <b>77</b> · <a href="#genre-puzzle">Rätsel</a> <b>23</b> · <a href="#genre-strategy-and-management">Strategie und Aufbau</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual und Arcade</a> <b>35</b> · <a href="#genre-interactive-story">Interaktive Geschichten</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation und Visualisierung</a> <b>4</b> · <a href="#genre-other-games">Weitere Spiele</a> <b>27</b></p>
+<p><a href="#genre-shooter">Shooter</a> <b>111</b> · <a href="#genre-action-and-combat">Action und Kampf</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plattform und Runner</a> <b>38</b> · <a href="#genre-racing-and-driving">Rennen und Fahren</a> <b>75</b> · <a href="#genre-flight">Flug</a> <b>28</b> · <a href="#genre-sports">Sport</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Abenteuer und Erkundung</a> <b>77</b> · <a href="#genre-puzzle">Rätsel</a> <b>23</b> · <a href="#genre-strategy-and-management">Strategie und Aufbau</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual und Arcade</a> <b>35</b> · <a href="#genre-interactive-story">Interaktive Geschichten</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation und Visualisierung</a> <b>4</b> · <a href="#genre-other-games">Weitere Spiele</a> <b>30</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1163,6 +1163,8 @@ Werke ohne Vorschaubild:
 
 <tr><th align="left">Werk</th><th align="left">Urheber</th><th align="left">Lizenz</th><th align="left">Links</th></tr>
 
+<tr><td><a href="https://aifight.wangnov-ai.com/">AI-fight</a></td><td><a href="https://github.com/Wangnov">Wangnov</a></td><td>MIT</td><td><a href="https://github.com/wangnov/ai-fight">Code</a></td></tr>
+
 <tr><td><a href="https://fusheng.qiaomu.ai/">ai-fushengji</a></td><td><a href="https://github.com/joeseesun">joeseesun</a></td><td>MIT</td><td><a href="https://github.com/joeseesun/ai-fushengji">Code</a></td></tr>
 
 <tr><td><a href="https://arcade-racing.onrender.com/">arcade-racing</a></td><td><a href="https://github.com/StackOverflowIsBetterThanAnyAI">StackOverflowIsBetterThanAnyAI</a></td><td>MIT</td><td><a href="https://github.com/stackoverflowisbetterthananyai/arcade-racing">Code</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/arcade-racing-932a5c9a">Dateien</a></td></tr>
@@ -1173,6 +1175,8 @@ Werke ohne Vorschaubild:
 
 <tr><td><a href="https://1xaispark.com/games/casa-de-gemas">casadegema</a></td><td><a href="https://github.com/deepujain">deepujain</a></td><td>MIT</td><td><a href="https://github.com/deepujain/casadegema">Code</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/casadegema-e0e0cb69">Dateien</a></td></tr>
 
+<tr><td><a href="https://sartaj1995.github.io/classic_snake__v2/">classic_snake__v2</a></td><td><a href="https://github.com/sartaj1995">sartaj1995</a></td><td>MIT</td><td><a href="https://github.com/sartaj1995/classic_snake__v2">Code</a></td></tr>
+
 <tr><td><a href="https://fruit-fling.fly.dev">fruit-fling</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/fruit-fling">Code</a></td></tr>
 
 <tr><td><a href="https://ggbot.itch.io/bitrimus-font">futureglimpses</a></td><td><a href="https://github.com/sewave">sewave</a></td><td>MIT</td><td><a href="https://github.com/sewave/futureglimpses">Code</a></td></tr>
@@ -1180,6 +1184,8 @@ Werke ohne Vorschaubild:
 <tr><td><a href="https://ywan033.github.io/game-recreations/play/rainlane-blades.html">game-recreations</a></td><td><a href="https://github.com/Ywan033">Ywan033</a></td><td>MIT</td><td><a href="https://github.com/ywan033/game-recreations">Code</a></td></tr>
 
 <tr><td><a href="https://www.glitchless.gg">glitchless</a></td><td><a href="https://github.com/glitchless-gg">glitchless-gg</a></td><td>MIT</td><td><a href="https://github.com/glitchless-gg/glitchless">Code</a></td></tr>
+
+<tr><td><a href="https://airt-gallery.github.io/hotwire-port-larrikin/">hotwire-port-larrikin</a></td><td><a href="https://github.com/airt-gallery">airt-gallery</a></td><td>MIT</td><td><a href="https://github.com/airt-gallery/hotwire-port-larrikin">Code</a></td></tr>
 
 <tr><td><a href="https://playroom.mmonoo.com/en/games/ink-fill/#play">ink-fill</a></td><td><a href="https://github.com/simpleusername96">simpleusername96</a></td><td>MIT</td><td><a href="https://github.com/simpleusername96/ink-fill">Code</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/ink-fill-7a4f8a3d">Dateien</a></td></tr>
 

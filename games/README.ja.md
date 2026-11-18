@@ -15,9 +15,9 @@
 
 <h1 align="center">ゲーム</h1>
 
-<p align="center">567 件。 シューティング、レース、フライト、パズルなど多彩なゲーム。</p>
+<p align="center">570 件。 シューティング、レース、フライト、パズルなど多彩なゲーム。</p>
 
-<p><a href="#genre-shooter">シューティング</a> <b>111</b> · <a href="#genre-action-and-combat">アクション・戦闘</a> <b>57</b> · <a href="#genre-platformer-and-runner">プラットフォーマー・ランナー</a> <b>38</b> · <a href="#genre-racing-and-driving">レース・ドライブ</a> <b>75</b> · <a href="#genre-flight">フライト</a> <b>28</b> · <a href="#genre-sports">スポーツ</a> <b>15</b> · <a href="#genre-adventure-and-exploration">アドベンチャー・探索</a> <b>77</b> · <a href="#genre-puzzle">パズル</a> <b>23</b> · <a href="#genre-strategy-and-management">戦略・経営</a> <b>47</b> · <a href="#genre-sandbox">サンドボックス</a> <b>27</b> · <a href="#genre-casual-and-arcade">カジュアル・アーケード</a> <b>35</b> · <a href="#genre-interactive-story">インタラクティブストーリー</a> <b>3</b> · <a href="#genre-simulation-and-visualization">シミュレーション・可視化</a> <b>4</b> · <a href="#genre-other-games">その他</a> <b>27</b></p>
+<p><a href="#genre-shooter">シューティング</a> <b>111</b> · <a href="#genre-action-and-combat">アクション・戦闘</a> <b>57</b> · <a href="#genre-platformer-and-runner">プラットフォーマー・ランナー</a> <b>38</b> · <a href="#genre-racing-and-driving">レース・ドライブ</a> <b>75</b> · <a href="#genre-flight">フライト</a> <b>28</b> · <a href="#genre-sports">スポーツ</a> <b>15</b> · <a href="#genre-adventure-and-exploration">アドベンチャー・探索</a> <b>77</b> · <a href="#genre-puzzle">パズル</a> <b>23</b> · <a href="#genre-strategy-and-management">戦略・経営</a> <b>47</b> · <a href="#genre-sandbox">サンドボックス</a> <b>27</b> · <a href="#genre-casual-and-arcade">カジュアル・アーケード</a> <b>35</b> · <a href="#genre-interactive-story">インタラクティブストーリー</a> <b>3</b> · <a href="#genre-simulation-and-visualization">シミュレーション・可視化</a> <b>4</b> · <a href="#genre-other-games">その他</a> <b>30</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1163,6 +1163,8 @@
 
 <tr><th align="left">作品</th><th align="left">作者</th><th align="left">ライセンス</th><th align="left">リンク</th></tr>
 
+<tr><td><a href="https://aifight.wangnov-ai.com/">AI-fight</a></td><td><a href="https://github.com/Wangnov">Wangnov</a></td><td>MIT</td><td><a href="https://github.com/wangnov/ai-fight">ソース</a></td></tr>
+
 <tr><td><a href="https://fusheng.qiaomu.ai/">ai-fushengji</a></td><td><a href="https://github.com/joeseesun">joeseesun</a></td><td>MIT</td><td><a href="https://github.com/joeseesun/ai-fushengji">ソース</a></td></tr>
 
 <tr><td><a href="https://arcade-racing.onrender.com/">arcade-racing</a></td><td><a href="https://github.com/StackOverflowIsBetterThanAnyAI">StackOverflowIsBetterThanAnyAI</a></td><td>MIT</td><td><a href="https://github.com/stackoverflowisbetterthananyai/arcade-racing">ソース</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/arcade-racing-932a5c9a">ファイル</a></td></tr>
@@ -1173,6 +1175,8 @@
 
 <tr><td><a href="https://1xaispark.com/games/casa-de-gemas">casadegema</a></td><td><a href="https://github.com/deepujain">deepujain</a></td><td>MIT</td><td><a href="https://github.com/deepujain/casadegema">ソース</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/casadegema-e0e0cb69">ファイル</a></td></tr>
 
+<tr><td><a href="https://sartaj1995.github.io/classic_snake__v2/">classic_snake__v2</a></td><td><a href="https://github.com/sartaj1995">sartaj1995</a></td><td>MIT</td><td><a href="https://github.com/sartaj1995/classic_snake__v2">ソース</a></td></tr>
+
 <tr><td><a href="https://fruit-fling.fly.dev">fruit-fling</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/fruit-fling">ソース</a></td></tr>
 
 <tr><td><a href="https://ggbot.itch.io/bitrimus-font">futureglimpses</a></td><td><a href="https://github.com/sewave">sewave</a></td><td>MIT</td><td><a href="https://github.com/sewave/futureglimpses">ソース</a></td></tr>
@@ -1180,6 +1184,8 @@
 <tr><td><a href="https://ywan033.github.io/game-recreations/play/rainlane-blades.html">game-recreations</a></td><td><a href="https://github.com/Ywan033">Ywan033</a></td><td>MIT</td><td><a href="https://github.com/ywan033/game-recreations">ソース</a></td></tr>
 
 <tr><td><a href="https://www.glitchless.gg">glitchless</a></td><td><a href="https://github.com/glitchless-gg">glitchless-gg</a></td><td>MIT</td><td><a href="https://github.com/glitchless-gg/glitchless">ソース</a></td></tr>
+
+<tr><td><a href="https://airt-gallery.github.io/hotwire-port-larrikin/">hotwire-port-larrikin</a></td><td><a href="https://github.com/airt-gallery">airt-gallery</a></td><td>MIT</td><td><a href="https://github.com/airt-gallery/hotwire-port-larrikin">ソース</a></td></tr>
 
 <tr><td><a href="https://playroom.mmonoo.com/en/games/ink-fill/#play">ink-fill</a></td><td><a href="https://github.com/simpleusername96">simpleusername96</a></td><td>MIT</td><td><a href="https://github.com/simpleusername96/ink-fill">ソース</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/ink-fill-7a4f8a3d">ファイル</a></td></tr>
 
