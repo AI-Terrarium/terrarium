@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · Популярное"></picture></a></p>
 
-<p align="center"><sub>Обновлено: 2026-11-17 18:30 UTC · Обновление запланировано каждые 8 часов</sub></p>
+<p align="center"><sub>Обновлено: 2026-11-18 08:22 UTC · Обновление запланировано каждые 8 часов</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Нравится: 17 940 · Комментарии: 501</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Нравится: 14 948 · Комментарии: 854</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Нравится: 7 993 · Комментарии: 388</a></sub></td>
-<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">CROSSTOWN</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Нравится: 7 518 · Комментарии: 677</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Нравится: 17 943 · Комментарии: 503</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Нравится: 14 967 · Комментарии: 857</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Нравится: 8 006 · Комментарии: 389</a></sub></td>
+<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">CROSSTOWN</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Нравится: 7 516 · Комментарии: 677</a></sub></td>
 </tr></table>
 
 <details><summary>Источники и порядок</summary>
 
-Сортировка по открытым отметкам «Нравится», звёздам и другим откликам поддержки. Комментарии и репосты используются при равенстве, просмотры показаны отдельно. Учитывается самая поддержанная публикация с каждой платформы; источники не дублируются. Источники: 808 · платформы: 4 · без данных: 7 <a href="../../data/showcase.json">Посмотреть данные</a> · <a href="../../scripts/SHOWCASE.md">Методика</a>
+Сортировка по открытым отметкам «Нравится», звёздам и другим откликам поддержки. Комментарии и репосты используются при равенстве, просмотры показаны отдельно. Учитывается самая поддержанная публикация с каждой платформы; источники не дублируются. Источники: 812 · платформы: 4 · без данных: 8 <a href="../../data/showcase.json">Посмотреть данные</a> · <a href="../../scripts/SHOWCASE.md">Методика</a>
 
 </details>
 
