@@ -15,9 +15,9 @@
 
 <h1 align="center">Juegos</h1>
 
-<p align="center">564 entradas. Disparos, conducción, vuelo, puzles y mucho más.</p>
+<p align="center">567 entradas. Disparos, conducción, vuelo, puzles y mucho más.</p>
 
-<p><a href="#genre-shooter">Disparos</a> <b>111</b> · <a href="#genre-action-and-combat">Acción y combate</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plataformas y carreras sin fin</a> <b>38</b> · <a href="#genre-racing-and-driving">Carreras y conducción</a> <b>75</b> · <a href="#genre-flight">Vuelo</a> <b>28</b> · <a href="#genre-sports">Deportes</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventura y exploración</a> <b>77</b> · <a href="#genre-puzzle">Puzles</a> <b>23</b> · <a href="#genre-strategy-and-management">Estrategia y gestión</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casuales y arcade</a> <b>35</b> · <a href="#genre-interactive-story">Historia interactiva</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulación y visualización</a> <b>4</b> · <a href="#genre-other-games">Otros juegos</a> <b>24</b></p>
+<p><a href="#genre-shooter">Disparos</a> <b>111</b> · <a href="#genre-action-and-combat">Acción y combate</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plataformas y carreras sin fin</a> <b>38</b> · <a href="#genre-racing-and-driving">Carreras y conducción</a> <b>75</b> · <a href="#genre-flight">Vuelo</a> <b>28</b> · <a href="#genre-sports">Deportes</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventura y exploración</a> <b>77</b> · <a href="#genre-puzzle">Puzles</a> <b>23</b> · <a href="#genre-strategy-and-management">Estrategia y gestión</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casuales y arcade</a> <b>35</b> · <a href="#genre-interactive-story">Historia interactiva</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulación y visualización</a> <b>4</b> · <a href="#genre-other-games">Otros juegos</a> <b>27</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1175,6 +1175,8 @@ Obras sin imagen de vista previa:
 
 <tr><td><a href="https://fruit-fling.fly.dev">fruit-fling</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/fruit-fling">Código</a></td></tr>
 
+<tr><td><a href="https://ggbot.itch.io/bitrimus-font">futureglimpses</a></td><td><a href="https://github.com/sewave">sewave</a></td><td>MIT</td><td><a href="https://github.com/sewave/futureglimpses">Código</a></td></tr>
+
 <tr><td><a href="https://ywan033.github.io/game-recreations/play/rainlane-blades.html">game-recreations</a></td><td><a href="https://github.com/Ywan033">Ywan033</a></td><td>MIT</td><td><a href="https://github.com/ywan033/game-recreations">Código</a></td></tr>
 
 <tr><td><a href="https://www.glitchless.gg">glitchless</a></td><td><a href="https://github.com/glitchless-gg">glitchless-gg</a></td><td>MIT</td><td><a href="https://github.com/glitchless-gg/glitchless">Código</a></td></tr>
@@ -1187,7 +1189,11 @@ Obras sin imagen de vista previa:
 
 <tr><td><a href="https://pulp-panic.fly.dev">pulp-panic</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/pulp-panic">Código</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/pulp-panic-a592ed39">Archivos</a></td></tr>
 
+<tr><td><a href="https://yaohanbo1-hue.github.io/tangping-game/">tangping-game</a></td><td><a href="https://github.com/yaohanbo1-hue">yaohanbo1-hue</a></td><td>Apache-2.0</td><td><a href="https://github.com/yaohanbo1-hue/tangping-game">Código</a></td></tr>
+
 <tr><td><a href="https://vippi.vercel.app/">Vippi</a></td><td>@Shrit1401</td><td>Licencia desconocida</td><td>—</td></tr>
+
+<tr><td><a href="https://chenzihong-gavin.github.io/weekly-vibe-coding/">weekly-vibe-coding</a></td><td><a href="https://github.com/ChenZiHong-Gavin">ChenZiHong-Gavin</a></td><td>Apache-2.0</td><td><a href="https://github.com/chenzihong-gavin/weekly-vibe-coding">Código</a></td></tr>
 
 <tr><td><a href="https://github.com/cucarol/moyu">moyu</a><br>Colección de 3 obras</td><td><a href="https://github.com/cucarol">cuca</a></td><td>MIT</td><td><a href="https://github.com/cucarol/moyu">Código</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/moyu">Archivos</a></td></tr>
 

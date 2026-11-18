@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">인기</a> · <a href="#latest">최신</a> · <a href="#contents">목차</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1024</b> 수록 항목 · <b>6</b> 카테고리 · <b>931</b> 공개 코드 · <b>425</b> 소스 아카이브<br><sub>목록 데이터: 2026-11-18</sub></p>
+<p align="center"><b>1027</b> 수록 항목 · <b>6</b> 카테고리 · <b>934</b> 공개 코드 · <b>425</b> 소스 아카이브<br><sub>목록 데이터: 2026-11-18</sub></p>
 
 <a name="trending"></a>
 
@@ -74,7 +74,7 @@
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 게임</a> · 564</b><br><sub>488 공개 코드 · 190 소스 아카이브</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 게임</a> · 567</b><br><sub>491 공개 코드 · 190 소스 아카이브</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 월드와 장면</a> · 211</b><br><sub>203 공개 코드 · 94 소스 아카이브</sub></td>
 
@@ -96,11 +96,11 @@
 
 <a name="contents-games"></a>
 
-### 🎮 게임 · 564
+### 🎮 게임 · 567
 
 슈팅, 레이싱, 비행, 퍼즐 등 다양한 게임.
 
-<p><a href="../../games/README.ko.md#genre-shooter">슈팅</a> <b>111</b> · <a href="../../games/README.ko.md#genre-action-and-combat">액션·전투</a> <b>57</b> · <a href="../../games/README.ko.md#genre-platformer-and-runner">플랫포머·러너</a> <b>38</b> · <a href="../../games/README.ko.md#genre-racing-and-driving">레이싱·운전</a> <b>75</b> · <a href="../../games/README.ko.md#genre-flight">비행</a> <b>28</b> · <a href="../../games/README.ko.md#genre-sports">스포츠</a> <b>15</b> · <a href="../../games/README.ko.md#genre-adventure-and-exploration">모험·탐험</a> <b>77</b> · <a href="../../games/README.ko.md#genre-puzzle">퍼즐</a> <b>23</b> · <a href="../../games/README.ko.md#genre-strategy-and-management">전략·경영</a> <b>47</b> · <a href="../../games/README.ko.md#genre-sandbox">샌드박스</a> <b>27</b> · <a href="../../games/README.ko.md#genre-casual-and-arcade">캐주얼·아케이드</a> <b>35</b> · <a href="../../games/README.ko.md#genre-interactive-story">인터랙티브 스토리</a> <b>3</b> · <a href="../../games/README.ko.md#genre-simulation-and-visualization">시뮬레이션·시각화</a> <b>4</b> · <a href="../../games/README.ko.md#genre-other-games">기타 게임</a> <b>24</b></p>
+<p><a href="../../games/README.ko.md#genre-shooter">슈팅</a> <b>111</b> · <a href="../../games/README.ko.md#genre-action-and-combat">액션·전투</a> <b>57</b> · <a href="../../games/README.ko.md#genre-platformer-and-runner">플랫포머·러너</a> <b>38</b> · <a href="../../games/README.ko.md#genre-racing-and-driving">레이싱·운전</a> <b>75</b> · <a href="../../games/README.ko.md#genre-flight">비행</a> <b>28</b> · <a href="../../games/README.ko.md#genre-sports">스포츠</a> <b>15</b> · <a href="../../games/README.ko.md#genre-adventure-and-exploration">모험·탐험</a> <b>77</b> · <a href="../../games/README.ko.md#genre-puzzle">퍼즐</a> <b>23</b> · <a href="../../games/README.ko.md#genre-strategy-and-management">전략·경영</a> <b>47</b> · <a href="../../games/README.ko.md#genre-sandbox">샌드박스</a> <b>27</b> · <a href="../../games/README.ko.md#genre-casual-and-arcade">캐주얼·아케이드</a> <b>35</b> · <a href="../../games/README.ko.md#genre-interactive-story">인터랙티브 스토리</a> <b>3</b> · <a href="../../games/README.ko.md#genre-simulation-and-visualization">시뮬레이션·시각화</a> <b>4</b> · <a href="../../games/README.ko.md#genre-other-games">기타 게임</a> <b>27</b></p>
 
 <table>
 <tr>
@@ -110,7 +110,7 @@
 </tr>
 </table>
 
-<p><b><a href="../../games/README.ko.md">전체 564개 보기 →</a></b> · <a href="#contents">↑ 목차</a></p>
+<p><b><a href="../../games/README.ko.md">전체 567개 보기 →</a></b> · <a href="#contents">↑ 목차</a></p>
 
 <a name="contents-scenes"></a>
 
