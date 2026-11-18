@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">Beliebt</a> · <a href="#latest">Neu</a> · <a href="#contents">Inhalt</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1030</b> Einträge · <b>6</b> Kategorien · <b>937</b> mit öffentlichem Code · <b>425</b> Codearchive<br><sub>Katalogdaten: 2026-11-18</sub></p>
+<p align="center"><b>1031</b> Einträge · <b>6</b> Kategorien · <b>938</b> mit öffentlichem Code · <b>425</b> Codearchive<br><sub>Katalogdaten: 2026-11-19</sub></p>
 
 <a name="trending"></a>
 
@@ -74,7 +74,7 @@ Entdecke ausgewählte Werke, wähle ein Genre oder öffne die gesamte Sammlung.
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 Spiele</a> · 570</b><br><sub>494 mit öffentlichem Code · 190 Codearchive</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 Spiele</a> · 571</b><br><sub>495 mit öffentlichem Code · 190 Codearchive</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 Welten und Szenen</a> · 211</b><br><sub>203 mit öffentlichem Code · 94 Codearchive</sub></td>
 
@@ -96,11 +96,11 @@ Entdecke ausgewählte Werke, wähle ein Genre oder öffne die gesamte Sammlung.
 
 <a name="contents-games"></a>
 
-### 🎮 Spiele · 570
+### 🎮 Spiele · 571
 
 Shooter, Rennen, Flugsimulationen, Rätsel und vieles mehr.
 
-<p><a href="../../games/README.de.md#genre-shooter">Shooter</a> <b>111</b> · <a href="../../games/README.de.md#genre-action-and-combat">Action und Kampf</a> <b>57</b> · <a href="../../games/README.de.md#genre-platformer-and-runner">Plattform und Runner</a> <b>38</b> · <a href="../../games/README.de.md#genre-racing-and-driving">Rennen und Fahren</a> <b>75</b> · <a href="../../games/README.de.md#genre-flight">Flug</a> <b>28</b> · <a href="../../games/README.de.md#genre-sports">Sport</a> <b>15</b> · <a href="../../games/README.de.md#genre-adventure-and-exploration">Abenteuer und Erkundung</a> <b>77</b> · <a href="../../games/README.de.md#genre-puzzle">Rätsel</a> <b>23</b> · <a href="../../games/README.de.md#genre-strategy-and-management">Strategie und Aufbau</a> <b>47</b> · <a href="../../games/README.de.md#genre-sandbox">Sandbox</a> <b>27</b> · <a href="../../games/README.de.md#genre-casual-and-arcade">Casual und Arcade</a> <b>35</b> · <a href="../../games/README.de.md#genre-interactive-story">Interaktive Geschichten</a> <b>3</b> · <a href="../../games/README.de.md#genre-simulation-and-visualization">Simulation und Visualisierung</a> <b>4</b> · <a href="../../games/README.de.md#genre-other-games">Weitere Spiele</a> <b>30</b></p>
+<p><a href="../../games/README.de.md#genre-shooter">Shooter</a> <b>111</b> · <a href="../../games/README.de.md#genre-action-and-combat">Action und Kampf</a> <b>57</b> · <a href="../../games/README.de.md#genre-platformer-and-runner">Plattform und Runner</a> <b>38</b> · <a href="../../games/README.de.md#genre-racing-and-driving">Rennen und Fahren</a> <b>75</b> · <a href="../../games/README.de.md#genre-flight">Flug</a> <b>28</b> · <a href="../../games/README.de.md#genre-sports">Sport</a> <b>15</b> · <a href="../../games/README.de.md#genre-adventure-and-exploration">Abenteuer und Erkundung</a> <b>77</b> · <a href="../../games/README.de.md#genre-puzzle">Rätsel</a> <b>23</b> · <a href="../../games/README.de.md#genre-strategy-and-management">Strategie und Aufbau</a> <b>47</b> · <a href="../../games/README.de.md#genre-sandbox">Sandbox</a> <b>27</b> · <a href="../../games/README.de.md#genre-casual-and-arcade">Casual und Arcade</a> <b>35</b> · <a href="../../games/README.de.md#genre-interactive-story">Interaktive Geschichten</a> <b>3</b> · <a href="../../games/README.de.md#genre-simulation-and-visualization">Simulation und Visualisierung</a> <b>4</b> · <a href="../../games/README.de.md#genre-other-games">Weitere Spiele</a> <b>31</b></p>
 
 <table>
 <tr>
@@ -110,7 +110,7 @@ Shooter, Rennen, Flugsimulationen, Rätsel und vieles mehr.
 </tr>
 </table>
 
-<p><b><a href="../../games/README.de.md">Alle 570 Einträge ansehen →</a></b> · <a href="#contents">↑ Inhalt</a></p>
+<p><b><a href="../../games/README.de.md">Alle 571 Einträge ansehen →</a></b> · <a href="#contents">↑ Inhalt</a></p>
 
 <a name="contents-scenes"></a>
 
@@ -212,4 +212,4 @@ Große Dateien erfordern Git LFS. Jedes Werk behält seine eigene Lizenz; die Se
 
 ---
 
-<p align="center"><a href="README.de.md"><img src="../../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="README.de.md">Startseite</a> · <a href="../../games/README.de.md">Spiele</a> · <a href="../../scenes/README.de.md">Welten und Szenen</a> · <a href="../../videos/README.de.md">Videos</a> · <a href="../../tools/README.de.md">Werkzeuge</a> · <a href="../../visualizations/README.de.md">Visualisierungen</a> · <a href="../../wallpapers/README.de.md">Hintergrundbilder</a> · <a href="#top">Nach oben</a><br>Katalogdaten: 2026-11-18</sub></p>
+<p align="center"><a href="README.de.md"><img src="../../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="README.de.md">Startseite</a> · <a href="../../games/README.de.md">Spiele</a> · <a href="../../scenes/README.de.md">Welten und Szenen</a> · <a href="../../videos/README.de.md">Videos</a> · <a href="../../tools/README.de.md">Werkzeuge</a> · <a href="../../visualizations/README.de.md">Visualisierungen</a> · <a href="../../wallpapers/README.de.md">Hintergrundbilder</a> · <a href="#top">Nach oben</a><br>Katalogdaten: 2026-11-19</sub></p>

@@ -15,9 +15,9 @@
 
 <h1 align="center">ゲーム</h1>
 
-<p align="center">570 件。 シューティング、レース、フライト、パズルなど多彩なゲーム。</p>
+<p align="center">571 件。 シューティング、レース、フライト、パズルなど多彩なゲーム。</p>
 
-<p><a href="#genre-shooter">シューティング</a> <b>111</b> · <a href="#genre-action-and-combat">アクション・戦闘</a> <b>57</b> · <a href="#genre-platformer-and-runner">プラットフォーマー・ランナー</a> <b>38</b> · <a href="#genre-racing-and-driving">レース・ドライブ</a> <b>75</b> · <a href="#genre-flight">フライト</a> <b>28</b> · <a href="#genre-sports">スポーツ</a> <b>15</b> · <a href="#genre-adventure-and-exploration">アドベンチャー・探索</a> <b>77</b> · <a href="#genre-puzzle">パズル</a> <b>23</b> · <a href="#genre-strategy-and-management">戦略・経営</a> <b>47</b> · <a href="#genre-sandbox">サンドボックス</a> <b>27</b> · <a href="#genre-casual-and-arcade">カジュアル・アーケード</a> <b>35</b> · <a href="#genre-interactive-story">インタラクティブストーリー</a> <b>3</b> · <a href="#genre-simulation-and-visualization">シミュレーション・可視化</a> <b>4</b> · <a href="#genre-other-games">その他</a> <b>30</b></p>
+<p><a href="#genre-shooter">シューティング</a> <b>111</b> · <a href="#genre-action-and-combat">アクション・戦闘</a> <b>57</b> · <a href="#genre-platformer-and-runner">プラットフォーマー・ランナー</a> <b>38</b> · <a href="#genre-racing-and-driving">レース・ドライブ</a> <b>75</b> · <a href="#genre-flight">フライト</a> <b>28</b> · <a href="#genre-sports">スポーツ</a> <b>15</b> · <a href="#genre-adventure-and-exploration">アドベンチャー・探索</a> <b>77</b> · <a href="#genre-puzzle">パズル</a> <b>23</b> · <a href="#genre-strategy-and-management">戦略・経営</a> <b>47</b> · <a href="#genre-sandbox">サンドボックス</a> <b>27</b> · <a href="#genre-casual-and-arcade">カジュアル・アーケード</a> <b>35</b> · <a href="#genre-interactive-story">インタラクティブストーリー</a> <b>3</b> · <a href="#genre-simulation-and-visualization">シミュレーション・可視化</a> <b>4</b> · <a href="#genre-other-games">その他</a> <b>31</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1195,6 +1195,8 @@
 
 <tr><td><a href="https://pulp-panic.fly.dev">pulp-panic</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/pulp-panic">ソース</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/pulp-panic-a592ed39">ファイル</a></td></tr>
 
+<tr><td><a href="https://pixelfrog-assets.itch.io/tiny-swords">pyquest</a></td><td><a href="https://github.com/linan7788626">linan7788626</a></td><td>MIT</td><td><a href="https://github.com/linan7788626/pyquest">ソース</a></td></tr>
+
 <tr><td><a href="https://yaohanbo1-hue.github.io/tangping-game/">tangping-game</a></td><td><a href="https://github.com/yaohanbo1-hue">yaohanbo1-hue</a></td><td>Apache-2.0</td><td><a href="https://github.com/yaohanbo1-hue/tangping-game">ソース</a></td></tr>
 
 <tr><td><a href="https://vippi.vercel.app/">Vippi</a></td><td>@Shrit1401</td><td>ライセンス不明</td><td>—</td></tr>
@@ -1209,4 +1211,4 @@
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.ja.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ja.md">ホーム</a> · <a href="README.ja.md">ゲーム</a> · <a href="../scenes/README.ja.md">ワールドとシーン</a> · <a href="../videos/README.ja.md">動画</a> · <a href="../tools/README.ja.md">ツール</a> · <a href="../visualizations/README.ja.md">可視化</a> · <a href="../wallpapers/README.ja.md">壁紙</a> · <a href="#top">トップへ</a><br>カタログのデータ：2026-11-18</sub></p>
+<p align="center"><a href="../docs/i18n/README.ja.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ja.md">ホーム</a> · <a href="README.ja.md">ゲーム</a> · <a href="../scenes/README.ja.md">ワールドとシーン</a> · <a href="../videos/README.ja.md">動画</a> · <a href="../tools/README.ja.md">ツール</a> · <a href="../visualizations/README.ja.md">可視化</a> · <a href="../wallpapers/README.ja.md">壁紙</a> · <a href="#top">トップへ</a><br>カタログのデータ：2026-11-19</sub></p>
