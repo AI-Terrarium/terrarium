@@ -15,9 +15,9 @@
 
 <h1 align="center">游戏</h1>
 
-<p align="center">571 个条目。 从射击、竞速与飞行，到冒险、解谜和沙盒。</p>
+<p align="center">574 个条目。 从射击、竞速与飞行，到冒险、解谜和沙盒。</p>
 
-<p><a href="#genre-shooter">射击</a> <b>111</b> · <a href="#genre-action-and-combat">动作与战斗</a> <b>57</b> · <a href="#genre-platformer-and-runner">平台跳跃与跑酷</a> <b>38</b> · <a href="#genre-racing-and-driving">竞速与驾驶</a> <b>75</b> · <a href="#genre-flight">飞行</a> <b>28</b> · <a href="#genre-sports">体育</a> <b>15</b> · <a href="#genre-adventure-and-exploration">冒险与探索</a> <b>77</b> · <a href="#genre-puzzle">解谜</a> <b>23</b> · <a href="#genre-strategy-and-management">策略与经营</a> <b>47</b> · <a href="#genre-sandbox">沙盒</a> <b>27</b> · <a href="#genre-casual-and-arcade">休闲与街机</a> <b>35</b> · <a href="#genre-interactive-story">互动叙事</a> <b>3</b> · <a href="#genre-simulation-and-visualization">模拟与可视化</a> <b>4</b> · <a href="#genre-other-games">其他游戏</a> <b>31</b></p>
+<p><a href="#genre-shooter">射击</a> <b>111</b> · <a href="#genre-action-and-combat">动作与战斗</a> <b>57</b> · <a href="#genre-platformer-and-runner">平台跳跃与跑酷</a> <b>38</b> · <a href="#genre-racing-and-driving">竞速与驾驶</a> <b>75</b> · <a href="#genre-flight">飞行</a> <b>28</b> · <a href="#genre-sports">体育</a> <b>15</b> · <a href="#genre-adventure-and-exploration">冒险与探索</a> <b>77</b> · <a href="#genre-puzzle">解谜</a> <b>23</b> · <a href="#genre-strategy-and-management">策略与经营</a> <b>47</b> · <a href="#genre-sandbox">沙盒</a> <b>27</b> · <a href="#genre-casual-and-arcade">休闲与街机</a> <b>35</b> · <a href="#genre-interactive-story">互动叙事</a> <b>3</b> · <a href="#genre-simulation-and-visualization">模拟与可视化</a> <b>4</b> · <a href="#genre-other-games">其他游戏</a> <b>34</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1177,6 +1177,8 @@
 
 <tr><td><a href="https://sartaj1995.github.io/classic_snake__v2/">classic_snake__v2</a></td><td><a href="https://github.com/sartaj1995">sartaj1995</a></td><td>MIT</td><td><a href="https://github.com/sartaj1995/classic_snake__v2">代码</a></td></tr>
 
+<tr><td><a href="https://denova-ai.com/zh-CN">denova</a></td><td><a href="https://github.com/alfredxw">alfredxw</a></td><td>Apache-2.0</td><td><a href="https://github.com/alfredxw/denova">代码</a></td></tr>
+
 <tr><td><a href="https://fruit-fling.fly.dev">fruit-fling</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/fruit-fling">代码</a></td></tr>
 
 <tr><td><a href="https://ggbot.itch.io/bitrimus-font">futureglimpses</a></td><td><a href="https://github.com/sewave">sewave</a></td><td>MIT</td><td><a href="https://github.com/sewave/futureglimpses">代码</a></td></tr>
@@ -1184,6 +1186,8 @@
 <tr><td><a href="https://ywan033.github.io/game-recreations/play/rainlane-blades.html">game-recreations</a></td><td><a href="https://github.com/Ywan033">Ywan033</a></td><td>MIT</td><td><a href="https://github.com/ywan033/game-recreations">代码</a></td></tr>
 
 <tr><td><a href="https://www.glitchless.gg">glitchless</a></td><td><a href="https://github.com/glitchless-gg">glitchless-gg</a></td><td>MIT</td><td><a href="https://github.com/glitchless-gg/glitchless">代码</a></td></tr>
+
+<tr><td><a href="https://greendefense.space">greendefense</a></td><td><a href="https://github.com/LEstradioto">LEstradioto</a></td><td>MIT</td><td><a href="https://github.com/lestradioto/greendefense">代码</a></td></tr>
 
 <tr><td><a href="https://airt-gallery.github.io/hotwire-port-larrikin/">hotwire-port-larrikin</a></td><td><a href="https://github.com/airt-gallery">airt-gallery</a></td><td>MIT</td><td><a href="https://github.com/airt-gallery/hotwire-port-larrikin">代码</a></td></tr>
 
@@ -1196,6 +1200,8 @@
 <tr><td><a href="https://pulp-panic.fly.dev">pulp-panic</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/pulp-panic">代码</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/pulp-panic-a592ed39">文件</a></td></tr>
 
 <tr><td><a href="https://pixelfrog-assets.itch.io/tiny-swords">pyquest</a></td><td><a href="https://github.com/linan7788626">linan7788626</a></td><td>MIT</td><td><a href="https://github.com/linan7788626/pyquest">代码</a></td></tr>
+
+<tr><td><a href="https://www.sanshengai.top/tools/disk-cleanup/">sansheng-disk-cleanup</a></td><td><a href="https://github.com/sanshengai">sanshengai</a></td><td>MIT</td><td><a href="https://github.com/sanshengai/sansheng-disk-cleanup">代码</a></td></tr>
 
 <tr><td><a href="https://yaohanbo1-hue.github.io/tangping-game/">tangping-game</a></td><td><a href="https://github.com/yaohanbo1-hue">yaohanbo1-hue</a></td><td>Apache-2.0</td><td><a href="https://github.com/yaohanbo1-hue/tangping-game">代码</a></td></tr>
 

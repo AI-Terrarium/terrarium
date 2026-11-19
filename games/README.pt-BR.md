@@ -15,9 +15,9 @@
 
 <h1 align="center">Jogos</h1>
 
-<p align="center">571 itens. Tiro, corrida, voo, quebra-cabeças e muito mais.</p>
+<p align="center">574 itens. Tiro, corrida, voo, quebra-cabeças e muito mais.</p>
 
-<p><a href="#genre-shooter">Tiro</a> <b>111</b> · <a href="#genre-action-and-combat">Ação e combate</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plataforma e corrida infinita</a> <b>38</b> · <a href="#genre-racing-and-driving">Corrida e direção</a> <b>75</b> · <a href="#genre-flight">Voo</a> <b>28</b> · <a href="#genre-sports">Esportes</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventura e exploração</a> <b>77</b> · <a href="#genre-puzzle">Quebra-cabeças</a> <b>23</b> · <a href="#genre-strategy-and-management">Estratégia e gestão</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual e arcade</a> <b>35</b> · <a href="#genre-interactive-story">História interativa</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulação e visualização</a> <b>4</b> · <a href="#genre-other-games">Outros jogos</a> <b>31</b></p>
+<p><a href="#genre-shooter">Tiro</a> <b>111</b> · <a href="#genre-action-and-combat">Ação e combate</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plataforma e corrida infinita</a> <b>38</b> · <a href="#genre-racing-and-driving">Corrida e direção</a> <b>75</b> · <a href="#genre-flight">Voo</a> <b>28</b> · <a href="#genre-sports">Esportes</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventura e exploração</a> <b>77</b> · <a href="#genre-puzzle">Quebra-cabeças</a> <b>23</b> · <a href="#genre-strategy-and-management">Estratégia e gestão</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual e arcade</a> <b>35</b> · <a href="#genre-interactive-story">História interativa</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulação e visualização</a> <b>4</b> · <a href="#genre-other-games">Outros jogos</a> <b>34</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1177,6 +1177,8 @@ Obras sem imagem de prévia:
 
 <tr><td><a href="https://sartaj1995.github.io/classic_snake__v2/">classic_snake__v2</a></td><td><a href="https://github.com/sartaj1995">sartaj1995</a></td><td>MIT</td><td><a href="https://github.com/sartaj1995/classic_snake__v2">Código</a></td></tr>
 
+<tr><td><a href="https://denova-ai.com/zh-CN">denova</a></td><td><a href="https://github.com/alfredxw">alfredxw</a></td><td>Apache-2.0</td><td><a href="https://github.com/alfredxw/denova">Código</a></td></tr>
+
 <tr><td><a href="https://fruit-fling.fly.dev">fruit-fling</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/fruit-fling">Código</a></td></tr>
 
 <tr><td><a href="https://ggbot.itch.io/bitrimus-font">futureglimpses</a></td><td><a href="https://github.com/sewave">sewave</a></td><td>MIT</td><td><a href="https://github.com/sewave/futureglimpses">Código</a></td></tr>
@@ -1184,6 +1186,8 @@ Obras sem imagem de prévia:
 <tr><td><a href="https://ywan033.github.io/game-recreations/play/rainlane-blades.html">game-recreations</a></td><td><a href="https://github.com/Ywan033">Ywan033</a></td><td>MIT</td><td><a href="https://github.com/ywan033/game-recreations">Código</a></td></tr>
 
 <tr><td><a href="https://www.glitchless.gg">glitchless</a></td><td><a href="https://github.com/glitchless-gg">glitchless-gg</a></td><td>MIT</td><td><a href="https://github.com/glitchless-gg/glitchless">Código</a></td></tr>
+
+<tr><td><a href="https://greendefense.space">greendefense</a></td><td><a href="https://github.com/LEstradioto">LEstradioto</a></td><td>MIT</td><td><a href="https://github.com/lestradioto/greendefense">Código</a></td></tr>
 
 <tr><td><a href="https://airt-gallery.github.io/hotwire-port-larrikin/">hotwire-port-larrikin</a></td><td><a href="https://github.com/airt-gallery">airt-gallery</a></td><td>MIT</td><td><a href="https://github.com/airt-gallery/hotwire-port-larrikin">Código</a></td></tr>
 
@@ -1196,6 +1200,8 @@ Obras sem imagem de prévia:
 <tr><td><a href="https://pulp-panic.fly.dev">pulp-panic</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/pulp-panic">Código</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/pulp-panic-a592ed39">Arquivos</a></td></tr>
 
 <tr><td><a href="https://pixelfrog-assets.itch.io/tiny-swords">pyquest</a></td><td><a href="https://github.com/linan7788626">linan7788626</a></td><td>MIT</td><td><a href="https://github.com/linan7788626/pyquest">Código</a></td></tr>
+
+<tr><td><a href="https://www.sanshengai.top/tools/disk-cleanup/">sansheng-disk-cleanup</a></td><td><a href="https://github.com/sanshengai">sanshengai</a></td><td>MIT</td><td><a href="https://github.com/sanshengai/sansheng-disk-cleanup">Código</a></td></tr>
 
 <tr><td><a href="https://yaohanbo1-hue.github.io/tangping-game/">tangping-game</a></td><td><a href="https://github.com/yaohanbo1-hue">yaohanbo1-hue</a></td><td>Apache-2.0</td><td><a href="https://github.com/yaohanbo1-hue/tangping-game">Código</a></td></tr>
 

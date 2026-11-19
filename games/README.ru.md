@@ -15,9 +15,9 @@
 
 <h1 align="center">Игры</h1>
 
-<p align="center">Записей: 571. Шутеры, гонки, полёты, головоломки и многое другое.</p>
+<p align="center">Записей: 574. Шутеры, гонки, полёты, головоломки и многое другое.</p>
 
-<p><a href="#genre-shooter">Шутеры</a> <b>111</b> · <a href="#genre-action-and-combat">Экшен и сражения</a> <b>57</b> · <a href="#genre-platformer-and-runner">Платформеры и раннеры</a> <b>38</b> · <a href="#genre-racing-and-driving">Гонки и вождение</a> <b>75</b> · <a href="#genre-flight">Полёты</a> <b>28</b> · <a href="#genre-sports">Спорт</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Приключения и исследование</a> <b>77</b> · <a href="#genre-puzzle">Головоломки</a> <b>23</b> · <a href="#genre-strategy-and-management">Стратегии и управление</a> <b>47</b> · <a href="#genre-sandbox">Песочницы</a> <b>27</b> · <a href="#genre-casual-and-arcade">Казуальные и аркадные игры</a> <b>35</b> · <a href="#genre-interactive-story">Интерактивные истории</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Моделирование и визуализация</a> <b>4</b> · <a href="#genre-other-games">Другие игры</a> <b>31</b></p>
+<p><a href="#genre-shooter">Шутеры</a> <b>111</b> · <a href="#genre-action-and-combat">Экшен и сражения</a> <b>57</b> · <a href="#genre-platformer-and-runner">Платформеры и раннеры</a> <b>38</b> · <a href="#genre-racing-and-driving">Гонки и вождение</a> <b>75</b> · <a href="#genre-flight">Полёты</a> <b>28</b> · <a href="#genre-sports">Спорт</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Приключения и исследование</a> <b>77</b> · <a href="#genre-puzzle">Головоломки</a> <b>23</b> · <a href="#genre-strategy-and-management">Стратегии и управление</a> <b>47</b> · <a href="#genre-sandbox">Песочницы</a> <b>27</b> · <a href="#genre-casual-and-arcade">Казуальные и аркадные игры</a> <b>35</b> · <a href="#genre-interactive-story">Интерактивные истории</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Моделирование и визуализация</a> <b>4</b> · <a href="#genre-other-games">Другие игры</a> <b>34</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1177,6 +1177,8 @@
 
 <tr><td><a href="https://sartaj1995.github.io/classic_snake__v2/">classic_snake__v2</a></td><td><a href="https://github.com/sartaj1995">sartaj1995</a></td><td>MIT</td><td><a href="https://github.com/sartaj1995/classic_snake__v2">Код</a></td></tr>
 
+<tr><td><a href="https://denova-ai.com/zh-CN">denova</a></td><td><a href="https://github.com/alfredxw">alfredxw</a></td><td>Apache-2.0</td><td><a href="https://github.com/alfredxw/denova">Код</a></td></tr>
+
 <tr><td><a href="https://fruit-fling.fly.dev">fruit-fling</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/fruit-fling">Код</a></td></tr>
 
 <tr><td><a href="https://ggbot.itch.io/bitrimus-font">futureglimpses</a></td><td><a href="https://github.com/sewave">sewave</a></td><td>MIT</td><td><a href="https://github.com/sewave/futureglimpses">Код</a></td></tr>
@@ -1184,6 +1186,8 @@
 <tr><td><a href="https://ywan033.github.io/game-recreations/play/rainlane-blades.html">game-recreations</a></td><td><a href="https://github.com/Ywan033">Ywan033</a></td><td>MIT</td><td><a href="https://github.com/ywan033/game-recreations">Код</a></td></tr>
 
 <tr><td><a href="https://www.glitchless.gg">glitchless</a></td><td><a href="https://github.com/glitchless-gg">glitchless-gg</a></td><td>MIT</td><td><a href="https://github.com/glitchless-gg/glitchless">Код</a></td></tr>
+
+<tr><td><a href="https://greendefense.space">greendefense</a></td><td><a href="https://github.com/LEstradioto">LEstradioto</a></td><td>MIT</td><td><a href="https://github.com/lestradioto/greendefense">Код</a></td></tr>
 
 <tr><td><a href="https://airt-gallery.github.io/hotwire-port-larrikin/">hotwire-port-larrikin</a></td><td><a href="https://github.com/airt-gallery">airt-gallery</a></td><td>MIT</td><td><a href="https://github.com/airt-gallery/hotwire-port-larrikin">Код</a></td></tr>
 
@@ -1196,6 +1200,8 @@
 <tr><td><a href="https://pulp-panic.fly.dev">pulp-panic</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/pulp-panic">Код</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/pulp-panic-a592ed39">Файлы</a></td></tr>
 
 <tr><td><a href="https://pixelfrog-assets.itch.io/tiny-swords">pyquest</a></td><td><a href="https://github.com/linan7788626">linan7788626</a></td><td>MIT</td><td><a href="https://github.com/linan7788626/pyquest">Код</a></td></tr>
+
+<tr><td><a href="https://www.sanshengai.top/tools/disk-cleanup/">sansheng-disk-cleanup</a></td><td><a href="https://github.com/sanshengai">sanshengai</a></td><td>MIT</td><td><a href="https://github.com/sanshengai/sansheng-disk-cleanup">Код</a></td></tr>
 
 <tr><td><a href="https://yaohanbo1-hue.github.io/tangping-game/">tangping-game</a></td><td><a href="https://github.com/yaohanbo1-hue">yaohanbo1-hue</a></td><td>Apache-2.0</td><td><a href="https://github.com/yaohanbo1-hue/tangping-game">Код</a></td></tr>
 
