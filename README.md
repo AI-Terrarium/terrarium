@@ -24,7 +24,7 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/showcase.webp"><img src="assets/showcase.gif" width="100%" alt="Terrarium · Trending"></picture></a></p>
 
-<p align="center"><sub>Updated: 2026-11-18 18:00 UTC · Refresh scheduled every 8 hours</sub></p>
+<p align="center"><sub>Updated: 2026-11-18 18:00 UTC · Snapshot over 12 hours old · Refresh scheduled every 8 hours</sub></p>
 
 <a name="showcase-links"></a>
 

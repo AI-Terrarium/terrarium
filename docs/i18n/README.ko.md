@@ -24,7 +24,7 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · 인기"></picture></a></p>
 
-<p align="center"><sub>인기 데이터 갱신: 2026-11-18 18:00 UTC · 8시간마다 갱신 예정</sub></p>
+<p align="center"><sub>인기 데이터 갱신: 2026-11-18 18:00 UTC · 12시간이 지난 스냅샷 · 8시간마다 갱신 예정</sub></p>
 
 <a name="showcase-links"></a>
 

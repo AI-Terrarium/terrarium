@@ -24,7 +24,7 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · Populaires"></picture></a></p>
 
-<p align="center"><sub>Mise à jour : 2026-11-18 18:00 UTC · Actualisation prévue toutes les 8 heures</sub></p>
+<p align="center"><sub>Mise à jour : 2026-11-18 18:00 UTC · Instantané de plus de 12 heures · Actualisation prévue toutes les 8 heures</sub></p>
 
 <a name="showcase-links"></a>
 
