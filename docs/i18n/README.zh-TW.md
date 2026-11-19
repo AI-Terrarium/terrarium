@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · 熱門"></picture></a></p>
 
-<p align="center"><sub>熱門資料同步：2026-11-18 18:00 UTC · 快照已超過 12 小時 · 預計每 8 小時更新</sub></p>
+<p align="center"><sub>熱門資料同步：2026-11-19 08:48 UTC · 預計每 8 小時更新</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · 17,948 讚 · 503 留言</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · 14,979 讚 · 858 留言</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · 8,012 讚 · 389 留言</a></sub></td>
-<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">CROSSTOWN</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · 7,522 讚 · 676 留言</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · 17,965 讚 · 504 留言</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · 14,994 讚 · 859 留言</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · 8,014 讚 · 389 留言</a></sub></td>
+<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">CROSSTOWN</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · 7,519 讚 · 676 留言</a></sub></td>
 </tr></table>
 
 <details><summary>榜單來源與排序</summary>
 
-依公開按讚、Star 等支持數排序；留言與分享只用於同分排序，觀看次數另外顯示。每個平台採支持數最高的貼文，相同來源不重複展示。 815 個來源 · 4 個平台 · 8 個來源未取得 <a href="../../data/showcase.json">查看資料</a> · <a href="../../scripts/SHOWCASE.md">計算方式</a>
+依公開按讚、Star 等支持數排序；留言與分享只用於同分排序，觀看次數另外顯示。每個平台採支持數最高的貼文，相同來源不重複展示。 815 個來源 · 4 個平台 · 9 個來源未取得 <a href="../../data/showcase.json">查看資料</a> · <a href="../../scripts/SHOWCASE.md">計算方式</a>
 
 </details>
 
