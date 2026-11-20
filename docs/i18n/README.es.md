@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">Popular</a> · <a href="#latest">Novedades</a> · <a href="#contents">Contenido</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1037</b> entradas · <b>6</b> categorías · <b>944</b> con código público · <b>425</b> archivos de código<br><sub>Datos del catálogo: 2026-11-20</sub></p>
+<p align="center"><b>1039</b> entradas · <b>6</b> categorías · <b>946</b> con código público · <b>425</b> archivos de código<br><sub>Datos del catálogo: 2026-11-20</sub></p>
 
 <a name="trending"></a>
 
@@ -74,7 +74,7 @@ Explora las obras destacadas, elige un género o consulta la colección completa
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 Juegos</a> · 577</b><br><sub>501 con código público · 190 archivos de código</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 Juegos</a> · 579</b><br><sub>503 con código público · 190 archivos de código</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 Mundos y escenas</a> · 211</b><br><sub>203 con código público · 94 archivos de código</sub></td>
 
@@ -96,11 +96,11 @@ Explora las obras destacadas, elige un género o consulta la colección completa
 
 <a name="contents-games"></a>
 
-### 🎮 Juegos · 577
+### 🎮 Juegos · 579
 
 Disparos, conducción, vuelo, puzles y mucho más.
 
-<p><a href="../../games/README.es.md#genre-shooter">Disparos</a> <b>111</b> · <a href="../../games/README.es.md#genre-action-and-combat">Acción y combate</a> <b>57</b> · <a href="../../games/README.es.md#genre-platformer-and-runner">Plataformas y carreras sin fin</a> <b>38</b> · <a href="../../games/README.es.md#genre-racing-and-driving">Carreras y conducción</a> <b>75</b> · <a href="../../games/README.es.md#genre-flight">Vuelo</a> <b>28</b> · <a href="../../games/README.es.md#genre-sports">Deportes</a> <b>15</b> · <a href="../../games/README.es.md#genre-adventure-and-exploration">Aventura y exploración</a> <b>77</b> · <a href="../../games/README.es.md#genre-puzzle">Puzles</a> <b>23</b> · <a href="../../games/README.es.md#genre-strategy-and-management">Estrategia y gestión</a> <b>47</b> · <a href="../../games/README.es.md#genre-sandbox">Sandbox</a> <b>27</b> · <a href="../../games/README.es.md#genre-casual-and-arcade">Casuales y arcade</a> <b>35</b> · <a href="../../games/README.es.md#genre-interactive-story">Historia interactiva</a> <b>3</b> · <a href="../../games/README.es.md#genre-simulation-and-visualization">Simulación y visualización</a> <b>4</b> · <a href="../../games/README.es.md#genre-other-games">Otros juegos</a> <b>37</b></p>
+<p><a href="../../games/README.es.md#genre-shooter">Disparos</a> <b>111</b> · <a href="../../games/README.es.md#genre-action-and-combat">Acción y combate</a> <b>57</b> · <a href="../../games/README.es.md#genre-platformer-and-runner">Plataformas y carreras sin fin</a> <b>38</b> · <a href="../../games/README.es.md#genre-racing-and-driving">Carreras y conducción</a> <b>75</b> · <a href="../../games/README.es.md#genre-flight">Vuelo</a> <b>28</b> · <a href="../../games/README.es.md#genre-sports">Deportes</a> <b>15</b> · <a href="../../games/README.es.md#genre-adventure-and-exploration">Aventura y exploración</a> <b>77</b> · <a href="../../games/README.es.md#genre-puzzle">Puzles</a> <b>23</b> · <a href="../../games/README.es.md#genre-strategy-and-management">Estrategia y gestión</a> <b>47</b> · <a href="../../games/README.es.md#genre-sandbox">Sandbox</a> <b>27</b> · <a href="../../games/README.es.md#genre-casual-and-arcade">Casuales y arcade</a> <b>35</b> · <a href="../../games/README.es.md#genre-interactive-story">Historia interactiva</a> <b>3</b> · <a href="../../games/README.es.md#genre-simulation-and-visualization">Simulación y visualización</a> <b>4</b> · <a href="../../games/README.es.md#genre-other-games">Otros juegos</a> <b>39</b></p>
 
 <table>
 <tr>
@@ -110,7 +110,7 @@ Disparos, conducción, vuelo, puzles y mucho más.
 </tr>
 </table>
 
-<p><b><a href="../../games/README.es.md">Ver las 577 entradas →</a></b> · <a href="#contents">↑ Contenido</a></p>
+<p><b><a href="../../games/README.es.md">Ver las 579 entradas →</a></b> · <a href="#contents">↑ Contenido</a></p>
 
 <a name="contents-scenes"></a>
 

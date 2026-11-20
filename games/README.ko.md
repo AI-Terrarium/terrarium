@@ -15,9 +15,9 @@
 
 <h1 align="center">게임</h1>
 
-<p align="center">577개 항목. 슈팅, 레이싱, 비행, 퍼즐 등 다양한 게임.</p>
+<p align="center">579개 항목. 슈팅, 레이싱, 비행, 퍼즐 등 다양한 게임.</p>
 
-<p><a href="#genre-shooter">슈팅</a> <b>111</b> · <a href="#genre-action-and-combat">액션·전투</a> <b>57</b> · <a href="#genre-platformer-and-runner">플랫포머·러너</a> <b>38</b> · <a href="#genre-racing-and-driving">레이싱·운전</a> <b>75</b> · <a href="#genre-flight">비행</a> <b>28</b> · <a href="#genre-sports">스포츠</a> <b>15</b> · <a href="#genre-adventure-and-exploration">모험·탐험</a> <b>77</b> · <a href="#genre-puzzle">퍼즐</a> <b>23</b> · <a href="#genre-strategy-and-management">전략·경영</a> <b>47</b> · <a href="#genre-sandbox">샌드박스</a> <b>27</b> · <a href="#genre-casual-and-arcade">캐주얼·아케이드</a> <b>35</b> · <a href="#genre-interactive-story">인터랙티브 스토리</a> <b>3</b> · <a href="#genre-simulation-and-visualization">시뮬레이션·시각화</a> <b>4</b> · <a href="#genre-other-games">기타 게임</a> <b>37</b></p>
+<p><a href="#genre-shooter">슈팅</a> <b>111</b> · <a href="#genre-action-and-combat">액션·전투</a> <b>57</b> · <a href="#genre-platformer-and-runner">플랫포머·러너</a> <b>38</b> · <a href="#genre-racing-and-driving">레이싱·운전</a> <b>75</b> · <a href="#genre-flight">비행</a> <b>28</b> · <a href="#genre-sports">스포츠</a> <b>15</b> · <a href="#genre-adventure-and-exploration">모험·탐험</a> <b>77</b> · <a href="#genre-puzzle">퍼즐</a> <b>23</b> · <a href="#genre-strategy-and-management">전략·경영</a> <b>47</b> · <a href="#genre-sandbox">샌드박스</a> <b>27</b> · <a href="#genre-casual-and-arcade">캐주얼·아케이드</a> <b>35</b> · <a href="#genre-interactive-story">인터랙티브 스토리</a> <b>3</b> · <a href="#genre-simulation-and-visualization">시뮬레이션·시각화</a> <b>4</b> · <a href="#genre-other-games">기타 게임</a> <b>39</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1171,6 +1171,8 @@
 
 <tr><td><a href="https://arcade-racing.onrender.com/">arcade-racing</a></td><td><a href="https://github.com/StackOverflowIsBetterThanAnyAI">StackOverflowIsBetterThanAnyAI</a></td><td>MIT</td><td><a href="https://github.com/stackoverflowisbetterthananyai/arcade-racing">코드</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/arcade-racing-932a5c9a">파일</a></td></tr>
 
+<tr><td><a href="https://beat-the-moment-35-211-225-40.sslip.io/c/HmsnOy2aqRm6UEcSCUR10_ME">beat-this-moment</a></td><td><a href="https://github.com/0xtigerclaw">0xtigerclaw</a></td><td>MIT</td><td><a href="https://github.com/0xtigerclaw/beat-this-moment">코드</a></td></tr>
+
 <tr><td><a href="https://raunakpatil.com/radar">best-ai-tools</a></td><td><a href="https://github.com/raunakpatil">raunakpatil</a></td><td>MIT</td><td><a href="https://github.com/raunakpatil/best-ai-tools">코드</a></td></tr>
 
 <tr><td><a href="https://21cabbagee.github.io/capybara-delivery-3d/">capybara-delivery-3d</a></td><td><a href="https://github.com/21cabbagee">21cabbagee</a></td><td>MIT</td><td><a href="https://github.com/21cabbagee/capybara-delivery-3d">코드</a></td></tr>
@@ -1208,6 +1210,8 @@
 <tr><td><a href="https://pixelfrog-assets.itch.io/tiny-swords">pyquest</a></td><td><a href="https://github.com/linan7788626">linan7788626</a></td><td>MIT</td><td><a href="https://github.com/linan7788626/pyquest">코드</a></td></tr>
 
 <tr><td><a href="https://www.sanshengai.top/tools/disk-cleanup/">sansheng-disk-cleanup</a></td><td><a href="https://github.com/sanshengai">sanshengai</a></td><td>MIT</td><td><a href="https://github.com/sanshengai/sansheng-disk-cleanup">코드</a></td></tr>
+
+<tr><td><a href="https://claude.ai/artifact/JyV3HBAgFuCkhDnzzM6NGt">SHADE</a></td><td><a href="https://github.com/zaynabtauqeer">zaynabtauqeer</a></td><td>MIT</td><td><a href="https://github.com/zaynabtauqeer/shade">코드</a></td></tr>
 
 <tr><td><a href="https://yaohanbo1-hue.github.io/tangping-game/">tangping-game</a></td><td><a href="https://github.com/yaohanbo1-hue">yaohanbo1-hue</a></td><td>Apache-2.0</td><td><a href="https://github.com/yaohanbo1-hue/tangping-game">코드</a></td></tr>
 
