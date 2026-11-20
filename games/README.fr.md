@@ -15,9 +15,9 @@
 
 <h1 align="center">Jeux</h1>
 
-<p align="center">581 entrées. Tir, course, vol, énigmes et bien d’autres jeux.</p>
+<p align="center">582 entrées. Tir, course, vol, énigmes et bien d’autres jeux.</p>
 
-<p><a href="#genre-shooter">Tir</a> <b>111</b> · <a href="#genre-action-and-combat">Action et combat</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plateforme et course sans fin</a> <b>38</b> · <a href="#genre-racing-and-driving">Course et conduite</a> <b>75</b> · <a href="#genre-flight">Vol</a> <b>28</b> · <a href="#genre-sports">Sports</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventure et exploration</a> <b>77</b> · <a href="#genre-puzzle">Énigmes</a> <b>23</b> · <a href="#genre-strategy-and-management">Stratégie et gestion</a> <b>47</b> · <a href="#genre-sandbox">Bac à sable</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual et arcade</a> <b>35</b> · <a href="#genre-interactive-story">Récit interactif</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation et visualisation</a> <b>4</b> · <a href="#genre-other-games">Autres jeux</a> <b>41</b></p>
+<p><a href="#genre-shooter">Tir</a> <b>111</b> · <a href="#genre-action-and-combat">Action et combat</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plateforme et course sans fin</a> <b>38</b> · <a href="#genre-racing-and-driving">Course et conduite</a> <b>75</b> · <a href="#genre-flight">Vol</a> <b>28</b> · <a href="#genre-sports">Sports</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventure et exploration</a> <b>77</b> · <a href="#genre-puzzle">Énigmes</a> <b>23</b> · <a href="#genre-strategy-and-management">Stratégie et gestion</a> <b>47</b> · <a href="#genre-sandbox">Bac à sable</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual et arcade</a> <b>35</b> · <a href="#genre-interactive-story">Récit interactif</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation et visualisation</a> <b>4</b> · <a href="#genre-other-games">Autres jeux</a> <b>42</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1183,6 +1183,8 @@
 
 <tr><td><a href="https://denova-ai.com/zh-CN">denova</a></td><td><a href="https://github.com/alfredxw">alfredxw</a></td><td>Apache-2.0</td><td><a href="https://github.com/alfredxw/denova">Code</a></td></tr>
 
+<tr><td><a href="https://freitasvarejo.github.io/five-sols-on-mars/">five-sols-on-mars</a></td><td><a href="https://github.com/FreitasVarejo">FreitasVarejo</a></td><td>MIT</td><td><a href="https://github.com/freitasvarejo/five-sols-on-mars">Code</a></td></tr>
+
 <tr><td><a href="https://fruit-fling.fly.dev">fruit-fling</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/fruit-fling">Code</a></td></tr>
 
 <tr><td><a href="https://ggbot.itch.io/bitrimus-font">futureglimpses</a></td><td><a href="https://github.com/sewave">sewave</a></td><td>MIT</td><td><a href="https://github.com/sewave/futureglimpses">Code</a></td></tr>
@@ -1231,4 +1233,4 @@
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.fr.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.fr.md">Accueil</a> · <a href="README.fr.md">Jeux</a> · <a href="../scenes/README.fr.md">Mondes et scènes</a> · <a href="../videos/README.fr.md">Vidéos</a> · <a href="../tools/README.fr.md">Outils</a> · <a href="../visualizations/README.fr.md">Visualisations</a> · <a href="../wallpapers/README.fr.md">Fonds d’écran</a> · <a href="#top">Retour en haut</a><br>Données du catalogue : 2026-11-20</sub></p>
+<p align="center"><a href="../docs/i18n/README.fr.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.fr.md">Accueil</a> · <a href="README.fr.md">Jeux</a> · <a href="../scenes/README.fr.md">Mondes et scènes</a> · <a href="../videos/README.fr.md">Vidéos</a> · <a href="../tools/README.fr.md">Outils</a> · <a href="../visualizations/README.fr.md">Visualisations</a> · <a href="../wallpapers/README.fr.md">Fonds d’écran</a> · <a href="#top">Retour en haut</a><br>Données du catalogue : 2026-11-21</sub></p>

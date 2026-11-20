@@ -15,9 +15,9 @@
 
 <h1 align="center">Games</h1>
 
-<p align="center">581 entries. Shooters, driving, flight, puzzles and everything in between.</p>
+<p align="center">582 entries. Shooters, driving, flight, puzzles and everything in between.</p>
 
-<p><a href="#genre-shooter">Shooter</a> <b>111</b> · <a href="#genre-action-and-combat">Action &amp; combat</a> <b>57</b> · <a href="#genre-platformer-and-runner">Platformer &amp; runner</a> <b>38</b> · <a href="#genre-racing-and-driving">Racing &amp; driving</a> <b>75</b> · <a href="#genre-flight">Flight</a> <b>28</b> · <a href="#genre-sports">Sports</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Adventure &amp; exploration</a> <b>77</b> · <a href="#genre-puzzle">Puzzle</a> <b>23</b> · <a href="#genre-strategy-and-management">Strategy &amp; management</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual &amp; arcade</a> <b>35</b> · <a href="#genre-interactive-story">Interactive story</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation &amp; visualization</a> <b>4</b> · <a href="#genre-other-games">Other games</a> <b>41</b></p>
+<p><a href="#genre-shooter">Shooter</a> <b>111</b> · <a href="#genre-action-and-combat">Action &amp; combat</a> <b>57</b> · <a href="#genre-platformer-and-runner">Platformer &amp; runner</a> <b>38</b> · <a href="#genre-racing-and-driving">Racing &amp; driving</a> <b>75</b> · <a href="#genre-flight">Flight</a> <b>28</b> · <a href="#genre-sports">Sports</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Adventure &amp; exploration</a> <b>77</b> · <a href="#genre-puzzle">Puzzle</a> <b>23</b> · <a href="#genre-strategy-and-management">Strategy &amp; management</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual &amp; arcade</a> <b>35</b> · <a href="#genre-interactive-story">Interactive story</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation &amp; visualization</a> <b>4</b> · <a href="#genre-other-games">Other games</a> <b>42</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1183,6 +1183,8 @@ Works without a preview image:
 
 <tr><td><a href="https://denova-ai.com/zh-CN">denova</a></td><td><a href="https://github.com/alfredxw">alfredxw</a></td><td>Apache-2.0</td><td><a href="https://github.com/alfredxw/denova">Code</a></td></tr>
 
+<tr><td><a href="https://freitasvarejo.github.io/five-sols-on-mars/">five-sols-on-mars</a></td><td><a href="https://github.com/FreitasVarejo">FreitasVarejo</a></td><td>MIT</td><td><a href="https://github.com/freitasvarejo/five-sols-on-mars">Code</a></td></tr>
+
 <tr><td><a href="https://fruit-fling.fly.dev">fruit-fling</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/fruit-fling">Code</a></td></tr>
 
 <tr><td><a href="https://ggbot.itch.io/bitrimus-font">futureglimpses</a></td><td><a href="https://github.com/sewave">sewave</a></td><td>MIT</td><td><a href="https://github.com/sewave/futureglimpses">Code</a></td></tr>
@@ -1231,4 +1233,4 @@ Works without a preview image:
 
 ---
 
-<p align="center"><a href="../README.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../README.md">Home</a> · <a href="README.md">Games</a> · <a href="../scenes/README.md">Worlds &amp; Scenes</a> · <a href="../videos/README.md">Videos</a> · <a href="../tools/README.md">Tools</a> · <a href="../visualizations/README.md">Visualizations</a> · <a href="../wallpapers/README.md">Wallpapers</a> · <a href="#top">Back to top</a><br>Catalog data: 2026-11-20</sub></p>
+<p align="center"><a href="../README.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../README.md">Home</a> · <a href="README.md">Games</a> · <a href="../scenes/README.md">Worlds &amp; Scenes</a> · <a href="../videos/README.md">Videos</a> · <a href="../tools/README.md">Tools</a> · <a href="../visualizations/README.md">Visualizations</a> · <a href="../wallpapers/README.md">Wallpapers</a> · <a href="#top">Back to top</a><br>Catalog data: 2026-11-21</sub></p>

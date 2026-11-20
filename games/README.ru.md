@@ -15,9 +15,9 @@
 
 <h1 align="center">Игры</h1>
 
-<p align="center">Записей: 581. Шутеры, гонки, полёты, головоломки и многое другое.</p>
+<p align="center">Записей: 582. Шутеры, гонки, полёты, головоломки и многое другое.</p>
 
-<p><a href="#genre-shooter">Шутеры</a> <b>111</b> · <a href="#genre-action-and-combat">Экшен и сражения</a> <b>57</b> · <a href="#genre-platformer-and-runner">Платформеры и раннеры</a> <b>38</b> · <a href="#genre-racing-and-driving">Гонки и вождение</a> <b>75</b> · <a href="#genre-flight">Полёты</a> <b>28</b> · <a href="#genre-sports">Спорт</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Приключения и исследование</a> <b>77</b> · <a href="#genre-puzzle">Головоломки</a> <b>23</b> · <a href="#genre-strategy-and-management">Стратегии и управление</a> <b>47</b> · <a href="#genre-sandbox">Песочницы</a> <b>27</b> · <a href="#genre-casual-and-arcade">Казуальные и аркадные игры</a> <b>35</b> · <a href="#genre-interactive-story">Интерактивные истории</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Моделирование и визуализация</a> <b>4</b> · <a href="#genre-other-games">Другие игры</a> <b>41</b></p>
+<p><a href="#genre-shooter">Шутеры</a> <b>111</b> · <a href="#genre-action-and-combat">Экшен и сражения</a> <b>57</b> · <a href="#genre-platformer-and-runner">Платформеры и раннеры</a> <b>38</b> · <a href="#genre-racing-and-driving">Гонки и вождение</a> <b>75</b> · <a href="#genre-flight">Полёты</a> <b>28</b> · <a href="#genre-sports">Спорт</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Приключения и исследование</a> <b>77</b> · <a href="#genre-puzzle">Головоломки</a> <b>23</b> · <a href="#genre-strategy-and-management">Стратегии и управление</a> <b>47</b> · <a href="#genre-sandbox">Песочницы</a> <b>27</b> · <a href="#genre-casual-and-arcade">Казуальные и аркадные игры</a> <b>35</b> · <a href="#genre-interactive-story">Интерактивные истории</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Моделирование и визуализация</a> <b>4</b> · <a href="#genre-other-games">Другие игры</a> <b>42</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1183,6 +1183,8 @@
 
 <tr><td><a href="https://denova-ai.com/zh-CN">denova</a></td><td><a href="https://github.com/alfredxw">alfredxw</a></td><td>Apache-2.0</td><td><a href="https://github.com/alfredxw/denova">Код</a></td></tr>
 
+<tr><td><a href="https://freitasvarejo.github.io/five-sols-on-mars/">five-sols-on-mars</a></td><td><a href="https://github.com/FreitasVarejo">FreitasVarejo</a></td><td>MIT</td><td><a href="https://github.com/freitasvarejo/five-sols-on-mars">Код</a></td></tr>
+
 <tr><td><a href="https://fruit-fling.fly.dev">fruit-fling</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/fruit-fling">Код</a></td></tr>
 
 <tr><td><a href="https://ggbot.itch.io/bitrimus-font">futureglimpses</a></td><td><a href="https://github.com/sewave">sewave</a></td><td>MIT</td><td><a href="https://github.com/sewave/futureglimpses">Код</a></td></tr>
@@ -1231,4 +1233,4 @@
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.ru.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ru.md">Главная</a> · <a href="README.ru.md">Игры</a> · <a href="../scenes/README.ru.md">Миры и сцены</a> · <a href="../videos/README.ru.md">Видео</a> · <a href="../tools/README.ru.md">Инструменты</a> · <a href="../visualizations/README.ru.md">Визуализации</a> · <a href="../wallpapers/README.ru.md">Обои</a> · <a href="#top">Наверх</a><br>Данные каталога: 2026-11-20</sub></p>
+<p align="center"><a href="../docs/i18n/README.ru.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ru.md">Главная</a> · <a href="README.ru.md">Игры</a> · <a href="../scenes/README.ru.md">Миры и сцены</a> · <a href="../videos/README.ru.md">Видео</a> · <a href="../tools/README.ru.md">Инструменты</a> · <a href="../visualizations/README.ru.md">Визуализации</a> · <a href="../wallpapers/README.ru.md">Обои</a> · <a href="#top">Наверх</a><br>Данные каталога: 2026-11-21</sub></p>
