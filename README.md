@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/showcase.webp"><img src="assets/showcase.gif" width="100%" alt="Terrarium · Trending"></picture></a></p>
 
-<p align="center"><sub>Updated: 2026-11-19 18:06 UTC · Refresh scheduled every 8 hours</sub></p>
+<p align="center"><sub>Updated: 2026-11-20 08:16 UTC · Refresh scheduled every 8 hours</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Likes: 17,967 · Comments: 504</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Likes: 14,997 · Comments: 860</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Likes: 8,019 · Comments: 390</a></sub></td>
-<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">CROSSTOWN</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Likes: 7,521 · Comments: 676</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Likes: 17,964 · Comments: 504</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Likes: 15,006 · Comments: 860</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Likes: 8,016 · Comments: 391</a></sub></td>
+<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">CROSSTOWN</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Likes: 7,518 · Comments: 676</a></sub></td>
 </tr></table>
 
 <details><summary>Sources &amp; ordering</summary>
 
-Ordered by public likes, stars and other support. Comments and shares break ties; views are shown separately. The strongest post per platform contributes, and shared sources appear once. 821 sources · 4 platforms · 9 unmeasured <a href="data/showcase.json">View data</a> · <a href="scripts/SHOWCASE.md">Methodology</a>
+Ordered by public likes, stars and other support. Comments and shares break ties; views are shown separately. The strongest post per platform contributes, and shared sources appear once. 823 sources · 4 platforms · 9 unmeasured <a href="data/showcase.json">View data</a> · <a href="scripts/SHOWCASE.md">Methodology</a>
 
 </details>
 
