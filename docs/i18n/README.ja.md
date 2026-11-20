@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">人気</a> · <a href="#latest">新着</a> · <a href="#contents">目次</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1039</b> 収録項目 · <b>6</b> カテゴリー · <b>946</b> ソース公開 · <b>425</b> ソースアーカイブ<br><sub>カタログのデータ：2026-11-20</sub></p>
+<p align="center"><b>1041</b> 収録項目 · <b>6</b> カテゴリー · <b>948</b> ソース公開 · <b>425</b> ソースアーカイブ<br><sub>カタログのデータ：2026-11-20</sub></p>
 
 <a name="trending"></a>
 
@@ -74,7 +74,7 @@
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 ゲーム</a> · 579</b><br><sub>503 ソース公開 · 190 ソースアーカイブ</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 ゲーム</a> · 581</b><br><sub>505 ソース公開 · 190 ソースアーカイブ</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 ワールドとシーン</a> · 211</b><br><sub>203 ソース公開 · 94 ソースアーカイブ</sub></td>
 
@@ -96,11 +96,11 @@
 
 <a name="contents-games"></a>
 
-### 🎮 ゲーム · 579
+### 🎮 ゲーム · 581
 
 シューティング、レース、フライト、パズルなど多彩なゲーム。
 
-<p><a href="../../games/README.ja.md#genre-shooter">シューティング</a> <b>111</b> · <a href="../../games/README.ja.md#genre-action-and-combat">アクション・戦闘</a> <b>57</b> · <a href="../../games/README.ja.md#genre-platformer-and-runner">プラットフォーマー・ランナー</a> <b>38</b> · <a href="../../games/README.ja.md#genre-racing-and-driving">レース・ドライブ</a> <b>75</b> · <a href="../../games/README.ja.md#genre-flight">フライト</a> <b>28</b> · <a href="../../games/README.ja.md#genre-sports">スポーツ</a> <b>15</b> · <a href="../../games/README.ja.md#genre-adventure-and-exploration">アドベンチャー・探索</a> <b>77</b> · <a href="../../games/README.ja.md#genre-puzzle">パズル</a> <b>23</b> · <a href="../../games/README.ja.md#genre-strategy-and-management">戦略・経営</a> <b>47</b> · <a href="../../games/README.ja.md#genre-sandbox">サンドボックス</a> <b>27</b> · <a href="../../games/README.ja.md#genre-casual-and-arcade">カジュアル・アーケード</a> <b>35</b> · <a href="../../games/README.ja.md#genre-interactive-story">インタラクティブストーリー</a> <b>3</b> · <a href="../../games/README.ja.md#genre-simulation-and-visualization">シミュレーション・可視化</a> <b>4</b> · <a href="../../games/README.ja.md#genre-other-games">その他</a> <b>39</b></p>
+<p><a href="../../games/README.ja.md#genre-shooter">シューティング</a> <b>111</b> · <a href="../../games/README.ja.md#genre-action-and-combat">アクション・戦闘</a> <b>57</b> · <a href="../../games/README.ja.md#genre-platformer-and-runner">プラットフォーマー・ランナー</a> <b>38</b> · <a href="../../games/README.ja.md#genre-racing-and-driving">レース・ドライブ</a> <b>75</b> · <a href="../../games/README.ja.md#genre-flight">フライト</a> <b>28</b> · <a href="../../games/README.ja.md#genre-sports">スポーツ</a> <b>15</b> · <a href="../../games/README.ja.md#genre-adventure-and-exploration">アドベンチャー・探索</a> <b>77</b> · <a href="../../games/README.ja.md#genre-puzzle">パズル</a> <b>23</b> · <a href="../../games/README.ja.md#genre-strategy-and-management">戦略・経営</a> <b>47</b> · <a href="../../games/README.ja.md#genre-sandbox">サンドボックス</a> <b>27</b> · <a href="../../games/README.ja.md#genre-casual-and-arcade">カジュアル・アーケード</a> <b>35</b> · <a href="../../games/README.ja.md#genre-interactive-story">インタラクティブストーリー</a> <b>3</b> · <a href="../../games/README.ja.md#genre-simulation-and-visualization">シミュレーション・可視化</a> <b>4</b> · <a href="../../games/README.ja.md#genre-other-games">その他</a> <b>41</b></p>
 
 <table>
 <tr>
@@ -110,7 +110,7 @@
 </tr>
 </table>
 
-<p><b><a href="../../games/README.ja.md">全 579 件を見る →</a></b> · <a href="#contents">↑ 目次</a></p>
+<p><b><a href="../../games/README.ja.md">全 581 件を見る →</a></b> · <a href="#contents">↑ 目次</a></p>
 
 <a name="contents-scenes"></a>
 

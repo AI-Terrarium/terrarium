@@ -15,9 +15,9 @@
 
 <h1 align="center">遊戲</h1>
 
-<p align="center">579 個項目。 從射擊、競速與飛行，到冒險、解謎和沙盒。</p>
+<p align="center">581 個項目。 從射擊、競速與飛行，到冒險、解謎和沙盒。</p>
 
-<p><a href="#genre-shooter">射擊</a> <b>111</b> · <a href="#genre-action-and-combat">動作與戰鬥</a> <b>57</b> · <a href="#genre-platformer-and-runner">平台跳躍與跑酷</a> <b>38</b> · <a href="#genre-racing-and-driving">競速與駕駛</a> <b>75</b> · <a href="#genre-flight">飛行</a> <b>28</b> · <a href="#genre-sports">運動</a> <b>15</b> · <a href="#genre-adventure-and-exploration">冒險與探索</a> <b>77</b> · <a href="#genre-puzzle">解謎</a> <b>23</b> · <a href="#genre-strategy-and-management">策略與經營</a> <b>47</b> · <a href="#genre-sandbox">沙盒</a> <b>27</b> · <a href="#genre-casual-and-arcade">休閒與街機</a> <b>35</b> · <a href="#genre-interactive-story">互動敘事</a> <b>3</b> · <a href="#genre-simulation-and-visualization">模擬與視覺化</a> <b>4</b> · <a href="#genre-other-games">其他遊戲</a> <b>39</b></p>
+<p><a href="#genre-shooter">射擊</a> <b>111</b> · <a href="#genre-action-and-combat">動作與戰鬥</a> <b>57</b> · <a href="#genre-platformer-and-runner">平台跳躍與跑酷</a> <b>38</b> · <a href="#genre-racing-and-driving">競速與駕駛</a> <b>75</b> · <a href="#genre-flight">飛行</a> <b>28</b> · <a href="#genre-sports">運動</a> <b>15</b> · <a href="#genre-adventure-and-exploration">冒險與探索</a> <b>77</b> · <a href="#genre-puzzle">解謎</a> <b>23</b> · <a href="#genre-strategy-and-management">策略與經營</a> <b>47</b> · <a href="#genre-sandbox">沙盒</a> <b>27</b> · <a href="#genre-casual-and-arcade">休閒與街機</a> <b>35</b> · <a href="#genre-interactive-story">互動敘事</a> <b>3</b> · <a href="#genre-simulation-and-visualization">模擬與視覺化</a> <b>4</b> · <a href="#genre-other-games">其他遊戲</a> <b>41</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1203,11 +1203,15 @@
 
 <tr><td><a href="https://munimv2.itch.io/little-ember">little-ember</a></td><td><a href="https://github.com/munimtechnologies">munimtechnologies</a></td><td>Apache-2.0</td><td><a href="https://github.com/munimtechnologies/little-ember">原始碼</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/little-ember-33221b54">檔案</a></td></tr>
 
+<tr><td><a href="https://cn3ko.github.io/nogatron/">nogatron</a></td><td><a href="https://github.com/cn3ko">cn3ko</a></td><td>MIT</td><td><a href="https://github.com/cn3ko/nogatron">原始碼</a></td></tr>
+
 <tr><td><a href="https://otaniyan-ai.github.io/pixel-survivor-by-ai/">pixel-survivor-by-ai</a></td><td><a href="https://github.com/otaniyan-ai">otaniyan-ai</a></td><td>MIT</td><td><a href="https://github.com/otaniyan-ai/pixel-survivor-by-ai">原始碼</a></td></tr>
 
 <tr><td><a href="https://pulp-panic.fly.dev">pulp-panic</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/pulp-panic">原始碼</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/pulp-panic-a592ed39">檔案</a></td></tr>
 
 <tr><td><a href="https://pixelfrog-assets.itch.io/tiny-swords">pyquest</a></td><td><a href="https://github.com/linan7788626">linan7788626</a></td><td>MIT</td><td><a href="https://github.com/linan7788626/pyquest">原始碼</a></td></tr>
+
+<tr><td><a href="https://rover-engineer.vercel.app/">rover-engineer</a></td><td><a href="https://github.com/chieri518">chieri518</a></td><td>MIT</td><td><a href="https://github.com/chieri518/rover-engineer">原始碼</a></td></tr>
 
 <tr><td><a href="https://www.sanshengai.top/tools/disk-cleanup/">sansheng-disk-cleanup</a></td><td><a href="https://github.com/sanshengai">sanshengai</a></td><td>MIT</td><td><a href="https://github.com/sanshengai/sansheng-disk-cleanup">原始碼</a></td></tr>
 

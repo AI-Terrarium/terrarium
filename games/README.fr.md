@@ -15,9 +15,9 @@
 
 <h1 align="center">Jeux</h1>
 
-<p align="center">579 entrées. Tir, course, vol, énigmes et bien d’autres jeux.</p>
+<p align="center">581 entrées. Tir, course, vol, énigmes et bien d’autres jeux.</p>
 
-<p><a href="#genre-shooter">Tir</a> <b>111</b> · <a href="#genre-action-and-combat">Action et combat</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plateforme et course sans fin</a> <b>38</b> · <a href="#genre-racing-and-driving">Course et conduite</a> <b>75</b> · <a href="#genre-flight">Vol</a> <b>28</b> · <a href="#genre-sports">Sports</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventure et exploration</a> <b>77</b> · <a href="#genre-puzzle">Énigmes</a> <b>23</b> · <a href="#genre-strategy-and-management">Stratégie et gestion</a> <b>47</b> · <a href="#genre-sandbox">Bac à sable</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual et arcade</a> <b>35</b> · <a href="#genre-interactive-story">Récit interactif</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation et visualisation</a> <b>4</b> · <a href="#genre-other-games">Autres jeux</a> <b>39</b></p>
+<p><a href="#genre-shooter">Tir</a> <b>111</b> · <a href="#genre-action-and-combat">Action et combat</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plateforme et course sans fin</a> <b>38</b> · <a href="#genre-racing-and-driving">Course et conduite</a> <b>75</b> · <a href="#genre-flight">Vol</a> <b>28</b> · <a href="#genre-sports">Sports</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventure et exploration</a> <b>77</b> · <a href="#genre-puzzle">Énigmes</a> <b>23</b> · <a href="#genre-strategy-and-management">Stratégie et gestion</a> <b>47</b> · <a href="#genre-sandbox">Bac à sable</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual et arcade</a> <b>35</b> · <a href="#genre-interactive-story">Récit interactif</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation et visualisation</a> <b>4</b> · <a href="#genre-other-games">Autres jeux</a> <b>41</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1203,11 +1203,15 @@
 
 <tr><td><a href="https://munimv2.itch.io/little-ember">little-ember</a></td><td><a href="https://github.com/munimtechnologies">munimtechnologies</a></td><td>Apache-2.0</td><td><a href="https://github.com/munimtechnologies/little-ember">Code</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/little-ember-33221b54">Fichiers</a></td></tr>
 
+<tr><td><a href="https://cn3ko.github.io/nogatron/">nogatron</a></td><td><a href="https://github.com/cn3ko">cn3ko</a></td><td>MIT</td><td><a href="https://github.com/cn3ko/nogatron">Code</a></td></tr>
+
 <tr><td><a href="https://otaniyan-ai.github.io/pixel-survivor-by-ai/">pixel-survivor-by-ai</a></td><td><a href="https://github.com/otaniyan-ai">otaniyan-ai</a></td><td>MIT</td><td><a href="https://github.com/otaniyan-ai/pixel-survivor-by-ai">Code</a></td></tr>
 
 <tr><td><a href="https://pulp-panic.fly.dev">pulp-panic</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/pulp-panic">Code</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/pulp-panic-a592ed39">Fichiers</a></td></tr>
 
 <tr><td><a href="https://pixelfrog-assets.itch.io/tiny-swords">pyquest</a></td><td><a href="https://github.com/linan7788626">linan7788626</a></td><td>MIT</td><td><a href="https://github.com/linan7788626/pyquest">Code</a></td></tr>
+
+<tr><td><a href="https://rover-engineer.vercel.app/">rover-engineer</a></td><td><a href="https://github.com/chieri518">chieri518</a></td><td>MIT</td><td><a href="https://github.com/chieri518/rover-engineer">Code</a></td></tr>
 
 <tr><td><a href="https://www.sanshengai.top/tools/disk-cleanup/">sansheng-disk-cleanup</a></td><td><a href="https://github.com/sanshengai">sanshengai</a></td><td>MIT</td><td><a href="https://github.com/sanshengai/sansheng-disk-cleanup">Code</a></td></tr>
 
