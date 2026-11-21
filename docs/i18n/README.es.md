@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · Popular"></picture></a></p>
 
-<p align="center"><sub>Actualizado: 2026-11-21 08:09 UTC · Actualización programada cada 8 horas</sub></p>
+<p align="center"><sub>Actualizado: 2026-11-21 16:41 UTC · Actualización programada cada 8 horas</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Me gusta: 17.953 · Comentarios: 503</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Me gusta: 15.027 · Comentarios: 861</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Me gusta: 8.019 · Comentarios: 393</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Me gusta: 17.949 · Comentarios: 503</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Me gusta: 15.034 · Comentarios: 861</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Me gusta: 8.018 · Comentarios: 393</a></sub></td>
 <td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">CROSSTOWN</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Me gusta: 7.519 · Comentarios: 676</a></sub></td>
 </tr></table>
 
 <details><summary>Fuentes y ordenación</summary>
 
-Ordenadas por apoyos públicos, como Me gusta y estrellas. Los comentarios y las veces compartidas desempatan; las visualizaciones se muestran aparte. Se usa la publicación con más apoyo por plataforma y cada fuente aparece una sola vez. 824 fuentes · 4 plataformas · 12 sin medir <a href="../../data/showcase.json">Ver datos</a> · <a href="../../scripts/SHOWCASE.md">Metodología</a>
+Ordenadas por apoyos públicos, como Me gusta y estrellas. Los comentarios y las veces compartidas desempatan; las visualizaciones se muestran aparte. Se usa la publicación con más apoyo por plataforma y cada fuente aparece una sola vez. 827 fuentes · 4 plataformas · 12 sin medir <a href="../../data/showcase.json">Ver datos</a> · <a href="../../scripts/SHOWCASE.md">Metodología</a>
 
 </details>
 
