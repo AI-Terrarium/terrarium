@@ -15,9 +15,9 @@
 
 <h1 align="center">Jogos</h1>
 
-<p align="center">586 itens. Tiro, corrida, voo, quebra-cabeças e muito mais.</p>
+<p align="center">588 itens. Tiro, corrida, voo, quebra-cabeças e muito mais.</p>
 
-<p><a href="#genre-shooter">Tiro</a> <b>111</b> · <a href="#genre-action-and-combat">Ação e combate</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plataforma e corrida infinita</a> <b>38</b> · <a href="#genre-racing-and-driving">Corrida e direção</a> <b>75</b> · <a href="#genre-flight">Voo</a> <b>28</b> · <a href="#genre-sports">Esportes</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventura e exploração</a> <b>77</b> · <a href="#genre-puzzle">Quebra-cabeças</a> <b>23</b> · <a href="#genre-strategy-and-management">Estratégia e gestão</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual e arcade</a> <b>35</b> · <a href="#genre-interactive-story">História interativa</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulação e visualização</a> <b>4</b> · <a href="#genre-other-games">Outros jogos</a> <b>46</b></p>
+<p><a href="#genre-shooter">Tiro</a> <b>111</b> · <a href="#genre-action-and-combat">Ação e combate</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plataforma e corrida infinita</a> <b>38</b> · <a href="#genre-racing-and-driving">Corrida e direção</a> <b>75</b> · <a href="#genre-flight">Voo</a> <b>28</b> · <a href="#genre-sports">Esportes</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventura e exploração</a> <b>77</b> · <a href="#genre-puzzle">Quebra-cabeças</a> <b>23</b> · <a href="#genre-strategy-and-management">Estratégia e gestão</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual e arcade</a> <b>35</b> · <a href="#genre-interactive-story">História interativa</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulação e visualização</a> <b>4</b> · <a href="#genre-other-games">Outros jogos</a> <b>48</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1163,6 +1163,8 @@ Obras sem imagem de prévia:
 
 <tr><th align="left">Obra</th><th align="left">Criador</th><th align="left">Licença</th><th align="left">Links</th></tr>
 
+<tr><td><a href="https://eighty.tonytheyang.com/">80-fen-shengji</a></td><td><a href="https://github.com/tonyyunyang">tonyyunyang</a></td><td>Apache-2.0</td><td><a href="https://github.com/tonyyunyang/80-fen-shengji">Código</a></td></tr>
+
 <tr><td><a href="https://aifight.wangnov-ai.com/">AI-fight</a></td><td><a href="https://github.com/Wangnov">Wangnov</a></td><td>MIT</td><td><a href="https://github.com/wangnov/ai-fight">Código</a></td></tr>
 
 <tr><td><a href="https://fusheng.qiaomu.ai/">ai-fushengji</a></td><td><a href="https://github.com/joeseesun">joeseesun</a></td><td>MIT</td><td><a href="https://github.com/joeseesun/ai-fushengji">Código</a></td></tr>
@@ -1211,6 +1213,8 @@ Obras sem imagem de prévia:
 
 <tr><td><a href="https://cn3ko.github.io/nogatron/">nogatron</a></td><td><a href="https://github.com/cn3ko">cn3ko</a></td><td>MIT</td><td><a href="https://github.com/cn3ko/nogatron">Código</a></td></tr>
 
+<tr><td><a href="https://davidandreasson.com/othello/">othello</a></td><td><a href="https://github.com/skogdoom">skogdoom</a></td><td>MIT</td><td><a href="https://github.com/skogdoom/othello">Código</a></td></tr>
+
 <tr><td><a href="https://otaniyan-ai.github.io/pixel-survivor-by-ai/">pixel-survivor-by-ai</a></td><td><a href="https://github.com/otaniyan-ai">otaniyan-ai</a></td><td>MIT</td><td><a href="https://github.com/otaniyan-ai/pixel-survivor-by-ai">Código</a></td></tr>
 
 <tr><td><a href="https://pulp-panic.fly.dev">pulp-panic</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/pulp-panic">Código</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/pulp-panic-a592ed39">Arquivos</a></td></tr>
@@ -1241,4 +1245,4 @@ Obras sem imagem de prévia:
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.pt-BR.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.pt-BR.md">Início</a> · <a href="README.pt-BR.md">Jogos</a> · <a href="../scenes/README.pt-BR.md">Mundos e cenas</a> · <a href="../videos/README.pt-BR.md">Vídeos</a> · <a href="../tools/README.pt-BR.md">Ferramentas</a> · <a href="../visualizations/README.pt-BR.md">Visualizações</a> · <a href="../wallpapers/README.pt-BR.md">Papéis de parede</a> · <a href="#top">Voltar ao topo</a><br>Dados do catálogo: 2026-11-21</sub></p>
+<p align="center"><a href="../docs/i18n/README.pt-BR.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.pt-BR.md">Início</a> · <a href="README.pt-BR.md">Jogos</a> · <a href="../scenes/README.pt-BR.md">Mundos e cenas</a> · <a href="../videos/README.pt-BR.md">Vídeos</a> · <a href="../tools/README.pt-BR.md">Ferramentas</a> · <a href="../visualizations/README.pt-BR.md">Visualizações</a> · <a href="../wallpapers/README.pt-BR.md">Papéis de parede</a> · <a href="#top">Voltar ao topo</a><br>Dados do catálogo: 2026-11-22</sub></p>

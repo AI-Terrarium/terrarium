@@ -15,9 +15,9 @@
 
 <h1 align="center">ゲーム</h1>
 
-<p align="center">586 件。 シューティング、レース、フライト、パズルなど多彩なゲーム。</p>
+<p align="center">588 件。 シューティング、レース、フライト、パズルなど多彩なゲーム。</p>
 
-<p><a href="#genre-shooter">シューティング</a> <b>111</b> · <a href="#genre-action-and-combat">アクション・戦闘</a> <b>57</b> · <a href="#genre-platformer-and-runner">プラットフォーマー・ランナー</a> <b>38</b> · <a href="#genre-racing-and-driving">レース・ドライブ</a> <b>75</b> · <a href="#genre-flight">フライト</a> <b>28</b> · <a href="#genre-sports">スポーツ</a> <b>15</b> · <a href="#genre-adventure-and-exploration">アドベンチャー・探索</a> <b>77</b> · <a href="#genre-puzzle">パズル</a> <b>23</b> · <a href="#genre-strategy-and-management">戦略・経営</a> <b>47</b> · <a href="#genre-sandbox">サンドボックス</a> <b>27</b> · <a href="#genre-casual-and-arcade">カジュアル・アーケード</a> <b>35</b> · <a href="#genre-interactive-story">インタラクティブストーリー</a> <b>3</b> · <a href="#genre-simulation-and-visualization">シミュレーション・可視化</a> <b>4</b> · <a href="#genre-other-games">その他</a> <b>46</b></p>
+<p><a href="#genre-shooter">シューティング</a> <b>111</b> · <a href="#genre-action-and-combat">アクション・戦闘</a> <b>57</b> · <a href="#genre-platformer-and-runner">プラットフォーマー・ランナー</a> <b>38</b> · <a href="#genre-racing-and-driving">レース・ドライブ</a> <b>75</b> · <a href="#genre-flight">フライト</a> <b>28</b> · <a href="#genre-sports">スポーツ</a> <b>15</b> · <a href="#genre-adventure-and-exploration">アドベンチャー・探索</a> <b>77</b> · <a href="#genre-puzzle">パズル</a> <b>23</b> · <a href="#genre-strategy-and-management">戦略・経営</a> <b>47</b> · <a href="#genre-sandbox">サンドボックス</a> <b>27</b> · <a href="#genre-casual-and-arcade">カジュアル・アーケード</a> <b>35</b> · <a href="#genre-interactive-story">インタラクティブストーリー</a> <b>3</b> · <a href="#genre-simulation-and-visualization">シミュレーション・可視化</a> <b>4</b> · <a href="#genre-other-games">その他</a> <b>48</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1163,6 +1163,8 @@
 
 <tr><th align="left">作品</th><th align="left">作者</th><th align="left">ライセンス</th><th align="left">リンク</th></tr>
 
+<tr><td><a href="https://eighty.tonytheyang.com/">80-fen-shengji</a></td><td><a href="https://github.com/tonyyunyang">tonyyunyang</a></td><td>Apache-2.0</td><td><a href="https://github.com/tonyyunyang/80-fen-shengji">ソース</a></td></tr>
+
 <tr><td><a href="https://aifight.wangnov-ai.com/">AI-fight</a></td><td><a href="https://github.com/Wangnov">Wangnov</a></td><td>MIT</td><td><a href="https://github.com/wangnov/ai-fight">ソース</a></td></tr>
 
 <tr><td><a href="https://fusheng.qiaomu.ai/">ai-fushengji</a></td><td><a href="https://github.com/joeseesun">joeseesun</a></td><td>MIT</td><td><a href="https://github.com/joeseesun/ai-fushengji">ソース</a></td></tr>
@@ -1211,6 +1213,8 @@
 
 <tr><td><a href="https://cn3ko.github.io/nogatron/">nogatron</a></td><td><a href="https://github.com/cn3ko">cn3ko</a></td><td>MIT</td><td><a href="https://github.com/cn3ko/nogatron">ソース</a></td></tr>
 
+<tr><td><a href="https://davidandreasson.com/othello/">othello</a></td><td><a href="https://github.com/skogdoom">skogdoom</a></td><td>MIT</td><td><a href="https://github.com/skogdoom/othello">ソース</a></td></tr>
+
 <tr><td><a href="https://otaniyan-ai.github.io/pixel-survivor-by-ai/">pixel-survivor-by-ai</a></td><td><a href="https://github.com/otaniyan-ai">otaniyan-ai</a></td><td>MIT</td><td><a href="https://github.com/otaniyan-ai/pixel-survivor-by-ai">ソース</a></td></tr>
 
 <tr><td><a href="https://pulp-panic.fly.dev">pulp-panic</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/pulp-panic">ソース</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/pulp-panic-a592ed39">ファイル</a></td></tr>
@@ -1241,4 +1245,4 @@
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.ja.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ja.md">ホーム</a> · <a href="README.ja.md">ゲーム</a> · <a href="../scenes/README.ja.md">ワールドとシーン</a> · <a href="../videos/README.ja.md">動画</a> · <a href="../tools/README.ja.md">ツール</a> · <a href="../visualizations/README.ja.md">可視化</a> · <a href="../wallpapers/README.ja.md">壁紙</a> · <a href="#top">トップへ</a><br>カタログのデータ：2026-11-21</sub></p>
+<p align="center"><a href="../docs/i18n/README.ja.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ja.md">ホーム</a> · <a href="README.ja.md">ゲーム</a> · <a href="../scenes/README.ja.md">ワールドとシーン</a> · <a href="../videos/README.ja.md">動画</a> · <a href="../tools/README.ja.md">ツール</a> · <a href="../visualizations/README.ja.md">可視化</a> · <a href="../wallpapers/README.ja.md">壁紙</a> · <a href="#top">トップへ</a><br>カタログのデータ：2026-11-22</sub></p>

@@ -15,9 +15,9 @@
 
 <h1 align="center">Games</h1>
 
-<p align="center">586 entries. Shooters, driving, flight, puzzles and everything in between.</p>
+<p align="center">588 entries. Shooters, driving, flight, puzzles and everything in between.</p>
 
-<p><a href="#genre-shooter">Shooter</a> <b>111</b> · <a href="#genre-action-and-combat">Action &amp; combat</a> <b>57</b> · <a href="#genre-platformer-and-runner">Platformer &amp; runner</a> <b>38</b> · <a href="#genre-racing-and-driving">Racing &amp; driving</a> <b>75</b> · <a href="#genre-flight">Flight</a> <b>28</b> · <a href="#genre-sports">Sports</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Adventure &amp; exploration</a> <b>77</b> · <a href="#genre-puzzle">Puzzle</a> <b>23</b> · <a href="#genre-strategy-and-management">Strategy &amp; management</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual &amp; arcade</a> <b>35</b> · <a href="#genre-interactive-story">Interactive story</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation &amp; visualization</a> <b>4</b> · <a href="#genre-other-games">Other games</a> <b>46</b></p>
+<p><a href="#genre-shooter">Shooter</a> <b>111</b> · <a href="#genre-action-and-combat">Action &amp; combat</a> <b>57</b> · <a href="#genre-platformer-and-runner">Platformer &amp; runner</a> <b>38</b> · <a href="#genre-racing-and-driving">Racing &amp; driving</a> <b>75</b> · <a href="#genre-flight">Flight</a> <b>28</b> · <a href="#genre-sports">Sports</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Adventure &amp; exploration</a> <b>77</b> · <a href="#genre-puzzle">Puzzle</a> <b>23</b> · <a href="#genre-strategy-and-management">Strategy &amp; management</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual &amp; arcade</a> <b>35</b> · <a href="#genre-interactive-story">Interactive story</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation &amp; visualization</a> <b>4</b> · <a href="#genre-other-games">Other games</a> <b>48</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1163,6 +1163,8 @@ Works without a preview image:
 
 <tr><th align="left">Work</th><th align="left">Creator</th><th align="left">License</th><th align="left">Links</th></tr>
 
+<tr><td><a href="https://eighty.tonytheyang.com/">80-fen-shengji</a></td><td><a href="https://github.com/tonyyunyang">tonyyunyang</a></td><td>Apache-2.0</td><td><a href="https://github.com/tonyyunyang/80-fen-shengji">Code</a></td></tr>
+
 <tr><td><a href="https://aifight.wangnov-ai.com/">AI-fight</a></td><td><a href="https://github.com/Wangnov">Wangnov</a></td><td>MIT</td><td><a href="https://github.com/wangnov/ai-fight">Code</a></td></tr>
 
 <tr><td><a href="https://fusheng.qiaomu.ai/">ai-fushengji</a></td><td><a href="https://github.com/joeseesun">joeseesun</a></td><td>MIT</td><td><a href="https://github.com/joeseesun/ai-fushengji">Code</a></td></tr>
@@ -1211,6 +1213,8 @@ Works without a preview image:
 
 <tr><td><a href="https://cn3ko.github.io/nogatron/">nogatron</a></td><td><a href="https://github.com/cn3ko">cn3ko</a></td><td>MIT</td><td><a href="https://github.com/cn3ko/nogatron">Code</a></td></tr>
 
+<tr><td><a href="https://davidandreasson.com/othello/">othello</a></td><td><a href="https://github.com/skogdoom">skogdoom</a></td><td>MIT</td><td><a href="https://github.com/skogdoom/othello">Code</a></td></tr>
+
 <tr><td><a href="https://otaniyan-ai.github.io/pixel-survivor-by-ai/">pixel-survivor-by-ai</a></td><td><a href="https://github.com/otaniyan-ai">otaniyan-ai</a></td><td>MIT</td><td><a href="https://github.com/otaniyan-ai/pixel-survivor-by-ai">Code</a></td></tr>
 
 <tr><td><a href="https://pulp-panic.fly.dev">pulp-panic</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/pulp-panic">Code</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/pulp-panic-a592ed39">Files</a></td></tr>
@@ -1241,4 +1245,4 @@ Works without a preview image:
 
 ---
 
-<p align="center"><a href="../README.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../README.md">Home</a> · <a href="README.md">Games</a> · <a href="../scenes/README.md">Worlds &amp; Scenes</a> · <a href="../videos/README.md">Videos</a> · <a href="../tools/README.md">Tools</a> · <a href="../visualizations/README.md">Visualizations</a> · <a href="../wallpapers/README.md">Wallpapers</a> · <a href="#top">Back to top</a><br>Catalog data: 2026-11-21</sub></p>
+<p align="center"><a href="../README.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../README.md">Home</a> · <a href="README.md">Games</a> · <a href="../scenes/README.md">Worlds &amp; Scenes</a> · <a href="../videos/README.md">Videos</a> · <a href="../tools/README.md">Tools</a> · <a href="../visualizations/README.md">Visualizations</a> · <a href="../wallpapers/README.md">Wallpapers</a> · <a href="#top">Back to top</a><br>Catalog data: 2026-11-22</sub></p>
