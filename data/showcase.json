@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-20T17:40:41Z",
+  "updated_at": "2026-11-21T08:09:01Z",
   "method": "public-support-v1",
   "sources": {
     "bilibili:BV1ByWM6mE1D": {
@@ -306,7 +306,7 @@
       "url": "https://github.com/aditazzz/suno-youtube-aditazzz-music",
       "published_at": "2026-10-26T23:30:26Z",
       "metrics": {
-        "stars": 11,
+        "stars": 12,
         "forks": 1
       }
     },
@@ -540,7 +540,7 @@
       "url": "https://github.com/amirmushichge/worm-rider",
       "published_at": "2026-11-09T23:38:11Z",
       "metrics": {
-        "stars": 33,
+        "stars": 34,
         "forks": 5
       }
     },
@@ -1863,7 +1863,7 @@
       "url": "https://github.com/elberacasa/claudeage",
       "published_at": "2026-07-29T03:31:45Z",
       "metrics": {
-        "stars": 0,
+        "stars": 1,
         "forks": 1
       }
     },
@@ -1899,7 +1899,7 @@
       "url": "https://github.com/emollick/ai-portals",
       "published_at": "2026-11-09T18:59:43Z",
       "metrics": {
-        "stars": 191,
+        "stars": 193,
         "forks": 46
       }
     },
@@ -2152,6 +2152,15 @@
       "published_at": "2026-10-22T05:41:55Z",
       "metrics": {
         "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:francodeyvison183-collab/iclock": {
+      "platform": "github",
+      "url": "https://github.com/francodeyvison183-collab/iclock",
+      "published_at": "2026-10-09T01:52:26Z",
+      "metrics": {
+        "stars": 2,
         "forks": 0
       }
     },
@@ -2623,33 +2632,6 @@
         "forks": 0
       }
     },
-    "github:hirosichen/ai-f1-racing-game": {
-      "platform": "github",
-      "url": "https://github.com/hirosichen/ai-f1-racing-game",
-      "published_at": "2026-09-25T07:22:52Z",
-      "metrics": {
-        "stars": 0,
-        "forks": 0
-      }
-    },
-    "github:hirosichen/ai-harbor-master-game": {
-      "platform": "github",
-      "url": "https://github.com/hirosichen/ai-harbor-master-game",
-      "published_at": "2026-09-25T12:48:00Z",
-      "metrics": {
-        "stars": 0,
-        "forks": 0
-      }
-    },
-    "github:hirosichen/ai-sky-rings-game": {
-      "platform": "github",
-      "url": "https://github.com/hirosichen/ai-sky-rings-game",
-      "published_at": "2026-09-25T09:04:02Z",
-      "metrics": {
-        "stars": 0,
-        "forks": 0
-      }
-    },
     "github:hisamikurita/ice-stairs": {
       "platform": "github",
       "url": "https://github.com/hisamikurita/ice-stairs",
@@ -2727,8 +2709,8 @@
       "url": "https://github.com/hyhy111/game-assets-maker",
       "published_at": "2026-09-26T06:57:04Z",
       "metrics": {
-        "stars": 115,
-        "forks": 14
+        "stars": 117,
+        "forks": 15
       }
     },
     "github:ibitlab/pub-hooks-for-pictures": {
@@ -3331,7 +3313,7 @@
       "published_at": "2026-10-05T07:21:09Z",
       "metrics": {
         "stars": 16,
-        "forks": 4
+        "forks": 5
       }
     },
     "github:krowawui/3d-rubik-s-cube-game": {
@@ -3691,7 +3673,7 @@
       "published_at": "2026-11-10T18:34:31Z",
       "metrics": {
         "stars": 99,
-        "forks": 43
+        "forks": 44
       }
     },
     "github:maxbol/house-visualizer": {
@@ -3807,7 +3789,7 @@
       "url": "https://github.com/miaai-lab/claude-fable-5.2-html-files",
       "published_at": "2026-11-09T22:28:22Z",
       "metrics": {
-        "stars": 139,
+        "stars": 140,
         "forks": 31
       }
     },
@@ -4356,8 +4338,8 @@
       "url": "https://github.com/op7418/guizang-game-skill",
       "published_at": "2026-11-11T16:28:54Z",
       "metrics": {
-        "stars": 425,
-        "forks": 68
+        "stars": 427,
+        "forks": 70
       }
     },
     "github:oplosy/space": {
@@ -4608,7 +4590,7 @@
       "url": "https://github.com/rafiulm/fable-52-game-3d",
       "published_at": "2026-11-12T10:39:30Z",
       "metrics": {
-        "stars": 1,
+        "stars": 2,
         "forks": 1
       }
     },
@@ -4689,8 +4671,8 @@
       "url": "https://github.com/realcodebear/saltline-fable-5.2",
       "published_at": "2026-11-10T15:04:30Z",
       "metrics": {
-        "stars": 483,
-        "forks": 145
+        "stars": 492,
+        "forks": 149
       }
     },
     "github:realcodebear/threejs-fable-5.2-all-effort-koi-pond": {
@@ -4698,7 +4680,7 @@
       "url": "https://github.com/realcodebear/threejs-fable-5.2-all-effort-koi-pond",
       "published_at": "2026-11-12T15:50:36Z",
       "metrics": {
-        "stars": 3,
+        "stars": 4,
         "forks": 0
       }
     },
@@ -4932,7 +4914,7 @@
       "url": "https://github.com/sam1983aing/ticket-tear",
       "published_at": "2026-10-22T12:43:31Z",
       "metrics": {
-        "stars": 89,
+        "stars": 90,
         "forks": 14
       }
     },
@@ -5148,8 +5130,8 @@
       "url": "https://github.com/sharpwizard/ironvale",
       "published_at": "2026-11-11T19:07:02Z",
       "metrics": {
-        "stars": 3,
-        "forks": 3
+        "stars": 4,
+        "forks": 4
       }
     },
     "github:shaunprice/soccer-3d": {
@@ -5157,7 +5139,7 @@
       "url": "https://github.com/shaunprice/soccer-3d",
       "published_at": "2026-11-10T10:56:46Z",
       "metrics": {
-        "stars": 1,
+        "stars": 2,
         "forks": 0
       }
     },
@@ -6391,7 +6373,7 @@
       "published_at": "2026-09-22T09:59:37Z",
       "metrics": {
         "stars": 41,
-        "forks": 15
+        "forks": 16
       }
     },
     "github:y-migita/villa-savoye-fable": {
@@ -6543,7 +6525,7 @@
       "url": "https://github.com/yusen-dev/living-ascii",
       "published_at": "2026-11-04T02:25:38Z",
       "metrics": {
-        "stars": 67,
+        "stars": 68,
         "forks": 3
       }
     },
@@ -6940,7 +6922,7 @@
       "url": "https://x.com/i/status/2119728047754547326",
       "published_at": "2026-11-09T09:45:23.000Z",
       "metrics": {
-        "likes": 429,
+        "likes": 430,
         "comments": 41
       }
     },
@@ -6967,7 +6949,7 @@
       "url": "https://x.com/i/status/2119868968307695818",
       "published_at": "2026-11-09T19:05:21.000Z",
       "metrics": {
-        "likes": 4278,
+        "likes": 4281,
         "comments": 176
       }
     },
@@ -6976,7 +6958,7 @@
       "url": "https://x.com/i/status/2119870965106483384",
       "published_at": "2026-11-09T19:13:18.000Z",
       "metrics": {
-        "likes": 743,
+        "likes": 742,
         "comments": 52
       }
     },
@@ -6985,7 +6967,7 @@
       "url": "https://x.com/i/status/2119872098306810226",
       "published_at": "2026-11-09T19:17:48.000Z",
       "metrics": {
-        "likes": 312,
+        "likes": 311,
         "comments": 15
       }
     },
@@ -6994,7 +6976,7 @@
       "url": "https://x.com/i/status/2119876449494540554",
       "published_at": "2026-11-09T19:35:05.000Z",
       "metrics": {
-        "likes": 518,
+        "likes": 517,
         "comments": 55
       }
     },
@@ -7066,8 +7048,8 @@
       "url": "https://x.com/i/status/2119902109709537708",
       "published_at": "2026-11-09T21:17:03.000Z",
       "metrics": {
-        "likes": 7072,
-        "comments": 271
+        "likes": 7074,
+        "comments": 270
       }
     },
     "x:2119904269235277978": {
@@ -7156,7 +7138,7 @@
       "url": "https://x.com/i/status/2119910195325481026",
       "published_at": "2026-11-09T21:49:11.000Z",
       "metrics": {
-        "likes": 1035,
+        "likes": 1034,
         "comments": 140
       }
     },
@@ -7174,7 +7156,7 @@
       "url": "https://x.com/i/status/2119918307457577163",
       "published_at": "2026-11-09T22:21:25.000Z",
       "metrics": {
-        "likes": 1939,
+        "likes": 1938,
         "comments": 226
       }
     },
@@ -7183,8 +7165,8 @@
       "url": "https://x.com/i/status/2119925633564463609",
       "published_at": "2026-11-09T22:50:32.000Z",
       "metrics": {
-        "likes": 15017,
-        "comments": 860
+        "likes": 15027,
+        "comments": 861
       }
     },
     "x:2119927838321328577": {
@@ -7201,7 +7183,7 @@
       "url": "https://x.com/i/status/2119935331499925557",
       "published_at": "2026-11-09T23:29:04.000Z",
       "metrics": {
-        "likes": 1990,
+        "likes": 1989,
         "comments": 136
       }
     },
@@ -7210,7 +7192,7 @@
       "url": "https://x.com/i/status/2119937977426338283",
       "published_at": "2026-11-09T23:39:35.000Z",
       "metrics": {
-        "likes": 253,
+        "likes": 254,
         "comments": 38
       }
     },
@@ -7300,7 +7282,7 @@
       "url": "https://x.com/i/status/2120167560700383572",
       "published_at": "2026-11-10T14:51:51.000Z",
       "metrics": {
-        "likes": 975,
+        "likes": 976,
         "comments": 43
       }
     },
@@ -7318,7 +7300,7 @@
       "url": "https://x.com/i/status/2120192761542615271",
       "published_at": "2026-11-10T16:32:00.000Z",
       "metrics": {
-        "likes": 1431,
+        "likes": 1439,
         "comments": 118
       }
     },
@@ -7336,7 +7318,7 @@
       "url": "https://x.com/i/status/2120238844754923874",
       "published_at": "2026-11-10T19:35:07.000Z",
       "metrics": {
-        "likes": 1802,
+        "likes": 1804,
         "comments": 160
       }
     },
@@ -7345,7 +7327,7 @@
       "url": "https://x.com/i/status/2120248525254742318",
       "published_at": "2026-11-10T20:13:35.000Z",
       "metrics": {
-        "likes": 304,
+        "likes": 303,
         "comments": 105
       }
     },
@@ -7363,7 +7345,7 @@
       "url": "https://x.com/i/status/2120284261089673376",
       "published_at": "2026-11-10T22:35:35.000Z",
       "metrics": {
-        "likes": 17963,
+        "likes": 17953,
         "comments": 503
       }
     },
@@ -7372,8 +7354,8 @@
       "url": "https://x.com/i/status/2120341251178594532",
       "published_at": "2026-11-11T02:22:02.000Z",
       "metrics": {
-        "likes": 8016,
-        "comments": 392
+        "likes": 8019,
+        "comments": 393
       }
     },
     "x:2120374208043876422": {
@@ -7414,6 +7396,18 @@
     }
   },
   "unavailable": [
+    {
+      "source": "github:hirosichen/ai-f1-racing-game",
+      "reason": "Not public or not found"
+    },
+    {
+      "source": "github:hirosichen/ai-harbor-master-game",
+      "reason": "Not public or not found"
+    },
+    {
+      "source": "github:hirosichen/ai-sky-rings-game",
+      "reason": "Not public or not found"
+    },
     {
       "source": "github:michaelcrosato/robot-warrior",
       "reason": "Not public or not found"

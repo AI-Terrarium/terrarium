@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · 인기"></picture></a></p>
 
-<p align="center"><sub>인기 데이터 갱신: 2026-11-20 17:40 UTC · 8시간마다 갱신 예정</sub></p>
+<p align="center"><sub>인기 데이터 갱신: 2026-11-21 08:09 UTC · 8시간마다 갱신 예정</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · 17,963 좋아요 · 503 댓글</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · 15,017 좋아요 · 860 댓글</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · 8,016 좋아요 · 392 댓글</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · 17,953 좋아요 · 503 댓글</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · 15,027 좋아요 · 861 댓글</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · 8,019 좋아요 · 393 댓글</a></sub></td>
 <td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">CROSSTOWN</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · 7,519 좋아요 · 676 댓글</a></sub></td>
 </tr></table>
 
 <details><summary>출처와 정렬 기준</summary>
 
-공개 좋아요와 Star 등 지지 수로 정렬하고, 동점일 때만 댓글과 공유 수를 사용합니다. 조회 수는 별도로 표시합니다. 플랫폼별 최고 지지 게시물을 사용하며 같은 출처는 한 번만 표시합니다. 출처 826개 · 플랫폼 4개 · 미수집 9개 <a href="../../data/showcase.json">데이터 보기</a> · <a href="../../scripts/SHOWCASE.md">집계 방식</a>
+공개 좋아요와 Star 등 지지 수로 정렬하고, 동점일 때만 댓글과 공유 수를 사용합니다. 조회 수는 별도로 표시합니다. 플랫폼별 최고 지지 게시물을 사용하며 같은 출처는 한 번만 표시합니다. 출처 824개 · 플랫폼 4개 · 미수집 12개 <a href="../../data/showcase.json">데이터 보기</a> · <a href="../../scripts/SHOWCASE.md">집계 방식</a>
 
 </details>
 

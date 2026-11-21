@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · Популярное"></picture></a></p>
 
-<p align="center"><sub>Обновлено: 2026-11-20 17:40 UTC · Обновление запланировано каждые 8 часов</sub></p>
+<p align="center"><sub>Обновлено: 2026-11-21 08:09 UTC · Обновление запланировано каждые 8 часов</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Нравится: 17 963 · Комментарии: 503</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Нравится: 15 017 · Комментарии: 860</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Нравится: 8 016 · Комментарии: 392</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Нравится: 17 953 · Комментарии: 503</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Нравится: 15 027 · Комментарии: 861</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Нравится: 8 019 · Комментарии: 393</a></sub></td>
 <td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">CROSSTOWN</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Нравится: 7 519 · Комментарии: 676</a></sub></td>
 </tr></table>
 
 <details><summary>Источники и порядок</summary>
 
-Сортировка по открытым отметкам «Нравится», звёздам и другим откликам поддержки. Комментарии и репосты используются при равенстве, просмотры показаны отдельно. Учитывается самая поддержанная публикация с каждой платформы; источники не дублируются. Источники: 826 · платформы: 4 · без данных: 9 <a href="../../data/showcase.json">Посмотреть данные</a> · <a href="../../scripts/SHOWCASE.md">Методика</a>
+Сортировка по открытым отметкам «Нравится», звёздам и другим откликам поддержки. Комментарии и репосты используются при равенстве, просмотры показаны отдельно. Учитывается самая поддержанная публикация с каждой платформы; источники не дублируются. Источники: 824 · платформы: 4 · без данных: 12 <a href="../../data/showcase.json">Посмотреть данные</a> · <a href="../../scripts/SHOWCASE.md">Методика</a>
 
 </details>
 
