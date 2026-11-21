@@ -15,9 +15,9 @@
 
 <h1 align="center">Games</h1>
 
-<p align="center">582 entries. Shooters, driving, flight, puzzles and everything in between.</p>
+<p align="center">583 entries. Shooters, driving, flight, puzzles and everything in between.</p>
 
-<p><a href="#genre-shooter">Shooter</a> <b>111</b> · <a href="#genre-action-and-combat">Action &amp; combat</a> <b>57</b> · <a href="#genre-platformer-and-runner">Platformer &amp; runner</a> <b>38</b> · <a href="#genre-racing-and-driving">Racing &amp; driving</a> <b>75</b> · <a href="#genre-flight">Flight</a> <b>28</b> · <a href="#genre-sports">Sports</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Adventure &amp; exploration</a> <b>77</b> · <a href="#genre-puzzle">Puzzle</a> <b>23</b> · <a href="#genre-strategy-and-management">Strategy &amp; management</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual &amp; arcade</a> <b>35</b> · <a href="#genre-interactive-story">Interactive story</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation &amp; visualization</a> <b>4</b> · <a href="#genre-other-games">Other games</a> <b>42</b></p>
+<p><a href="#genre-shooter">Shooter</a> <b>111</b> · <a href="#genre-action-and-combat">Action &amp; combat</a> <b>57</b> · <a href="#genre-platformer-and-runner">Platformer &amp; runner</a> <b>38</b> · <a href="#genre-racing-and-driving">Racing &amp; driving</a> <b>75</b> · <a href="#genre-flight">Flight</a> <b>28</b> · <a href="#genre-sports">Sports</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Adventure &amp; exploration</a> <b>77</b> · <a href="#genre-puzzle">Puzzle</a> <b>23</b> · <a href="#genre-strategy-and-management">Strategy &amp; management</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual &amp; arcade</a> <b>35</b> · <a href="#genre-interactive-story">Interactive story</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation &amp; visualization</a> <b>4</b> · <a href="#genre-other-games">Other games</a> <b>43</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1198,6 +1198,8 @@ Works without a preview image:
 <tr><td><a href="https://greendefense.space">greendefense</a></td><td><a href="https://github.com/LEstradioto">LEstradioto</a></td><td>MIT</td><td><a href="https://github.com/lestradioto/greendefense">Code</a></td></tr>
 
 <tr><td><a href="https://airt-gallery.github.io/hotwire-port-larrikin/">hotwire-port-larrikin</a></td><td><a href="https://github.com/airt-gallery">airt-gallery</a></td><td>MIT</td><td><a href="https://github.com/airt-gallery/hotwire-port-larrikin">Code</a></td></tr>
+
+<tr><td><a href="https://francodeyvison183-collab.github.io/iClock/">iClock</a></td><td><a href="https://github.com/francodeyvison183-collab">francodeyvison183-collab</a></td><td>MIT</td><td><a href="https://github.com/francodeyvison183-collab/iclock">Code</a></td></tr>
 
 <tr><td><a href="https://playroom.mmonoo.com/en/games/ink-fill/#play">ink-fill</a></td><td><a href="https://github.com/simpleusername96">simpleusername96</a></td><td>MIT</td><td><a href="https://github.com/simpleusername96/ink-fill">Code</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/ink-fill-7a4f8a3d">Files</a></td></tr>
 

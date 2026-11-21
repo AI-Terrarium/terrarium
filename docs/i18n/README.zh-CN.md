@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">最热</a> · <a href="#latest">最新</a> · <a href="#contents">目录</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1042</b> 收录条目 · <b>6</b> 创作类别 · <b>949</b> 公开代码 · <b>425</b> 源码归档<br><sub>目录数据：2026-11-21</sub></p>
+<p align="center"><b>1043</b> 收录条目 · <b>6</b> 创作类别 · <b>950</b> 公开代码 · <b>425</b> 源码归档<br><sub>目录数据：2026-11-21</sub></p>
 
 <a name="trending"></a>
 
@@ -74,7 +74,7 @@
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 游戏</a> · 582</b><br><sub>506 公开代码 · 190 源码归档</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 游戏</a> · 583</b><br><sub>507 公开代码 · 190 源码归档</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 世界与场景</a> · 211</b><br><sub>203 公开代码 · 94 源码归档</sub></td>
 
@@ -96,11 +96,11 @@
 
 <a name="contents-games"></a>
 
-### 🎮 游戏 · 582
+### 🎮 游戏 · 583
 
 从射击、竞速与飞行，到冒险、解谜和沙盒。
 
-<p><a href="../../games/README.zh-CN.md#genre-shooter">射击</a> <b>111</b> · <a href="../../games/README.zh-CN.md#genre-action-and-combat">动作与战斗</a> <b>57</b> · <a href="../../games/README.zh-CN.md#genre-platformer-and-runner">平台跳跃与跑酷</a> <b>38</b> · <a href="../../games/README.zh-CN.md#genre-racing-and-driving">竞速与驾驶</a> <b>75</b> · <a href="../../games/README.zh-CN.md#genre-flight">飞行</a> <b>28</b> · <a href="../../games/README.zh-CN.md#genre-sports">体育</a> <b>15</b> · <a href="../../games/README.zh-CN.md#genre-adventure-and-exploration">冒险与探索</a> <b>77</b> · <a href="../../games/README.zh-CN.md#genre-puzzle">解谜</a> <b>23</b> · <a href="../../games/README.zh-CN.md#genre-strategy-and-management">策略与经营</a> <b>47</b> · <a href="../../games/README.zh-CN.md#genre-sandbox">沙盒</a> <b>27</b> · <a href="../../games/README.zh-CN.md#genre-casual-and-arcade">休闲与街机</a> <b>35</b> · <a href="../../games/README.zh-CN.md#genre-interactive-story">互动叙事</a> <b>3</b> · <a href="../../games/README.zh-CN.md#genre-simulation-and-visualization">模拟与可视化</a> <b>4</b> · <a href="../../games/README.zh-CN.md#genre-other-games">其他游戏</a> <b>42</b></p>
+<p><a href="../../games/README.zh-CN.md#genre-shooter">射击</a> <b>111</b> · <a href="../../games/README.zh-CN.md#genre-action-and-combat">动作与战斗</a> <b>57</b> · <a href="../../games/README.zh-CN.md#genre-platformer-and-runner">平台跳跃与跑酷</a> <b>38</b> · <a href="../../games/README.zh-CN.md#genre-racing-and-driving">竞速与驾驶</a> <b>75</b> · <a href="../../games/README.zh-CN.md#genre-flight">飞行</a> <b>28</b> · <a href="../../games/README.zh-CN.md#genre-sports">体育</a> <b>15</b> · <a href="../../games/README.zh-CN.md#genre-adventure-and-exploration">冒险与探索</a> <b>77</b> · <a href="../../games/README.zh-CN.md#genre-puzzle">解谜</a> <b>23</b> · <a href="../../games/README.zh-CN.md#genre-strategy-and-management">策略与经营</a> <b>47</b> · <a href="../../games/README.zh-CN.md#genre-sandbox">沙盒</a> <b>27</b> · <a href="../../games/README.zh-CN.md#genre-casual-and-arcade">休闲与街机</a> <b>35</b> · <a href="../../games/README.zh-CN.md#genre-interactive-story">互动叙事</a> <b>3</b> · <a href="../../games/README.zh-CN.md#genre-simulation-and-visualization">模拟与可视化</a> <b>4</b> · <a href="../../games/README.zh-CN.md#genre-other-games">其他游戏</a> <b>43</b></p>
 
 <table>
 <tr>
@@ -110,7 +110,7 @@
 </tr>
 </table>
 
-<p><b><a href="../../games/README.zh-CN.md">浏览全部 582 个条目 →</a></b> · <a href="#contents">↑ 目录</a></p>
+<p><b><a href="../../games/README.zh-CN.md">浏览全部 583 个条目 →</a></b> · <a href="#contents">↑ 目录</a></p>
 
 <a name="contents-scenes"></a>
 
