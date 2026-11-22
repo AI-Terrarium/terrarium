@@ -15,9 +15,9 @@
 
 <h1 align="center">Jogos</h1>
 
-<p align="center">588 itens. Tiro, corrida, voo, quebra-cabeças e muito mais.</p>
+<p align="center">591 itens. Tiro, corrida, voo, quebra-cabeças e muito mais.</p>
 
-<p><a href="#genre-shooter">Tiro</a> <b>111</b> · <a href="#genre-action-and-combat">Ação e combate</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plataforma e corrida infinita</a> <b>38</b> · <a href="#genre-racing-and-driving">Corrida e direção</a> <b>75</b> · <a href="#genre-flight">Voo</a> <b>28</b> · <a href="#genre-sports">Esportes</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventura e exploração</a> <b>77</b> · <a href="#genre-puzzle">Quebra-cabeças</a> <b>23</b> · <a href="#genre-strategy-and-management">Estratégia e gestão</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual e arcade</a> <b>35</b> · <a href="#genre-interactive-story">História interativa</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulação e visualização</a> <b>4</b> · <a href="#genre-other-games">Outros jogos</a> <b>48</b></p>
+<p><a href="#genre-shooter">Tiro</a> <b>111</b> · <a href="#genre-action-and-combat">Ação e combate</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plataforma e corrida infinita</a> <b>38</b> · <a href="#genre-racing-and-driving">Corrida e direção</a> <b>75</b> · <a href="#genre-flight">Voo</a> <b>28</b> · <a href="#genre-sports">Esportes</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventura e exploração</a> <b>77</b> · <a href="#genre-puzzle">Quebra-cabeças</a> <b>23</b> · <a href="#genre-strategy-and-management">Estratégia e gestão</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual e arcade</a> <b>35</b> · <a href="#genre-interactive-story">História interativa</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulação e visualização</a> <b>4</b> · <a href="#genre-other-games">Outros jogos</a> <b>51</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1207,6 +1207,8 @@ Obras sem imagem de prévia:
 
 <tr><td><a href="https://playroom.mmonoo.com/en/games/ink-fill/#play">ink-fill</a></td><td><a href="https://github.com/simpleusername96">simpleusername96</a></td><td>MIT</td><td><a href="https://github.com/simpleusername96/ink-fill">Código</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/ink-fill-7a4f8a3d">Arquivos</a></td></tr>
 
+<tr><td><a href="https://kotoba-lang.org">kotoba</a></td><td><a href="https://github.com/kotoba-lang">kotoba-lang</a></td><td>Apache-2.0</td><td><a href="https://github.com/kotoba-lang/kotoba">Código</a></td></tr>
+
 <tr><td><a href="https://link-sekai-ot4mp9chy59.qoder.zone">LINK-SEKAI</a></td><td><a href="https://github.com/EliasNeko">EliasNeko</a></td><td>MIT</td><td><a href="https://github.com/eliasneko/link-sekai">Código</a></td></tr>
 
 <tr><td><a href="https://munimv2.itch.io/little-ember">little-ember</a></td><td><a href="https://github.com/munimtechnologies">munimtechnologies</a></td><td>Apache-2.0</td><td><a href="https://github.com/munimtechnologies/little-ember">Código</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/little-ember-33221b54">Arquivos</a></td></tr>
@@ -1223,6 +1225,8 @@ Obras sem imagem de prévia:
 
 <tr><td><a href="https://davidaugustat.github.io/rail-jumper-game/">rail-jumper-game</a></td><td><a href="https://github.com/davidaugustat">davidaugustat</a></td><td>MIT</td><td><a href="https://github.com/davidaugustat/rail-jumper-game">Código</a></td></tr>
 
+<tr><td><a href="https://atheeralgh1990.github.io/red-planet-outpost/">red-planet-outpost</a></td><td><a href="https://github.com/AtheerAlgh1990">AtheerAlgh1990</a></td><td>MIT</td><td><a href="https://github.com/atheeralgh1990/red-planet-outpost">Código</a></td></tr>
+
 <tr><td><a href="https://rover-engineer.vercel.app/">rover-engineer</a></td><td><a href="https://github.com/chieri518">chieri518</a></td><td>MIT</td><td><a href="https://github.com/chieri518/rover-engineer">Código</a></td></tr>
 
 <tr><td><a href="https://www.sanshengai.top/tools/disk-cleanup/">sansheng-disk-cleanup</a></td><td><a href="https://github.com/sanshengai">sanshengai</a></td><td>MIT</td><td><a href="https://github.com/sanshengai/sansheng-disk-cleanup">Código</a></td></tr>
@@ -1232,6 +1236,8 @@ Obras sem imagem de prévia:
 <tr><td><a href="https://yaohanbo1-hue.github.io/tangping-game/">tangping-game</a></td><td><a href="https://github.com/yaohanbo1-hue">yaohanbo1-hue</a></td><td>Apache-2.0</td><td><a href="https://github.com/yaohanbo1-hue/tangping-game">Código</a></td></tr>
 
 <tr><td><a href="https://smallteddygames.github.io/trade-war/">trade-war</a></td><td><a href="https://github.com/SmallTeddyGames">SmallTeddyGames</a></td><td>MIT</td><td><a href="https://github.com/smallteddygames/trade-war">Código</a></td></tr>
+
+<tr><td><a href="https://joeysalmons.github.io/vibe-coded-games/Ambient%20Engine%20v3.2.html">vibe-coded-games</a></td><td><a href="https://github.com/JoeySalmons">JoeySalmons</a></td><td>MIT</td><td><a href="https://github.com/joeysalmons/vibe-coded-games">Código</a></td></tr>
 
 <tr><td><a href="https://vippi.vercel.app/">Vippi</a></td><td>@Shrit1401</td><td>Licença desconhecida</td><td>—</td></tr>
 
