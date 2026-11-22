@@ -15,9 +15,9 @@
 
 <h1 align="center">Juegos</h1>
 
-<p align="center">591 entradas. Disparos, conducción, vuelo, puzles y mucho más.</p>
+<p align="center">593 entradas. Disparos, conducción, vuelo, puzles y mucho más.</p>
 
-<p><a href="#genre-shooter">Disparos</a> <b>111</b> · <a href="#genre-action-and-combat">Acción y combate</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plataformas y carreras sin fin</a> <b>38</b> · <a href="#genre-racing-and-driving">Carreras y conducción</a> <b>75</b> · <a href="#genre-flight">Vuelo</a> <b>28</b> · <a href="#genre-sports">Deportes</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventura y exploración</a> <b>77</b> · <a href="#genre-puzzle">Puzles</a> <b>23</b> · <a href="#genre-strategy-and-management">Estrategia y gestión</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casuales y arcade</a> <b>35</b> · <a href="#genre-interactive-story">Historia interactiva</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulación y visualización</a> <b>4</b> · <a href="#genre-other-games">Otros juegos</a> <b>51</b></p>
+<p><a href="#genre-shooter">Disparos</a> <b>111</b> · <a href="#genre-action-and-combat">Acción y combate</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plataformas y carreras sin fin</a> <b>38</b> · <a href="#genre-racing-and-driving">Carreras y conducción</a> <b>75</b> · <a href="#genre-flight">Vuelo</a> <b>28</b> · <a href="#genre-sports">Deportes</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventura y exploración</a> <b>77</b> · <a href="#genre-puzzle">Puzles</a> <b>23</b> · <a href="#genre-strategy-and-management">Estrategia y gestión</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casuales y arcade</a> <b>35</b> · <a href="#genre-interactive-story">Historia interactiva</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulación y visualización</a> <b>4</b> · <a href="#genre-other-games">Otros juegos</a> <b>53</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1229,7 +1229,11 @@ Obras sin imagen de vista previa:
 
 <tr><td><a href="https://rover-engineer.vercel.app/">rover-engineer</a></td><td><a href="https://github.com/chieri518">chieri518</a></td><td>MIT</td><td><a href="https://github.com/chieri518/rover-engineer">Código</a></td></tr>
 
+<tr><td><a href="https://freaktopus.github.io/sadak/">sadak</a></td><td><a href="https://github.com/freaktopus">freaktopus</a></td><td>MIT</td><td><a href="https://github.com/freaktopus/sadak">Código</a></td></tr>
+
 <tr><td><a href="https://www.sanshengai.top/tools/disk-cleanup/">sansheng-disk-cleanup</a></td><td><a href="https://github.com/sanshengai">sanshengai</a></td><td>MIT</td><td><a href="https://github.com/sanshengai/sansheng-disk-cleanup">Código</a></td></tr>
+
+<tr><td><a href="https://saidbilaldariyemez.github.io/seyir-defteri/">seyir-defteri</a></td><td><a href="https://github.com/SAIDBILALDARIYEMEZ">SAIDBILALDARIYEMEZ</a></td><td>MIT</td><td><a href="https://github.com/saidbilaldariyemez/seyir-defteri">Código</a></td></tr>
 
 <tr><td><a href="https://claude.ai/artifact/JyV3HBAgFuCkhDnzzM6NGt">SHADE</a></td><td><a href="https://github.com/zaynabtauqeer">zaynabtauqeer</a></td><td>MIT</td><td><a href="https://github.com/zaynabtauqeer/shade">Código</a></td></tr>
 

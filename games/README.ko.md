@@ -15,9 +15,9 @@
 
 <h1 align="center">게임</h1>
 
-<p align="center">591개 항목. 슈팅, 레이싱, 비행, 퍼즐 등 다양한 게임.</p>
+<p align="center">593개 항목. 슈팅, 레이싱, 비행, 퍼즐 등 다양한 게임.</p>
 
-<p><a href="#genre-shooter">슈팅</a> <b>111</b> · <a href="#genre-action-and-combat">액션·전투</a> <b>57</b> · <a href="#genre-platformer-and-runner">플랫포머·러너</a> <b>38</b> · <a href="#genre-racing-and-driving">레이싱·운전</a> <b>75</b> · <a href="#genre-flight">비행</a> <b>28</b> · <a href="#genre-sports">스포츠</a> <b>15</b> · <a href="#genre-adventure-and-exploration">모험·탐험</a> <b>77</b> · <a href="#genre-puzzle">퍼즐</a> <b>23</b> · <a href="#genre-strategy-and-management">전략·경영</a> <b>47</b> · <a href="#genre-sandbox">샌드박스</a> <b>27</b> · <a href="#genre-casual-and-arcade">캐주얼·아케이드</a> <b>35</b> · <a href="#genre-interactive-story">인터랙티브 스토리</a> <b>3</b> · <a href="#genre-simulation-and-visualization">시뮬레이션·시각화</a> <b>4</b> · <a href="#genre-other-games">기타 게임</a> <b>51</b></p>
+<p><a href="#genre-shooter">슈팅</a> <b>111</b> · <a href="#genre-action-and-combat">액션·전투</a> <b>57</b> · <a href="#genre-platformer-and-runner">플랫포머·러너</a> <b>38</b> · <a href="#genre-racing-and-driving">레이싱·운전</a> <b>75</b> · <a href="#genre-flight">비행</a> <b>28</b> · <a href="#genre-sports">스포츠</a> <b>15</b> · <a href="#genre-adventure-and-exploration">모험·탐험</a> <b>77</b> · <a href="#genre-puzzle">퍼즐</a> <b>23</b> · <a href="#genre-strategy-and-management">전략·경영</a> <b>47</b> · <a href="#genre-sandbox">샌드박스</a> <b>27</b> · <a href="#genre-casual-and-arcade">캐주얼·아케이드</a> <b>35</b> · <a href="#genre-interactive-story">인터랙티브 스토리</a> <b>3</b> · <a href="#genre-simulation-and-visualization">시뮬레이션·시각화</a> <b>4</b> · <a href="#genre-other-games">기타 게임</a> <b>53</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1229,7 +1229,11 @@
 
 <tr><td><a href="https://rover-engineer.vercel.app/">rover-engineer</a></td><td><a href="https://github.com/chieri518">chieri518</a></td><td>MIT</td><td><a href="https://github.com/chieri518/rover-engineer">코드</a></td></tr>
 
+<tr><td><a href="https://freaktopus.github.io/sadak/">sadak</a></td><td><a href="https://github.com/freaktopus">freaktopus</a></td><td>MIT</td><td><a href="https://github.com/freaktopus/sadak">코드</a></td></tr>
+
 <tr><td><a href="https://www.sanshengai.top/tools/disk-cleanup/">sansheng-disk-cleanup</a></td><td><a href="https://github.com/sanshengai">sanshengai</a></td><td>MIT</td><td><a href="https://github.com/sanshengai/sansheng-disk-cleanup">코드</a></td></tr>
+
+<tr><td><a href="https://saidbilaldariyemez.github.io/seyir-defteri/">seyir-defteri</a></td><td><a href="https://github.com/SAIDBILALDARIYEMEZ">SAIDBILALDARIYEMEZ</a></td><td>MIT</td><td><a href="https://github.com/saidbilaldariyemez/seyir-defteri">코드</a></td></tr>
 
 <tr><td><a href="https://claude.ai/artifact/JyV3HBAgFuCkhDnzzM6NGt">SHADE</a></td><td><a href="https://github.com/zaynabtauqeer">zaynabtauqeer</a></td><td>MIT</td><td><a href="https://github.com/zaynabtauqeer/shade">코드</a></td></tr>
 
