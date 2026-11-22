@@ -15,9 +15,9 @@
 
 <h1 align="center">Juegos</h1>
 
-<p align="center">593 entradas. Disparos, conducción, vuelo, puzles y mucho más.</p>
+<p align="center">597 entradas. Disparos, conducción, vuelo, puzles y mucho más.</p>
 
-<p><a href="#genre-shooter">Disparos</a> <b>111</b> · <a href="#genre-action-and-combat">Acción y combate</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plataformas y carreras sin fin</a> <b>38</b> · <a href="#genre-racing-and-driving">Carreras y conducción</a> <b>75</b> · <a href="#genre-flight">Vuelo</a> <b>28</b> · <a href="#genre-sports">Deportes</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventura y exploración</a> <b>77</b> · <a href="#genre-puzzle">Puzles</a> <b>23</b> · <a href="#genre-strategy-and-management">Estrategia y gestión</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casuales y arcade</a> <b>35</b> · <a href="#genre-interactive-story">Historia interactiva</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulación y visualización</a> <b>4</b> · <a href="#genre-other-games">Otros juegos</a> <b>53</b></p>
+<p><a href="#genre-shooter">Disparos</a> <b>111</b> · <a href="#genre-action-and-combat">Acción y combate</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plataformas y carreras sin fin</a> <b>38</b> · <a href="#genre-racing-and-driving">Carreras y conducción</a> <b>75</b> · <a href="#genre-flight">Vuelo</a> <b>28</b> · <a href="#genre-sports">Deportes</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventura y exploración</a> <b>77</b> · <a href="#genre-puzzle">Puzles</a> <b>23</b> · <a href="#genre-strategy-and-management">Estrategia y gestión</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casuales y arcade</a> <b>35</b> · <a href="#genre-interactive-story">Historia interactiva</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulación y visualización</a> <b>4</b> · <a href="#genre-other-games">Otros juegos</a> <b>57</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1173,6 +1173,10 @@ Obras sin imagen de vista previa:
 
 <tr><td><a href="https://arcade-racing.onrender.com/">arcade-racing</a></td><td><a href="https://github.com/StackOverflowIsBetterThanAnyAI">StackOverflowIsBetterThanAnyAI</a></td><td>MIT</td><td><a href="https://github.com/stackoverflowisbetterthananyai/arcade-racing">Código</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/arcade-racing-932a5c9a">Archivos</a></td></tr>
 
+<tr><td><a href="https://hamzaali0911.github.io/astra-mission-trainer/">astra-mission-trainer</a></td><td><a href="https://github.com/HamzaAli0911">HamzaAli0911</a></td><td>MIT</td><td><a href="https://github.com/hamzaali0911/astra-mission-trainer">Código</a></td></tr>
+
+<tr><td><a href="https://shokhanasser1.github.io/astravan-nasa-space-app-challenge/">astravan-nasa-space-app-challenge</a></td><td><a href="https://github.com/Shokhanasser1">Shokhanasser1</a></td><td>MIT</td><td><a href="https://github.com/shokhanasser1/astravan-nasa-space-app-challenge">Código</a></td></tr>
+
 <tr><td><a href="https://beat-the-moment-35-211-225-40.sslip.io/c/HmsnOy2aqRm6UEcSCUR10_ME">beat-this-moment</a></td><td><a href="https://github.com/0xtigerclaw">0xtigerclaw</a></td><td>MIT</td><td><a href="https://github.com/0xtigerclaw/beat-this-moment">Código</a></td></tr>
 
 <tr><td><a href="https://raunakpatil.com/radar">best-ai-tools</a></td><td><a href="https://github.com/raunakpatil">raunakpatil</a></td><td>MIT</td><td><a href="https://github.com/raunakpatil/best-ai-tools">Código</a></td></tr>
@@ -1209,6 +1213,8 @@ Obras sin imagen de vista previa:
 
 <tr><td><a href="https://kotoba-lang.org">kotoba</a></td><td><a href="https://github.com/kotoba-lang">kotoba-lang</a></td><td>Apache-2.0</td><td><a href="https://github.com/kotoba-lang/kotoba">Código</a></td></tr>
 
+<tr><td><a href="https://lighting1130.github.io/level-layout-designer/">level-layout-designer</a></td><td><a href="https://github.com/lighting1130">lighting1130</a></td><td>MIT</td><td><a href="https://github.com/lighting1130/level-layout-designer">Código</a></td></tr>
+
 <tr><td><a href="https://link-sekai-ot4mp9chy59.qoder.zone">LINK-SEKAI</a></td><td><a href="https://github.com/EliasNeko">EliasNeko</a></td><td>MIT</td><td><a href="https://github.com/eliasneko/link-sekai">Código</a></td></tr>
 
 <tr><td><a href="https://munimv2.itch.io/little-ember">little-ember</a></td><td><a href="https://github.com/munimtechnologies">munimtechnologies</a></td><td>Apache-2.0</td><td><a href="https://github.com/munimtechnologies/little-ember">Código</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/little-ember-33221b54">Archivos</a></td></tr>
@@ -1226,6 +1232,8 @@ Obras sin imagen de vista previa:
 <tr><td><a href="https://davidaugustat.github.io/rail-jumper-game/">rail-jumper-game</a></td><td><a href="https://github.com/davidaugustat">davidaugustat</a></td><td>MIT</td><td><a href="https://github.com/davidaugustat/rail-jumper-game">Código</a></td></tr>
 
 <tr><td><a href="https://atheeralgh1990.github.io/red-planet-outpost/">red-planet-outpost</a></td><td><a href="https://github.com/AtheerAlgh1990">AtheerAlgh1990</a></td><td>MIT</td><td><a href="https://github.com/atheeralgh1990/red-planet-outpost">Código</a></td></tr>
+
+<tr><td><a href="https://lejiazhibo.asia">rou-rou-night-market-defense</a></td><td><a href="https://github.com/epochjdaily">epochjdaily</a></td><td>MIT</td><td><a href="https://github.com/epochjdaily/rou-rou-night-market-defense">Código</a></td></tr>
 
 <tr><td><a href="https://rover-engineer.vercel.app/">rover-engineer</a></td><td><a href="https://github.com/chieri518">chieri518</a></td><td>MIT</td><td><a href="https://github.com/chieri518/rover-engineer">Código</a></td></tr>
 
@@ -1255,4 +1263,4 @@ Obras sin imagen de vista previa:
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.es.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.es.md">Inicio</a> · <a href="README.es.md">Juegos</a> · <a href="../scenes/README.es.md">Mundos y escenas</a> · <a href="../videos/README.es.md">Vídeos</a> · <a href="../tools/README.es.md">Herramientas</a> · <a href="../visualizations/README.es.md">Visualizaciones</a> · <a href="../wallpapers/README.es.md">Fondos de pantalla</a> · <a href="#top">Volver arriba</a><br>Datos del catálogo: 2026-11-22</sub></p>
+<p align="center"><a href="../docs/i18n/README.es.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.es.md">Inicio</a> · <a href="README.es.md">Juegos</a> · <a href="../scenes/README.es.md">Mundos y escenas</a> · <a href="../videos/README.es.md">Vídeos</a> · <a href="../tools/README.es.md">Herramientas</a> · <a href="../visualizations/README.es.md">Visualizaciones</a> · <a href="../wallpapers/README.es.md">Fondos de pantalla</a> · <a href="#top">Volver arriba</a><br>Datos del catálogo: 2026-11-23</sub></p>
