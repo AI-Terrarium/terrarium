@@ -15,9 +15,9 @@
 
 <h1 align="center">Spiele</h1>
 
-<p align="center">601 Einträge. Shooter, Rennen, Flugsimulationen, Rätsel und vieles mehr.</p>
+<p align="center">605 Einträge. Shooter, Rennen, Flugsimulationen, Rätsel und vieles mehr.</p>
 
-<p><a href="#genre-shooter">Shooter</a> <b>111</b> · <a href="#genre-action-and-combat">Action und Kampf</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plattform und Runner</a> <b>38</b> · <a href="#genre-racing-and-driving">Rennen und Fahren</a> <b>75</b> · <a href="#genre-flight">Flug</a> <b>28</b> · <a href="#genre-sports">Sport</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Abenteuer und Erkundung</a> <b>77</b> · <a href="#genre-puzzle">Rätsel</a> <b>23</b> · <a href="#genre-strategy-and-management">Strategie und Aufbau</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual und Arcade</a> <b>35</b> · <a href="#genre-interactive-story">Interaktive Geschichten</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation und Visualisierung</a> <b>4</b> · <a href="#genre-other-games">Weitere Spiele</a> <b>61</b></p>
+<p><a href="#genre-shooter">Shooter</a> <b>111</b> · <a href="#genre-action-and-combat">Action und Kampf</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plattform und Runner</a> <b>38</b> · <a href="#genre-racing-and-driving">Rennen und Fahren</a> <b>75</b> · <a href="#genre-flight">Flug</a> <b>28</b> · <a href="#genre-sports">Sport</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Abenteuer und Erkundung</a> <b>77</b> · <a href="#genre-puzzle">Rätsel</a> <b>23</b> · <a href="#genre-strategy-and-management">Strategie und Aufbau</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual und Arcade</a> <b>35</b> · <a href="#genre-interactive-story">Interaktive Geschichten</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation und Visualisierung</a> <b>4</b> · <a href="#genre-other-games">Weitere Spiele</a> <b>65</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1165,6 +1165,8 @@ Werke ohne Vorschaubild:
 
 <tr><td><a href="https://eighty.tonytheyang.com/">80-fen-shengji</a></td><td><a href="https://github.com/tonyyunyang">tonyyunyang</a></td><td>Apache-2.0</td><td><a href="https://github.com/tonyyunyang/80-fen-shengji">Code</a></td></tr>
 
+<tr><td><a href="https://ssrjkk.github.io/agent-skills/">agent-skills</a></td><td><a href="https://github.com/ssrjkk">ssrjkk</a></td><td>MIT</td><td><a href="https://github.com/ssrjkk/agent-skills">Code</a></td></tr>
+
 <tr><td><a href="https://aifight.wangnov-ai.com/">AI-fight</a></td><td><a href="https://github.com/Wangnov">Wangnov</a></td><td>MIT</td><td><a href="https://github.com/wangnov/ai-fight">Code</a></td></tr>
 
 <tr><td><a href="https://fusheng.qiaomu.ai/">ai-fushengji</a></td><td><a href="https://github.com/joeseesun">joeseesun</a></td><td>MIT</td><td><a href="https://github.com/joeseesun/ai-fushengji">Code</a></td></tr>
@@ -1209,6 +1211,8 @@ Werke ohne Vorschaubild:
 
 <tr><td><a href="https://greendefense.space">greendefense</a></td><td><a href="https://github.com/LEstradioto">LEstradioto</a></td><td>MIT</td><td><a href="https://github.com/lestradioto/greendefense">Code</a></td></tr>
 
+<tr><td><a href="https://tbirdpower3000.github.io/hand-control-training/">hand-control-training</a></td><td><a href="https://github.com/tbirdpower3000">tbirdpower3000</a></td><td>Apache-2.0</td><td><a href="https://github.com/tbirdpower3000/hand-control-training">Code</a></td></tr>
+
 <tr><td><a href="https://airt-gallery.github.io/hotwire-port-larrikin/">hotwire-port-larrikin</a></td><td><a href="https://github.com/airt-gallery">airt-gallery</a></td><td>MIT</td><td><a href="https://github.com/airt-gallery/hotwire-port-larrikin">Code</a></td></tr>
 
 <tr><td><a href="https://francodeyvison183-collab.github.io/iClock/">iClock</a></td><td><a href="https://github.com/francodeyvison183-collab">francodeyvison183-collab</a></td><td>MIT</td><td><a href="https://github.com/francodeyvison183-collab/iclock">Code</a></td></tr>
@@ -1233,6 +1237,8 @@ Werke ohne Vorschaubild:
 
 <tr><td><a href="https://otaniyan-ai.github.io/pixel-survivor-by-ai/">pixel-survivor-by-ai</a></td><td><a href="https://github.com/otaniyan-ai">otaniyan-ai</a></td><td>MIT</td><td><a href="https://github.com/otaniyan-ai/pixel-survivor-by-ai">Code</a></td></tr>
 
+<tr><td><a href="https://ferbin12.github.io/preaim/">preaim</a></td><td><a href="https://github.com/FERBIN12">FERBIN12</a></td><td>MIT</td><td><a href="https://github.com/ferbin12/preaim">Code</a></td></tr>
+
 <tr><td><a href="https://pulp-panic.fly.dev">pulp-panic</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/pulp-panic">Code</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/pulp-panic-a592ed39">Dateien</a></td></tr>
 
 <tr><td><a href="https://pixelfrog-assets.itch.io/tiny-swords">pyquest</a></td><td><a href="https://github.com/linan7788626">linan7788626</a></td><td>MIT</td><td><a href="https://github.com/linan7788626/pyquest">Code</a></td></tr>
@@ -1253,6 +1259,8 @@ Werke ohne Vorschaubild:
 
 <tr><td><a href="https://claude.ai/artifact/JyV3HBAgFuCkhDnzzM6NGt">SHADE</a></td><td><a href="https://github.com/zaynabtauqeer">zaynabtauqeer</a></td><td>MIT</td><td><a href="https://github.com/zaynabtauqeer/shade">Code</a></td></tr>
 
+<tr><td><a href="https://souranyp-stack.github.io/solar-drift/">solar-drift</a></td><td><a href="https://github.com/souranyp-stack">souranyp-stack</a></td><td>MIT</td><td><a href="https://github.com/souranyp-stack/solar-drift">Code</a></td></tr>
+
 <tr><td><a href="https://yaohanbo1-hue.github.io/tangping-game/">tangping-game</a></td><td><a href="https://github.com/yaohanbo1-hue">yaohanbo1-hue</a></td><td>Apache-2.0</td><td><a href="https://github.com/yaohanbo1-hue/tangping-game">Code</a></td></tr>
 
 <tr><td><a href="https://smallteddygames.github.io/trade-war/">trade-war</a></td><td><a href="https://github.com/SmallTeddyGames">SmallTeddyGames</a></td><td>MIT</td><td><a href="https://github.com/smallteddygames/trade-war">Code</a></td></tr>
@@ -1271,4 +1279,4 @@ Werke ohne Vorschaubild:
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.de.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.de.md">Startseite</a> · <a href="README.de.md">Spiele</a> · <a href="../scenes/README.de.md">Welten und Szenen</a> · <a href="../videos/README.de.md">Videos</a> · <a href="../tools/README.de.md">Werkzeuge</a> · <a href="../visualizations/README.de.md">Visualisierungen</a> · <a href="../wallpapers/README.de.md">Hintergrundbilder</a> · <a href="#top">Nach oben</a><br>Katalogdaten: 2026-11-23</sub></p>
+<p align="center"><a href="../docs/i18n/README.de.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.de.md">Startseite</a> · <a href="README.de.md">Spiele</a> · <a href="../scenes/README.de.md">Welten und Szenen</a> · <a href="../videos/README.de.md">Videos</a> · <a href="../tools/README.de.md">Werkzeuge</a> · <a href="../visualizations/README.de.md">Visualisierungen</a> · <a href="../wallpapers/README.de.md">Hintergrundbilder</a> · <a href="#top">Nach oben</a><br>Katalogdaten: 2026-11-24</sub></p>

@@ -15,9 +15,9 @@
 
 <h1 align="center">遊戲</h1>
 
-<p align="center">601 個項目。 從射擊、競速與飛行，到冒險、解謎和沙盒。</p>
+<p align="center">605 個項目。 從射擊、競速與飛行，到冒險、解謎和沙盒。</p>
 
-<p><a href="#genre-shooter">射擊</a> <b>111</b> · <a href="#genre-action-and-combat">動作與戰鬥</a> <b>57</b> · <a href="#genre-platformer-and-runner">平台跳躍與跑酷</a> <b>38</b> · <a href="#genre-racing-and-driving">競速與駕駛</a> <b>75</b> · <a href="#genre-flight">飛行</a> <b>28</b> · <a href="#genre-sports">運動</a> <b>15</b> · <a href="#genre-adventure-and-exploration">冒險與探索</a> <b>77</b> · <a href="#genre-puzzle">解謎</a> <b>23</b> · <a href="#genre-strategy-and-management">策略與經營</a> <b>47</b> · <a href="#genre-sandbox">沙盒</a> <b>27</b> · <a href="#genre-casual-and-arcade">休閒與街機</a> <b>35</b> · <a href="#genre-interactive-story">互動敘事</a> <b>3</b> · <a href="#genre-simulation-and-visualization">模擬與視覺化</a> <b>4</b> · <a href="#genre-other-games">其他遊戲</a> <b>61</b></p>
+<p><a href="#genre-shooter">射擊</a> <b>111</b> · <a href="#genre-action-and-combat">動作與戰鬥</a> <b>57</b> · <a href="#genre-platformer-and-runner">平台跳躍與跑酷</a> <b>38</b> · <a href="#genre-racing-and-driving">競速與駕駛</a> <b>75</b> · <a href="#genre-flight">飛行</a> <b>28</b> · <a href="#genre-sports">運動</a> <b>15</b> · <a href="#genre-adventure-and-exploration">冒險與探索</a> <b>77</b> · <a href="#genre-puzzle">解謎</a> <b>23</b> · <a href="#genre-strategy-and-management">策略與經營</a> <b>47</b> · <a href="#genre-sandbox">沙盒</a> <b>27</b> · <a href="#genre-casual-and-arcade">休閒與街機</a> <b>35</b> · <a href="#genre-interactive-story">互動敘事</a> <b>3</b> · <a href="#genre-simulation-and-visualization">模擬與視覺化</a> <b>4</b> · <a href="#genre-other-games">其他遊戲</a> <b>65</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1165,6 +1165,8 @@
 
 <tr><td><a href="https://eighty.tonytheyang.com/">80-fen-shengji</a></td><td><a href="https://github.com/tonyyunyang">tonyyunyang</a></td><td>Apache-2.0</td><td><a href="https://github.com/tonyyunyang/80-fen-shengji">原始碼</a></td></tr>
 
+<tr><td><a href="https://ssrjkk.github.io/agent-skills/">agent-skills</a></td><td><a href="https://github.com/ssrjkk">ssrjkk</a></td><td>MIT</td><td><a href="https://github.com/ssrjkk/agent-skills">原始碼</a></td></tr>
+
 <tr><td><a href="https://aifight.wangnov-ai.com/">AI-fight</a></td><td><a href="https://github.com/Wangnov">Wangnov</a></td><td>MIT</td><td><a href="https://github.com/wangnov/ai-fight">原始碼</a></td></tr>
 
 <tr><td><a href="https://fusheng.qiaomu.ai/">ai-fushengji</a></td><td><a href="https://github.com/joeseesun">joeseesun</a></td><td>MIT</td><td><a href="https://github.com/joeseesun/ai-fushengji">原始碼</a></td></tr>
@@ -1209,6 +1211,8 @@
 
 <tr><td><a href="https://greendefense.space">greendefense</a></td><td><a href="https://github.com/LEstradioto">LEstradioto</a></td><td>MIT</td><td><a href="https://github.com/lestradioto/greendefense">原始碼</a></td></tr>
 
+<tr><td><a href="https://tbirdpower3000.github.io/hand-control-training/">hand-control-training</a></td><td><a href="https://github.com/tbirdpower3000">tbirdpower3000</a></td><td>Apache-2.0</td><td><a href="https://github.com/tbirdpower3000/hand-control-training">原始碼</a></td></tr>
+
 <tr><td><a href="https://airt-gallery.github.io/hotwire-port-larrikin/">hotwire-port-larrikin</a></td><td><a href="https://github.com/airt-gallery">airt-gallery</a></td><td>MIT</td><td><a href="https://github.com/airt-gallery/hotwire-port-larrikin">原始碼</a></td></tr>
 
 <tr><td><a href="https://francodeyvison183-collab.github.io/iClock/">iClock</a></td><td><a href="https://github.com/francodeyvison183-collab">francodeyvison183-collab</a></td><td>MIT</td><td><a href="https://github.com/francodeyvison183-collab/iclock">原始碼</a></td></tr>
@@ -1233,6 +1237,8 @@
 
 <tr><td><a href="https://otaniyan-ai.github.io/pixel-survivor-by-ai/">pixel-survivor-by-ai</a></td><td><a href="https://github.com/otaniyan-ai">otaniyan-ai</a></td><td>MIT</td><td><a href="https://github.com/otaniyan-ai/pixel-survivor-by-ai">原始碼</a></td></tr>
 
+<tr><td><a href="https://ferbin12.github.io/preaim/">preaim</a></td><td><a href="https://github.com/FERBIN12">FERBIN12</a></td><td>MIT</td><td><a href="https://github.com/ferbin12/preaim">原始碼</a></td></tr>
+
 <tr><td><a href="https://pulp-panic.fly.dev">pulp-panic</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/pulp-panic">原始碼</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/pulp-panic-a592ed39">檔案</a></td></tr>
 
 <tr><td><a href="https://pixelfrog-assets.itch.io/tiny-swords">pyquest</a></td><td><a href="https://github.com/linan7788626">linan7788626</a></td><td>MIT</td><td><a href="https://github.com/linan7788626/pyquest">原始碼</a></td></tr>
@@ -1253,6 +1259,8 @@
 
 <tr><td><a href="https://claude.ai/artifact/JyV3HBAgFuCkhDnzzM6NGt">SHADE</a></td><td><a href="https://github.com/zaynabtauqeer">zaynabtauqeer</a></td><td>MIT</td><td><a href="https://github.com/zaynabtauqeer/shade">原始碼</a></td></tr>
 
+<tr><td><a href="https://souranyp-stack.github.io/solar-drift/">solar-drift</a></td><td><a href="https://github.com/souranyp-stack">souranyp-stack</a></td><td>MIT</td><td><a href="https://github.com/souranyp-stack/solar-drift">原始碼</a></td></tr>
+
 <tr><td><a href="https://yaohanbo1-hue.github.io/tangping-game/">tangping-game</a></td><td><a href="https://github.com/yaohanbo1-hue">yaohanbo1-hue</a></td><td>Apache-2.0</td><td><a href="https://github.com/yaohanbo1-hue/tangping-game">原始碼</a></td></tr>
 
 <tr><td><a href="https://smallteddygames.github.io/trade-war/">trade-war</a></td><td><a href="https://github.com/SmallTeddyGames">SmallTeddyGames</a></td><td>MIT</td><td><a href="https://github.com/smallteddygames/trade-war">原始碼</a></td></tr>
@@ -1271,4 +1279,4 @@
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.zh-TW.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.zh-TW.md">首頁</a> · <a href="README.zh-TW.md">遊戲</a> · <a href="../scenes/README.zh-TW.md">世界與場景</a> · <a href="../videos/README.zh-TW.md">影片</a> · <a href="../tools/README.zh-TW.md">工具</a> · <a href="../visualizations/README.zh-TW.md">視覺化</a> · <a href="../wallpapers/README.zh-TW.md">桌布</a> · <a href="#top">返回頂端</a><br>目錄資料：2026-11-23</sub></p>
+<p align="center"><a href="../docs/i18n/README.zh-TW.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.zh-TW.md">首頁</a> · <a href="README.zh-TW.md">遊戲</a> · <a href="../scenes/README.zh-TW.md">世界與場景</a> · <a href="../videos/README.zh-TW.md">影片</a> · <a href="../tools/README.zh-TW.md">工具</a> · <a href="../visualizations/README.zh-TW.md">視覺化</a> · <a href="../wallpapers/README.zh-TW.md">桌布</a> · <a href="#top">返回頂端</a><br>目錄資料：2026-11-24</sub></p>
