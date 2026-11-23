@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-23T08:48:04Z",
+  "updated_at": "2026-11-23T21:04:40Z",
   "method": "public-support-v1",
   "sources": {
     "bilibili:BV1ByWM6mE1D": {
@@ -697,6 +697,15 @@
         "forks": 0
       }
     },
+    "github:archestack/best-of-vibe-coding": {
+      "platform": "github",
+      "url": "https://github.com/archestack/best-of-vibe-coding",
+      "published_at": "2026-10-08T09:45:25Z",
+      "metrics": {
+        "stars": 3,
+        "forks": 0
+      }
+    },
     "github:arecibo-sys/voidwell-2": {
       "platform": "github",
       "url": "https://github.com/arecibo-sys/voidwell-2",
@@ -837,7 +846,7 @@
       "url": "https://github.com/atlassian-labs/roving-office",
       "published_at": "2026-09-18T22:04:49Z",
       "metrics": {
-        "stars": 18,
+        "stars": 19,
         "forks": 8
       }
     },
@@ -1287,7 +1296,7 @@
       "url": "https://github.com/chenzihong-gavin/weekly-vibe-coding",
       "published_at": "2025-07-12T17:37:14Z",
       "metrics": {
-        "stars": 27,
+        "stars": 28,
         "forks": 0
       }
     },
@@ -1494,7 +1503,7 @@
       "url": "https://github.com/cyancity/yolo-mini-fps",
       "published_at": "2026-11-12T09:58:36Z",
       "metrics": {
-        "stars": 8,
+        "stars": 9,
         "forks": 2
       }
     },
@@ -2101,6 +2110,15 @@
         "forks": 1
       }
     },
+    "github:ferbin12/preaim": {
+      "platform": "github",
+      "url": "https://github.com/ferbin12/preaim",
+      "published_at": "2026-11-23T14:28:17Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:fiki-io/samp-ai-map-editor": {
       "platform": "github",
       "url": "https://github.com/fiki-io/samp-ai-map-editor",
@@ -2619,7 +2637,7 @@
       "url": "https://github.com/harleycoops/math-to-manim",
       "published_at": "2025-01-20T11:04:50Z",
       "metrics": {
-        "stars": 2895,
+        "stars": 2897,
         "forks": 321
       }
     },
@@ -2682,7 +2700,7 @@
       "url": "https://github.com/hisamikurita/ice-stairs",
       "published_at": "2026-07-14T05:00:59Z",
       "metrics": {
-        "stars": 0,
+        "stars": 1,
         "forks": 0
       }
     },
@@ -2754,7 +2772,7 @@
       "url": "https://github.com/hyhy111/game-assets-maker",
       "published_at": "2026-09-26T06:57:04Z",
       "metrics": {
-        "stars": 120,
+        "stars": 121,
         "forks": 15
       }
     },
@@ -3069,7 +3087,7 @@
       "url": "https://github.com/jjcm/petalwake",
       "published_at": "2026-11-10T05:54:32Z",
       "metrics": {
-        "stars": 113,
+        "stars": 116,
         "forks": 25
       }
     },
@@ -3285,7 +3303,7 @@
       "url": "https://github.com/khanh020905/my-office",
       "published_at": "2026-10-28T12:30:47Z",
       "metrics": {
-        "stars": 303,
+        "stars": 305,
         "forks": 135
       }
     },
@@ -3375,8 +3393,8 @@
       "url": "https://github.com/krasimirkralev/harvest-hollow",
       "published_at": "2026-10-05T07:21:09Z",
       "metrics": {
-        "stars": 16,
-        "forks": 6
+        "stars": 17,
+        "forks": 7
       }
     },
     "github:krowawui/3d-rubik-s-cube-game": {
@@ -3682,7 +3700,7 @@
       "published_at": "2026-10-20T05:58:18Z",
       "metrics": {
         "stars": 25,
-        "forks": 7
+        "forks": 8
       }
     },
     "github:manaiakalani/catchbugswithmax": {
@@ -3763,7 +3781,7 @@
       "published_at": "2026-11-10T18:34:31Z",
       "metrics": {
         "stars": 106,
-        "forks": 47
+        "forks": 48
       }
     },
     "github:maxbol/house-visualizer": {
@@ -3879,7 +3897,7 @@
       "url": "https://github.com/miaai-lab/claude-fable-5.2-html-files",
       "published_at": "2026-11-09T22:28:22Z",
       "metrics": {
-        "stars": 140,
+        "stars": 141,
         "forks": 31
       }
     },
@@ -4437,8 +4455,8 @@
       "url": "https://github.com/op7418/guizang-game-skill",
       "published_at": "2026-11-11T16:28:54Z",
       "metrics": {
-        "stars": 442,
-        "forks": 73
+        "stars": 464,
+        "forks": 75
       }
     },
     "github:oplosy/space": {
@@ -4770,7 +4788,7 @@
       "url": "https://github.com/realcodebear/saltline-fable-5.2",
       "published_at": "2026-11-10T15:04:30Z",
       "metrics": {
-        "stars": 529,
+        "stars": 533,
         "forks": 160
       }
     },
@@ -5022,8 +5040,8 @@
       "url": "https://github.com/sam1983aing/ticket-tear",
       "published_at": "2026-10-22T12:43:31Z",
       "metrics": {
-        "stars": 92,
-        "forks": 14
+        "stars": 93,
+        "forks": 15
       }
     },
     "github:sambit1110/portfolio": {
@@ -5449,6 +5467,15 @@
         "forks": 0
       }
     },
+    "github:souranyp-stack/solar-drift": {
+      "platform": "github",
+      "url": "https://github.com/souranyp-stack/solar-drift",
+      "published_at": "2026-11-23T11:42:46Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:sparshmishra09/drift-temple": {
       "platform": "github",
       "url": "https://github.com/sparshmishra09/drift-temple",
@@ -5473,6 +5500,15 @@
       "published_at": "2026-08-20T03:59:03Z",
       "metrics": {
         "stars": 0,
+        "forks": 0
+      }
+    },
+    "github:ssrjkk/agent-skills": {
+      "platform": "github",
+      "url": "https://github.com/ssrjkk/agent-skills",
+      "published_at": "2026-04-27T21:44:17Z",
+      "metrics": {
+        "stars": 2,
         "forks": 0
       }
     },
@@ -5899,6 +5935,15 @@
         "forks": 1
       }
     },
+    "github:tbirdpower3000/hand-control-training": {
+      "platform": "github",
+      "url": "https://github.com/tbirdpower3000/hand-control-training",
+      "published_at": "2026-11-03T21:49:05Z",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      }
+    },
     "github:techgendm/dead-air": {
       "platform": "github",
       "url": "https://github.com/techgendm/dead-air",
@@ -5968,6 +6013,15 @@
       "published_at": "2026-11-11T12:24:30Z",
       "metrics": {
         "stars": 1,
+        "forks": 1
+      }
+    },
+    "github:theodhorex/metropolix": {
+      "platform": "github",
+      "url": "https://github.com/theodhorex/metropolix",
+      "published_at": "2026-11-10T11:49:31Z",
+      "metrics": {
+        "stars": 0,
         "forks": 1
       }
     },
@@ -6336,7 +6390,7 @@
       "url": "https://github.com/webking021/dustfall",
       "published_at": "2026-11-10T08:53:22Z",
       "metrics": {
-        "stars": 3,
+        "stars": 4,
         "forks": 6
       }
     },
@@ -6426,7 +6480,7 @@
       "url": "https://github.com/wquguru/fable52-fps-repro",
       "published_at": "2026-11-11T04:58:58Z",
       "metrics": {
-        "stars": 118,
+        "stars": 120,
         "forks": 20
       }
     },
@@ -6516,8 +6570,8 @@
       "url": "https://github.com/xxcool/smart-warehouse",
       "published_at": "2026-09-22T09:59:37Z",
       "metrics": {
-        "stars": 42,
-        "forks": 16
+        "stars": 44,
+        "forks": 17
       }
     },
     "github:y-migita/villa-savoye-fable": {
@@ -7075,7 +7129,7 @@
       "url": "https://x.com/i/status/2119772039037014524",
       "published_at": "2026-11-09T12:40:12.000Z",
       "metrics": {
-        "likes": 250,
+        "likes": 251,
         "comments": 15
       }
     },
@@ -7084,7 +7138,7 @@
       "url": "https://x.com/i/status/2119868629491789992",
       "published_at": "2026-11-09T19:04:01.000Z",
       "metrics": {
-        "likes": 131,
+        "likes": 132,
         "comments": 4
       }
     },
@@ -7093,7 +7147,7 @@
       "url": "https://x.com/i/status/2119868968307695818",
       "published_at": "2026-11-09T19:05:21.000Z",
       "metrics": {
-        "likes": 4286,
+        "likes": 4287,
         "comments": 176
       }
     },
@@ -7102,7 +7156,7 @@
       "url": "https://x.com/i/status/2119870965106483384",
       "published_at": "2026-11-09T19:13:18.000Z",
       "metrics": {
-        "likes": 742,
+        "likes": 743,
         "comments": 52
       }
     },
@@ -7129,7 +7183,7 @@
       "url": "https://x.com/i/status/2119877065701036047",
       "published_at": "2026-11-09T19:37:32.000Z",
       "metrics": {
-        "likes": 2420,
+        "likes": 2419,
         "comments": 94
       }
     },
@@ -7147,7 +7201,7 @@
       "url": "https://x.com/i/status/2119894656221958575",
       "published_at": "2026-11-09T20:47:26.000Z",
       "metrics": {
-        "likes": 4,
+        "likes": 5,
         "comments": 2
       }
     },
@@ -7192,7 +7246,7 @@
       "url": "https://x.com/i/status/2119902109709537708",
       "published_at": "2026-11-09T21:17:03.000Z",
       "metrics": {
-        "likes": 7077,
+        "likes": 7080,
         "comments": 270
       }
     },
@@ -7283,7 +7337,7 @@
       "published_at": "2026-11-09T21:49:11.000Z",
       "metrics": {
         "likes": 1034,
-        "comments": 139
+        "comments": 140
       }
     },
     "x:2119915123070644263": {
@@ -7291,7 +7345,7 @@
       "url": "https://x.com/i/status/2119915123070644263",
       "published_at": "2026-11-09T22:08:46.000Z",
       "metrics": {
-        "likes": 118,
+        "likes": 119,
         "comments": 5
       }
     },
@@ -7301,7 +7355,7 @@
       "published_at": "2026-11-09T22:21:25.000Z",
       "metrics": {
         "likes": 1938,
-        "comments": 226
+        "comments": 225
       }
     },
     "x:2119925633564463609": {
@@ -7310,7 +7364,7 @@
       "published_at": "2026-11-09T22:50:32.000Z",
       "metrics": {
         "likes": 15046,
-        "comments": 863
+        "comments": 861
       }
     },
     "x:2119927838321328577": {
@@ -7327,8 +7381,8 @@
       "url": "https://x.com/i/status/2119935331499925557",
       "published_at": "2026-11-09T23:29:04.000Z",
       "metrics": {
-        "likes": 1992,
-        "comments": 136
+        "likes": 1991,
+        "comments": 137
       }
     },
     "x:2119937977426338283": {
@@ -7417,7 +7471,7 @@
       "url": "https://x.com/i/status/2120154573356793883",
       "published_at": "2026-11-10T14:00:15.000Z",
       "metrics": {
-        "likes": 1097,
+        "likes": 1098,
         "comments": 80
       }
     },
@@ -7453,7 +7507,7 @@
       "url": "https://x.com/i/status/2120223731520040966",
       "published_at": "2026-11-10T18:35:04.000Z",
       "metrics": {
-        "likes": 576,
+        "likes": 575,
         "comments": 37
       }
     },
@@ -7462,8 +7516,8 @@
       "url": "https://x.com/i/status/2120238844754923874",
       "published_at": "2026-11-10T19:35:07.000Z",
       "metrics": {
-        "likes": 1807,
-        "comments": 162
+        "likes": 1819,
+        "comments": 163
       }
     },
     "x:2120248525254742318": {
@@ -7480,7 +7534,7 @@
       "url": "https://x.com/i/status/2120282133503820150",
       "published_at": "2026-11-10T22:27:08.000Z",
       "metrics": {
-        "likes": 7518,
+        "likes": 7516,
         "comments": 676
       }
     },
@@ -7489,7 +7543,7 @@
       "url": "https://x.com/i/status/2120284261089673376",
       "published_at": "2026-11-10T22:35:35.000Z",
       "metrics": {
-        "likes": 17948,
+        "likes": 17950,
         "comments": 503
       }
     },
@@ -7498,7 +7552,7 @@
       "url": "https://x.com/i/status/2120341251178594532",
       "published_at": "2026-11-11T02:22:02.000Z",
       "metrics": {
-        "likes": 8019,
+        "likes": 8017,
         "comments": 393
       }
     },
@@ -7507,8 +7561,8 @@
       "url": "https://x.com/i/status/2120374208043876422",
       "published_at": "2026-11-11T04:33:00.000Z",
       "metrics": {
-        "likes": 53,
-        "comments": 12
+        "likes": 54,
+        "comments": 11
       }
     },
     "x:2120378493729222700": {
@@ -7516,7 +7570,7 @@
       "url": "https://x.com/i/status/2120378493729222700",
       "published_at": "2026-11-11T04:50:02.000Z",
       "metrics": {
-        "likes": 81,
+        "likes": 82,
         "comments": 14
       }
     },
