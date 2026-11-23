@@ -15,9 +15,9 @@
 
 <h1 align="center">Juegos</h1>
 
-<p align="center">599 entradas. Disparos, conducción, vuelo, puzles y mucho más.</p>
+<p align="center">601 entradas. Disparos, conducción, vuelo, puzles y mucho más.</p>
 
-<p><a href="#genre-shooter">Disparos</a> <b>111</b> · <a href="#genre-action-and-combat">Acción y combate</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plataformas y carreras sin fin</a> <b>38</b> · <a href="#genre-racing-and-driving">Carreras y conducción</a> <b>75</b> · <a href="#genre-flight">Vuelo</a> <b>28</b> · <a href="#genre-sports">Deportes</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventura y exploración</a> <b>77</b> · <a href="#genre-puzzle">Puzles</a> <b>23</b> · <a href="#genre-strategy-and-management">Estrategia y gestión</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casuales y arcade</a> <b>35</b> · <a href="#genre-interactive-story">Historia interactiva</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulación y visualización</a> <b>4</b> · <a href="#genre-other-games">Otros juegos</a> <b>59</b></p>
+<p><a href="#genre-shooter">Disparos</a> <b>111</b> · <a href="#genre-action-and-combat">Acción y combate</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plataformas y carreras sin fin</a> <b>38</b> · <a href="#genre-racing-and-driving">Carreras y conducción</a> <b>75</b> · <a href="#genre-flight">Vuelo</a> <b>28</b> · <a href="#genre-sports">Deportes</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventura y exploración</a> <b>77</b> · <a href="#genre-puzzle">Puzles</a> <b>23</b> · <a href="#genre-strategy-and-management">Estrategia y gestión</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casuales y arcade</a> <b>35</b> · <a href="#genre-interactive-story">Historia interactiva</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulación y visualización</a> <b>4</b> · <a href="#genre-other-games">Otros juegos</a> <b>61</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1181,6 +1181,8 @@ Obras sin imagen de vista previa:
 
 <tr><td><a href="https://raunakpatil.com/radar">best-ai-tools</a></td><td><a href="https://github.com/raunakpatil">raunakpatil</a></td><td>MIT</td><td><a href="https://github.com/raunakpatil/best-ai-tools">Código</a></td></tr>
 
+<tr><td><a href="https://archestack.com/best-of-vibe-coding/">best-of-vibe-coding</a></td><td><a href="https://github.com/archestack">archestack</a></td><td>MIT</td><td><a href="https://github.com/archestack/best-of-vibe-coding">Código</a></td></tr>
+
 <tr><td><a href="https://21cabbagee.github.io/capybara-delivery-3d/">capybara-delivery-3d</a></td><td><a href="https://github.com/21cabbagee">21cabbagee</a></td><td>MIT</td><td><a href="https://github.com/21cabbagee/capybara-delivery-3d">Código</a></td></tr>
 
 <tr><td><a href="https://1xaispark.com/games/casa-de-gemas">casadegema</a></td><td><a href="https://github.com/deepujain">deepujain</a></td><td>MIT</td><td><a href="https://github.com/deepujain/casadegema">Código</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/casadegema-e0e0cb69">Archivos</a></td></tr>
@@ -1222,6 +1224,8 @@ Obras sin imagen de vista previa:
 <tr><td><a href="https://munimv2.itch.io/little-ember">little-ember</a></td><td><a href="https://github.com/munimtechnologies">munimtechnologies</a></td><td>Apache-2.0</td><td><a href="https://github.com/munimtechnologies/little-ember">Código</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/little-ember-33221b54">Archivos</a></td></tr>
 
 <tr><td><a href="https://liuzhanrui30-boop.github.io/lost-memory-park/">lost-memory-park</a></td><td><a href="https://github.com/liuzhanrui30-boop">liuzhanrui30-boop</a></td><td>MIT</td><td><a href="https://github.com/liuzhanrui30-boop/lost-memory-park">Código</a></td></tr>
+
+<tr><td><a href="https://metropolix-city.vercel.app">metropolix</a></td><td><a href="https://github.com/theodhorex">theodhorex</a></td><td>MIT</td><td><a href="https://github.com/theodhorex/metropolix">Código</a></td></tr>
 
 <tr><td><a href="https://cn3ko.github.io/nogatron/">nogatron</a></td><td><a href="https://github.com/cn3ko">cn3ko</a></td><td>MIT</td><td><a href="https://github.com/cn3ko/nogatron">Código</a></td></tr>
 

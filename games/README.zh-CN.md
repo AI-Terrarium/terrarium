@@ -15,9 +15,9 @@
 
 <h1 align="center">游戏</h1>
 
-<p align="center">599 个条目。 从射击、竞速与飞行，到冒险、解谜和沙盒。</p>
+<p align="center">601 个条目。 从射击、竞速与飞行，到冒险、解谜和沙盒。</p>
 
-<p><a href="#genre-shooter">射击</a> <b>111</b> · <a href="#genre-action-and-combat">动作与战斗</a> <b>57</b> · <a href="#genre-platformer-and-runner">平台跳跃与跑酷</a> <b>38</b> · <a href="#genre-racing-and-driving">竞速与驾驶</a> <b>75</b> · <a href="#genre-flight">飞行</a> <b>28</b> · <a href="#genre-sports">体育</a> <b>15</b> · <a href="#genre-adventure-and-exploration">冒险与探索</a> <b>77</b> · <a href="#genre-puzzle">解谜</a> <b>23</b> · <a href="#genre-strategy-and-management">策略与经营</a> <b>47</b> · <a href="#genre-sandbox">沙盒</a> <b>27</b> · <a href="#genre-casual-and-arcade">休闲与街机</a> <b>35</b> · <a href="#genre-interactive-story">互动叙事</a> <b>3</b> · <a href="#genre-simulation-and-visualization">模拟与可视化</a> <b>4</b> · <a href="#genre-other-games">其他游戏</a> <b>59</b></p>
+<p><a href="#genre-shooter">射击</a> <b>111</b> · <a href="#genre-action-and-combat">动作与战斗</a> <b>57</b> · <a href="#genre-platformer-and-runner">平台跳跃与跑酷</a> <b>38</b> · <a href="#genre-racing-and-driving">竞速与驾驶</a> <b>75</b> · <a href="#genre-flight">飞行</a> <b>28</b> · <a href="#genre-sports">体育</a> <b>15</b> · <a href="#genre-adventure-and-exploration">冒险与探索</a> <b>77</b> · <a href="#genre-puzzle">解谜</a> <b>23</b> · <a href="#genre-strategy-and-management">策略与经营</a> <b>47</b> · <a href="#genre-sandbox">沙盒</a> <b>27</b> · <a href="#genre-casual-and-arcade">休闲与街机</a> <b>35</b> · <a href="#genre-interactive-story">互动叙事</a> <b>3</b> · <a href="#genre-simulation-and-visualization">模拟与可视化</a> <b>4</b> · <a href="#genre-other-games">其他游戏</a> <b>61</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1181,6 +1181,8 @@
 
 <tr><td><a href="https://raunakpatil.com/radar">best-ai-tools</a></td><td><a href="https://github.com/raunakpatil">raunakpatil</a></td><td>MIT</td><td><a href="https://github.com/raunakpatil/best-ai-tools">代码</a></td></tr>
 
+<tr><td><a href="https://archestack.com/best-of-vibe-coding/">best-of-vibe-coding</a></td><td><a href="https://github.com/archestack">archestack</a></td><td>MIT</td><td><a href="https://github.com/archestack/best-of-vibe-coding">代码</a></td></tr>
+
 <tr><td><a href="https://21cabbagee.github.io/capybara-delivery-3d/">capybara-delivery-3d</a></td><td><a href="https://github.com/21cabbagee">21cabbagee</a></td><td>MIT</td><td><a href="https://github.com/21cabbagee/capybara-delivery-3d">代码</a></td></tr>
 
 <tr><td><a href="https://1xaispark.com/games/casa-de-gemas">casadegema</a></td><td><a href="https://github.com/deepujain">deepujain</a></td><td>MIT</td><td><a href="https://github.com/deepujain/casadegema">代码</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/casadegema-e0e0cb69">文件</a></td></tr>
@@ -1222,6 +1224,8 @@
 <tr><td><a href="https://munimv2.itch.io/little-ember">little-ember</a></td><td><a href="https://github.com/munimtechnologies">munimtechnologies</a></td><td>Apache-2.0</td><td><a href="https://github.com/munimtechnologies/little-ember">代码</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/little-ember-33221b54">文件</a></td></tr>
 
 <tr><td><a href="https://liuzhanrui30-boop.github.io/lost-memory-park/">lost-memory-park</a></td><td><a href="https://github.com/liuzhanrui30-boop">liuzhanrui30-boop</a></td><td>MIT</td><td><a href="https://github.com/liuzhanrui30-boop/lost-memory-park">代码</a></td></tr>
+
+<tr><td><a href="https://metropolix-city.vercel.app">metropolix</a></td><td><a href="https://github.com/theodhorex">theodhorex</a></td><td>MIT</td><td><a href="https://github.com/theodhorex/metropolix">代码</a></td></tr>
 
 <tr><td><a href="https://cn3ko.github.io/nogatron/">nogatron</a></td><td><a href="https://github.com/cn3ko">cn3ko</a></td><td>MIT</td><td><a href="https://github.com/cn3ko/nogatron">代码</a></td></tr>
 

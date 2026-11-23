@@ -15,9 +15,9 @@
 
 <h1 align="center">Jeux</h1>
 
-<p align="center">599 entrées. Tir, course, vol, énigmes et bien d’autres jeux.</p>
+<p align="center">601 entrées. Tir, course, vol, énigmes et bien d’autres jeux.</p>
 
-<p><a href="#genre-shooter">Tir</a> <b>111</b> · <a href="#genre-action-and-combat">Action et combat</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plateforme et course sans fin</a> <b>38</b> · <a href="#genre-racing-and-driving">Course et conduite</a> <b>75</b> · <a href="#genre-flight">Vol</a> <b>28</b> · <a href="#genre-sports">Sports</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventure et exploration</a> <b>77</b> · <a href="#genre-puzzle">Énigmes</a> <b>23</b> · <a href="#genre-strategy-and-management">Stratégie et gestion</a> <b>47</b> · <a href="#genre-sandbox">Bac à sable</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual et arcade</a> <b>35</b> · <a href="#genre-interactive-story">Récit interactif</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation et visualisation</a> <b>4</b> · <a href="#genre-other-games">Autres jeux</a> <b>59</b></p>
+<p><a href="#genre-shooter">Tir</a> <b>111</b> · <a href="#genre-action-and-combat">Action et combat</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plateforme et course sans fin</a> <b>38</b> · <a href="#genre-racing-and-driving">Course et conduite</a> <b>75</b> · <a href="#genre-flight">Vol</a> <b>28</b> · <a href="#genre-sports">Sports</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventure et exploration</a> <b>77</b> · <a href="#genre-puzzle">Énigmes</a> <b>23</b> · <a href="#genre-strategy-and-management">Stratégie et gestion</a> <b>47</b> · <a href="#genre-sandbox">Bac à sable</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual et arcade</a> <b>35</b> · <a href="#genre-interactive-story">Récit interactif</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation et visualisation</a> <b>4</b> · <a href="#genre-other-games">Autres jeux</a> <b>61</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1181,6 +1181,8 @@
 
 <tr><td><a href="https://raunakpatil.com/radar">best-ai-tools</a></td><td><a href="https://github.com/raunakpatil">raunakpatil</a></td><td>MIT</td><td><a href="https://github.com/raunakpatil/best-ai-tools">Code</a></td></tr>
 
+<tr><td><a href="https://archestack.com/best-of-vibe-coding/">best-of-vibe-coding</a></td><td><a href="https://github.com/archestack">archestack</a></td><td>MIT</td><td><a href="https://github.com/archestack/best-of-vibe-coding">Code</a></td></tr>
+
 <tr><td><a href="https://21cabbagee.github.io/capybara-delivery-3d/">capybara-delivery-3d</a></td><td><a href="https://github.com/21cabbagee">21cabbagee</a></td><td>MIT</td><td><a href="https://github.com/21cabbagee/capybara-delivery-3d">Code</a></td></tr>
 
 <tr><td><a href="https://1xaispark.com/games/casa-de-gemas">casadegema</a></td><td><a href="https://github.com/deepujain">deepujain</a></td><td>MIT</td><td><a href="https://github.com/deepujain/casadegema">Code</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/casadegema-e0e0cb69">Fichiers</a></td></tr>
@@ -1222,6 +1224,8 @@
 <tr><td><a href="https://munimv2.itch.io/little-ember">little-ember</a></td><td><a href="https://github.com/munimtechnologies">munimtechnologies</a></td><td>Apache-2.0</td><td><a href="https://github.com/munimtechnologies/little-ember">Code</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/little-ember-33221b54">Fichiers</a></td></tr>
 
 <tr><td><a href="https://liuzhanrui30-boop.github.io/lost-memory-park/">lost-memory-park</a></td><td><a href="https://github.com/liuzhanrui30-boop">liuzhanrui30-boop</a></td><td>MIT</td><td><a href="https://github.com/liuzhanrui30-boop/lost-memory-park">Code</a></td></tr>
+
+<tr><td><a href="https://metropolix-city.vercel.app">metropolix</a></td><td><a href="https://github.com/theodhorex">theodhorex</a></td><td>MIT</td><td><a href="https://github.com/theodhorex/metropolix">Code</a></td></tr>
 
 <tr><td><a href="https://cn3ko.github.io/nogatron/">nogatron</a></td><td><a href="https://github.com/cn3ko">cn3ko</a></td><td>MIT</td><td><a href="https://github.com/cn3ko/nogatron">Code</a></td></tr>
 
