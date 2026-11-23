@@ -16,7 +16,7 @@
 <p align="center"><a href="#trending">Популярное</a> · <a href="#latest">Новое</a> · <a href="#contents">Содержание</a></p>
 
 <!-- SHOWCASE:START -->
-<p align="center"><b>1057</b> записей · <b>6</b> категорий · <b>964</b> с открытым кодом · <b>425</b> архивов кода<br><sub>Данные каталога: 2026-11-23</sub></p>
+<p align="center"><b>1059</b> записей · <b>6</b> категорий · <b>966</b> с открытым кодом · <b>425</b> архивов кода<br><sub>Данные каталога: 2026-11-23</sub></p>
 
 <a name="trending"></a>
 
@@ -74,7 +74,7 @@
 
 <tr>
 
-<td width="33.33%"><b><a href="#contents-games">🎮 Игры</a> · 597</b><br><sub>521 с открытым кодом · 190 архивов кода</sub></td>
+<td width="33.33%"><b><a href="#contents-games">🎮 Игры</a> · 599</b><br><sub>523 с открытым кодом · 190 архивов кода</sub></td>
 
 <td width="33.33%"><b><a href="#contents-scenes">🌍 Миры и сцены</a> · 211</b><br><sub>203 с открытым кодом · 94 архивов кода</sub></td>
 
@@ -96,11 +96,11 @@
 
 <a name="contents-games"></a>
 
-### 🎮 Игры · 597
+### 🎮 Игры · 599
 
 Шутеры, гонки, полёты, головоломки и многое другое.
 
-<p><a href="../../games/README.ru.md#genre-shooter">Шутеры</a> <b>111</b> · <a href="../../games/README.ru.md#genre-action-and-combat">Экшен и сражения</a> <b>57</b> · <a href="../../games/README.ru.md#genre-platformer-and-runner">Платформеры и раннеры</a> <b>38</b> · <a href="../../games/README.ru.md#genre-racing-and-driving">Гонки и вождение</a> <b>75</b> · <a href="../../games/README.ru.md#genre-flight">Полёты</a> <b>28</b> · <a href="../../games/README.ru.md#genre-sports">Спорт</a> <b>15</b> · <a href="../../games/README.ru.md#genre-adventure-and-exploration">Приключения и исследование</a> <b>77</b> · <a href="../../games/README.ru.md#genre-puzzle">Головоломки</a> <b>23</b> · <a href="../../games/README.ru.md#genre-strategy-and-management">Стратегии и управление</a> <b>47</b> · <a href="../../games/README.ru.md#genre-sandbox">Песочницы</a> <b>27</b> · <a href="../../games/README.ru.md#genre-casual-and-arcade">Казуальные и аркадные игры</a> <b>35</b> · <a href="../../games/README.ru.md#genre-interactive-story">Интерактивные истории</a> <b>3</b> · <a href="../../games/README.ru.md#genre-simulation-and-visualization">Моделирование и визуализация</a> <b>4</b> · <a href="../../games/README.ru.md#genre-other-games">Другие игры</a> <b>57</b></p>
+<p><a href="../../games/README.ru.md#genre-shooter">Шутеры</a> <b>111</b> · <a href="../../games/README.ru.md#genre-action-and-combat">Экшен и сражения</a> <b>57</b> · <a href="../../games/README.ru.md#genre-platformer-and-runner">Платформеры и раннеры</a> <b>38</b> · <a href="../../games/README.ru.md#genre-racing-and-driving">Гонки и вождение</a> <b>75</b> · <a href="../../games/README.ru.md#genre-flight">Полёты</a> <b>28</b> · <a href="../../games/README.ru.md#genre-sports">Спорт</a> <b>15</b> · <a href="../../games/README.ru.md#genre-adventure-and-exploration">Приключения и исследование</a> <b>77</b> · <a href="../../games/README.ru.md#genre-puzzle">Головоломки</a> <b>23</b> · <a href="../../games/README.ru.md#genre-strategy-and-management">Стратегии и управление</a> <b>47</b> · <a href="../../games/README.ru.md#genre-sandbox">Песочницы</a> <b>27</b> · <a href="../../games/README.ru.md#genre-casual-and-arcade">Казуальные и аркадные игры</a> <b>35</b> · <a href="../../games/README.ru.md#genre-interactive-story">Интерактивные истории</a> <b>3</b> · <a href="../../games/README.ru.md#genre-simulation-and-visualization">Моделирование и визуализация</a> <b>4</b> · <a href="../../games/README.ru.md#genre-other-games">Другие игры</a> <b>59</b></p>
 
 <table>
 <tr>
@@ -110,7 +110,7 @@
 </tr>
 </table>
 
-<p><b><a href="../../games/README.ru.md">Все записи: 597 →</a></b> · <a href="#contents">↑ Содержание</a></p>
+<p><b><a href="../../games/README.ru.md">Все записи: 599 →</a></b> · <a href="#contents">↑ Содержание</a></p>
 
 <a name="contents-scenes"></a>
 

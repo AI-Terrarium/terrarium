@@ -15,9 +15,9 @@
 
 <h1 align="center">遊戲</h1>
 
-<p align="center">597 個項目。 從射擊、競速與飛行，到冒險、解謎和沙盒。</p>
+<p align="center">599 個項目。 從射擊、競速與飛行，到冒險、解謎和沙盒。</p>
 
-<p><a href="#genre-shooter">射擊</a> <b>111</b> · <a href="#genre-action-and-combat">動作與戰鬥</a> <b>57</b> · <a href="#genre-platformer-and-runner">平台跳躍與跑酷</a> <b>38</b> · <a href="#genre-racing-and-driving">競速與駕駛</a> <b>75</b> · <a href="#genre-flight">飛行</a> <b>28</b> · <a href="#genre-sports">運動</a> <b>15</b> · <a href="#genre-adventure-and-exploration">冒險與探索</a> <b>77</b> · <a href="#genre-puzzle">解謎</a> <b>23</b> · <a href="#genre-strategy-and-management">策略與經營</a> <b>47</b> · <a href="#genre-sandbox">沙盒</a> <b>27</b> · <a href="#genre-casual-and-arcade">休閒與街機</a> <b>35</b> · <a href="#genre-interactive-story">互動敘事</a> <b>3</b> · <a href="#genre-simulation-and-visualization">模擬與視覺化</a> <b>4</b> · <a href="#genre-other-games">其他遊戲</a> <b>57</b></p>
+<p><a href="#genre-shooter">射擊</a> <b>111</b> · <a href="#genre-action-and-combat">動作與戰鬥</a> <b>57</b> · <a href="#genre-platformer-and-runner">平台跳躍與跑酷</a> <b>38</b> · <a href="#genre-racing-and-driving">競速與駕駛</a> <b>75</b> · <a href="#genre-flight">飛行</a> <b>28</b> · <a href="#genre-sports">運動</a> <b>15</b> · <a href="#genre-adventure-and-exploration">冒險與探索</a> <b>77</b> · <a href="#genre-puzzle">解謎</a> <b>23</b> · <a href="#genre-strategy-and-management">策略與經營</a> <b>47</b> · <a href="#genre-sandbox">沙盒</a> <b>27</b> · <a href="#genre-casual-and-arcade">休閒與街機</a> <b>35</b> · <a href="#genre-interactive-story">互動敘事</a> <b>3</b> · <a href="#genre-simulation-and-visualization">模擬與視覺化</a> <b>4</b> · <a href="#genre-other-games">其他遊戲</a> <b>59</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1189,6 +1189,8 @@
 
 <tr><td><a href="https://sartaj1995.github.io/classic_snake__v2/">classic_snake__v2</a></td><td><a href="https://github.com/sartaj1995">sartaj1995</a></td><td>MIT</td><td><a href="https://github.com/sartaj1995/classic_snake__v2">原始碼</a></td></tr>
 
+<tr><td><a href="https://modelbehavioryt.github.io/claude-vs-chatgpt-ai-games/browser/claude/">claude-vs-chatgpt-ai-games</a></td><td><a href="https://github.com/ModelBehaviorYT">ModelBehaviorYT</a></td><td>MIT</td><td><a href="https://github.com/modelbehavioryt/claude-vs-chatgpt-ai-games">原始碼</a></td></tr>
+
 <tr><td><a href="https://denova-ai.com/zh-CN">denova</a></td><td><a href="https://github.com/alfredxw">alfredxw</a></td><td>Apache-2.0</td><td><a href="https://github.com/alfredxw/denova">原始碼</a></td></tr>
 
 <tr><td><a href="https://freitasvarejo.github.io/five-sols-on-mars/">five-sols-on-mars</a></td><td><a href="https://github.com/FreitasVarejo">FreitasVarejo</a></td><td>MIT</td><td><a href="https://github.com/freitasvarejo/five-sols-on-mars">原始碼</a></td></tr>
@@ -1218,6 +1220,8 @@
 <tr><td><a href="https://link-sekai-ot4mp9chy59.qoder.zone">LINK-SEKAI</a></td><td><a href="https://github.com/EliasNeko">EliasNeko</a></td><td>MIT</td><td><a href="https://github.com/eliasneko/link-sekai">原始碼</a></td></tr>
 
 <tr><td><a href="https://munimv2.itch.io/little-ember">little-ember</a></td><td><a href="https://github.com/munimtechnologies">munimtechnologies</a></td><td>Apache-2.0</td><td><a href="https://github.com/munimtechnologies/little-ember">原始碼</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/little-ember-33221b54">檔案</a></td></tr>
+
+<tr><td><a href="https://liuzhanrui30-boop.github.io/lost-memory-park/">lost-memory-park</a></td><td><a href="https://github.com/liuzhanrui30-boop">liuzhanrui30-boop</a></td><td>MIT</td><td><a href="https://github.com/liuzhanrui30-boop/lost-memory-park">原始碼</a></td></tr>
 
 <tr><td><a href="https://cn3ko.github.io/nogatron/">nogatron</a></td><td><a href="https://github.com/cn3ko">cn3ko</a></td><td>MIT</td><td><a href="https://github.com/cn3ko/nogatron">原始碼</a></td></tr>
 

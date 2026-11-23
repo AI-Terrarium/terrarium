@@ -15,9 +15,9 @@
 
 <h1 align="center">게임</h1>
 
-<p align="center">597개 항목. 슈팅, 레이싱, 비행, 퍼즐 등 다양한 게임.</p>
+<p align="center">599개 항목. 슈팅, 레이싱, 비행, 퍼즐 등 다양한 게임.</p>
 
-<p><a href="#genre-shooter">슈팅</a> <b>111</b> · <a href="#genre-action-and-combat">액션·전투</a> <b>57</b> · <a href="#genre-platformer-and-runner">플랫포머·러너</a> <b>38</b> · <a href="#genre-racing-and-driving">레이싱·운전</a> <b>75</b> · <a href="#genre-flight">비행</a> <b>28</b> · <a href="#genre-sports">스포츠</a> <b>15</b> · <a href="#genre-adventure-and-exploration">모험·탐험</a> <b>77</b> · <a href="#genre-puzzle">퍼즐</a> <b>23</b> · <a href="#genre-strategy-and-management">전략·경영</a> <b>47</b> · <a href="#genre-sandbox">샌드박스</a> <b>27</b> · <a href="#genre-casual-and-arcade">캐주얼·아케이드</a> <b>35</b> · <a href="#genre-interactive-story">인터랙티브 스토리</a> <b>3</b> · <a href="#genre-simulation-and-visualization">시뮬레이션·시각화</a> <b>4</b> · <a href="#genre-other-games">기타 게임</a> <b>57</b></p>
+<p><a href="#genre-shooter">슈팅</a> <b>111</b> · <a href="#genre-action-and-combat">액션·전투</a> <b>57</b> · <a href="#genre-platformer-and-runner">플랫포머·러너</a> <b>38</b> · <a href="#genre-racing-and-driving">레이싱·운전</a> <b>75</b> · <a href="#genre-flight">비행</a> <b>28</b> · <a href="#genre-sports">스포츠</a> <b>15</b> · <a href="#genre-adventure-and-exploration">모험·탐험</a> <b>77</b> · <a href="#genre-puzzle">퍼즐</a> <b>23</b> · <a href="#genre-strategy-and-management">전략·경영</a> <b>47</b> · <a href="#genre-sandbox">샌드박스</a> <b>27</b> · <a href="#genre-casual-and-arcade">캐주얼·아케이드</a> <b>35</b> · <a href="#genre-interactive-story">인터랙티브 스토리</a> <b>3</b> · <a href="#genre-simulation-and-visualization">시뮬레이션·시각화</a> <b>4</b> · <a href="#genre-other-games">기타 게임</a> <b>59</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1189,6 +1189,8 @@
 
 <tr><td><a href="https://sartaj1995.github.io/classic_snake__v2/">classic_snake__v2</a></td><td><a href="https://github.com/sartaj1995">sartaj1995</a></td><td>MIT</td><td><a href="https://github.com/sartaj1995/classic_snake__v2">코드</a></td></tr>
 
+<tr><td><a href="https://modelbehavioryt.github.io/claude-vs-chatgpt-ai-games/browser/claude/">claude-vs-chatgpt-ai-games</a></td><td><a href="https://github.com/ModelBehaviorYT">ModelBehaviorYT</a></td><td>MIT</td><td><a href="https://github.com/modelbehavioryt/claude-vs-chatgpt-ai-games">코드</a></td></tr>
+
 <tr><td><a href="https://denova-ai.com/zh-CN">denova</a></td><td><a href="https://github.com/alfredxw">alfredxw</a></td><td>Apache-2.0</td><td><a href="https://github.com/alfredxw/denova">코드</a></td></tr>
 
 <tr><td><a href="https://freitasvarejo.github.io/five-sols-on-mars/">five-sols-on-mars</a></td><td><a href="https://github.com/FreitasVarejo">FreitasVarejo</a></td><td>MIT</td><td><a href="https://github.com/freitasvarejo/five-sols-on-mars">코드</a></td></tr>
@@ -1218,6 +1220,8 @@
 <tr><td><a href="https://link-sekai-ot4mp9chy59.qoder.zone">LINK-SEKAI</a></td><td><a href="https://github.com/EliasNeko">EliasNeko</a></td><td>MIT</td><td><a href="https://github.com/eliasneko/link-sekai">코드</a></td></tr>
 
 <tr><td><a href="https://munimv2.itch.io/little-ember">little-ember</a></td><td><a href="https://github.com/munimtechnologies">munimtechnologies</a></td><td>Apache-2.0</td><td><a href="https://github.com/munimtechnologies/little-ember">코드</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/little-ember-33221b54">파일</a></td></tr>
+
+<tr><td><a href="https://liuzhanrui30-boop.github.io/lost-memory-park/">lost-memory-park</a></td><td><a href="https://github.com/liuzhanrui30-boop">liuzhanrui30-boop</a></td><td>MIT</td><td><a href="https://github.com/liuzhanrui30-boop/lost-memory-park">코드</a></td></tr>
 
 <tr><td><a href="https://cn3ko.github.io/nogatron/">nogatron</a></td><td><a href="https://github.com/cn3ko">cn3ko</a></td><td>MIT</td><td><a href="https://github.com/cn3ko/nogatron">코드</a></td></tr>
 

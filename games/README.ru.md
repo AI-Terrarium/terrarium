@@ -15,9 +15,9 @@
 
 <h1 align="center">Игры</h1>
 
-<p align="center">Записей: 597. Шутеры, гонки, полёты, головоломки и многое другое.</p>
+<p align="center">Записей: 599. Шутеры, гонки, полёты, головоломки и многое другое.</p>
 
-<p><a href="#genre-shooter">Шутеры</a> <b>111</b> · <a href="#genre-action-and-combat">Экшен и сражения</a> <b>57</b> · <a href="#genre-platformer-and-runner">Платформеры и раннеры</a> <b>38</b> · <a href="#genre-racing-and-driving">Гонки и вождение</a> <b>75</b> · <a href="#genre-flight">Полёты</a> <b>28</b> · <a href="#genre-sports">Спорт</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Приключения и исследование</a> <b>77</b> · <a href="#genre-puzzle">Головоломки</a> <b>23</b> · <a href="#genre-strategy-and-management">Стратегии и управление</a> <b>47</b> · <a href="#genre-sandbox">Песочницы</a> <b>27</b> · <a href="#genre-casual-and-arcade">Казуальные и аркадные игры</a> <b>35</b> · <a href="#genre-interactive-story">Интерактивные истории</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Моделирование и визуализация</a> <b>4</b> · <a href="#genre-other-games">Другие игры</a> <b>57</b></p>
+<p><a href="#genre-shooter">Шутеры</a> <b>111</b> · <a href="#genre-action-and-combat">Экшен и сражения</a> <b>57</b> · <a href="#genre-platformer-and-runner">Платформеры и раннеры</a> <b>38</b> · <a href="#genre-racing-and-driving">Гонки и вождение</a> <b>75</b> · <a href="#genre-flight">Полёты</a> <b>28</b> · <a href="#genre-sports">Спорт</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Приключения и исследование</a> <b>77</b> · <a href="#genre-puzzle">Головоломки</a> <b>23</b> · <a href="#genre-strategy-and-management">Стратегии и управление</a> <b>47</b> · <a href="#genre-sandbox">Песочницы</a> <b>27</b> · <a href="#genre-casual-and-arcade">Казуальные и аркадные игры</a> <b>35</b> · <a href="#genre-interactive-story">Интерактивные истории</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Моделирование и визуализация</a> <b>4</b> · <a href="#genre-other-games">Другие игры</a> <b>59</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1189,6 +1189,8 @@
 
 <tr><td><a href="https://sartaj1995.github.io/classic_snake__v2/">classic_snake__v2</a></td><td><a href="https://github.com/sartaj1995">sartaj1995</a></td><td>MIT</td><td><a href="https://github.com/sartaj1995/classic_snake__v2">Код</a></td></tr>
 
+<tr><td><a href="https://modelbehavioryt.github.io/claude-vs-chatgpt-ai-games/browser/claude/">claude-vs-chatgpt-ai-games</a></td><td><a href="https://github.com/ModelBehaviorYT">ModelBehaviorYT</a></td><td>MIT</td><td><a href="https://github.com/modelbehavioryt/claude-vs-chatgpt-ai-games">Код</a></td></tr>
+
 <tr><td><a href="https://denova-ai.com/zh-CN">denova</a></td><td><a href="https://github.com/alfredxw">alfredxw</a></td><td>Apache-2.0</td><td><a href="https://github.com/alfredxw/denova">Код</a></td></tr>
 
 <tr><td><a href="https://freitasvarejo.github.io/five-sols-on-mars/">five-sols-on-mars</a></td><td><a href="https://github.com/FreitasVarejo">FreitasVarejo</a></td><td>MIT</td><td><a href="https://github.com/freitasvarejo/five-sols-on-mars">Код</a></td></tr>
@@ -1218,6 +1220,8 @@
 <tr><td><a href="https://link-sekai-ot4mp9chy59.qoder.zone">LINK-SEKAI</a></td><td><a href="https://github.com/EliasNeko">EliasNeko</a></td><td>MIT</td><td><a href="https://github.com/eliasneko/link-sekai">Код</a></td></tr>
 
 <tr><td><a href="https://munimv2.itch.io/little-ember">little-ember</a></td><td><a href="https://github.com/munimtechnologies">munimtechnologies</a></td><td>Apache-2.0</td><td><a href="https://github.com/munimtechnologies/little-ember">Код</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/little-ember-33221b54">Файлы</a></td></tr>
+
+<tr><td><a href="https://liuzhanrui30-boop.github.io/lost-memory-park/">lost-memory-park</a></td><td><a href="https://github.com/liuzhanrui30-boop">liuzhanrui30-boop</a></td><td>MIT</td><td><a href="https://github.com/liuzhanrui30-boop/lost-memory-park">Код</a></td></tr>
 
 <tr><td><a href="https://cn3ko.github.io/nogatron/">nogatron</a></td><td><a href="https://github.com/cn3ko">cn3ko</a></td><td>MIT</td><td><a href="https://github.com/cn3ko/nogatron">Код</a></td></tr>
 
