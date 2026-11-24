@@ -24,7 +24,7 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · 最热"></picture></a></p>
 
-<p align="center"><sub>热度同步：2026-11-23 21:04 UTC · 计划每 8 小时刷新</sub></p>
+<p align="center"><sub>热度同步：2026-11-23 21:04 UTC · 快照已超过 12 小时 · 计划每 8 小时刷新</sub></p>
 
 <a name="showcase-links"></a>
 

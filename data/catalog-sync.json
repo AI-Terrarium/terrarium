@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "source_batch_id": "b2ec1a49-306f-4482-a916-1a2817f769a1",
-  "source_hf_revision": "50f50074964fd2760e2e35e9aed94b559d932862",
+  "source_batch_id": "7240cb29-5acc-4569-b3d2-5be8cc309e7e",
+  "source_hf_revision": "5369f833fd917c3654a526ee9103b03d8a1810b2",
   "catalog_sha256": "0babc1b6edee4a51226425f9a322122be3520efb1931900b1a34bb78bee99bb1",
   "source_catalog_sha256": "0babc1b6edee4a51226425f9a322122be3520efb1931900b1a34bb78bee99bb1",
   "catalog_updated_at": "2026-11-23T17:32:10.847919+00:00",
