@@ -15,9 +15,9 @@
 
 <h1 align="center">Jogos</h1>
 
-<p align="center">605 itens. Tiro, corrida, voo, quebra-cabeças e muito mais.</p>
+<p align="center">606 itens. Tiro, corrida, voo, quebra-cabeças e muito mais.</p>
 
-<p><a href="#genre-shooter">Tiro</a> <b>111</b> · <a href="#genre-action-and-combat">Ação e combate</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plataforma e corrida infinita</a> <b>38</b> · <a href="#genre-racing-and-driving">Corrida e direção</a> <b>75</b> · <a href="#genre-flight">Voo</a> <b>28</b> · <a href="#genre-sports">Esportes</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventura e exploração</a> <b>77</b> · <a href="#genre-puzzle">Quebra-cabeças</a> <b>23</b> · <a href="#genre-strategy-and-management">Estratégia e gestão</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual e arcade</a> <b>35</b> · <a href="#genre-interactive-story">História interativa</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulação e visualização</a> <b>4</b> · <a href="#genre-other-games">Outros jogos</a> <b>65</b></p>
+<p><a href="#genre-shooter">Tiro</a> <b>111</b> · <a href="#genre-action-and-combat">Ação e combate</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plataforma e corrida infinita</a> <b>38</b> · <a href="#genre-racing-and-driving">Corrida e direção</a> <b>75</b> · <a href="#genre-flight">Voo</a> <b>28</b> · <a href="#genre-sports">Esportes</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventura e exploração</a> <b>77</b> · <a href="#genre-puzzle">Quebra-cabeças</a> <b>23</b> · <a href="#genre-strategy-and-management">Estratégia e gestão</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual e arcade</a> <b>35</b> · <a href="#genre-interactive-story">História interativa</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulação e visualização</a> <b>4</b> · <a href="#genre-other-games">Outros jogos</a> <b>66</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1261,6 +1261,8 @@ Obras sem imagem de prévia:
 
 <tr><td><a href="https://souranyp-stack.github.io/solar-drift/">solar-drift</a></td><td><a href="https://github.com/souranyp-stack">souranyp-stack</a></td><td>MIT</td><td><a href="https://github.com/souranyp-stack/solar-drift">Código</a></td></tr>
 
+<tr><td><a href="https://fabriziosalmi.github.io/space23/">space23</a></td><td><a href="https://github.com/fabriziosalmi">fabriziosalmi</a></td><td>MIT</td><td><a href="https://github.com/fabriziosalmi/space23">Código</a></td></tr>
+
 <tr><td><a href="https://yaohanbo1-hue.github.io/tangping-game/">tangping-game</a></td><td><a href="https://github.com/yaohanbo1-hue">yaohanbo1-hue</a></td><td>Apache-2.0</td><td><a href="https://github.com/yaohanbo1-hue/tangping-game">Código</a></td></tr>
 
 <tr><td><a href="https://smallteddygames.github.io/trade-war/">trade-war</a></td><td><a href="https://github.com/SmallTeddyGames">SmallTeddyGames</a></td><td>MIT</td><td><a href="https://github.com/smallteddygames/trade-war">Código</a></td></tr>
@@ -1279,4 +1281,4 @@ Obras sem imagem de prévia:
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.pt-BR.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.pt-BR.md">Início</a> · <a href="README.pt-BR.md">Jogos</a> · <a href="../scenes/README.pt-BR.md">Mundos e cenas</a> · <a href="../videos/README.pt-BR.md">Vídeos</a> · <a href="../tools/README.pt-BR.md">Ferramentas</a> · <a href="../visualizations/README.pt-BR.md">Visualizações</a> · <a href="../wallpapers/README.pt-BR.md">Papéis de parede</a> · <a href="#top">Voltar ao topo</a><br>Dados do catálogo: 2026-11-24</sub></p>
+<p align="center"><a href="../docs/i18n/README.pt-BR.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.pt-BR.md">Início</a> · <a href="README.pt-BR.md">Jogos</a> · <a href="../scenes/README.pt-BR.md">Mundos e cenas</a> · <a href="../videos/README.pt-BR.md">Vídeos</a> · <a href="../tools/README.pt-BR.md">Ferramentas</a> · <a href="../visualizations/README.pt-BR.md">Visualizações</a> · <a href="../wallpapers/README.pt-BR.md">Papéis de parede</a> · <a href="#top">Voltar ao topo</a><br>Dados do catálogo: 2026-11-25</sub></p>

@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.zh-CN.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.zh-CN.md">首页</a> · <a href="../games/README.zh-CN.md">游戏</a> · <a href="../scenes/README.zh-CN.md">世界与场景</a> · <a href="../videos/README.zh-CN.md">视频</a> · <a href="../tools/README.zh-CN.md">工具</a> · <a href="../visualizations/README.zh-CN.md">可视化</a> · <a href="README.zh-CN.md">壁纸</a> · <a href="#top">返回顶部</a><br>目录数据：2026-11-24</sub></p>
+<p align="center"><a href="../docs/i18n/README.zh-CN.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.zh-CN.md">首页</a> · <a href="../games/README.zh-CN.md">游戏</a> · <a href="../scenes/README.zh-CN.md">世界与场景</a> · <a href="../videos/README.zh-CN.md">视频</a> · <a href="../tools/README.zh-CN.md">工具</a> · <a href="../visualizations/README.zh-CN.md">可视化</a> · <a href="README.zh-CN.md">壁纸</a> · <a href="#top">返回顶部</a><br>目录数据：2026-11-25</sub></p>
