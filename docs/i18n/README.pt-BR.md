@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · Em alta"></picture></a></p>
 
-<p align="center"><sub>Atualizado: 2026-11-23 21:04 UTC · Registro com mais de 12 horas · Atualização programada a cada 8 horas</sub></p>
+<p align="center"><sub>Atualizado: 2026-11-24 10:46 UTC · Atualização programada a cada 8 horas</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Curtidas: 17.950 · Comentários: 503</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Curtidas: 15.046 · Comentários: 861</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Curtidas: 8.017 · Comentários: 393</a></sub></td>
-<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">CROSSTOWN</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Curtidas: 7.516 · Comentários: 676</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Curtidas: 17.946 · Comentários: 503</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Curtidas: 15.052 · Comentários: 861</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Curtidas: 8.020 · Comentários: 393</a></sub></td>
+<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">CROSSTOWN</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Curtidas: 7.515 · Comentários: 676</a></sub></td>
 </tr></table>
 
 <details><summary>Fontes e ordenação</summary>
 
-Ordenação por apoios públicos, como curtidas e estrelas. Comentários e compartilhamentos desempatam; visualizações aparecem à parte. Usa-se a publicação mais apoiada de cada plataforma, sem repetir fontes. 846 fontes · 4 plataformas · 12 sem medição <a href="../../data/showcase.json">Ver dados</a> · <a href="../../scripts/SHOWCASE.md">Metodologia</a>
+Ordenação por apoios públicos, como curtidas e estrelas. Comentários e compartilhamentos desempatam; visualizações aparecem à parte. Usa-se a publicação mais apoiada de cada plataforma, sem repetir fontes. 844 fontes · 4 plataformas · 14 sem medição <a href="../../data/showcase.json">Ver dados</a> · <a href="../../scripts/SHOWCASE.md">Metodologia</a>
 
 </details>
 

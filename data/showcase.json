@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-23T21:04:40Z",
+  "updated_at": "2026-11-24T10:46:56Z",
   "method": "public-support-v1",
   "sources": {
     "bilibili:BV1ByWM6mE1D": {
@@ -54,7 +54,7 @@
       "url": "https://github.com/0xcodez/leviathan",
       "published_at": "2026-11-04T14:24:44Z",
       "metrics": {
-        "stars": 74,
+        "stars": 75,
         "forks": 15
       }
     },
@@ -486,7 +486,7 @@
       "url": "https://github.com/alfredxw/denova",
       "published_at": "2026-05-19T09:56:12Z",
       "metrics": {
-        "stars": 1050,
+        "stars": 1052,
         "forks": 161
       }
     },
@@ -607,15 +607,6 @@
         "forks": 0
       }
     },
-    "github:ansarbuilds/ai-digital-double": {
-      "platform": "github",
-      "url": "https://github.com/ansarbuilds/ai-digital-double",
-      "published_at": "2026-10-09T19:25:24Z",
-      "metrics": {
-        "stars": 0,
-        "forks": 0
-      }
-    },
     "github:anshujain1/escape_room": {
       "platform": "github",
       "url": "https://github.com/anshujain1/escape_room",
@@ -648,7 +639,7 @@
       "url": "https://github.com/anstapnever/one-sweep",
       "published_at": "2026-11-09T12:31:11Z",
       "metrics": {
-        "stars": 11,
+        "stars": 13,
         "forks": 3
       }
     },
@@ -1135,7 +1126,7 @@
       "published_at": "2026-09-22T17:55:29Z",
       "metrics": {
         "stars": 5,
-        "forks": 5
+        "forks": 6
       }
     },
     "github:bridge-mind/sonnet-5-5-zombies-game": {
@@ -1161,7 +1152,7 @@
       "url": "https://github.com/bridge-mind/turbo-kart-rush",
       "published_at": "2026-09-01T21:18:35Z",
       "metrics": {
-        "stars": 47,
+        "stars": 48,
         "forks": 18
       }
     },
@@ -1624,15 +1615,6 @@
         "forks": 0
       }
     },
-    "github:ddown325/voxelcraft": {
-      "platform": "github",
-      "url": "https://github.com/ddown325/voxelcraft",
-      "published_at": "2026-11-02T17:13:41Z",
-      "metrics": {
-        "stars": 0,
-        "forks": 0
-      }
-    },
     "github:deepujain/casadegema": {
       "platform": "github",
       "url": "https://github.com/deepujain/casadegema",
@@ -1819,7 +1801,7 @@
       "published_at": "2026-09-29T11:53:36Z",
       "metrics": {
         "stars": 9,
-        "forks": 3
+        "forks": 4
       }
     },
     "github:drcollect/ocean-drive": {
@@ -2413,7 +2395,7 @@
       "published_at": "2026-10-27T00:35:08Z",
       "metrics": {
         "stars": 0,
-        "forks": 1
+        "forks": 3
       }
     },
     "github:furkiozknn/topkapi-gecesi": {
@@ -2637,7 +2619,7 @@
       "url": "https://github.com/harleycoops/math-to-manim",
       "published_at": "2025-01-20T11:04:50Z",
       "metrics": {
-        "stars": 2897,
+        "stars": 2899,
         "forks": 321
       }
     },
@@ -2772,7 +2754,7 @@
       "url": "https://github.com/hyhy111/game-assets-maker",
       "published_at": "2026-09-26T06:57:04Z",
       "metrics": {
-        "stars": 121,
+        "stars": 122,
         "forks": 15
       }
     },
@@ -2980,7 +2962,7 @@
       "published_at": "2026-09-26T00:41:09Z",
       "metrics": {
         "stars": 124,
-        "forks": 46
+        "forks": 48
       }
     },
     "github:jediconcepts/j1-racing": {
@@ -3087,7 +3069,7 @@
       "url": "https://github.com/jjcm/petalwake",
       "published_at": "2026-11-10T05:54:32Z",
       "metrics": {
-        "stars": 116,
+        "stars": 118,
         "forks": 25
       }
     },
@@ -3546,7 +3528,7 @@
       "url": "https://github.com/lighting1130/level-layout-designer",
       "published_at": "2026-11-20T09:11:26Z",
       "metrics": {
-        "stars": 0,
+        "stars": 1,
         "forks": 0
       }
     },
@@ -3600,7 +3582,7 @@
       "url": "https://github.com/loktar00/lanternfall",
       "published_at": "2026-11-10T04:49:08Z",
       "metrics": {
-        "stars": 15,
+        "stars": 16,
         "forks": 8
       }
     },
@@ -3897,7 +3879,7 @@
       "url": "https://github.com/miaai-lab/claude-fable-5.2-html-files",
       "published_at": "2026-11-09T22:28:22Z",
       "metrics": {
-        "stars": 141,
+        "stars": 142,
         "forks": 31
       }
     },
@@ -4455,8 +4437,8 @@
       "url": "https://github.com/op7418/guizang-game-skill",
       "published_at": "2026-11-11T16:28:54Z",
       "metrics": {
-        "stars": 464,
-        "forks": 75
+        "stars": 483,
+        "forks": 79
       }
     },
     "github:oplosy/space": {
@@ -4788,8 +4770,8 @@
       "url": "https://github.com/realcodebear/saltline-fable-5.2",
       "published_at": "2026-11-10T15:04:30Z",
       "metrics": {
-        "stars": 533,
-        "forks": 160
+        "stars": 542,
+        "forks": 164
       }
     },
     "github:realcodebear/threejs-fable-5.2-all-effort-koi-pond": {
@@ -4798,7 +4780,7 @@
       "published_at": "2026-11-12T15:50:36Z",
       "metrics": {
         "stars": 4,
-        "forks": 0
+        "forks": 1
       }
     },
     "github:recursive-self-improving/qingdao-badaguan-threejs-fable-5-2-max-cc": {
@@ -5256,8 +5238,8 @@
       "url": "https://github.com/sharpwizard/ironvale",
       "published_at": "2026-11-11T19:07:02Z",
       "metrics": {
-        "stars": 4,
-        "forks": 4
+        "stars": 5,
+        "forks": 5
       }
     },
     "github:shaunprice/soccer-3d": {
@@ -5545,7 +5527,7 @@
       "published_at": "2026-11-10T13:48:18Z",
       "metrics": {
         "stars": 4,
-        "forks": 3
+        "forks": 5
       }
     },
     "github:stpulleyking/horizonripples": {
@@ -5842,7 +5824,7 @@
       "published_at": "2026-09-23T18:07:18Z",
       "metrics": {
         "stars": 12,
-        "forks": 6
+        "forks": 8
       }
     },
     "github:tanuu5/out-of-the-box": {
@@ -6057,7 +6039,7 @@
       "url": "https://github.com/theredstapler/orb-shooter",
       "published_at": "2026-03-07T07:18:12Z",
       "metrics": {
-        "stars": 5,
+        "stars": 6,
         "forks": 5
       }
     },
@@ -6570,7 +6552,7 @@
       "url": "https://github.com/xxcool/smart-warehouse",
       "published_at": "2026-09-22T09:59:37Z",
       "metrics": {
-        "stars": 44,
+        "stars": 46,
         "forks": 17
       }
     },
@@ -7096,7 +7078,7 @@
       "url": "https://huggingface.co/spaces/victor/fable-5-1-boeing-747",
       "published_at": "2026-09-01T20:17:02.000Z",
       "metrics": {
-        "likes": 1
+        "likes": 0
       }
     },
     "huggingface:victor/fable-5-boeing-747": {
@@ -7138,7 +7120,7 @@
       "url": "https://x.com/i/status/2119868629491789992",
       "published_at": "2026-11-09T19:04:01.000Z",
       "metrics": {
-        "likes": 132,
+        "likes": 133,
         "comments": 4
       }
     },
@@ -7147,8 +7129,8 @@
       "url": "https://x.com/i/status/2119868968307695818",
       "published_at": "2026-11-09T19:05:21.000Z",
       "metrics": {
-        "likes": 4287,
-        "comments": 176
+        "likes": 4286,
+        "comments": 178
       }
     },
     "x:2119870965106483384": {
@@ -7183,7 +7165,7 @@
       "url": "https://x.com/i/status/2119877065701036047",
       "published_at": "2026-11-09T19:37:32.000Z",
       "metrics": {
-        "likes": 2419,
+        "likes": 2420,
         "comments": 94
       }
     },
@@ -7246,7 +7228,7 @@
       "url": "https://x.com/i/status/2119902109709537708",
       "published_at": "2026-11-09T21:17:03.000Z",
       "metrics": {
-        "likes": 7080,
+        "likes": 7079,
         "comments": 270
       }
     },
@@ -7336,7 +7318,7 @@
       "url": "https://x.com/i/status/2119910195325481026",
       "published_at": "2026-11-09T21:49:11.000Z",
       "metrics": {
-        "likes": 1034,
+        "likes": 1031,
         "comments": 140
       }
     },
@@ -7355,7 +7337,7 @@
       "published_at": "2026-11-09T22:21:25.000Z",
       "metrics": {
         "likes": 1938,
-        "comments": 225
+        "comments": 226
       }
     },
     "x:2119925633564463609": {
@@ -7363,7 +7345,7 @@
       "url": "https://x.com/i/status/2119925633564463609",
       "published_at": "2026-11-09T22:50:32.000Z",
       "metrics": {
-        "likes": 15046,
+        "likes": 15052,
         "comments": 861
       }
     },
@@ -7372,7 +7354,7 @@
       "url": "https://x.com/i/status/2119927838321328577",
       "published_at": "2026-11-09T22:59:17.000Z",
       "metrics": {
-        "likes": 183,
+        "likes": 182,
         "comments": 20
       }
     },
@@ -7480,7 +7462,7 @@
       "url": "https://x.com/i/status/2120167560700383572",
       "published_at": "2026-11-10T14:51:51.000Z",
       "metrics": {
-        "likes": 976,
+        "likes": 977,
         "comments": 42
       }
     },
@@ -7516,7 +7498,7 @@
       "url": "https://x.com/i/status/2120238844754923874",
       "published_at": "2026-11-10T19:35:07.000Z",
       "metrics": {
-        "likes": 1819,
+        "likes": 1825,
         "comments": 163
       }
     },
@@ -7534,7 +7516,7 @@
       "url": "https://x.com/i/status/2120282133503820150",
       "published_at": "2026-11-10T22:27:08.000Z",
       "metrics": {
-        "likes": 7516,
+        "likes": 7515,
         "comments": 676
       }
     },
@@ -7543,7 +7525,7 @@
       "url": "https://x.com/i/status/2120284261089673376",
       "published_at": "2026-11-10T22:35:35.000Z",
       "metrics": {
-        "likes": 17950,
+        "likes": 17946,
         "comments": 503
       }
     },
@@ -7552,7 +7534,7 @@
       "url": "https://x.com/i/status/2120341251178594532",
       "published_at": "2026-11-11T02:22:02.000Z",
       "metrics": {
-        "likes": 8017,
+        "likes": 8020,
         "comments": 393
       }
     },
@@ -7594,6 +7576,14 @@
     }
   },
   "unavailable": [
+    {
+      "source": "github:ansarbuilds/ai-digital-double",
+      "reason": "Not public or not found"
+    },
+    {
+      "source": "github:ddown325/voxelcraft",
+      "reason": "Not public or not found"
+    },
     {
       "source": "github:hirosichen/ai-f1-racing-game",
       "reason": "Not public or not found"
