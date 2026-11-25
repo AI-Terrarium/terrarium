@@ -15,9 +15,9 @@
 
 <h1 align="center">Games</h1>
 
-<p align="center">606 entries. Shooters, driving, flight, puzzles and everything in between.</p>
+<p align="center">610 entries. Shooters, driving, flight, puzzles and everything in between.</p>
 
-<p><a href="#genre-shooter">Shooter</a> <b>111</b> · <a href="#genre-action-and-combat">Action &amp; combat</a> <b>57</b> · <a href="#genre-platformer-and-runner">Platformer &amp; runner</a> <b>38</b> · <a href="#genre-racing-and-driving">Racing &amp; driving</a> <b>75</b> · <a href="#genre-flight">Flight</a> <b>28</b> · <a href="#genre-sports">Sports</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Adventure &amp; exploration</a> <b>77</b> · <a href="#genre-puzzle">Puzzle</a> <b>23</b> · <a href="#genre-strategy-and-management">Strategy &amp; management</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual &amp; arcade</a> <b>35</b> · <a href="#genre-interactive-story">Interactive story</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation &amp; visualization</a> <b>4</b> · <a href="#genre-other-games">Other games</a> <b>66</b></p>
+<p><a href="#genre-shooter">Shooter</a> <b>111</b> · <a href="#genre-action-and-combat">Action &amp; combat</a> <b>57</b> · <a href="#genre-platformer-and-runner">Platformer &amp; runner</a> <b>38</b> · <a href="#genre-racing-and-driving">Racing &amp; driving</a> <b>75</b> · <a href="#genre-flight">Flight</a> <b>28</b> · <a href="#genre-sports">Sports</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Adventure &amp; exploration</a> <b>77</b> · <a href="#genre-puzzle">Puzzle</a> <b>23</b> · <a href="#genre-strategy-and-management">Strategy &amp; management</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual &amp; arcade</a> <b>35</b> · <a href="#genre-interactive-story">Interactive story</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation &amp; visualization</a> <b>4</b> · <a href="#genre-other-games">Other games</a> <b>70</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1197,9 +1197,13 @@ Works without a preview image:
 
 <tr><td><a href="https://denova-ai.com/zh-CN">denova</a></td><td><a href="https://github.com/alfredxw">alfredxw</a></td><td>Apache-2.0</td><td><a href="https://github.com/alfredxw/denova">Code</a></td></tr>
 
+<tr><td><a href="https://dsh-market.com">dsh-web</a></td><td><a href="https://github.com/zhu1090093659">zhu1090093659</a></td><td>Apache-2.0</td><td><a href="https://github.com/zhu1090093659/dsh-web">Code</a></td></tr>
+
 <tr><td><a href="https://freitasvarejo.github.io/five-sols-on-mars/">five-sols-on-mars</a></td><td><a href="https://github.com/FreitasVarejo">FreitasVarejo</a></td><td>MIT</td><td><a href="https://github.com/freitasvarejo/five-sols-on-mars">Code</a></td></tr>
 
 <tr><td><a href="https://fruit-fling.fly.dev">fruit-fling</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/fruit-fling">Code</a></td></tr>
+
+<tr><td><a href="https://anipixels.itch.io/crisp-icons-free">fucking-magictools</a></td><td><a href="https://github.com/Correia-jpv">Correia-jpv</a></td><td>MIT</td><td><a href="https://github.com/correia-jpv/fucking-magictools">Code</a></td></tr>
 
 <tr><td><a href="https://ggbot.itch.io/bitrimus-font">futureglimpses</a></td><td><a href="https://github.com/sewave">sewave</a></td><td>MIT</td><td><a href="https://github.com/sewave/futureglimpses">Code</a></td></tr>
 
@@ -1229,6 +1233,8 @@ Works without a preview image:
 
 <tr><td><a href="https://liuzhanrui30-boop.github.io/lost-memory-park/">lost-memory-park</a></td><td><a href="https://github.com/liuzhanrui30-boop">liuzhanrui30-boop</a></td><td>MIT</td><td><a href="https://github.com/liuzhanrui30-boop/lost-memory-park">Code</a></td></tr>
 
+<tr><td><a href="https://anipixels.itch.io/crisp-icons-free">magictools</a></td><td><a href="https://github.com/ellisonleao">ellisonleao</a></td><td>MIT</td><td><a href="https://github.com/ellisonleao/magictools">Code</a></td></tr>
+
 <tr><td><a href="https://metropolix-city.vercel.app">metropolix</a></td><td><a href="https://github.com/theodhorex">theodhorex</a></td><td>MIT</td><td><a href="https://github.com/theodhorex/metropolix">Code</a></td></tr>
 
 <tr><td><a href="https://cn3ko.github.io/nogatron/">nogatron</a></td><td><a href="https://github.com/cn3ko">cn3ko</a></td><td>MIT</td><td><a href="https://github.com/cn3ko/nogatron">Code</a></td></tr>
@@ -1238,6 +1244,8 @@ Works without a preview image:
 <tr><td><a href="https://otaniyan-ai.github.io/pixel-survivor-by-ai/">pixel-survivor-by-ai</a></td><td><a href="https://github.com/otaniyan-ai">otaniyan-ai</a></td><td>MIT</td><td><a href="https://github.com/otaniyan-ai/pixel-survivor-by-ai">Code</a></td></tr>
 
 <tr><td><a href="https://ferbin12.github.io/preaim/">preaim</a></td><td><a href="https://github.com/FERBIN12">FERBIN12</a></td><td>MIT</td><td><a href="https://github.com/ferbin12/preaim">Code</a></td></tr>
+
+<tr><td><a href="https://zhushen12580.github.io/prs-please/">prs-please</a></td><td><a href="https://github.com/zhushen12580">zhushen12580</a></td><td>MIT</td><td><a href="https://github.com/zhushen12580/prs-please">Code</a></td></tr>
 
 <tr><td><a href="https://pulp-panic.fly.dev">pulp-panic</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/pulp-panic">Code</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/pulp-panic-a592ed39">Files</a></td></tr>
 

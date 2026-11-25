@@ -15,9 +15,9 @@
 
 <h1 align="center">Jogos</h1>
 
-<p align="center">606 itens. Tiro, corrida, voo, quebra-cabeças e muito mais.</p>
+<p align="center">610 itens. Tiro, corrida, voo, quebra-cabeças e muito mais.</p>
 
-<p><a href="#genre-shooter">Tiro</a> <b>111</b> · <a href="#genre-action-and-combat">Ação e combate</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plataforma e corrida infinita</a> <b>38</b> · <a href="#genre-racing-and-driving">Corrida e direção</a> <b>75</b> · <a href="#genre-flight">Voo</a> <b>28</b> · <a href="#genre-sports">Esportes</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventura e exploração</a> <b>77</b> · <a href="#genre-puzzle">Quebra-cabeças</a> <b>23</b> · <a href="#genre-strategy-and-management">Estratégia e gestão</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual e arcade</a> <b>35</b> · <a href="#genre-interactive-story">História interativa</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulação e visualização</a> <b>4</b> · <a href="#genre-other-games">Outros jogos</a> <b>66</b></p>
+<p><a href="#genre-shooter">Tiro</a> <b>111</b> · <a href="#genre-action-and-combat">Ação e combate</a> <b>57</b> · <a href="#genre-platformer-and-runner">Plataforma e corrida infinita</a> <b>38</b> · <a href="#genre-racing-and-driving">Corrida e direção</a> <b>75</b> · <a href="#genre-flight">Voo</a> <b>28</b> · <a href="#genre-sports">Esportes</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Aventura e exploração</a> <b>77</b> · <a href="#genre-puzzle">Quebra-cabeças</a> <b>23</b> · <a href="#genre-strategy-and-management">Estratégia e gestão</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual e arcade</a> <b>35</b> · <a href="#genre-interactive-story">História interativa</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulação e visualização</a> <b>4</b> · <a href="#genre-other-games">Outros jogos</a> <b>70</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1197,9 +1197,13 @@ Obras sem imagem de prévia:
 
 <tr><td><a href="https://denova-ai.com/zh-CN">denova</a></td><td><a href="https://github.com/alfredxw">alfredxw</a></td><td>Apache-2.0</td><td><a href="https://github.com/alfredxw/denova">Código</a></td></tr>
 
+<tr><td><a href="https://dsh-market.com">dsh-web</a></td><td><a href="https://github.com/zhu1090093659">zhu1090093659</a></td><td>Apache-2.0</td><td><a href="https://github.com/zhu1090093659/dsh-web">Código</a></td></tr>
+
 <tr><td><a href="https://freitasvarejo.github.io/five-sols-on-mars/">five-sols-on-mars</a></td><td><a href="https://github.com/FreitasVarejo">FreitasVarejo</a></td><td>MIT</td><td><a href="https://github.com/freitasvarejo/five-sols-on-mars">Código</a></td></tr>
 
 <tr><td><a href="https://fruit-fling.fly.dev">fruit-fling</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/fruit-fling">Código</a></td></tr>
+
+<tr><td><a href="https://anipixels.itch.io/crisp-icons-free">fucking-magictools</a></td><td><a href="https://github.com/Correia-jpv">Correia-jpv</a></td><td>MIT</td><td><a href="https://github.com/correia-jpv/fucking-magictools">Código</a></td></tr>
 
 <tr><td><a href="https://ggbot.itch.io/bitrimus-font">futureglimpses</a></td><td><a href="https://github.com/sewave">sewave</a></td><td>MIT</td><td><a href="https://github.com/sewave/futureglimpses">Código</a></td></tr>
 
@@ -1229,6 +1233,8 @@ Obras sem imagem de prévia:
 
 <tr><td><a href="https://liuzhanrui30-boop.github.io/lost-memory-park/">lost-memory-park</a></td><td><a href="https://github.com/liuzhanrui30-boop">liuzhanrui30-boop</a></td><td>MIT</td><td><a href="https://github.com/liuzhanrui30-boop/lost-memory-park">Código</a></td></tr>
 
+<tr><td><a href="https://anipixels.itch.io/crisp-icons-free">magictools</a></td><td><a href="https://github.com/ellisonleao">ellisonleao</a></td><td>MIT</td><td><a href="https://github.com/ellisonleao/magictools">Código</a></td></tr>
+
 <tr><td><a href="https://metropolix-city.vercel.app">metropolix</a></td><td><a href="https://github.com/theodhorex">theodhorex</a></td><td>MIT</td><td><a href="https://github.com/theodhorex/metropolix">Código</a></td></tr>
 
 <tr><td><a href="https://cn3ko.github.io/nogatron/">nogatron</a></td><td><a href="https://github.com/cn3ko">cn3ko</a></td><td>MIT</td><td><a href="https://github.com/cn3ko/nogatron">Código</a></td></tr>
@@ -1238,6 +1244,8 @@ Obras sem imagem de prévia:
 <tr><td><a href="https://otaniyan-ai.github.io/pixel-survivor-by-ai/">pixel-survivor-by-ai</a></td><td><a href="https://github.com/otaniyan-ai">otaniyan-ai</a></td><td>MIT</td><td><a href="https://github.com/otaniyan-ai/pixel-survivor-by-ai">Código</a></td></tr>
 
 <tr><td><a href="https://ferbin12.github.io/preaim/">preaim</a></td><td><a href="https://github.com/FERBIN12">FERBIN12</a></td><td>MIT</td><td><a href="https://github.com/ferbin12/preaim">Código</a></td></tr>
+
+<tr><td><a href="https://zhushen12580.github.io/prs-please/">prs-please</a></td><td><a href="https://github.com/zhushen12580">zhushen12580</a></td><td>MIT</td><td><a href="https://github.com/zhushen12580/prs-please">Código</a></td></tr>
 
 <tr><td><a href="https://pulp-panic.fly.dev">pulp-panic</a></td><td><a href="https://github.com/buildatscale-tv">buildatscale-tv</a></td><td>MIT</td><td><a href="https://github.com/buildatscale-tv/pulp-panic">Código</a> · <a href="https://huggingface.co/datasets/AI-Terrarium/terrarium-open-works/tree/main/games/pulp-panic-a592ed39">Arquivos</a></td></tr>
 
