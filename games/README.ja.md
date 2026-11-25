@@ -15,9 +15,9 @@
 
 <h1 align="center">ゲーム</h1>
 
-<p align="center">610 件。 シューティング、レース、フライト、パズルなど多彩なゲーム。</p>
+<p align="center">611 件。 シューティング、レース、フライト、パズルなど多彩なゲーム。</p>
 
-<p><a href="#genre-shooter">シューティング</a> <b>111</b> · <a href="#genre-action-and-combat">アクション・戦闘</a> <b>57</b> · <a href="#genre-platformer-and-runner">プラットフォーマー・ランナー</a> <b>38</b> · <a href="#genre-racing-and-driving">レース・ドライブ</a> <b>75</b> · <a href="#genre-flight">フライト</a> <b>28</b> · <a href="#genre-sports">スポーツ</a> <b>15</b> · <a href="#genre-adventure-and-exploration">アドベンチャー・探索</a> <b>77</b> · <a href="#genre-puzzle">パズル</a> <b>23</b> · <a href="#genre-strategy-and-management">戦略・経営</a> <b>47</b> · <a href="#genre-sandbox">サンドボックス</a> <b>27</b> · <a href="#genre-casual-and-arcade">カジュアル・アーケード</a> <b>35</b> · <a href="#genre-interactive-story">インタラクティブストーリー</a> <b>3</b> · <a href="#genre-simulation-and-visualization">シミュレーション・可視化</a> <b>4</b> · <a href="#genre-other-games">その他</a> <b>70</b></p>
+<p><a href="#genre-shooter">シューティング</a> <b>111</b> · <a href="#genre-action-and-combat">アクション・戦闘</a> <b>57</b> · <a href="#genre-platformer-and-runner">プラットフォーマー・ランナー</a> <b>38</b> · <a href="#genre-racing-and-driving">レース・ドライブ</a> <b>75</b> · <a href="#genre-flight">フライト</a> <b>28</b> · <a href="#genre-sports">スポーツ</a> <b>15</b> · <a href="#genre-adventure-and-exploration">アドベンチャー・探索</a> <b>77</b> · <a href="#genre-puzzle">パズル</a> <b>23</b> · <a href="#genre-strategy-and-management">戦略・経営</a> <b>47</b> · <a href="#genre-sandbox">サンドボックス</a> <b>27</b> · <a href="#genre-casual-and-arcade">カジュアル・アーケード</a> <b>35</b> · <a href="#genre-interactive-story">インタラクティブストーリー</a> <b>3</b> · <a href="#genre-simulation-and-visualization">シミュレーション・可視化</a> <b>4</b> · <a href="#genre-other-games">その他</a> <b>71</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1270,6 +1270,8 @@
 <tr><td><a href="https://souranyp-stack.github.io/solar-drift/">solar-drift</a></td><td><a href="https://github.com/souranyp-stack">souranyp-stack</a></td><td>MIT</td><td><a href="https://github.com/souranyp-stack/solar-drift">ソース</a></td></tr>
 
 <tr><td><a href="https://fabriziosalmi.github.io/space23/">space23</a></td><td><a href="https://github.com/fabriziosalmi">fabriziosalmi</a></td><td>MIT</td><td><a href="https://github.com/fabriziosalmi/space23">ソース</a></td></tr>
+
+<tr><td><a href="https://jeremyanderson.tech/project/babylon-js-survival-game/">Survival-Game</a></td><td><a href="https://github.com/CptNope">CptNope</a></td><td>MIT</td><td><a href="https://github.com/cptnope/survival-game">ソース</a></td></tr>
 
 <tr><td><a href="https://yaohanbo1-hue.github.io/tangping-game/">tangping-game</a></td><td><a href="https://github.com/yaohanbo1-hue">yaohanbo1-hue</a></td><td>Apache-2.0</td><td><a href="https://github.com/yaohanbo1-hue/tangping-game">ソース</a></td></tr>
 

@@ -15,9 +15,9 @@
 
 <h1 align="center">Игры</h1>
 
-<p align="center">Записей: 610. Шутеры, гонки, полёты, головоломки и многое другое.</p>
+<p align="center">Записей: 611. Шутеры, гонки, полёты, головоломки и многое другое.</p>
 
-<p><a href="#genre-shooter">Шутеры</a> <b>111</b> · <a href="#genre-action-and-combat">Экшен и сражения</a> <b>57</b> · <a href="#genre-platformer-and-runner">Платформеры и раннеры</a> <b>38</b> · <a href="#genre-racing-and-driving">Гонки и вождение</a> <b>75</b> · <a href="#genre-flight">Полёты</a> <b>28</b> · <a href="#genre-sports">Спорт</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Приключения и исследование</a> <b>77</b> · <a href="#genre-puzzle">Головоломки</a> <b>23</b> · <a href="#genre-strategy-and-management">Стратегии и управление</a> <b>47</b> · <a href="#genre-sandbox">Песочницы</a> <b>27</b> · <a href="#genre-casual-and-arcade">Казуальные и аркадные игры</a> <b>35</b> · <a href="#genre-interactive-story">Интерактивные истории</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Моделирование и визуализация</a> <b>4</b> · <a href="#genre-other-games">Другие игры</a> <b>70</b></p>
+<p><a href="#genre-shooter">Шутеры</a> <b>111</b> · <a href="#genre-action-and-combat">Экшен и сражения</a> <b>57</b> · <a href="#genre-platformer-and-runner">Платформеры и раннеры</a> <b>38</b> · <a href="#genre-racing-and-driving">Гонки и вождение</a> <b>75</b> · <a href="#genre-flight">Полёты</a> <b>28</b> · <a href="#genre-sports">Спорт</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Приключения и исследование</a> <b>77</b> · <a href="#genre-puzzle">Головоломки</a> <b>23</b> · <a href="#genre-strategy-and-management">Стратегии и управление</a> <b>47</b> · <a href="#genre-sandbox">Песочницы</a> <b>27</b> · <a href="#genre-casual-and-arcade">Казуальные и аркадные игры</a> <b>35</b> · <a href="#genre-interactive-story">Интерактивные истории</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Моделирование и визуализация</a> <b>4</b> · <a href="#genre-other-games">Другие игры</a> <b>71</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1270,6 +1270,8 @@
 <tr><td><a href="https://souranyp-stack.github.io/solar-drift/">solar-drift</a></td><td><a href="https://github.com/souranyp-stack">souranyp-stack</a></td><td>MIT</td><td><a href="https://github.com/souranyp-stack/solar-drift">Код</a></td></tr>
 
 <tr><td><a href="https://fabriziosalmi.github.io/space23/">space23</a></td><td><a href="https://github.com/fabriziosalmi">fabriziosalmi</a></td><td>MIT</td><td><a href="https://github.com/fabriziosalmi/space23">Код</a></td></tr>
+
+<tr><td><a href="https://jeremyanderson.tech/project/babylon-js-survival-game/">Survival-Game</a></td><td><a href="https://github.com/CptNope">CptNope</a></td><td>MIT</td><td><a href="https://github.com/cptnope/survival-game">Код</a></td></tr>
 
 <tr><td><a href="https://yaohanbo1-hue.github.io/tangping-game/">tangping-game</a></td><td><a href="https://github.com/yaohanbo1-hue">yaohanbo1-hue</a></td><td>Apache-2.0</td><td><a href="https://github.com/yaohanbo1-hue/tangping-game">Код</a></td></tr>
 

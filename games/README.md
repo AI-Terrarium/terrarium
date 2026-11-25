@@ -15,9 +15,9 @@
 
 <h1 align="center">Games</h1>
 
-<p align="center">610 entries. Shooters, driving, flight, puzzles and everything in between.</p>
+<p align="center">611 entries. Shooters, driving, flight, puzzles and everything in between.</p>
 
-<p><a href="#genre-shooter">Shooter</a> <b>111</b> · <a href="#genre-action-and-combat">Action &amp; combat</a> <b>57</b> · <a href="#genre-platformer-and-runner">Platformer &amp; runner</a> <b>38</b> · <a href="#genre-racing-and-driving">Racing &amp; driving</a> <b>75</b> · <a href="#genre-flight">Flight</a> <b>28</b> · <a href="#genre-sports">Sports</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Adventure &amp; exploration</a> <b>77</b> · <a href="#genre-puzzle">Puzzle</a> <b>23</b> · <a href="#genre-strategy-and-management">Strategy &amp; management</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual &amp; arcade</a> <b>35</b> · <a href="#genre-interactive-story">Interactive story</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation &amp; visualization</a> <b>4</b> · <a href="#genre-other-games">Other games</a> <b>70</b></p>
+<p><a href="#genre-shooter">Shooter</a> <b>111</b> · <a href="#genre-action-and-combat">Action &amp; combat</a> <b>57</b> · <a href="#genre-platformer-and-runner">Platformer &amp; runner</a> <b>38</b> · <a href="#genre-racing-and-driving">Racing &amp; driving</a> <b>75</b> · <a href="#genre-flight">Flight</a> <b>28</b> · <a href="#genre-sports">Sports</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Adventure &amp; exploration</a> <b>77</b> · <a href="#genre-puzzle">Puzzle</a> <b>23</b> · <a href="#genre-strategy-and-management">Strategy &amp; management</a> <b>47</b> · <a href="#genre-sandbox">Sandbox</a> <b>27</b> · <a href="#genre-casual-and-arcade">Casual &amp; arcade</a> <b>35</b> · <a href="#genre-interactive-story">Interactive story</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Simulation &amp; visualization</a> <b>4</b> · <a href="#genre-other-games">Other games</a> <b>71</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1270,6 +1270,8 @@ Works without a preview image:
 <tr><td><a href="https://souranyp-stack.github.io/solar-drift/">solar-drift</a></td><td><a href="https://github.com/souranyp-stack">souranyp-stack</a></td><td>MIT</td><td><a href="https://github.com/souranyp-stack/solar-drift">Code</a></td></tr>
 
 <tr><td><a href="https://fabriziosalmi.github.io/space23/">space23</a></td><td><a href="https://github.com/fabriziosalmi">fabriziosalmi</a></td><td>MIT</td><td><a href="https://github.com/fabriziosalmi/space23">Code</a></td></tr>
+
+<tr><td><a href="https://jeremyanderson.tech/project/babylon-js-survival-game/">Survival-Game</a></td><td><a href="https://github.com/CptNope">CptNope</a></td><td>MIT</td><td><a href="https://github.com/cptnope/survival-game">Code</a></td></tr>
 
 <tr><td><a href="https://yaohanbo1-hue.github.io/tangping-game/">tangping-game</a></td><td><a href="https://github.com/yaohanbo1-hue">yaohanbo1-hue</a></td><td>Apache-2.0</td><td><a href="https://github.com/yaohanbo1-hue/tangping-game">Code</a></td></tr>
 
