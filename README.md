@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/showcase.webp"><img src="assets/showcase.gif" width="100%" alt="Terrarium · Trending"></picture></a></p>
 
-<p align="center"><sub>Updated: 2026-11-25 01:23 UTC · Snapshot over 12 hours old · Refresh scheduled every 8 hours</sub></p>
+<p align="center"><sub>Updated: 2026-11-25 19:04 UTC · Refresh scheduled every 8 hours</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Likes: 17,941 · Comments: 503</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Likes: 15,056 · Comments: 861</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Likes: 8,021 · Comments: 393</a></sub></td>
-<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">CROSSTOWN</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Likes: 7,515 · Comments: 676</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Likes: 17,943 · Comments: 505</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://anipixels.itch.io/crisp-icons-free">magictools</a></b><br><sub><a href="https://github.com/ellisonleao/magictools">GitHub · Stars: 17,872 · Forks: 1,380</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Likes: 15,055 · Comments: 861</a></sub></td>
+<td width="25%" valign="top"><b>04 · <a href="https://dsh-market.com">dsh-web</a></b><br><sub><a href="https://github.com/zhu1090093659/dsh-web">GitHub · Stars: 10,640 · Forks: 657</a></sub></td>
 </tr></table>
 
 <details><summary>Sources &amp; ordering</summary>
 
-Ordered by public likes, stars and other support. Comments and shares break ties; views are shown separately. The strongest post per platform contributes, and shared sources appear once. 845 sources · 4 platforms · 14 unmeasured <a href="data/showcase.json">View data</a> · <a href="scripts/SHOWCASE.md">Methodology</a>
+Ordered by public likes, stars and other support. Comments and shares break ties; views are shown separately. The strongest post per platform contributes, and shared sources appear once. 853 sources · 4 platforms · 14 unmeasured <a href="data/showcase.json">View data</a> · <a href="scripts/SHOWCASE.md">Methodology</a>
 
 </details>
 

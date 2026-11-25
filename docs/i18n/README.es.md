@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · Popular"></picture></a></p>
 
-<p align="center"><sub>Actualizado: 2026-11-25 01:23 UTC · Instantánea de hace más de 12 horas · Actualización programada cada 8 horas</sub></p>
+<p align="center"><sub>Actualizado: 2026-11-25 19:04 UTC · Actualización programada cada 8 horas</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Me gusta: 17.941 · Comentarios: 503</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Me gusta: 15.056 · Comentarios: 861</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · Me gusta: 8.021 · Comentarios: 393</a></sub></td>
-<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">CROSSTOWN</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · Me gusta: 7.515 · Comentarios: 676</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Me gusta: 17.943 · Comentarios: 505</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://anipixels.itch.io/crisp-icons-free">magictools</a></b><br><sub><a href="https://github.com/ellisonleao/magictools">GitHub · Estrellas: 17.872 · Forks: 1.380</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Me gusta: 15.055 · Comentarios: 861</a></sub></td>
+<td width="25%" valign="top"><b>04 · <a href="https://dsh-market.com">dsh-web</a></b><br><sub><a href="https://github.com/zhu1090093659/dsh-web">GitHub · Estrellas: 10.640 · Forks: 657</a></sub></td>
 </tr></table>
 
 <details><summary>Fuentes y ordenación</summary>
 
-Ordenadas por apoyos públicos, como Me gusta y estrellas. Los comentarios y las veces compartidas desempatan; las visualizaciones se muestran aparte. Se usa la publicación con más apoyo por plataforma y cada fuente aparece una sola vez. 845 fuentes · 4 plataformas · 14 sin medir <a href="../../data/showcase.json">Ver datos</a> · <a href="../../scripts/SHOWCASE.md">Metodología</a>
+Ordenadas por apoyos públicos, como Me gusta y estrellas. Los comentarios y las veces compartidas desempatan; las visualizaciones se muestran aparte. Se usa la publicación con más apoyo por plataforma y cada fuente aparece una sola vez. 853 fuentes · 4 plataformas · 14 sin medir <a href="../../data/showcase.json">Ver datos</a> · <a href="../../scripts/SHOWCASE.md">Metodología</a>
 
 </details>
 

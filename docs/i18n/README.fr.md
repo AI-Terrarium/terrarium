@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · Populaires"></picture></a></p>
 
-<p align="center"><sub>Mise à jour : 2026-11-25 01:23 UTC · Instantané de plus de 12 heures · Actualisation prévue toutes les 8 heures</sub></p>
+<p align="center"><sub>Mise à jour : 2026-11-25 19:04 UTC · Actualisation prévue toutes les 8 heures</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · J’aime: 17 941 · Commentaires: 503</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · J’aime: 15 056 · Commentaires: 861</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://patch.gg/blendi/oil-paint">Oil paint</a></b><br><sub><a href="https://x.com/i/status/2120341251178594532">X · J’aime: 8 021 · Commentaires: 393</a></sub></td>
-<td width="25%" valign="top"><b>04 · <a href="https://x.com/mattshumer_/status/2120282133503820150">CROSSTOWN</a></b><br><sub><a href="https://x.com/i/status/2120282133503820150">X · J’aime: 7 515 · Commentaires: 676</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · J’aime: 17 943 · Commentaires: 505</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://anipixels.itch.io/crisp-icons-free">magictools</a></b><br><sub><a href="https://github.com/ellisonleao/magictools">GitHub · Étoiles: 17 872 · Forks: 1 380</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · J’aime: 15 055 · Commentaires: 861</a></sub></td>
+<td width="25%" valign="top"><b>04 · <a href="https://dsh-market.com">dsh-web</a></b><br><sub><a href="https://github.com/zhu1090093659/dsh-web">GitHub · Étoiles: 10 640 · Forks: 657</a></sub></td>
 </tr></table>
 
 <details><summary>Sources et classement</summary>
 
-Classement par soutiens publics, comme les mentions J’aime et les étoiles. Commentaires et partages départagent les égalités ; les vues sont affichées séparément. La publication la plus soutenue de chaque plateforme est retenue, sans répéter les sources. 845 sources · 4 plateformes · 14 non mesurées <a href="../../data/showcase.json">Voir les données</a> · <a href="../../scripts/SHOWCASE.md">Méthode</a>
+Classement par soutiens publics, comme les mentions J’aime et les étoiles. Commentaires et partages départagent les égalités ; les vues sont affichées séparément. La publication la plus soutenue de chaque plateforme est retenue, sans répéter les sources. 853 sources · 4 plateformes · 14 non mesurées <a href="../../data/showcase.json">Voir les données</a> · <a href="../../scripts/SHOWCASE.md">Méthode</a>
 
 </details>
 
