@@ -34,4 +34,4 @@
 
 ---
 
-<p align="center"><a href="../README.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../README.md">Home</a> · <a href="../games/README.md">Games</a> · <a href="../scenes/README.md">Worlds &amp; Scenes</a> · <a href="../videos/README.md">Videos</a> · <a href="../tools/README.md">Tools</a> · <a href="../visualizations/README.md">Visualizations</a> · <a href="README.md">Wallpapers</a> · <a href="#top">Back to top</a><br>Catalog data: 2026-11-26</sub></p>
+<p align="center"><a href="../README.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../README.md">Home</a> · <a href="../games/README.md">Games</a> · <a href="../scenes/README.md">Worlds &amp; Scenes</a> · <a href="../videos/README.md">Videos</a> · <a href="../tools/README.md">Tools</a> · <a href="../visualizations/README.md">Visualizations</a> · <a href="README.md">Wallpapers</a> · <a href="#top">Back to top</a><br>Catalog data: 2026-11-27</sub></p>

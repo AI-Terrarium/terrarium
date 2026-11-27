@@ -15,9 +15,9 @@
 
 <h1 align="center">Игры</h1>
 
-<p align="center">Записей: 614. Шутеры, гонки, полёты, головоломки и многое другое.</p>
+<p align="center">Записей: 615. Шутеры, гонки, полёты, головоломки и многое другое.</p>
 
-<p><a href="#genre-shooter">Шутеры</a> <b>111</b> · <a href="#genre-action-and-combat">Экшен и сражения</a> <b>57</b> · <a href="#genre-platformer-and-runner">Платформеры и раннеры</a> <b>38</b> · <a href="#genre-racing-and-driving">Гонки и вождение</a> <b>75</b> · <a href="#genre-flight">Полёты</a> <b>28</b> · <a href="#genre-sports">Спорт</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Приключения и исследование</a> <b>77</b> · <a href="#genre-puzzle">Головоломки</a> <b>23</b> · <a href="#genre-strategy-and-management">Стратегии и управление</a> <b>47</b> · <a href="#genre-sandbox">Песочницы</a> <b>27</b> · <a href="#genre-casual-and-arcade">Казуальные и аркадные игры</a> <b>35</b> · <a href="#genre-interactive-story">Интерактивные истории</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Моделирование и визуализация</a> <b>4</b> · <a href="#genre-other-games">Другие игры</a> <b>74</b></p>
+<p><a href="#genre-shooter">Шутеры</a> <b>111</b> · <a href="#genre-action-and-combat">Экшен и сражения</a> <b>57</b> · <a href="#genre-platformer-and-runner">Платформеры и раннеры</a> <b>38</b> · <a href="#genre-racing-and-driving">Гонки и вождение</a> <b>75</b> · <a href="#genre-flight">Полёты</a> <b>28</b> · <a href="#genre-sports">Спорт</a> <b>15</b> · <a href="#genre-adventure-and-exploration">Приключения и исследование</a> <b>77</b> · <a href="#genre-puzzle">Головоломки</a> <b>23</b> · <a href="#genre-strategy-and-management">Стратегии и управление</a> <b>47</b> · <a href="#genre-sandbox">Песочницы</a> <b>27</b> · <a href="#genre-casual-and-arcade">Казуальные и аркадные игры</a> <b>35</b> · <a href="#genre-interactive-story">Интерактивные истории</a> <b>3</b> · <a href="#genre-simulation-and-visualization">Моделирование и визуализация</a> <b>4</b> · <a href="#genre-other-games">Другие игры</a> <b>75</b></p>
 
 <!-- CATALOG:START -->
 
@@ -1257,6 +1257,8 @@
 
 <tr><td><a href="https://pixelfrog-assets.itch.io/tiny-swords">pyquest</a></td><td><a href="https://github.com/linan7788626">linan7788626</a></td><td>MIT</td><td><a href="https://github.com/linan7788626/pyquest">Код</a></td></tr>
 
+<tr><td><a href="https://kk1zv.github.io/pytania-gra/">pytania-gra</a></td><td><a href="https://github.com/Kk1zv">Kk1zv</a></td><td>MIT</td><td><a href="https://github.com/kk1zv/pytania-gra">Код</a></td></tr>
+
 <tr><td><a href="https://davidaugustat.github.io/rail-jumper-game/">rail-jumper-game</a></td><td><a href="https://github.com/davidaugustat">davidaugustat</a></td><td>MIT</td><td><a href="https://github.com/davidaugustat/rail-jumper-game">Код</a></td></tr>
 
 <tr><td><a href="https://atheeralgh1990.github.io/red-planet-outpost/">red-planet-outpost</a></td><td><a href="https://github.com/AtheerAlgh1990">AtheerAlgh1990</a></td><td>MIT</td><td><a href="https://github.com/atheeralgh1990/red-planet-outpost">Код</a></td></tr>
@@ -1297,4 +1299,4 @@
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.ru.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ru.md">Главная</a> · <a href="README.ru.md">Игры</a> · <a href="../scenes/README.ru.md">Миры и сцены</a> · <a href="../videos/README.ru.md">Видео</a> · <a href="../tools/README.ru.md">Инструменты</a> · <a href="../visualizations/README.ru.md">Визуализации</a> · <a href="../wallpapers/README.ru.md">Обои</a> · <a href="#top">Наверх</a><br>Данные каталога: 2026-11-26</sub></p>
+<p align="center"><a href="../docs/i18n/README.ru.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ru.md">Главная</a> · <a href="README.ru.md">Игры</a> · <a href="../scenes/README.ru.md">Миры и сцены</a> · <a href="../videos/README.ru.md">Видео</a> · <a href="../tools/README.ru.md">Инструменты</a> · <a href="../visualizations/README.ru.md">Визуализации</a> · <a href="../wallpapers/README.ru.md">Обои</a> · <a href="#top">Наверх</a><br>Данные каталога: 2026-11-27</sub></p>
