@@ -94,4 +94,4 @@
 
 ---
 
-<p align="center"><a href="../docs/i18n/README.ko.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ko.md">홈</a> · <a href="../games/README.ko.md">게임</a> · <a href="../scenes/README.ko.md">월드와 장면</a> · <a href="README.ko.md">영상</a> · <a href="../tools/README.ko.md">도구</a> · <a href="../visualizations/README.ko.md">시각화</a> · <a href="../wallpapers/README.ko.md">배경화면</a> · <a href="#top">맨 위로</a><br>목록 데이터: 2026-11-27</sub></p>
+<p align="center"><a href="../docs/i18n/README.ko.md"><img src="../assets/logo.svg" height="32" alt="Terrarium"></a><br><sub><a href="../docs/i18n/README.ko.md">홈</a> · <a href="../games/README.ko.md">게임</a> · <a href="../scenes/README.ko.md">월드와 장면</a> · <a href="README.ko.md">영상</a> · <a href="../tools/README.ko.md">도구</a> · <a href="../visualizations/README.ko.md">시각화</a> · <a href="../wallpapers/README.ko.md">배경화면</a> · <a href="#top">맨 위로</a><br>목록 데이터: 2026-11-28</sub></p>
