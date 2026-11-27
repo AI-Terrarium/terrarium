@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · Beliebt"></picture></a></p>
 
-<p align="center"><sub>Aktualisiert: 2026-11-26 09:23 UTC · Aktualisierung alle 8 Stunden geplant</sub></p>
+<p align="center"><sub>Aktualisiert: 2026-11-27 00:58 UTC · Aktualisierung alle 8 Stunden geplant</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Likes: 17.951 · Kommentare: 505</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://anipixels.itch.io/crisp-icons-free">magictools</a></b><br><sub><a href="https://github.com/ellisonleao/magictools">GitHub · Sterne: 17.875 · Forks: 1.381</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Likes: 15.068 · Kommentare: 860</a></sub></td>
-<td width="25%" valign="top"><b>04 · <a href="https://dsh-market.com">dsh-web</a></b><br><sub><a href="https://github.com/zhu1090093659/dsh-web">GitHub · Sterne: 10.650 · Forks: 657</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Likes: 17.946 · Kommentare: 505</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://anipixels.itch.io/crisp-icons-free">magictools</a></b><br><sub><a href="https://github.com/ellisonleao/magictools">GitHub · Sterne: 17.878 · Forks: 1.381</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Likes: 15.069 · Kommentare: 860</a></sub></td>
+<td width="25%" valign="top"><b>04 · <a href="https://dsh-market.com">dsh-web</a></b><br><sub><a href="https://github.com/zhu1090093659/dsh-web">GitHub · Sterne: 10.656 · Forks: 657</a></sub></td>
 </tr></table>
 
 <details><summary>Quellen und Sortierung</summary>
 
-Sortiert nach öffentlichen Likes, Sternen und ähnlicher Zustimmung. Kommentare und geteilte Beiträge entscheiden bei Gleichstand; Aufrufe werden getrennt angezeigt. Pro Plattform zählt der meistunterstützte Beitrag, jede Quelle erscheint nur einmal. 853 Quellen · 4 Plattformen · 14 nicht erfasst <a href="../../data/showcase.json">Daten ansehen</a> · <a href="../../scripts/SHOWCASE.md">Methode</a>
+Sortiert nach öffentlichen Likes, Sternen und ähnlicher Zustimmung. Kommentare und geteilte Beiträge entscheiden bei Gleichstand; Aufrufe werden getrennt angezeigt. Pro Plattform zählt der meistunterstützte Beitrag, jede Quelle erscheint nur einmal. 852 Quellen · 4 Plattformen · 15 nicht erfasst <a href="../../data/showcase.json">Daten ansehen</a> · <a href="../../scripts/SHOWCASE.md">Methode</a>
 
 </details>
 
