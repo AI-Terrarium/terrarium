@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · 最热"></picture></a></p>
 
-<p align="center"><sub>热度同步：2026-11-27 00:58 UTC · 计划每 8 小时刷新</sub></p>
+<p align="center"><sub>热度同步：2026-11-27 09:37 UTC · 计划每 8 小时刷新</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · 17,946 赞 · 505 评论</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://anipixels.itch.io/crisp-icons-free">magictools</a></b><br><sub><a href="https://github.com/ellisonleao/magictools">GitHub · 17,878 Star · 1,381 Fork</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · 15,069 赞 · 860 评论</a></sub></td>
-<td width="25%" valign="top"><b>04 · <a href="https://dsh-market.com">dsh-web</a></b><br><sub><a href="https://github.com/zhu1090093659/dsh-web">GitHub · 10,656 Star · 657 Fork</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · 17,945 赞 · 505 评论</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://anipixels.itch.io/crisp-icons-free">magictools</a></b><br><sub><a href="https://github.com/ellisonleao/magictools">GitHub · 17,883 Star · 1,382 Fork</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · 15,073 赞 · 860 评论</a></sub></td>
+<td width="25%" valign="top"><b>04 · <a href="https://dsh-market.com">dsh-web</a></b><br><sub><a href="https://github.com/zhu1090093659/dsh-web">GitHub · 10,662 Star · 656 Fork</a></sub></td>
 </tr></table>
 
 <details><summary>榜单来源与排序</summary>
 
-按公开点赞、Star 等支持数排序；评论、转发等仅用于同分排序，播放量单独展示。同一平台取支持数最高的帖子，同一来源不重复展示。 852 个来源 · 4 个平台 · 15 个来源未获取 <a href="../../data/showcase.json">查看数据</a> · <a href="../../scripts/SHOWCASE.md">计算说明</a>
+按公开点赞、Star 等支持数排序；评论、转发等仅用于同分排序，播放量单独展示。同一平台取支持数最高的帖子，同一来源不重复展示。 853 个来源 · 4 个平台 · 15 个来源未获取 <a href="../../data/showcase.json">查看数据</a> · <a href="../../scripts/SHOWCASE.md">计算说明</a>
 
 </details>
 
