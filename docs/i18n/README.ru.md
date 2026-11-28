@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · Популярное"></picture></a></p>
 
-<p align="center"><sub>Обновлено: 2026-11-27 09:37 UTC · Обновление запланировано каждые 8 часов</sub></p>
+<p align="center"><sub>Обновлено: 2026-11-28 00:25 UTC · Обновление запланировано каждые 8 часов</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Нравится: 17 945 · Комментарии: 505</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://anipixels.itch.io/crisp-icons-free">magictools</a></b><br><sub><a href="https://github.com/ellisonleao/magictools">GitHub · Звёзды: 17 883 · Форки: 1 382</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Нравится: 15 073 · Комментарии: 860</a></sub></td>
-<td width="25%" valign="top"><b>04 · <a href="https://dsh-market.com">dsh-web</a></b><br><sub><a href="https://github.com/zhu1090093659/dsh-web">GitHub · Звёзды: 10 662 · Форки: 656</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · Нравится: 17 950 · Комментарии: 505</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://anipixels.itch.io/crisp-icons-free">magictools</a></b><br><sub><a href="https://github.com/ellisonleao/magictools">GitHub · Звёзды: 17 886 · Форки: 1 382</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · Нравится: 15 076 · Комментарии: 860</a></sub></td>
+<td width="25%" valign="top"><b>04 · <a href="https://dsh-market.com">dsh-web</a></b><br><sub><a href="https://github.com/zhu1090093659/dsh-web">GitHub · Звёзды: 10 668 · Форки: 655</a></sub></td>
 </tr></table>
 
 <details><summary>Источники и порядок</summary>
 
-Сортировка по открытым отметкам «Нравится», звёздам и другим откликам поддержки. Комментарии и репосты используются при равенстве, просмотры показаны отдельно. Учитывается самая поддержанная публикация с каждой платформы; источники не дублируются. Источники: 853 · платформы: 4 · без данных: 15 <a href="../../data/showcase.json">Посмотреть данные</a> · <a href="../../scripts/SHOWCASE.md">Методика</a>
+Сортировка по открытым отметкам «Нравится», звёздам и другим откликам поддержки. Комментарии и репосты используются при равенстве, просмотры показаны отдельно. Учитывается самая поддержанная публикация с каждой платформы; источники не дублируются. Источники: 855 · платформы: 4 · без данных: 15 <a href="../../data/showcase.json">Посмотреть данные</a> · <a href="../../scripts/SHOWCASE.md">Методика</a>
 
 </details>
 

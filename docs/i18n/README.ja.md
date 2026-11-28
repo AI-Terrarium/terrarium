@@ -24,20 +24,20 @@
 
 <p align="center"><a href="#showcase-links"><picture><source media="(prefers-reduced-motion: reduce)" srcset="../../assets/showcase.webp"><img src="../../assets/showcase.gif" width="100%" alt="Terrarium · 人気"></picture></a></p>
 
-<p align="center"><sub>人気データ更新：2026-11-27 09:37 UTC · 8 時間ごとに更新予定</sub></p>
+<p align="center"><sub>人気データ更新：2026-11-28 00:25 UTC · 8 時間ごとに更新予定</sub></p>
 
 <a name="showcase-links"></a>
 
 <table><tr>
-<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · 17,945 いいね · 505 コメント</a></sub></td>
-<td width="25%" valign="top"><b>02 · <a href="https://anipixels.itch.io/crisp-icons-free">magictools</a></b><br><sub><a href="https://github.com/ellisonleao/magictools">GitHub · 17,883 Star · 1,382 Fork</a></sub></td>
-<td width="25%" valign="top"><b>03 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · 15,073 いいね · 860 コメント</a></sub></td>
-<td width="25%" valign="top"><b>04 · <a href="https://dsh-market.com">dsh-web</a></b><br><sub><a href="https://github.com/zhu1090093659/dsh-web">GitHub · 10,662 Star · 656 Fork</a></sub></td>
+<td width="25%" valign="top"><b>01 · <a href="https://starrynightrider.com/">Starry Nightrider</a></b><br><sub><a href="https://x.com/i/status/2120284261089673376">X · 17,950 いいね · 505 コメント</a></sub></td>
+<td width="25%" valign="top"><b>02 · <a href="https://anipixels.itch.io/crisp-icons-free">magictools</a></b><br><sub><a href="https://github.com/ellisonleao/magictools">GitHub · 17,886 Star · 1,382 Fork</a></sub></td>
+<td width="25%" valign="top"><b>03 · <a href="https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp">Saltline</a></b><br><sub><a href="https://x.com/i/status/2119925633564463609">X · 15,076 いいね · 860 コメント</a></sub></td>
+<td width="25%" valign="top"><b>04 · <a href="https://dsh-market.com">dsh-web</a></b><br><sub><a href="https://github.com/zhu1090093659/dsh-web">GitHub · 10,668 Star · 655 Fork</a></sub></td>
 </tr></table>
 
 <details><summary>データの出典と並び順</summary>
 
-公開の「いいね」や Star などの支持数で並べ、同数の場合のみコメントや共有数を使います。再生数は別に表示。各プラットフォームで最も支持された投稿を採用し、同じ出典は重複表示しません。 853 件の出典 · 4 プラットフォーム · 15 件は未取得 <a href="../../data/showcase.json">データを見る</a> · <a href="../../scripts/SHOWCASE.md">集計方法</a>
+公開の「いいね」や Star などの支持数で並べ、同数の場合のみコメントや共有数を使います。再生数は別に表示。各プラットフォームで最も支持された投稿を採用し、同じ出典は重複表示しません。 855 件の出典 · 4 プラットフォーム · 15 件は未取得 <a href="../../data/showcase.json">データを見る</a> · <a href="../../scripts/SHOWCASE.md">集計方法</a>
 
 </details>
 
